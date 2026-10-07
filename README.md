@@ -7,7 +7,7 @@ A local web app for researching and sizing actuators:
 - **Selection**: ranks catalog entries against requirements by margin (rating ÷ required). Sizing results can be sent straight to Selection.
 - **Research notes**: per-actuator notes with source links.
 
-The seed catalog (`actuator-research/backend/data/catalog_seed.json`) is **illustrative placeholder data only**; replace it with real datasheet values. Anything you add through the UI is stored in `actuator-research/backend/data/user/`, which is gitignored.
+The shipped catalog lives in `actuator-research/backend/data/catalog/`, one JSON file per manufacturer. Every entry records only published specification numbers, plus the official datasheet or product URL, a source citation, and the retrieval date; `tests/test_catalog_data.py` enforces this. Datasheet conditions vary (for example no-load vs. full-load speed, or stall vs. rated torque), so check each entry's `remarks` before relying on a match. Anything you add through the UI is stored in `actuator-research/backend/data/user/`, which is gitignored.
 
 ## Setup
 
