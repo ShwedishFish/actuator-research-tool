@@ -16,6 +16,15 @@ def test_catalog_filter(client):
     rotary = client.get("/api/actuators", params={"kind": "rotary"}).json()
     assert rotary and all(a["kind"] == "rotary" for a in rotary)
     assert [a["id"] for a in client.get("/api/actuators", params={"q": "nema"}).json()] == ["example-stepper-nema23"]
+    assert [a["id"] for a in client.get("/api/actuators", params={"q": "stepper nema"}).json()] == [
+        "example-stepper-nema23"
+    ]
+
+
+def test_manufacturer_filter(client):
+    client.post("/api/actuators", json={**NEW, "manufacturer": "Acme"})
+    assert {"name": "Acme", "count": 1} in client.get("/api/manufacturers").json()
+    assert [a["id"] for a in client.get("/api/actuators", params={"manufacturer": "Acme"}).json()] == [NEW["id"]]
 
 
 def test_add_and_delete_user_actuator(client):

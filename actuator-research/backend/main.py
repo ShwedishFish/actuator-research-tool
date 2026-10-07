@@ -21,18 +21,31 @@ def healthz() -> dict:
 
 
 @app.get("/api/actuators")
-def list_actuators(kind: Kind | None = None, q: str = "") -> list[Actuator]:
-    needle = q.strip().lower()
+def list_actuators(kind: Kind | None = None, q: str = "", manufacturer: str = "") -> list[Actuator]:
+    terms = q.lower().split()
     rows = store.list_actuators()
     if kind:
         rows = [a for a in rows if a.kind == kind]
-    if needle:
+    if manufacturer:
+        rows = [a for a in rows if a.manufacturer == manufacturer]
+    if terms:
         rows = [
             a
             for a in rows
-            if needle in " ".join([a.id, a.name, a.drive, a.manufacturer, a.part_number, a.actuation]).lower()
+            if all(
+                t in " ".join([a.id, a.name, a.drive, a.manufacturer, a.series, a.part_number, a.actuation]).lower()
+                for t in terms
+            )
         ]
     return rows
+
+
+@app.get("/api/manufacturers")
+def list_manufacturers() -> list[dict]:
+    counts: dict[str, int] = {}
+    for a in store.list_actuators():
+        counts[a.manufacturer or "(unspecified)"] = counts.get(a.manufacturer or "(unspecified)", 0) + 1
+    return [{"name": name, "count": n} for name, n in sorted(counts.items(), key=lambda kv: kv[0].lower())]
 
 
 @app.get("/api/actuators/{actuator_id}")

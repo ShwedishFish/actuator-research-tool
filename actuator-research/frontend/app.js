@@ -56,12 +56,33 @@ function ratingCells(a) {
   return [`${fmt(a.peak_torque_nm)} N·m`, `${fmt(a.continuous_torque_nm)} N·m`, `${fmt(a.max_speed_rpm)} rpm`, "—"];
 }
 
+const CATALOG_RENDER_LIMIT = 300;
+let catalogRequest = 0;
+
+async function loadManufacturers() {
+  const list = await api("/api/manufacturers");
+  const select = $("#catalog-manufacturer");
+  const current = select.value;
+  select.innerHTML =
+    `<option value="">All manufacturers</option>` +
+    list.map((m) => `<option value="${esc(m.name)}">${esc(m.name)} (${m.count})</option>`).join("");
+  select.value = current;
+}
+
 async function loadCatalog() {
   const params = new URLSearchParams();
   if ($("#catalog-kind").value) params.set("kind", $("#catalog-kind").value);
+  if ($("#catalog-manufacturer").value) params.set("manufacturer", $("#catalog-manufacturer").value);
   if ($("#catalog-q").value) params.set("q", $("#catalog-q").value);
+  const request = ++catalogRequest;
   const rows = await api(`/api/actuators?${params}`);
+  if (request !== catalogRequest) return;
+  $("#catalog-count").textContent =
+    rows.length > CATALOG_RENDER_LIMIT
+      ? `${rows.length} matches; showing the first ${CATALOG_RENDER_LIMIT}. Narrow the search or filters to see more.`
+      : `${rows.length} matches`;
   $("#catalog-table tbody").innerHTML = rows
+    .slice(0, CATALOG_RENDER_LIMIT)
     .map(
       (a) => `<tr data-id="${esc(a.id)}">
         <td>${esc(a.name)}</td><td>${esc(a.kind)}</td><td>${esc(a.actuation)}</td><td>${esc(a.drive)}</td>
@@ -75,21 +96,28 @@ async function loadCatalog() {
 
 const SPEC_LABELS = {
   manufacturer: "Manufacturer",
+  series: "Series",
   part_number: "Part number",
   drive: "Drive",
   peak_force_n: "Peak force (N)",
   continuous_force_n: "Continuous force (N)",
+  holding_force_n: "Holding force (N)",
   max_speed_mm_s: "Max speed (mm/s)",
-  stroke_mm: "Stroke (mm)",
+  stroke_mm: "Max stroke (mm)",
+  stroke_options_mm: "Stroke options (mm)",
   peak_torque_nm: "Peak torque (N·m)",
   continuous_torque_nm: "Continuous torque (N·m)",
   max_speed_rpm: "Max speed (rpm)",
   duty_cycle_pct: "Duty cycle (%)",
   mass_kg: "Mass (kg)",
   supply_voltage_v: "Supply voltage (V)",
+  rated_current_a: "Current (A)",
+  feedback: "Feedback",
   ip_rating: "IP rating",
   price_usd: "Price (USD)",
+  remarks: "Remarks",
   source: "Source",
+  retrieved_on: "Retrieved",
 };
 
 async function showDetail(id) {
@@ -98,7 +126,7 @@ async function showDetail(id) {
   $("#detail-title").textContent = a.name;
   const specs = Object.entries(SPEC_LABELS)
     .filter(([k]) => a[k] !== null && a[k] !== "")
-    .map(([k, label]) => `<dt>${label}</dt><dd>${esc(a[k])}</dd>`);
+    .map(([k, label]) => `<dt>${label}</dt><dd>${esc(Array.isArray(a[k]) ? a[k].join(", ") : a[k])}</dd>`);
   if (a.datasheet_url) {
     specs.push(`<dt>Datasheet</dt><dd><a href="${esc(a.datasheet_url)}" target="_blank" rel="noopener">${esc(a.datasheet_url)}</a></dd>`);
   }
@@ -127,6 +155,7 @@ $("#catalog-table tbody").addEventListener("click", (e) => {
 });
 $("#catalog-q").addEventListener("input", loadCatalog);
 $("#catalog-kind").addEventListener("change", loadCatalog);
+$("#catalog-manufacturer").addEventListener("change", loadCatalog);
 $("#add-actuator-toggle").addEventListener("click", () => $("#add-actuator").classList.toggle("hidden"));
 
 $("#add-actuator").addEventListener("submit", async (e) => {
@@ -271,11 +300,12 @@ $("#select-form").addEventListener("submit", async (e) => {
   for (const el of $$(linear ? ".rotary-only input" : ".linear-only input")) delete body[el.name];
   try {
     const r = await api("/api/select", { method: "POST", body });
-    const table = (rows) =>
+    const table = (rows, limit) =>
       `<table><thead><tr><th>Name</th><th>Actuation</th><th>Min margin</th><th>Margins</th><th>Issues</th></tr></thead>
-       <tbody>${rows.map(renderCandidate).join("") || "<tr><td colspan='5'>None</td></tr>"}</tbody></table>`;
-    $("#select-result").innerHTML = `<h3>Feasible (${r.feasible.length})</h3>${table(r.feasible)}
-      <h3>Rejected (${r.rejected.length})</h3>${table(r.rejected)}`;
+       <tbody>${rows.slice(0, limit).map(renderCandidate).join("") || "<tr><td colspan='5'>None</td></tr>"}</tbody></table>
+       ${rows.length > limit ? `<p class="note-meta">Showing ${limit} of ${rows.length}.</p>` : ""}`;
+    $("#select-result").innerHTML = `<h3>Feasible (${r.feasible.length})</h3>${table(r.feasible, 100)}
+      <h3>Rejected, closest first (${r.rejected.length})</h3>${table(r.rejected, 25)}`;
   } catch (err) {
     $("#select-result").innerHTML = `<p class="error">${esc(err.message)}</p>`;
   }
@@ -288,4 +318,5 @@ $("#select-result").addEventListener("click", (e) => {
   showDetail(row.dataset.id);
 });
 
+loadManufacturers();
 loadCatalog();

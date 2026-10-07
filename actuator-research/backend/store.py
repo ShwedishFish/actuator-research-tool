@@ -1,6 +1,7 @@
-"""JSON-file persistence for user-added actuators and research notes.
+"""JSON-file persistence for the catalog, user-added actuators and research notes.
 
-Seed catalog entries ship in ``backend/data/catalog_seed.json``; anything the user adds goes to
+The shipped catalog is every ``*.json`` file in ``$ACTUATOR_CATALOG_DIR`` (default
+``backend/data/catalog``), one file per manufacturer. Anything the user adds goes to
 ``$ACTUATOR_DATA_DIR`` (default ``backend/data/user``), which is gitignored.
 """
 
@@ -11,12 +12,16 @@ import os
 import threading
 import uuid
 from datetime import UTC, datetime
+from functools import lru_cache
 from pathlib import Path
 
 from backend.schemas import Actuator, Note, NoteIn
 
-_SEED_PATH = Path(__file__).parent / "data" / "catalog_seed.json"
 _lock = threading.Lock()
+
+
+def catalog_dir() -> Path:
+    return Path(os.environ.get("ACTUATOR_CATALOG_DIR", Path(__file__).parent / "data" / "catalog"))
 
 
 def data_dir() -> Path:
@@ -46,7 +51,16 @@ def _notes_path() -> Path:
 
 
 def load_seed() -> list[Actuator]:
-    return [Actuator(**row) for row in json.loads(_SEED_PATH.read_text(encoding="utf-8"))]
+    paths = sorted(catalog_dir().glob("*.json"))
+    return list(_load_catalog(tuple((str(p), p.stat().st_mtime_ns) for p in paths)))
+
+
+@lru_cache(maxsize=4)
+def _load_catalog(files: tuple[tuple[str, int], ...]) -> tuple[Actuator, ...]:
+    rows: list[Actuator] = []
+    for path, _mtime in files:
+        rows.extend(Actuator(**row) for row in json.loads(Path(path).read_text(encoding="utf-8")))
+    return tuple(rows)
 
 
 def list_actuators() -> list[Actuator]:

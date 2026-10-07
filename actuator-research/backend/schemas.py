@@ -9,22 +9,29 @@ Actuation = Literal["electric", "pneumatic", "hydraulic"]
 
 
 class Actuator(BaseModel):
-    """One catalog entry. Linear ratings use N and mm/s; rotary ratings use N·m and rpm."""
+    """One catalog entry. Linear ratings use N and mm/s; rotary ratings use N·m and rpm.
+
+    ``stroke_mm`` is the longest standard stroke; ``stroke_options_mm`` lists the orderable strokes
+    when the manufacturer publishes a discrete set.
+    """
 
     model_config = ConfigDict(extra="forbid")
 
-    id: str = Field(min_length=1, max_length=80, pattern=r"^[a-z0-9][a-z0-9-]*$")
+    id: str = Field(min_length=1, max_length=100, pattern=r"^[a-z0-9][a-z0-9-]*$")
     name: str = Field(min_length=1, max_length=200)
     kind: Kind
     actuation: Actuation
     drive: str = Field(default="", max_length=80)
     manufacturer: str = Field(default="", max_length=120)
+    series: str = Field(default="", max_length=120)
     part_number: str = Field(default="", max_length=120)
 
     peak_force_n: float | None = Field(default=None, gt=0)
     continuous_force_n: float | None = Field(default=None, gt=0)
+    holding_force_n: float | None = Field(default=None, gt=0)
     max_speed_mm_s: float | None = Field(default=None, gt=0)
     stroke_mm: float | None = Field(default=None, gt=0)
+    stroke_options_mm: list[float] | None = None
 
     peak_torque_nm: float | None = Field(default=None, gt=0)
     continuous_torque_nm: float | None = Field(default=None, gt=0)
@@ -33,10 +40,14 @@ class Actuator(BaseModel):
     duty_cycle_pct: float | None = Field(default=None, gt=0, le=100)
     mass_kg: float | None = Field(default=None, gt=0)
     supply_voltage_v: float | None = Field(default=None, gt=0)
+    rated_current_a: float | None = Field(default=None, gt=0)
+    feedback: str = Field(default="", max_length=120)
     ip_rating: str = Field(default="", max_length=10)
     price_usd: float | None = Field(default=None, ge=0)
     datasheet_url: str = Field(default="", max_length=500)
     source: str = Field(default="", max_length=300)
+    retrieved_on: str = Field(default="", max_length=10)
+    remarks: str = Field(default="", max_length=500)
     user_added: bool = False
 
     @model_validator(mode="after")
