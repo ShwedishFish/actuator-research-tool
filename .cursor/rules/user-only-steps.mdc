@@ -1,0 +1,15 @@
+---
+description: Prefer clear user-only steps; agent does repo work without delegating unnecessarily.
+alwaysApply: true
+---
+
+# User-only steps vs agent work
+
+When the user asks for setup, verification, or fixes that mix human actions (accounts, OS settings, local secrets) with code:
+
+1. **One step at a time (default):** Give **exactly one** user-facing action per message — copy-pasteable command or precise UI clicks — then **stop**. Title it **Step N** (increment across the thread). Before Step N+1, wait for an ack: **`done`**, **`next`**, or a **single character** (`.`, `+`, `n`, `d`, etc.) meaning “continue”; for failures they paste output. (Chat has no Done/Next button — keep acks minimal.) Only send a multi-step list if they explicitly ask for “all steps” or “checklist.”
+2. **What counts as user-only:** browser login, API keys, macOS Settings, Terminal on their machine when the agent cannot run it, hardware/sleep.
+3. **Agent does repo work** without delegating unnecessarily (edit, test, commit here) unless blocked (no credentials, no access).
+4. End with a short **In-repo:** line (what you changed or “nothing this turn”).
+
+Keep instructions literal (paths, exact button names); avoid parallel branches in one message unless the user asked for options.

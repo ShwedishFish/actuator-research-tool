@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Actuator Research: Dev Server",
+      "type": "shell",
+      "command": "bash",
+      "args": ["scripts/dev.sh"],
+      "options": { "cwd": "${workspaceFolder}/actuator-research" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "focus": true },
+      "group": "none"
+    },
+    {
+      "label": "Actuator Research: Quality gate (ruff + node --check + pytest)",
+      "type": "shell",
+      "command": "bash",
+      "args": ["scripts/check.sh"],
+      "options": { "cwd": "${workspaceFolder}/actuator-research" },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "focus": true },
+      "group": { "kind": "test", "isDefault": true }
+    },
+    {
+      "label": "Actuator Research: Open in Cursor Browser",
+      "type": "shell",
+      "command": "echo",
+      "args": ["${input:actuatorEmbeddedBrowser}"],
+      "problemMatcher": [],
+      "presentation": { "reveal": "silent", "panel": "shared", "echo": false },
+      "group": "none"
+    }
+  ],
+  "inputs": [
+    {
+      "id": "actuatorEmbeddedBrowser",
+      "type": "command",
+      "command": "simpleBrowser.api.open",
+      "args": ["http://127.0.0.1:8001/"]
+    }
+  ]
+}

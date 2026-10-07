@@ -1,0 +1,31 @@
+# Tooling configuration for the Actuator Research Tool. Not an installable package; the app runs
+# in place with uvicorn. Runtime dependencies live in requirements.txt.
+
+[project]
+name = "actuator-research"
+version = "0.0.0"
+description = "Actuator catalog, sizing, selection and research notes (FastAPI + vanilla JS)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q -ra"
+filterwarnings = [
+    "error::DeprecationWarning",
+    "ignore:Using .httpx. with .starlette.testclient. is deprecated",
+    "ignore:.*BlockingPortal alias is deprecated.*:DeprecationWarning",
+]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+extend-exclude = [".venv"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "B", "UP", "SIM", "RUF100"]
+ignore = ["E741", "SIM108"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["backend"]
+combine-as-imports = true

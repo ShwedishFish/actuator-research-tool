@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Actuator Research Tool</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Actuator Research Tool</h1>
+    <nav>
+      <button class="tab active" data-tab="catalog">Catalog</button>
+      <button class="tab" data-tab="sizing">Sizing</button>
+      <button class="tab" data-tab="select">Selection</button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="catalog" class="panel active">
+      <div class="toolbar">
+        <input id="catalog-q" type="search" placeholder="Search name, drive, manufacturer…">
+        <select id="catalog-kind">
+          <option value="">All kinds</option>
+          <option value="linear">Linear</option>
+          <option value="rotary">Rotary</option>
+        </select>
+        <button id="add-actuator-toggle">Add actuator</button>
+      </div>
+
+      <form id="add-actuator" class="card hidden">
+        <h3>Add actuator</h3>
+        <div class="grid">
+          <label>ID <input name="id" required pattern="[a-z0-9][a-z0-9\-]*" placeholder="my-actuator-1"></label>
+          <label>Name <input name="name" required></label>
+          <label>Kind <select name="kind"><option>linear</option><option>rotary</option></select></label>
+          <label>Actuation <select name="actuation"><option>electric</option><option>pneumatic</option><option>hydraulic</option></select></label>
+          <label>Drive <input name="drive" placeholder="ball screw, belt, direct…"></label>
+          <label>Manufacturer <input name="manufacturer"></label>
+          <label>Part number <input name="part_number"></label>
+          <label>Peak force (N) <input name="peak_force_n" type="number" step="any"></label>
+          <label>Continuous force (N) <input name="continuous_force_n" type="number" step="any"></label>
+          <label>Max speed (mm/s) <input name="max_speed_mm_s" type="number" step="any"></label>
+          <label>Stroke (mm) <input name="stroke_mm" type="number" step="any"></label>
+          <label>Peak torque (N·m) <input name="peak_torque_nm" type="number" step="any"></label>
+          <label>Continuous torque (N·m) <input name="continuous_torque_nm" type="number" step="any"></label>
+          <label>Max speed (rpm) <input name="max_speed_rpm" type="number" step="any"></label>
+          <label>Duty cycle (%) <input name="duty_cycle_pct" type="number" step="any"></label>
+          <label>Mass (kg) <input name="mass_kg" type="number" step="any"></label>
+          <label>Supply voltage (V) <input name="supply_voltage_v" type="number" step="any"></label>
+          <label>Price (USD) <input name="price_usd" type="number" step="any"></label>
+          <label>Datasheet URL <input name="datasheet_url" type="url"></label>
+          <label>Source <input name="source" placeholder="Datasheet rev, page…"></label>
+        </div>
+        <button type="submit">Save</button>
+        <p class="error" id="add-actuator-error"></p>
+      </form>
+
+      <table id="catalog-table">
+        <thead>
+          <tr>
+            <th>Name</th><th>Kind</th><th>Actuation</th><th>Drive</th>
+            <th>Peak</th><th>Continuous</th><th>Speed</th><th>Stroke</th><th>Duty</th><th></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <div id="detail" class="card hidden">
+        <h3 id="detail-title"></h3>
+        <dl id="detail-specs"></dl>
+        <h4>Research notes</h4>
+        <ul id="notes-list"></ul>
+        <form id="note-form">
+          <textarea name="text" required placeholder="Findings, quotes, test results…"></textarea>
+          <input name="source_url" type="url" placeholder="Source URL (optional)">
+          <button type="submit">Add note</button>
+        </form>
+        <button id="delete-actuator" class="danger hidden">Delete actuator</button>
+      </div>
+    </section>
+
+    <section id="sizing" class="panel">
+      <div class="toolbar">
+        <label><input type="radio" name="sizing-kind" value="linear" checked> Linear</label>
+        <label><input type="radio" name="sizing-kind" value="rotary"> Rotary</label>
+      </div>
+
+      <form id="sizing-linear" class="card">
+        <div class="grid">
+          <label>Payload (kg) <input name="payload_kg" type="number" step="any" value="10" required></label>
+          <label>Stroke (mm) <input name="stroke_mm" type="number" step="any" value="200" required></label>
+          <label>Move time (s) <input name="move_time_s" type="number" step="any" value="1" required></label>
+          <label>Accel fraction (0–0.5) <input name="accel_fraction" type="number" step="any" value="0.333"></label>
+          <label>Incline (deg, 90 = vertical up) <input name="incline_deg" type="number" step="any" value="0"></label>
+          <label>Friction coefficient <input name="friction_coeff" type="number" step="any" value="0.1"></label>
+          <label>External force (N) <input name="external_force_n" type="number" step="any" value="0"></label>
+          <label>Dwell time (s) <input name="dwell_time_s" type="number" step="any" value="1"></label>
+          <label>Safety factor <input name="safety_factor" type="number" step="any" value="1.5"></label>
+          <label>Screw lead (mm, optional) <input name="screw_lead_mm" type="number" step="any"></label>
+          <label>Screw efficiency <input name="screw_efficiency" type="number" step="any" value="0.9"></label>
+        </div>
+        <button type="submit">Size</button>
+      </form>
+
+      <form id="sizing-rotary" class="card hidden">
+        <div class="grid">
+          <label>Load inertia (kg·m²) <input name="load_inertia_kgm2" type="number" step="any" value="0.01" required></label>
+          <label>Move angle (deg) <input name="move_angle_deg" type="number" step="any" value="90" required></label>
+          <label>Move time (s) <input name="move_time_s" type="number" step="any" value="0.5" required></label>
+          <label>Accel fraction (0–0.5) <input name="accel_fraction" type="number" step="any" value="0.333"></label>
+          <label>Load torque (N·m) <input name="load_torque_nm" type="number" step="any" value="0"></label>
+          <label>Dwell time (s) <input name="dwell_time_s" type="number" step="any" value="0.5"></label>
+          <label>Gear ratio (≥ 1) <input name="gear_ratio" type="number" step="any" value="1"></label>
+          <label>Gear efficiency <input name="gear_efficiency" type="number" step="any" value="1"></label>
+          <label>Motor inertia (kg·m², optional) <input name="motor_inertia_kgm2" type="number" step="any" value="0"></label>
+          <label>Safety factor <input name="safety_factor" type="number" step="any" value="1.5"></label>
+        </div>
+        <button type="submit">Size</button>
+      </form>
+
+      <div id="sizing-result" class="card hidden"></div>
+    </section>
+
+    <section id="select" class="panel">
+      <form id="select-form" class="card">
+        <div class="grid">
+          <label>Kind <select name="kind"><option>linear</option><option>rotary</option></select></label>
+          <label>Actuation
+            <select name="actuation"><option value="">Any</option><option>electric</option><option>pneumatic</option><option>hydraulic</option></select>
+          </label>
+          <label class="linear-only">Peak force (N) <input name="peak_force_n" type="number" step="any"></label>
+          <label class="linear-only">Continuous force (N) <input name="continuous_force_n" type="number" step="any"></label>
+          <label class="linear-only">Speed (mm/s) <input name="speed_mm_s" type="number" step="any"></label>
+          <label class="linear-only">Stroke (mm) <input name="stroke_mm" type="number" step="any"></label>
+          <label class="rotary-only hidden">Peak torque (N·m) <input name="peak_torque_nm" type="number" step="any"></label>
+          <label class="rotary-only hidden">Continuous torque (N·m) <input name="continuous_torque_nm" type="number" step="any"></label>
+          <label class="rotary-only hidden">Speed (rpm) <input name="speed_rpm" type="number" step="any"></label>
+          <label>Duty cycle (%) <input name="duty_cycle_pct" type="number" step="any"></label>
+        </div>
+        <button type="submit">Find actuators</button>
+      </form>
+      <div id="select-result"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+---
+description: Run commands and change the repo here; do not ask the user to do work the agent can perform.
+alwaysApply: true
+---
+
+# Agent-first execution
+
+- Execute terminal commands, read and edit project files, run tests and linters, and diagnose failures yourself whenever this environment allows it. Do not instruct the user to run a command, apply a patch, or verify something in the repo if you can do it.
+- Ask the user only for actions that are genuinely outside agent reach: secrets or credentials you were not given, browser or SSO flows you cannot complete, org or account settings without access, hardware or local-only constraints they must satisfy, or product or policy decisions only they can make.
+- When blocked, name the specific blocker and what is needed; avoid generic “please run X” delegation.
