@@ -17,7 +17,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xl330-m077/",
     "source": "ROBOTIS e-Manual, XL330-M077 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.215 N·m at 5 V, 1.47 A stall current; max_speed is no-load at 5 V. Gear ratio 77.5:1. Input 3.7-6.0 V. Other: 0.18 N·m/1.11 A/278 rpm @ 3.7 V; 0.228 N·m/1.74 A/456 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL330-M077-T."
+    "remarks": "Stall 0.215 N·m at 5 V, 1.47 A stall current; max_speed is no-load at 5 V. Gear ratio 77.5:1. Input 3.7-6.0 V. Other: 0.18 N·m/1.11 A/278 rpm @ 3.7 V; 0.228 N·m/1.74 A/456 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL330-M077-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xl330-m288",
@@ -37,7 +39,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xl330-m288/",
     "source": "ROBOTIS e-Manual, XL330-M288 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.52 N·m at 5 V, 1.47 A stall current; max_speed is no-load at 5 V. Gear ratio 288.4:1. Input 3.7-6.0 V. Other: 0.42 N·m/1.11 A/76 rpm @ 3.7 V; 0.6 N·m/1.74 A/123 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL330-M288-T."
+    "remarks": "Stall 0.52 N·m at 5 V, 1.47 A stall current; max_speed is no-load at 5 V. Gear ratio 288.4:1. Input 3.7-6.0 V. Other: 0.42 N·m/1.11 A/76 rpm @ 3.7 V; 0.6 N·m/1.74 A/123 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL330-M288-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xl430-w250",
@@ -57,7 +61,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xl430-w250/",
     "source": "ROBOTIS e-Manual, XL430-W250 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 1.4 N·m at 11.1 V, 1.3 A stall current; max_speed is no-load at 11.1 V. Gear ratio 258.5:1. Input 6.5-12.0 V. Other: 1 N·m/1 A/47 rpm @ 9 V; 1.5 N·m/1.4 A/61 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL430-W250-T."
+    "remarks": "Stall 1.4 N·m at 11.1 V, 1.3 A stall current; max_speed is no-load at 11.1 V. Gear ratio 258.5:1. Input 6.5-12.0 V. Other: 1 N·m/1 A/47 rpm @ 9 V; 1.5 N·m/1.4 A/61 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL430-W250-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-2xl430-w250",
@@ -77,7 +83,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/2xl430-w250/",
     "source": "ROBOTIS e-Manual, 2XL430-W250 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Dual-axis unit (2 outputs, mass is whole unit). Stall 1.4 N·m at 11.1 V, 1.3 A stall current; max_speed is no-load at 11.1 V. Gear ratio 257.4:1. Input 6.5-12.0 V. Other: 1 N·m/1 A/47 rpm @ 9 V; 1.5 N·m/1.4 A/61 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for 2XL430-W250-T."
+    "remarks": "Dual-axis unit (2 outputs, mass is whole unit). Stall 1.4 N·m at 11.1 V, 1.3 A stall current; max_speed is no-load at 11.1 V. Gear ratio 257.4:1. Input 6.5-12.0 V. Other: 1 N·m/1 A/47 rpm @ 9 V; 1.5 N·m/1.4 A/61 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for 2XL430-W250-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xl320",
@@ -97,7 +105,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xl320/",
     "source": "ROBOTIS e-Manual, XL320 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.39 N·m at 7.4 V, 1.1 A stall current; max_speed is no-load at 7.4 V. Gear ratio 238:1. Input 6-8.4 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL-320."
+    "remarks": "Stall 0.39 N·m at 7.4 V, 1.1 A stall current; max_speed is no-load at 7.4 V. Gear ratio 238:1. Input 6-8.4 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL-320.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc330-t288",
@@ -117,7 +127,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc330-t288/",
     "source": "ROBOTIS e-Manual, XC330-T288 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.92 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 288.35:1. Input 6.5-12.0 V. Other: 0.76 N·m/0.61 A/52 rpm @ 9 V; 1 N·m/0.88 A/71 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-T288-T."
+    "remarks": "Stall 0.92 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 288.35:1. Input 6.5-12.0 V. Other: 0.76 N·m/0.61 A/52 rpm @ 9 V; 1 N·m/0.88 A/71 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-T288-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc330-t181",
@@ -137,7 +149,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc330-t181/",
     "source": "ROBOTIS e-Manual, XC330-T181 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.76 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 180.62:1. Input 6.5-12.0 V. Other: 0.65 N·m/0.61 A/83 rpm @ 9 V; 0.8 N·m/0.88 A/113 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-T181-T."
+    "remarks": "Stall 0.76 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 180.62:1. Input 6.5-12.0 V. Other: 0.65 N·m/0.61 A/83 rpm @ 9 V; 0.8 N·m/0.88 A/113 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-T181-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc330-m181",
@@ -157,7 +171,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc330-m181/",
     "source": "ROBOTIS e-Manual, XC330-M181 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.6 N·m at 5 V, 1.8 A stall current; max_speed is no-load at 5 V. Gear ratio 180.62:1. Input 3.7-6.0 V. Other: 0.52 N·m/1.34 A/95 rpm @ 3.7 V; 0.66 N·m/2.15 A/155 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-M181-T."
+    "remarks": "Stall 0.6 N·m at 5 V, 1.8 A stall current; max_speed is no-load at 5 V. Gear ratio 180.62:1. Input 3.7-6.0 V. Other: 0.52 N·m/1.34 A/95 rpm @ 3.7 V; 0.66 N·m/2.15 A/155 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-M181-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc330-m288",
@@ -177,7 +193,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc330-m288/",
     "source": "ROBOTIS e-Manual, XC330-M288 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.93 N·m at 5 V, 1.8 A stall current; max_speed is no-load at 5 V. Gear ratio 288.35:1. Input 3.7-6.0 V. Other: 0.69 N·m/1.34 A/59 rpm @ 3.7 V; 1.1 N·m/2.15 A/97 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-M288-T."
+    "remarks": "Stall 0.93 N·m at 5 V, 1.8 A stall current; max_speed is no-load at 5 V. Gear ratio 288.35:1. Input 3.7-6.0 V. Other: 0.69 N·m/1.34 A/59 rpm @ 3.7 V; 1.1 N·m/2.15 A/97 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-M288-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc430-w150",
@@ -197,7 +215,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc430-w150/",
     "source": "ROBOTIS e-Manual, XC430-W150 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 1.6 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 159.59:1. Input 6.5-14.8 V. Other: 1.2 N·m/1.1 A/80 rpm @ 9 V; 1.4 N·m/1.3 A/99 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-W150-T."
+    "remarks": "Stall 1.6 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 159.59:1. Input 6.5-14.8 V. Other: 1.2 N·m/1.1 A/80 rpm @ 9 V; 1.4 N·m/1.3 A/99 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-W150-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc430-w240",
@@ -217,7 +237,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc430-w240/",
     "source": "ROBOTIS e-Manual, XC430-W240 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 1.9 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 245.22:1. Input 6.5-14.8 V. Other: 1.4 N·m/1.1 A/52 rpm @ 9 V; 1.7 N·m/1.3 A/65 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-W240-T."
+    "remarks": "Stall 1.9 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 245.22:1. Input 6.5-14.8 V. Other: 1.4 N·m/1.1 A/52 rpm @ 9 V; 1.7 N·m/1.3 A/65 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-W240-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc430-t150bb",
@@ -237,7 +259,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc430-t150bb/",
     "source": "ROBOTIS e-Manual, XC430-T150BB specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 1.6 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 159.59:1. Input 6.5-14.8 V. Other: 1.2 N·m/1.1 A/80 rpm @ 9 V; 1.4 N·m/1.3 A/99 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-T150BB-T."
+    "remarks": "Stall 1.6 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 159.59:1. Input 6.5-14.8 V. Other: 1.2 N·m/1.1 A/80 rpm @ 9 V; 1.4 N·m/1.3 A/99 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-T150BB-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xc430-t240bb",
@@ -257,7 +281,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xc430-t240bb/",
     "source": "ROBOTIS e-Manual, XC430-T240BB specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 1.9 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 245.22:1. Input 6.5-14.8 V. Other: 1.4 N·m/1.1 A/52 rpm @ 9 V; 1.7 N·m/1.3 A/65 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-T240BB-T."
+    "remarks": "Stall 1.9 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 245.22:1. Input 6.5-14.8 V. Other: 1.4 N·m/1.1 A/52 rpm @ 9 V; 1.7 N·m/1.3 A/65 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-T240BB-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-2xc430-w250",
@@ -277,7 +303,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/2xc430-w250/",
     "source": "ROBOTIS e-Manual, 2XC430-W250 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Dual-axis unit (2 outputs, mass is whole unit). Stall 1.8 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 257.4:1. Input 6.5-14.8 V. Other: 1.3 N·m/1.1 A/48 rpm @ 9 V; 1.6 N·m/1.3 A/59 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for 2XC430-W250-T."
+    "remarks": "Dual-axis unit (2 outputs, mass is whole unit). Stall 1.8 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 257.4:1. Input 6.5-14.8 V. Other: 1.3 N·m/1.1 A/48 rpm @ 9 V; 1.6 N·m/1.3 A/59 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for 2XC430-W250-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xm430-w210",
@@ -297,7 +325,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xm430-w210/",
     "source": "ROBOTIS e-Manual, XM430-W210 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 3 N·m at 12 V, 2.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.7 N·m/2.1 A/70 rpm @ 11.1 V; 3.7 N·m/2.7 A/95 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM430-W210-T."
+    "remarks": "Stall 3 N·m at 12 V, 2.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.7 N·m/2.1 A/70 rpm @ 11.1 V; 3.7 N·m/2.7 A/95 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM430-W210-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xm430-w350",
@@ -317,7 +347,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xm430-w350/",
     "source": "ROBOTIS e-Manual, XM430-W350 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 4.1 N·m at 12 V, 2.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.8 N·m/2.1 A/43 rpm @ 11.1 V; 4.8 N·m/2.7 A/57 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM430-W350-T."
+    "remarks": "Stall 4.1 N·m at 12 V, 2.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.8 N·m/2.1 A/43 rpm @ 11.1 V; 4.8 N·m/2.7 A/57 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM430-W350-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xm335-t323",
@@ -337,7 +369,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xm335-t323/",
     "source": "ROBOTIS e-Manual, XM335-T323 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 1.03 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 323.04:1. Input 6.5-12.0 V. Other: 0.85 N·m/0.61 A/43 rpm @ 9 V; 1.12 N·m/0.88 A/57 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM335-T323-T."
+    "remarks": "Stall 1.03 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 323.04:1. Input 6.5-12.0 V. Other: 0.85 N·m/0.61 A/43 rpm @ 9 V; 1.12 N·m/0.88 A/57 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM335-T323-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xm540-w150",
@@ -357,7 +391,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xm540-w150/",
     "source": "ROBOTIS e-Manual, XM540-W150 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 7.3 N·m at 12 V, 4.4 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.9 N·m/4.2 A/50 rpm @ 11.1 V; 8.9 N·m/5.5 A/66 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM540-W150-T."
+    "remarks": "Stall 7.3 N·m at 12 V, 4.4 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.9 N·m/4.2 A/50 rpm @ 11.1 V; 8.9 N·m/5.5 A/66 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM540-W150-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xm540-w270",
@@ -377,7 +413,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xm540-w270/",
     "source": "ROBOTIS e-Manual, XM540-W270 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 10.6 N·m at 12 V, 4.4 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 10 N·m/4.2 A/28 rpm @ 11.1 V; 12.9 N·m/5.5 A/37 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM540-W270-T."
+    "remarks": "Stall 10.6 N·m at 12 V, 4.4 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 10 N·m/4.2 A/28 rpm @ 11.1 V; 12.9 N·m/5.5 A/37 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM540-W270-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh430-w210",
@@ -397,7 +435,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh430-w210/",
     "source": "ROBOTIS e-Manual, XH430-W210 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 2.5 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.2 N·m/1.2 A/46 rpm @ 11.1 V; 3.1 N·m/1.5 A/62 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-W210-T."
+    "remarks": "Stall 2.5 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.2 N·m/1.2 A/46 rpm @ 11.1 V; 3.1 N·m/1.5 A/62 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-W210-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh430-w350",
@@ -417,7 +457,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh430-w350/",
     "source": "ROBOTIS e-Manual, XH430-W350 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 3.4 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.1 N·m/1.2 A/27 rpm @ 11.1 V; 4.2 N·m/1.5 A/37 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-W350-T."
+    "remarks": "Stall 3.4 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.1 N·m/1.2 A/27 rpm @ 11.1 V; 4.2 N·m/1.5 A/37 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-W350-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh430-v210",
@@ -437,7 +479,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh430-v210/",
     "source": "ROBOTIS e-Manual, XH430-V210 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 2.6 N·m at 24 V, 0.7 A stall current; max_speed is no-load at 24 V. Gear ratio 212.6:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-V210-R."
+    "remarks": "Stall 2.6 N·m at 24 V, 0.7 A stall current; max_speed is no-load at 24 V. Gear ratio 212.6:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-V210-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh430-v350",
@@ -457,7 +501,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh430-v350/",
     "source": "ROBOTIS e-Manual, XH430-V350 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 3.3 N·m at 24 V, 0.7 A stall current; max_speed is no-load at 24 V. Gear ratio 353.5:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-V350-R."
+    "remarks": "Stall 3.3 N·m at 24 V, 0.7 A stall current; max_speed is no-load at 24 V. Gear ratio 353.5:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-V350-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh540-w150",
@@ -477,7 +523,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh540-w150/",
     "source": "ROBOTIS e-Manual, XH540-W150 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 7.1 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.6 N·m/4.5 A/66 rpm @ 11.1 V; 8.5 N·m/5.9 A/86 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-W150-T."
+    "remarks": "Stall 7.1 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.6 N·m/4.5 A/66 rpm @ 11.1 V; 8.5 N·m/5.9 A/86 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-W150-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh540-w270",
@@ -497,7 +545,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh540-w270/",
     "source": "ROBOTIS e-Manual, XH540-W270 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 9.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 9.2 N·m/4.5 A/36 rpm @ 11.1 V; 11.7 N·m/5.9 A/46 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-W270-T."
+    "remarks": "Stall 9.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 9.2 N·m/4.5 A/36 rpm @ 11.1 V; 11.7 N·m/5.9 A/46 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-W270-T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh540-v150",
@@ -517,7 +567,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh540-v150/",
     "source": "ROBOTIS e-Manual, XH540-V150 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 6.4 N·m at 24 V, 2.4 A stall current; max_speed is no-load at 24 V. Gear ratio 152.3:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-V150-R."
+    "remarks": "Stall 6.4 N·m at 24 V, 2.4 A stall current; max_speed is no-load at 24 V. Gear ratio 152.3:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-V150-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xh540-v270",
@@ -537,7 +589,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xh540-v270/",
     "source": "ROBOTIS e-Manual, XH540-V270 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 9.2 N·m at 24 V, 2.4 A stall current; max_speed is no-load at 24 V. Gear ratio 272.5:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-V270-R."
+    "remarks": "Stall 9.2 N·m at 24 V, 2.4 A stall current; max_speed is no-load at 24 V. Gear ratio 272.5:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-V270-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xd430-t210",
@@ -557,7 +611,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xd430-t210/",
     "source": "ROBOTIS e-Manual, XD430-T210 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 2.5 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.2 N·m/1.2 A/46 rpm @ 11.1 V; 3.1 N·m/1.5 A/62 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD430-T210-R."
+    "remarks": "Stall 2.5 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.2 N·m/1.2 A/46 rpm @ 11.1 V; 3.1 N·m/1.5 A/62 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD430-T210-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xd430-t350",
@@ -577,7 +633,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xd430-t350/",
     "source": "ROBOTIS e-Manual, XD430-T350 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 3.4 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.1 N·m/1.2 A/27 rpm @ 11.1 V; 4.2 N·m/1.5 A/37 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD430-T350-R."
+    "remarks": "Stall 3.4 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.1 N·m/1.2 A/27 rpm @ 11.1 V; 4.2 N·m/1.5 A/37 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD430-T350-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xd540-t150",
@@ -597,7 +655,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xd540-t150/",
     "source": "ROBOTIS e-Manual, XD540-T150 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 7.1 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.6 N·m/4.5 A/66 rpm @ 11.1 V; 8.5 N·m/5.9 A/86 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD540-T150-R."
+    "remarks": "Stall 7.1 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.6 N·m/4.5 A/66 rpm @ 11.1 V; 8.5 N·m/5.9 A/86 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD540-T150-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xd540-t270",
@@ -617,7 +677,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xd540-t270/",
     "source": "ROBOTIS e-Manual, XD540-T270 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 9.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 9.2 N·m/4.5 A/36 rpm @ 11.1 V; 11.7 N·m/5.9 A/46 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD540-T270-R."
+    "remarks": "Stall 9.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 9.2 N·m/4.5 A/36 rpm @ 11.1 V; 11.7 N·m/5.9 A/46 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD540-T270-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xw430-t200",
@@ -638,7 +700,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xw430-t200/",
     "source": "ROBOTIS e-Manual, XW430-T200 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 2.3 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 200.1:1. Input 10.0-14.8 V. Other: 2.1 N·m/1.2 A/49 rpm @ 11.1 V; 2.7 N·m/1.5 A/66 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW430-T200-R."
+    "remarks": "Stall 2.3 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 200.1:1. Input 10.0-14.8 V. Other: 2.1 N·m/1.2 A/49 rpm @ 11.1 V; 2.7 N·m/1.5 A/66 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW430-T200-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xw430-t333",
@@ -659,7 +723,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xw430-t333/",
     "source": "ROBOTIS e-Manual, XW430-T333 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 3.1 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 332.8:1. Input 10.0-14.8 V. Other: 2.9 N·m/1.2 A/29 rpm @ 11.1 V; 3.6 N·m/1.5 A/39 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW430-T333-R."
+    "remarks": "Stall 3.1 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 332.8:1. Input 10.0-14.8 V. Other: 2.9 N·m/1.2 A/29 rpm @ 11.1 V; 3.6 N·m/1.5 A/39 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW430-T333-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xw540-t140",
@@ -680,7 +746,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xw540-t140/",
     "source": "ROBOTIS e-Manual, XW540-T140 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 6.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 145.6:1. Input 10.0-14.8 V. Other: 6.4 N·m/4.5 A/67 rpm @ 11.1 V; 8.3 N·m/5.9 A/88 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW540-T140-R."
+    "remarks": "Stall 6.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 145.6:1. Input 10.0-14.8 V. Other: 6.4 N·m/4.5 A/67 rpm @ 11.1 V; 8.3 N·m/5.9 A/88 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW540-T140-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-xw540-t260",
@@ -701,7 +769,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/x/xw540-t260/",
     "source": "ROBOTIS e-Manual, XW540-T260 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 9.5 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 260.6:1. Input 10.0-14.8 V. Other: 8.8 N·m/4.5 A/37 rpm @ 11.1 V; 11.2 N·m/5.9 A/48 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW540-T260-R."
+    "remarks": "Stall 9.5 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 260.6:1. Input 10.0-14.8 V. Other: 8.8 N·m/4.5 A/37 rpm @ 11.1 V; 11.2 N·m/5.9 A/48 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW540-T260-R.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-mx-106-2",
@@ -721,7 +791,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/mx/mx-106-2/",
     "source": "ROBOTIS e-Manual, MX-106-2 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 8.4 N·m at 12 V, 5.2 A stall current; max_speed is no-load at 12 V. Gear ratio 225:1. Input 10.0-14.8 V. Other: 8 N·m/4.8 A/41 rpm @ 11.1 V; 10 N·m/6.3 A/55 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-106T."
+    "remarks": "Stall 8.4 N·m at 12 V, 5.2 A stall current; max_speed is no-load at 12 V. Gear ratio 225:1. Input 10.0-14.8 V. Other: 8 N·m/4.8 A/41 rpm @ 11.1 V; 10 N·m/6.3 A/55 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-106T.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-mx-64-2",
@@ -741,7 +813,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/mx/mx-64-2/",
     "source": "ROBOTIS e-Manual, MX-64-2 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 6 N·m at 12 V, 4.1 A stall current; max_speed is no-load at 12 V. Gear ratio 200:1. Input 10.0-14.8 V. Other: 5.5 N·m/3.9 A/58 rpm @ 11.1 V; 7.3 N·m/5.2 A/78 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-64AT."
+    "remarks": "Stall 6 N·m at 12 V, 4.1 A stall current; max_speed is no-load at 12 V. Gear ratio 200:1. Input 10.0-14.8 V. Other: 5.5 N·m/3.9 A/58 rpm @ 11.1 V; 7.3 N·m/5.2 A/78 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-64AT.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-mx-28-2",
@@ -761,7 +835,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/mx/mx-28-2/",
     "source": "ROBOTIS e-Manual, MX-28-2 specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 2.5 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 193:1. Input 10.0-14.8 V. Other: 2.3 N·m/1.3 A/50 rpm @ 11.1 V; 3.1 N·m/1.7 A/67 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-28AT."
+    "remarks": "Stall 2.5 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 193:1. Input 10.0-14.8 V. Other: 2.3 N·m/1.3 A/50 rpm @ 11.1 V; 3.1 N·m/1.7 A/67 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-28AT.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-mx-12w",
@@ -780,7 +856,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/mx/mx-12w/",
     "source": "ROBOTIS e-Manual, MX-12W specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall 0.2 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 32:1. Input 10.0-14.8 V. TTL multidrop, DYNAMIXEL Protocol."
+    "remarks": "Stall 0.2 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 32:1. Input 10.0-14.8 V. TTL multidrop, DYNAMIXEL Protocol.",
+    "peak_basis": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-ph54-200-s500-r",
@@ -801,7 +879,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/ph54-200-s500-r/",
     "source": "ROBOTIS e-Manual, PH54-200-S500-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 44.7 N·m at 29.0 [rev/min], 9.3 A . max_speed is no-load. Motor: BLDC (Maxon), output 200 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 44.7 N·m at 29.0 [rev/min], 9.3 A . max_speed is no-load. Motor: BLDC (Maxon), output 200 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
+    "continuous_basis": "continuous",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-ph54-100-s500-r",
@@ -822,7 +902,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/ph54-100-s500-r/",
     "source": "ROBOTIS e-Manual, PH54-100-S500-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 25.3 N·m at 29.2 [rev/min], 5.5 A . max_speed is no-load. Motor: BLDC (Maxon), output 100 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 25.3 N·m at 29.2 [rev/min], 5.5 A . max_speed is no-load. Motor: BLDC (Maxon), output 100 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
+    "continuous_basis": "continuous",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-ph42-020-s300-r",
@@ -843,7 +925,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/ph42-020-s300-r/",
     "source": "ROBOTIS e-Manual, PH42-020-S300-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 5.1 N·m at 29.2 [rev/min], 1.5 A . max_speed is no-load. Motor: Coreless (Maxon), output 20 [W]. Gear ratio 303.75:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 5.1 N·m at 29.2 [rev/min], 1.5 A . max_speed is no-load. Motor: Coreless (Maxon), output 20 [W]. Gear ratio 303.75:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
+    "continuous_basis": "continuous",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-pm54-060-s250-r",
@@ -864,7 +948,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/pm54-060-s250-r/",
     "source": "ROBOTIS e-Manual, PM54-060-S250-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 10.1 N·m at 28.3 [rev/min], 3 A . max_speed is no-load. Motor: BLDC (Maxon), output 60 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 10.1 N·m at 28.3 [rev/min], 3 A . max_speed is no-load. Motor: BLDC (Maxon), output 60 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
+    "continuous_basis": "continuous",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-pm54-040-s250-r",
@@ -885,7 +971,9 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/pm54-040-s250-r/",
     "source": "ROBOTIS e-Manual, PM54-040-S250-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 3.9 N·m at 24.2 [rev/min], 1.9 A . max_speed is no-load. Motor: BLDC (Maxon), output 40 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 3.9 N·m at 24.2 [rev/min], 1.9 A . max_speed is no-load. Motor: BLDC (Maxon), output 40 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
+    "continuous_basis": "continuous",
+    "speed_condition": "no-load"
   },
   {
     "id": "robotis-pm42-010-s260-r",
@@ -906,6 +994,8 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/pm42-010-s260-r/",
     "source": "ROBOTIS e-Manual, PM42-010-S260-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 1.7 N·m at 26.0 [rev/min], 0.6 A . max_speed is no-load. Motor: Coreless (Maxon), output 10 [W]. Gear ratio 257.019:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 1.7 N·m at 26.0 [rev/min], 0.6 A . max_speed is no-load. Motor: Coreless (Maxon), output 10 [W]. Gear ratio 257.019:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
+    "continuous_basis": "continuous",
+    "speed_condition": "no-load"
   }
 ]

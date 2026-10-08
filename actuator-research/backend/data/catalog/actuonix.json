@@ -27,7 +27,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 140
+    "stroke_mm": 140,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l16-63",
@@ -57,7 +59,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 140
+    "stroke_mm": 140,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l16-150",
@@ -87,7 +91,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 140
+    "stroke_mm": 140,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l12-50",
@@ -117,7 +123,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l12-100",
@@ -147,7 +155,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l12-210",
@@ -177,7 +187,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l8-50",
@@ -208,7 +220,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l8-100",
@@ -239,7 +253,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-l8-210",
@@ -270,7 +286,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-p8-50",
@@ -301,7 +319,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-p8-165",
@@ -332,7 +352,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-p8-252",
@@ -363,7 +385,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-p8-st-49",
@@ -395,7 +419,10 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "per-phase"
   },
   {
     "id": "actuonix-p8-st-165",
@@ -427,7 +454,10 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "per-phase"
   },
   {
     "id": "actuonix-p16-22",
@@ -457,7 +487,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 200
+    "stroke_mm": 200,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-p16-64",
@@ -487,7 +519,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 200
+    "stroke_mm": 200,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-p16-256",
@@ -516,7 +550,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 200
+    "stroke_mm": 200,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-t16-22",
@@ -544,7 +580,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-t16-64",
@@ -572,7 +610,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-t16-256",
@@ -599,7 +639,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-pq12-30",
@@ -623,7 +665,9 @@
     "kind": "linear",
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-pq12-63",
@@ -647,7 +691,9 @@
     "kind": "linear",
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-pq12-100",
@@ -671,7 +717,9 @@
     "kind": "linear",
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "id": "actuonix-s20-38",
@@ -701,6 +749,9 @@
     "actuation": "electric",
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
-    "stroke_mm": 100
+    "stroke_mm": 100,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "per-phase"
   }
 ]

@@ -26,7 +26,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA4C/index.html",
     "source": "IAI Japan product page RCP5-RA4C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -55,7 +57,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA4C/index.html",
     "source": "IAI Japan product page RCP5-RA4C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -84,7 +88,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA4C/index.html",
     "source": "IAI Japan product page RCP5-RA4C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -113,7 +119,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA4C/index.html",
     "source": "IAI Japan product page RCP5-RA4C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -142,7 +150,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA6C/index.html",
     "source": "IAI Japan product page RCP5-RA6C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -171,7 +181,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA6C/index.html",
     "source": "IAI Japan product page RCP5-RA6C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -200,7 +212,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA6C/index.html",
     "source": "IAI Japan product page RCP5-RA6C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -229,7 +243,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA6C/index.html",
     "source": "IAI Japan product page RCP5-RA6C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -260,7 +276,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA7C/index.html",
     "source": "IAI Japan product page RCP5-RA7C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -291,7 +309,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA7C/index.html",
     "source": "IAI Japan product page RCP5-RA7C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -322,7 +342,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA7C/index.html",
     "source": "IAI Japan product page RCP5-RA7C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -353,7 +375,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA7C/index.html",
     "source": "IAI Japan product page RCP5-RA7C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -388,7 +412,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA8C/index.html",
     "source": "IAI Japan product page RCP5-RA8C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table)."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table).",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -423,7 +449,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA8C/index.html",
     "source": "IAI Japan product page RCP5-RA8C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table)."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table).",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -458,7 +486,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA8C/index.html",
     "source": "IAI Japan product page RCP5-RA8C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table)."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table).",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -496,7 +526,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA10C/index.html",
     "source": "IAI Japan product page RCP5-RA10C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes. Holding force = optional brake (kgf converted). Push force limited at strokes >550 mm (buckling). IP30."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes. Holding force = optional brake (kgf converted). Push force limited at strokes >550 mm (buckling). IP30.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -534,7 +566,9 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA10C/index.html",
     "source": "IAI Japan product page RCP5-RA10C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes. Holding force = optional brake (kgf converted). Push force limited at strokes >550 mm (buckling). IP30."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes. Holding force = optional brake (kgf converted). Push force limited at strokes >550 mm (buckling). IP30.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -572,6 +606,8 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA10C/index.html",
     "source": "IAI Japan product page RCP5-RA10C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes. Holding force = optional brake (kgf converted). Push force limited at strokes >550 mm (buckling). IP30."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes. Holding force = optional brake (kgf converted). Push force limited at strokes >550 mm (buckling). IP30.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   }
 ]

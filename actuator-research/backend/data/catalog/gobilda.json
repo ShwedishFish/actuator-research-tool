@@ -18,7 +18,10 @@
     "source": "goBILDA product page 5202-2402-0003, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 103.8 PPR at the Output Shaft.",
-    "mass_kg": 0.394
+    "mass_kg": 0.394,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0005",
@@ -39,7 +42,10 @@
     "source": "goBILDA product page 5202-2402-0005, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 145.1 PPR at the Output Shaft.",
-    "mass_kg": 0.398
+    "mass_kg": 0.398,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0014",
@@ -60,7 +66,10 @@
     "source": "goBILDA product page 5202-2402-0014, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 384.5 PPR at the Output Shaft.",
-    "mass_kg": 0.435
+    "mass_kg": 0.435,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0019",
@@ -81,7 +90,10 @@
     "source": "goBILDA product page 5202-2402-0019, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 537.7 PPR at the Output Shaft.",
-    "mass_kg": 0.435
+    "mass_kg": 0.435,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0027",
@@ -102,7 +114,10 @@
     "source": "goBILDA product page 5202-2402-0027, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 751.8 PPR at the Output Shaft.",
-    "mass_kg": 0.435
+    "mass_kg": 0.435,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0051",
@@ -123,7 +138,10 @@
     "source": "goBILDA product page 5202-2402-0051, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 1,425.1 PPR at the Output Shaft.",
-    "mass_kg": 0.479
+    "mass_kg": 0.479,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0071",
@@ -144,7 +162,10 @@
     "source": "goBILDA product page 5202-2402-0071, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 1,992.6 PPR at the Output Shaft.",
-    "mass_kg": 0.484
+    "mass_kg": 0.484,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0100",
@@ -165,7 +186,10 @@
     "source": "goBILDA product page 5202-2402-0100, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft.",
-    "mass_kg": 0.486
+    "mass_kg": 0.486,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0139",
@@ -186,7 +210,10 @@
     "source": "goBILDA product page 5202-2402-0139, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 3,895.9 PPR at the Output Shaft.",
-    "mass_kg": 0.483
+    "mass_kg": 0.483,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5202-2402-0188",
@@ -207,7 +234,10 @@
     "source": "goBILDA product page 5202-2402-0188, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 6mm D. Gear Material: Steel. Encoder 5,281.1 PPR at the Output Shaft.",
-    "mass_kg": 0.522
+    "mass_kg": 0.522,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0001",
@@ -228,7 +258,10 @@
     "source": "goBILDA product page 5203-2402-0001, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 28 PPR at Output Shaft.",
-    "mass_kg": 0.391
+    "mass_kg": 0.391,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0003",
@@ -249,7 +282,10 @@
     "source": "goBILDA product page 5203-2402-0003, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 103.8 PPR at the Output Shaft.",
-    "mass_kg": 0.396
+    "mass_kg": 0.396,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0005",
@@ -270,7 +306,10 @@
     "source": "goBILDA product page 5203-2402-0005, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 145.1 PPR at the Output Shaft.",
-    "mass_kg": 0.399
+    "mass_kg": 0.399,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0014",
@@ -291,7 +330,10 @@
     "source": "goBILDA product page 5203-2402-0014, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 384.5 PPR at the Output Shaft.",
-    "mass_kg": 0.438
+    "mass_kg": 0.438,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0019",
@@ -312,7 +354,10 @@
     "source": "goBILDA product page 5203-2402-0019, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 537.7 PPR at the Output Shaft.",
-    "mass_kg": 0.437
+    "mass_kg": 0.437,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0027",
@@ -333,7 +378,10 @@
     "source": "goBILDA product page 5203-2402-0027, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 751.8 PPR at the Output Shaft.",
-    "mass_kg": 0.437
+    "mass_kg": 0.437,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0051",
@@ -354,7 +402,10 @@
     "source": "goBILDA product page 5203-2402-0051, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 1,425.1 PPR at the Output Shaft.",
-    "mass_kg": 0.481
+    "mass_kg": 0.481,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0071",
@@ -375,7 +426,10 @@
     "source": "goBILDA product page 5203-2402-0071, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 1,993.6 PPR at the Output Shaft.",
-    "mass_kg": 0.486
+    "mass_kg": 0.486,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0100",
@@ -396,7 +450,10 @@
     "source": "goBILDA product page 5203-2402-0100, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft.",
-    "mass_kg": 0.486
+    "mass_kg": 0.486,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0139",
@@ -417,7 +474,10 @@
     "source": "goBILDA product page 5203-2402-0139, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 3895.9 PPR at the Output Shaft.",
-    "mass_kg": 0.485
+    "mass_kg": 0.485,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5203-2402-0188",
@@ -438,7 +498,10 @@
     "source": "goBILDA product page 5203-2402-0188, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 24mm Length. Gear Material: Steel. Encoder 5,281.1 PPR at the Output Shaft.",
-    "mass_kg": 0.524
+    "mass_kg": 0.524,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0003",
@@ -459,7 +522,10 @@
     "source": "goBILDA product page 5204-8002-0003, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 103.8 PPR at the Output Shaft.",
-    "mass_kg": 0.411
+    "mass_kg": 0.411,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0005",
@@ -480,7 +546,10 @@
     "source": "goBILDA product page 5204-8002-0005, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 145.1 PPR at the Output Shaft.",
-    "mass_kg": 0.412
+    "mass_kg": 0.412,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0014",
@@ -501,7 +570,10 @@
     "source": "goBILDA product page 5204-8002-0014, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 384.5 PPR at the Output Shaft.",
-    "mass_kg": 0.435
+    "mass_kg": 0.435,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0019",
@@ -522,7 +594,10 @@
     "source": "goBILDA product page 5204-8002-0019, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 537.7 PPR at the Output Shaft.",
-    "mass_kg": 0.458
+    "mass_kg": 0.458,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0027",
@@ -543,7 +618,10 @@
     "source": "goBILDA product page 5204-8002-0027, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 751.8 PPR at the Output Shaft.",
-    "mass_kg": 0.458
+    "mass_kg": 0.458,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0051",
@@ -564,7 +642,10 @@
     "source": "goBILDA product page 5204-8002-0051, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 1,425.1 PPR at the Output Shaft.",
-    "mass_kg": 0.465
+    "mass_kg": 0.465,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0071",
@@ -585,7 +666,10 @@
     "source": "goBILDA product page 5204-8002-0071, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 1,993.6 PPR at the Output Shaft.",
-    "mass_kg": 0.501
+    "mass_kg": 0.501,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0100",
@@ -605,7 +689,10 @@
     "datasheet_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-99-5-1-ratio-80mm-length-8mm-rex-shaft-60-rpm-3-3-5v-encoder/",
     "source": "goBILDA product page 5204-8002-0100, Specs table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft. Weight published as \"501\" with no unit; mass unlisted."
+    "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft. Weight published as \"501\" with no unit; mass unlisted.",
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0139",
@@ -626,7 +713,10 @@
     "source": "goBILDA product page 5204-8002-0139, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 3895.9 PPR at the Output Shaft.",
-    "mass_kg": 0.501
+    "mass_kg": 0.501,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   },
   {
     "id": "gobilda-5204-8002-0188",
@@ -647,6 +737,9 @@
     "source": "goBILDA product page 5204-8002-0188, Specs table",
     "retrieved_on": "2026-10-07",
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 5,281.1 PPR at the Output Shaft.",
-    "mass_kg": 0.543
+    "mass_kg": 0.543,
+    "peak_basis": "stall",
+    "current_condition": "stall",
+    "speed_condition": "no-load"
   }
 ]

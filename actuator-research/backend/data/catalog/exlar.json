@@ -21,7 +21,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -45,7 +47,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -69,7 +73,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -93,7 +99,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -117,7 +125,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -141,7 +151,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -166,7 +178,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -191,7 +205,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -216,7 +232,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -241,7 +259,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -266,7 +286,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -291,7 +313,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -314,7 +338,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -337,7 +363,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -360,7 +388,9 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage.",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -386,7 +416,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -412,7 +445,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -438,7 +474,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -465,7 +504,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -492,7 +534,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -519,7 +564,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -546,7 +594,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -573,7 +624,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -600,7 +654,10 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/intelligent-drive-motor-actuators/ttx-series",
     "source": "Curtiss-Wright Tritex TTX Series product page, TTX060/TTX080 Mechanical Specifications tables (matches 2026 Tritex TTX Product Catalog 8-26)",
-    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max."
+    "remarks": "Integrated servo drive + motor + roller screw. rated_current_a is the published maximum continuous input current. AC version is 230 VAC 1-ph max input; DC version 48 VDC max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -626,7 +683,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -652,7 +711,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -678,7 +739,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -704,7 +767,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -730,7 +795,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -756,7 +823,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -782,7 +851,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -808,7 +879,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -834,7 +907,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -860,7 +935,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -886,7 +963,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -912,7 +991,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/universal-linear-actuators/ftx-series",
     "source": "Curtiss-Wright Exlar FTX Series product page, FTX095/125/160/215 Specifications tables",
-    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts."
+    "remarks": "Max force = maximum allowable actuator-generated force applied routinely (catalog footnote); achievable thrust depends on user motor/gearbox. Max speed at max rated input RPM. Inline or parallel belt motor mounts.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -937,7 +1018,9 @@
     "ip_rating": "IP65S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/actuators/kx-series",
     "source": "Curtiss-Wright Exlar KX Series product page, K60/K75/K90 Mechanical Specifications (matches 2026 KX Product Catalog 9-26)",
-    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM."
+    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -962,7 +1045,9 @@
     "ip_rating": "IP65S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/actuators/kx-series",
     "source": "Curtiss-Wright Exlar KX Series product page, K60/K75/K90 Mechanical Specifications (matches 2026 KX Product Catalog 9-26)",
-    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM."
+    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -987,7 +1072,9 @@
     "ip_rating": "IP65S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/actuators/kx-series",
     "source": "Curtiss-Wright Exlar KX Series product page, K60/K75/K90 Mechanical Specifications (matches 2026 KX Product Catalog 9-26)",
-    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM."
+    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1012,7 +1099,9 @@
     "ip_rating": "IP65S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/actuators/kx-series",
     "source": "Curtiss-Wright Exlar KX Series product page, K60/K75/K90 Mechanical Specifications (matches 2026 KX Product Catalog 9-26)",
-    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM."
+    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1037,7 +1126,9 @@
     "ip_rating": "IP65S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/actuators/kx-series",
     "source": "Curtiss-Wright Exlar KX Series product page, K60/K75/K90 Mechanical Specifications (matches 2026 KX Product Catalog 9-26)",
-    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM."
+    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1062,6 +1153,8 @@
     "ip_rating": "IP65S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/actuators/kx-series",
     "source": "Curtiss-Wright Exlar KX Series product page, K60/K75/K90 Mechanical Specifications (matches 2026 KX Product Catalog 9-26)",
-    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM."
+    "remarks": "Maximum force rating; achievable thrust depends on user motor. Max linear speed at max rated input RPM.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   }
 ]

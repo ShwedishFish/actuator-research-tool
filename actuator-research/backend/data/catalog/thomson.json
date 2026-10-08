@@ -42,7 +42,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-hd",
     "source": "Thomson Electrak HD product page, specifications table",
     "remarks": "No-load speed; 58 mm/s at full load. 12/24/48 Vdc; current at max load 12 V 18 A, 24 V 9 A, 48 V 5 A. Mass at 100 mm stroke. Static IP67/IP69K, dynamic IP66. Load-lock ball nut, onboard electronics (EXX/ELX/EXP/LXX/CNO/COO/SY2 etc.).",
-    "stroke_mm": 1000
+    "stroke_mm": 1000,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -87,7 +90,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-hd",
     "source": "Thomson Electrak HD product page, specifications table",
     "remarks": "No-load speed; 32 mm/s at full load. 12/24/48 Vdc; current at max load 12 V 18 A, 24 V 9 A, 48 V 5 A. Mass at 100 mm stroke. Static IP67/IP69K, dynamic IP66. Load-lock ball nut, onboard electronics (EXX/ELX/EXP/LXX/CNO/COO/SY2 etc.).",
-    "stroke_mm": 1000
+    "stroke_mm": 1000,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -132,7 +138,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-hd",
     "source": "Thomson Electrak HD product page, specifications table",
     "remarks": "No-load speed; 19 mm/s at full load. 12/24/48 Vdc; current at max load 12 V 18 A, 24 V 9 A, 48 V 5 A. Mass at 100 mm stroke. Static IP67/IP69K, dynamic IP66. Load-lock ball nut, onboard electronics (EXX/ELX/EXP/LXX/CNO/COO/SY2 etc.).",
-    "stroke_mm": 1000
+    "stroke_mm": 1000,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -177,7 +186,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-hd",
     "source": "Thomson Electrak HD product page, specifications table",
     "remarks": "No-load speed; 14 mm/s at full load. 12/24/48 Vdc; current at max load 12 V 20 A, 24 V 10 A, 48 V 5 A. Mass at 100 mm stroke. Static IP67/IP69K, dynamic IP66. Load-lock ball nut, onboard electronics (EXX/ELX/EXP/LXX/CNO/COO/SY2 etc.).",
-    "stroke_mm": 1000
+    "stroke_mm": 1000,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -222,7 +234,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-hd",
     "source": "Thomson Electrak HD product page, specifications table",
     "remarks": "No-load speed; 9 mm/s at full load. 12/24/48 Vdc; current at max load 12 V 18 A, 24 V 9 A, 48 V 5 A. Mass at 100 mm stroke. Static IP67/IP69K, dynamic IP66. Load-lock ball nut, onboard electronics (EXX/ELX/EXP/LXX/CNO/COO/SY2 etc.).",
-    "stroke_mm": 1000
+    "stroke_mm": 1000,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -257,7 +272,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-hd",
     "source": "Thomson Electrak HD product page, specifications table",
     "remarks": "No-load speed; 5 mm/s at full load. 12/24/48 Vdc; current at max load 12 V 20 A, 24 V 10 A, 48 V 5 A. Mass at 100 mm stroke. Static IP67/IP69K, dynamic IP66. Load-lock ball nut, onboard electronics (EXX/ELX/EXP/LXX/CNO/COO/SY2 etc.).",
-    "stroke_mm": 500
+    "stroke_mm": 500,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -288,7 +306,9 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-md",
     "source": "Thomson Electrak MD product page, specifications table",
     "remarks": "No-load speed; 43.8 mm/s at full load. 12/24/48 Vdc. Published max static/dynamic load is a single value. Mass 1.1 kg at 50 mm to 1.6 kg at 300 mm stroke. Static IP67/IP69K, dynamic IP66. Self-locking lead nut.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -319,7 +339,9 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-md",
     "source": "Thomson Electrak MD product page, specifications table",
     "remarks": "No-load speed; 18.5 mm/s at full load. 12/24/48 Vdc. Published max static/dynamic load is a single value. Mass 1.1 kg at 50 mm to 1.6 kg at 300 mm stroke. Static IP67/IP69K, dynamic IP66. Self-locking lead nut.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -350,7 +372,9 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-md",
     "source": "Thomson Electrak MD product page, specifications table",
     "remarks": "No-load speed; 11 mm/s at full load. 12/24/48 Vdc. Published max static/dynamic load is a single value. Mass 1.1 kg at 50 mm to 1.6 kg at 300 mm stroke. Static IP67/IP69K, dynamic IP66. Self-locking lead nut.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -381,7 +405,9 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-md",
     "source": "Thomson Electrak MD product page, specifications table",
     "remarks": "No-load speed; 5.4 mm/s at full load. 12/24/48 Vdc. Published max static/dynamic load is a single value. Mass 1.1 kg at 50 mm to 1.6 kg at 300 mm stroke. Static IP67/IP69K, dynamic IP66. Self-locking lead nut.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -415,7 +441,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-ll",
     "source": "Thomson Electrak LL product page, specifications table",
     "remarks": "Brushless motor. No-load and full-load speed published as equal. 24/48 Vdc; current at max load 24 V 10.5 A, 48 V 5.5 A. Mass 6.8 kg at 100 mm, 9.3 kg at 450 mm. Static IP66/IP69K, dynamic IP66.",
-    "stroke_mm": 450
+    "stroke_mm": 450,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -449,7 +478,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-ll",
     "source": "Thomson Electrak LL product page, specifications table",
     "remarks": "Brushless motor. No-load and full-load speed published as equal. 24/48 Vdc; current at max load 24 V 10.5 A, 48 V 5.5 A. Mass 6.8 kg at 100 mm, 9.3 kg at 450 mm. Static IP66/IP69K, dynamic IP66.",
-    "stroke_mm": 450
+    "stroke_mm": 450,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -483,7 +515,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-ll",
     "source": "Thomson Electrak LL product page, specifications table",
     "remarks": "Brushless motor. No-load and full-load speed published as equal. 24/48 Vdc; current at max load 24 V 8.5 A, 48 V 4.5 A. Mass 6.8 kg at 100 mm, 9.3 kg at 450 mm. Static IP66/IP69K, dynamic IP66.",
-    "stroke_mm": 450
+    "stroke_mm": 450,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -506,7 +541,9 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-xd",
     "source": "Thomson Electrak XD product page, performance specifications table",
-    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 75 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake."
+    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 75 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -529,7 +566,9 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-xd",
     "source": "Thomson Electrak XD product page, performance specifications table",
-    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 50 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake."
+    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 50 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -552,7 +591,9 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-xd",
     "source": "Thomson Electrak XD product page, performance specifications table",
-    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 25 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake."
+    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 25 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -575,7 +616,9 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-xd",
     "source": "Thomson Electrak XD product page, performance specifications table",
-    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 20 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake."
+    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 20 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -598,7 +641,9 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-xd",
     "source": "Thomson Electrak XD product page, performance specifications table",
-    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 16 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake."
+    "remarks": "Speed at 24 V (no-load = full-load); 48 V: 16 mm/s. 24/48 Vdc; current listed as 24VDC/30A, 48VDC/15A. Duty 45% at full load (up to 100% depending on load). Mass 11.9 kg at 100 mm stroke. Static IP66/IP67/IP69K, dynamic IP66. Internal holding brake.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -631,7 +676,9 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 050 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 9 mm/s at max load. 12/24/36 Vdc . Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -664,7 +711,9 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 050 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 18 mm/s at max load. 12/24/36 Vdc . Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -697,7 +746,9 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 050 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 37 mm/s at max load. 12/24/36 Vdc . Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -730,7 +781,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 S Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 64 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke. Internal end-of-stroke limit switches.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -763,7 +817,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 S Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 29 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke. Internal end-of-stroke limit switches.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -796,7 +853,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 S Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 16 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke. Internal end-of-stroke limit switches.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -827,7 +887,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 S Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 8 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke. Internal end-of-stroke limit switches.",
-    "stroke_mm": 127.0
+    "stroke_mm": 127.0,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -860,7 +923,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 SP Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 64 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -893,7 +959,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 SP Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 29 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -926,7 +995,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 SP Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 16 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke.",
-    "stroke_mm": 203.2
+    "stroke_mm": 203.2,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -957,7 +1029,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 1 SP Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 8 mm/s at max load (ordering key lists nominal speeds differently). 12/24 Vdc (24 V current about half). Mass at 1 in stroke. Product page lists IP65 and 150 mm max stroke; catalog lists IP66 and 8 in ordering stroke.",
-    "stroke_mm": 127.0
+    "stroke_mm": 127.0,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -981,7 +1056,10 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-throttle",
     "source": "Thomson Electrak Throttle product page, specifications table",
-    "remarks": "No-load speed; 83 mm/s at rated load. Also ET24-084 (24 Vdc, 2 A at rated load). Stall current 12 A (12 V). IP67/IP69K. Life 500,000 cycles. Self-locking lead screw."
+    "remarks": "No-load speed; 83 mm/s at rated load. Also ET24-084 (24 Vdc, 2 A at rated load). Stall current 12 A (12 V). IP67/IP69K. Life 500,000 cycles. Self-locking lead screw.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1005,7 +1083,10 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-throttle",
     "source": "Thomson Electrak Throttle product page, specifications table",
-    "remarks": "No-load speed; 37 mm/s at rated load. Also ET24-174 (24 Vdc, 2 A at rated load). Stall current 12 A (12 V). IP67/IP69K. Life 500,000 cycles. Self-locking lead screw."
+    "remarks": "No-load speed; 37 mm/s at rated load. Also ET24-174 (24 Vdc, 2 A at rated load). Stall current 12 A (12 V). IP67/IP69K. Life 500,000 cycles. Self-locking lead screw.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1043,7 +1124,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 32 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1081,7 +1165,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 18 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1119,7 +1206,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 12 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1157,7 +1247,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 37 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1195,7 +1288,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 19 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1233,7 +1329,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 12 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1269,7 +1368,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 11 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
-    "stroke_mm": 508.0
+    "stroke_mm": 508.0,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1301,7 +1403,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
     "remarks": "No-load speed; 9 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme. Ordering key lists 2KB5 as 9 mm/s; spec table 15 no-load/9 max-load.",
-    "stroke_mm": 304.8
+    "stroke_mm": 304.8,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1337,7 +1442,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 32 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.4 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1373,7 +1481,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 18 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.4 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1409,7 +1520,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 12 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.4 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1445,7 +1559,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 37 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.3 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1481,7 +1598,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 18 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.3 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1517,7 +1637,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 12 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.4 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1551,7 +1674,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 11 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.6 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
-    "stroke_mm": 508.0
+    "stroke_mm": 508.0,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1581,7 +1707,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "No-load speed; 9 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.8 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45. Ordering key lists 2KB5 as 9 mm/s; spec table 15 no-load/9 max-load.",
-    "stroke_mm": 304.8
+    "stroke_mm": 304.8,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1617,7 +1746,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "3x400 Vac. No-load speed; 18 mm/s at max load. Lower load rating than 1-phase versions. Mass at 6 in stroke.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1653,7 +1785,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "3x400 Vac. No-load speed; 12 mm/s at max load. Lower load rating than 1-phase versions. Mass at 6 in stroke.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1689,7 +1824,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "3x400 Vac. No-load speed; 37 mm/s at max load. Lower load rating than 1-phase versions. Mass at 6 in stroke.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1725,7 +1863,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "3x400 Vac. No-load speed; 18 mm/s at max load. Lower load rating than 1-phase versions. Mass at 6 in stroke.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1761,7 +1902,10 @@
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
     "remarks": "3x400 Vac. No-load speed; 12 mm/s at max load. Lower load rating than 1-phase versions. Mass at 6 in stroke.",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1798,7 +1942,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 32 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1835,7 +1982,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 18 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1872,7 +2022,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 12 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1909,7 +2062,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 37 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1946,7 +2102,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 19 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -1983,7 +2142,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 12 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2020,7 +2182,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA14 Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 11 mm/s at max load. 12/24/36 Vdc; 12 V max-load current shown. Anti-rotation, aluminium cover tube with T-slots. Overload clutch.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2057,7 +2222,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 32 mm/s at max load. 1x230 Vac (10 uF capacitor); not available at 3x400 Vac. Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2094,7 +2262,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 18 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac (0.7 A at max load). Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2131,7 +2302,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac (0.45 A at max load). Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2168,7 +2342,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 37 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac (0.5 A at max load). Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2205,7 +2382,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 19 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac (0.5 A at max load). Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2242,7 +2422,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac (0.5 A at max load). Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2279,7 +2462,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak LA24 Technical Specifications",
     "remarks": "No-load speed; 11 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac (0.5 A at max load). Max on-time 45 s.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2311,7 +2497,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak PPA Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 28 mm/s at max load. 12/24/36/90 Vdc; 12 V max-load current shown. Mass at 4 in stroke (10.8 kg at 36 in). Trunnion mount, holding brake. Product page lists IP52; catalog lists IP54.",
-    "stroke_mm": 914.4
+    "stroke_mm": 914.4,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2343,7 +2532,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak PPA Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 9 mm/s at max load. 12/24/36/90 Vdc; 12 V max-load current shown. Mass at 4 in stroke (10.8 kg at 36 in). Trunnion mount, holding brake. Product page lists IP52; catalog lists IP54.",
-    "stroke_mm": 914.4
+    "stroke_mm": 914.4,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2364,7 +2556,9 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-ppa-ac",
     "source": "Thomson Electrak PPA-AC product page, specifications table",
-    "remarks": "No-load speed; 15 mm/s at full load. 115 or 230 Vac 1-phase 50/60 Hz. Holding brake, overload clutch."
+    "remarks": "No-load speed; 15 mm/s at full load. 115 or 230 Vac 1-phase 50/60 Hz. Holding brake, overload clutch.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -2385,7 +2579,9 @@
     "ip_rating": "IP55",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/linear-actuators/electrak-205",
     "source": "Thomson Electrak 205 product page, specifications table",
-    "remarks": "No-load speed; 44 mm/s at full load. Max dynamic load 6800 N with restrictions per page. 115 Vac 60 Hz or 230 Vac 50/60 Hz. Adjustable limit switches, electrical brake. Some part numbers marked obsolete."
+    "remarks": "No-load speed; 44 mm/s at full load. Max dynamic load 6800 N with restrictions per page. 115 Vac 60 Hz or 230 Vac 50/60 Hz. Adjustable limit switches, electrical brake. Some part numbers marked obsolete.",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load"
   },
   {
     "kind": "linear",
@@ -2414,7 +2610,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Max Jac Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 19 mm/s at max load. 12/24 Vdc (24 V: 3.8 A at max load). Duty cycle load dependent; 25% at full load per product page. IP66/IP69K. Self-locking.",
-    "stroke_mm": 200
+    "stroke_mm": 200,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2444,7 +2643,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Max Jac Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 30 mm/s at max load. 12/24 Vdc (24 V: 3.5 A at max load). Static (back-drive) load 100-350 N, varies with use. Duty cycle load dependent; 25% at full load per product page.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2475,7 +2677,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), WhisperTrak Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 4.0 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Sound <45 dBA, medical 60601-1 certs. Mass at 100 mm stroke. Average life 10,000 cycles at max load.",
-    "stroke_mm": 500
+    "stroke_mm": 500,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2506,7 +2711,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), WhisperTrak Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 8.0 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Sound <45 dBA, medical 60601-1 certs. Mass at 100 mm stroke. Average life 10,000 cycles at max load.",
-    "stroke_mm": 500
+    "stroke_mm": 500,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2537,7 +2745,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), WhisperTrak Technical Specifications and Ordering Key",
     "remarks": "No-load speed; 4.0 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Sound <45 dBA, medical 60601-1 certs. Mass at 100 mm stroke. Average life 10,000 cycles at max load.",
-    "stroke_mm": 500
+    "stroke_mm": 500,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2573,7 +2784,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMHD Technical Specifications",
     "remarks": "Self-supporting aluminium column, max load torque 710 N·m. No-load speed; 58 mm/s at max load. 12/24 Vdc. Duty 15% for B100/B160 under unidirectional load. Static IP67/IP69K, dynamic IP65.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2609,7 +2823,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMHD Technical Specifications",
     "remarks": "Self-supporting aluminium column, max load torque 710 N·m. No-load speed; 32 mm/s at max load. 12/24 Vdc. Duty 15% for B100/B160 under unidirectional load. Static IP67/IP69K, dynamic IP65.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2645,7 +2862,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMHD Technical Specifications",
     "remarks": "Self-supporting aluminium column, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 12/24 Vdc. Duty 15% for B100/B160 under unidirectional load. Static IP67/IP69K, dynamic IP65.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2681,7 +2901,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMHD Technical Specifications",
     "remarks": "Self-supporting aluminium column, max load torque 710 N·m. No-load speed; 14 mm/s at max load. 12/24 Vdc. Duty 15% for B100/B160 under unidirectional load. Static IP67/IP69K, dynamic IP65.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2717,7 +2940,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMHD Technical Specifications",
     "remarks": "Self-supporting aluminium column, max load torque 710 N·m. No-load speed; 9 mm/s at max load. 12/24 Vdc. Duty 15% for B100/B160 under unidirectional load. Static IP67/IP69K, dynamic IP65.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2751,7 +2977,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMHD Technical Specifications",
     "remarks": "Self-supporting aluminium column, max load torque 710 N·m. No-load speed; 5 mm/s at max load. 12/24 Vdc. Duty 15% for B100/B160 under unidirectional load. Static IP67/IP69K, dynamic IP65.",
-    "stroke_mm": 500
+    "stroke_mm": 500,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2786,7 +3015,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 32 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2821,7 +3053,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 32 mm/s at max load. 1x230 Vac (10 uF capacitor); not available at 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2856,7 +3091,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 18 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2891,7 +3129,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 18 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2926,7 +3167,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 12 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2961,7 +3205,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -2996,7 +3243,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 37 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3031,7 +3281,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 37 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3066,7 +3319,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3101,7 +3357,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3136,7 +3395,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 12 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3171,7 +3433,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3206,7 +3471,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
     "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 11 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3241,7 +3509,10 @@
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
     "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 11 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
-    "stroke_mm": 609.6
+    "stroke_mm": 609.6,
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3259,7 +3530,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/precision-linear-actuators/pc-series",
     "source": "Thomson PC Series product page specifications; PC Series catalog (2019) spec tables",
-    "remarks": "Motorless rod actuator for customer servo/stepper motor (inline or parallel). Max speed and load depend on screw lead (3, 10 mm). Stroke 70-600 mm. Max accel 10 m/s^2, repeatability +/-0.01 mm."
+    "remarks": "Motorless rod actuator for customer servo/stepper motor (inline or parallel). Max speed and load depend on screw lead (3, 10 mm). Stroke 70-600 mm. Max accel 10 m/s^2, repeatability +/-0.01 mm.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -3277,7 +3550,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/precision-linear-actuators/pc-series",
     "source": "Thomson PC Series product page specifications; PC Series catalog (2019) spec tables",
-    "remarks": "Motorless rod actuator for customer servo/stepper motor (inline or parallel). Max speed and load depend on screw lead (4, 10 mm). Stroke 80-1200 mm. Max accel 10 m/s^2, repeatability +/-0.01 mm."
+    "remarks": "Motorless rod actuator for customer servo/stepper motor (inline or parallel). Max speed and load depend on screw lead (4, 10 mm). Stroke 80-1200 mm. Max accel 10 m/s^2, repeatability +/-0.01 mm.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -3295,7 +3570,9 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://www.thomsonlinear.com/en/products/precision-linear-actuators/pc-series",
     "source": "Thomson PC Series product page specifications; PC Series catalog (2019) spec tables",
-    "remarks": "Motorless rod actuator for customer servo/stepper motor (inline or parallel). Max speed and load depend on screw lead (5, 10, 20 mm). Stroke 120-1200 mm. Max accel 10 m/s^2, repeatability +/-0.01 mm."
+    "remarks": "Motorless rod actuator for customer servo/stepper motor (inline or parallel). Max speed and load depend on screw lead (5, 10, 20 mm). Stroke 120-1200 mm. Max accel 10 m/s^2, repeatability +/-0.01 mm.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -3321,7 +3598,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), M-Track 1 quick selection",
     "remarks": "Speed is at rated load (25 lbf); no-load speed not given in this brochure. 12/24 Vdc. Internal limit switches; potentiometer optional. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3347,7 +3626,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), M-Track 1 quick selection",
     "remarks": "Speed is at rated load (50 lbf); no-load speed not given in this brochure. 12/24 Vdc. Internal limit switches; potentiometer optional. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3373,7 +3654,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), M-Track 1 quick selection",
     "remarks": "Speed is at rated load (100 lbf); no-load speed not given in this brochure. 12/24 Vdc. Internal limit switches; potentiometer optional. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3399,7 +3682,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), M-Track 1 quick selection",
     "remarks": "Speed is at rated load (165 lbf); no-load speed not given in this brochure. 12/24 Vdc. Internal limit switches; potentiometer optional. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3425,7 +3710,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), S-Track quick selection",
     "remarks": "Speed is at rated load (125 lbf); no-load speed not given in this brochure. 12/24 Vdc. Optional pot output and limit switches. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3451,7 +3738,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), S-Track quick selection",
     "remarks": "Speed is at rated load (175 lbf); no-load speed not given in this brochure. 12/24 Vdc. Optional pot output and limit switches. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3477,7 +3766,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), S-Track quick selection",
     "remarks": "Speed is at rated load (200 lbf); no-load speed not given in this brochure. 12/24 Vdc. Optional pot output and limit switches. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3503,7 +3794,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), S-Track quick selection",
     "remarks": "Speed is at rated load (225 lbf); no-load speed not given in this brochure. 12/24 Vdc. Optional pot output and limit switches. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3529,7 +3822,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), S-Track quick selection",
     "remarks": "Speed is at rated load (300 lbf); no-load speed not given in this brochure. 12/24 Vdc. Optional pot output and limit switches. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3555,7 +3850,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), S-Track quick selection",
     "remarks": "Speed is at rated load (400 lbf); no-load speed not given in this brochure. 12/24 Vdc. Optional pot output and limit switches. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3581,7 +3878,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), I-Track quick selection",
     "remarks": "Speed is at rated load (200 lbf); no-load speed not given in this brochure. 12/24 Vdc. Inline, power-off release. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3607,7 +3906,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2VL quick selection",
     "remarks": "Speed is at rated load (200 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3633,7 +3934,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2VL quick selection",
     "remarks": "Speed is at rated load (300 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3659,7 +3962,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2VL quick selection",
     "remarks": "Speed is at rated load (600 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. 25% duty cycle at full load.",
-    "stroke_mm": 300
+    "stroke_mm": 300,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3691,7 +3996,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 quick selection",
     "remarks": "Speed is at rated load (300 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3723,7 +4030,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 quick selection",
     "remarks": "Speed is at rated load (600 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3755,7 +4064,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 quick selection",
     "remarks": "Speed is at rated load (1200 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3787,7 +4098,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 quick selection",
     "remarks": "Speed is at rated load (1500 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3819,7 +4132,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x quick selection",
     "remarks": "Speed is at rated load (600 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3851,7 +4166,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x quick selection",
     "remarks": "Speed is at rated load (1200 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3883,7 +4200,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x quick selection",
     "remarks": "Speed is at rated load (2200 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3915,7 +4234,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x quick selection",
     "remarks": "Speed is at rated load (2800 lbf); no-load speed not given in this brochure. 12/24/48/90 Vdc. Strokes 2-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3946,7 +4267,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 AC quick selection",
     "remarks": "Speed is at rated load (500 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -3977,7 +4300,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 AC quick selection",
     "remarks": "Speed is at rated load (750 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -4008,7 +4333,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2 AC quick selection",
     "remarks": "Speed is at rated load (1100 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -4039,7 +4366,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x AC quick selection",
     "remarks": "Speed is at rated load (500 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -4070,7 +4399,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x AC quick selection",
     "remarks": "Speed is at rated load (1000 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -4101,7 +4432,9 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x AC quick selection",
     "remarks": "Speed is at rated load (1500 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "kind": "linear",
@@ -4132,6 +4465,8 @@
     "datasheet_url": "https://www.altraliterature.com/-/media/Files/Literature/Brand/warner-linear/related/brochures/p-1789-wl.ashx",
     "source": "Warner Linear brochure P-1789-WL 4/18 (Altra), B-Track K2x AC quick selection",
     "remarks": "Speed is at rated load (2000 lbf); no-load speed not given in this brochure. 115/230 Vac. Strokes 4-24 in in 2 in steps. 25% duty cycle at full load.",
-    "stroke_mm": 600
+    "stroke_mm": 600,
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   }
 ]

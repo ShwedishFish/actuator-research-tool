@@ -19,7 +19,10 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2019/EN/EPCO_EN.PDF",
     "source": "Festo EPCO catalog (2018/10), Technical data: mechanical and electrical data tables",
-    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2."
+    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2.",
+    "peak_basis": "max-load",
+    "speed_condition": "max",
+    "current_condition": "rated"
   },
   {
     "kind": "linear",
@@ -41,7 +44,10 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2019/EN/EPCO_EN.PDF",
     "source": "Festo EPCO catalog (2018/10), Technical data: mechanical and electrical data tables",
-    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2."
+    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2.",
+    "peak_basis": "max-load",
+    "speed_condition": "max",
+    "current_condition": "rated"
   },
   {
     "kind": "linear",
@@ -63,7 +69,10 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2019/EN/EPCO_EN.PDF",
     "source": "Festo EPCO catalog (2018/10), Technical data: mechanical and electrical data tables",
-    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2."
+    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2.",
+    "peak_basis": "max-load",
+    "speed_condition": "max",
+    "current_condition": "rated"
   },
   {
     "kind": "linear",
@@ -85,7 +94,10 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2019/EN/EPCO_EN.PDF",
     "source": "Festo EPCO catalog (2018/10), Technical data: mechanical and electrical data tables",
-    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2."
+    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2.",
+    "peak_basis": "max-load",
+    "speed_condition": "max",
+    "current_condition": "rated"
   },
   {
     "kind": "linear",
@@ -107,7 +119,10 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2019/EN/EPCO_EN.PDF",
     "source": "Festo EPCO catalog (2018/10), Technical data: mechanical and electrical data tables",
-    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2."
+    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2.",
+    "peak_basis": "max-load",
+    "speed_condition": "max",
+    "current_condition": "rated"
   },
   {
     "kind": "linear",
@@ -129,7 +144,10 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2019/EN/EPCO_EN.PDF",
     "source": "Festo EPCO catalog (2018/10), Technical data: mechanical and electrical data tables",
-    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2."
+    "remarks": "Integrated stepper motor; working stroke from 50 mm up to stroke_mm. Max feed force Fx; max acceleration 10 m/s2.",
+    "peak_basis": "max-load",
+    "speed_condition": "max",
+    "current_condition": "rated"
   },
   {
     "kind": "linear",
@@ -149,7 +167,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -169,7 +189,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -189,7 +211,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -209,7 +233,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -229,7 +255,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -249,7 +277,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -269,7 +299,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -289,7 +321,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -309,7 +343,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -329,7 +365,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -349,7 +387,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -369,7 +409,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -389,7 +431,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -409,7 +453,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -429,7 +475,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -449,7 +497,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -469,7 +519,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option."
+    "remarks": "Max cylinder force (pressure force depends on stroke; see buckling curve). Max speed decreases with stroke length. IP65 with -S1 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -489,7 +541,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Lead (trapezoidal) screw variant, self-locking type drive; max acceleration 2.5 m/s2. Stroke is size max from general data."
+    "remarks": "Lead (trapezoidal) screw variant, self-locking type drive; max acceleration 2.5 m/s2. Stroke is size max from general data.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -509,7 +563,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Lead (trapezoidal) screw variant, self-locking type drive; max acceleration 2.5 m/s2. Stroke is size max from general data."
+    "remarks": "Lead (trapezoidal) screw variant, self-locking type drive; max acceleration 2.5 m/s2. Stroke is size max from general data.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -529,7 +585,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.festo.com/media/catalog/203032_documentation.pdf",
     "source": "Festo ESBF catalog (2025/11), Technical data: Mechanical data - ball screw / lead screw tables",
-    "remarks": "Lead (trapezoidal) screw variant, self-locking type drive; max acceleration 2.5 m/s2. Stroke is size max from general data."
+    "remarks": "Lead (trapezoidal) screw variant, self-locking type drive; max acceleration 2.5 m/s2. Stroke is size max from general data.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -549,7 +607,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -569,7 +629,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -589,7 +651,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -609,7 +673,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -629,7 +695,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -649,7 +717,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -669,7 +739,9 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -689,6 +761,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
     "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
-    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit).",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   }
 ]

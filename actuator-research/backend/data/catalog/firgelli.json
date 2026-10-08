@@ -39,7 +39,10 @@
     "price_usd": 159.95,
     "datasheet_url": "https://www.firgelliauto.com/products/super-duty-actuators",
     "source": "Firgelli product page 'Super Duty Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-super-duty-450",
@@ -81,7 +84,10 @@
     "price_usd": 169.95,
     "datasheet_url": "https://www.firgelliauto.com/products/super-duty-actuators",
     "source": "Firgelli product page 'Super Duty Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-classic-rod-35",
@@ -117,7 +123,10 @@
     "price_usd": 129.99,
     "datasheet_url": "https://www.firgelliauto.com/products/linear-actuators",
     "source": "Firgelli product page 'Classic Rod Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-classic-rod-150",
@@ -153,7 +162,10 @@
     "price_usd": 129.99,
     "datasheet_url": "https://www.firgelliauto.com/products/linear-actuators",
     "source": "Firgelli product page 'Classic Rod Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-classic-rod-200",
@@ -189,7 +201,10 @@
     "price_usd": 129.99,
     "datasheet_url": "https://www.firgelliauto.com/products/linear-actuators",
     "source": "Firgelli product page 'Classic Rod Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-utility-110",
@@ -222,7 +237,10 @@
     "price_usd": 149.95,
     "datasheet_url": "https://www.firgelliauto.com/products/utility-linear-actuators",
     "source": "Firgelli product page 'Utility Linear Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-utility-330",
@@ -255,7 +273,10 @@
     "price_usd": 149.95,
     "datasheet_url": "https://www.firgelliauto.com/products/utility-linear-actuators",
     "source": "Firgelli product page 'Utility Linear Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-industrial-2200",
@@ -287,7 +308,10 @@
     "price_usd": 435.0,
     "datasheet_url": "https://www.firgelliauto.com/products/industrial-actuators",
     "source": "Firgelli product page 'Industrial Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-industrial-1910-40in",
@@ -313,7 +337,10 @@
     "price_usd": 595.0,
     "datasheet_url": "https://www.firgelliauto.com/products/industrial-actuators",
     "source": "Firgelli product page 'Industrial Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-c-series-45",
@@ -357,7 +384,10 @@
     "price_usd": 119.99,
     "datasheet_url": "https://www.firgelliauto.com/products/c-series-actuators",
     "source": "Firgelli product page 'C-Series Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-c-series-135",
@@ -401,7 +431,10 @@
     "price_usd": 119.99,
     "datasheet_url": "https://www.firgelliauto.com/products/c-series-actuators",
     "source": "Firgelli product page 'C-Series Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-c-series-225",
@@ -445,7 +478,10 @@
     "price_usd": 119.99,
     "datasheet_url": "https://www.firgelliauto.com/products/c-series-actuators",
     "source": "Firgelli product page 'C-Series Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-micro-utility-8",
@@ -478,7 +514,10 @@
     "price_usd": 75.0,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-utility-actuator",
     "source": "Firgelli product page 'Micro Utility Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-utility-16",
@@ -511,7 +550,10 @@
     "price_usd": 75.0,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-utility-actuator",
     "source": "Firgelli product page 'Micro Utility Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-utility-38",
@@ -544,7 +586,10 @@
     "price_usd": 75.0,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-utility-actuator",
     "source": "Firgelli product page 'Micro Utility Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-bullet-35-22",
@@ -577,7 +622,10 @@
     "price_usd": 169.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-35-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 35 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-35-90",
@@ -610,7 +658,10 @@
     "price_usd": 179.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-35-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 35 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-35-180",
@@ -643,7 +694,10 @@
     "price_usd": 189.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-35-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 35 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-35-270",
@@ -676,7 +730,10 @@
     "price_usd": 189.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-35-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 35 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-50-500",
@@ -712,7 +769,10 @@
     "price_usd": 289.99,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-50-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 50 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-bullet-50-674",
@@ -748,7 +808,10 @@
     "price_usd": 289.99,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-50-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 50 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-bullet-50-1124",
@@ -784,7 +847,10 @@
     "price_usd": 319.99,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-50-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 50 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-deluxe-rod-100",
@@ -822,7 +888,10 @@
     "price_usd": 120.0,
     "datasheet_url": "https://www.firgelliauto.com/products/deluxe-rod-actuator",
     "source": "Firgelli product page 'Deluxe Rod Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-heavy-duty-rod-200",
@@ -852,7 +921,10 @@
     "price_usd": 149.99,
     "datasheet_url": "https://www.firgelliauto.com/products/heavy-duty",
     "source": "Firgelli product page 'Heavy Duty Rod Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-heavy-duty-rod-400",
@@ -888,7 +960,10 @@
     "price_usd": 149.99,
     "datasheet_url": "https://www.firgelliauto.com/products/heavy-duty",
     "source": "Firgelli product page 'Heavy Duty Rod Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-heavy-duty-rod-1000",
@@ -922,7 +997,10 @@
     "price_usd": 239.99,
     "datasheet_url": "https://www.firgelliauto.com/products/heavy-duty",
     "source": "Firgelli product page 'Heavy Duty Rod Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-feedback-rod-35",
@@ -955,7 +1033,10 @@
     "price_usd": 162.95,
     "datasheet_url": "https://www.firgelliauto.com/products/feedback-rod-actuator",
     "source": "Firgelli product page 'Feedback Rod Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-feedback-rod-150",
@@ -988,7 +1069,10 @@
     "price_usd": 162.95,
     "datasheet_url": "https://www.firgelliauto.com/products/feedback-rod-actuator",
     "source": "Firgelli product page 'Feedback Rod Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-feedback-rod-200",
@@ -1021,7 +1105,10 @@
     "price_usd": 162.95,
     "datasheet_url": "https://www.firgelliauto.com/products/feedback-rod-actuator",
     "source": "Firgelli product page 'Feedback Rod Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-heavy-duty-track-200",
@@ -1054,7 +1141,10 @@
     "price_usd": 259.99,
     "datasheet_url": "https://www.firgelliauto.com/products/heavy-duty-track-actuator",
     "source": "Firgelli product page 'Heavy Duty Track Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-heavy-duty-track-400",
@@ -1085,7 +1175,10 @@
     "price_usd": 279.99,
     "datasheet_url": "https://www.firgelliauto.com/products/heavy-duty-track-actuator",
     "source": "Firgelli product page 'Heavy Duty Track Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-mini-track-35",
@@ -1117,7 +1210,10 @@
     "price_usd": 119.95,
     "datasheet_url": "https://www.firgelliauto.com/products/mini-track-actuator",
     "source": "Firgelli product page 'Mini Track Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-power-max-900",
@@ -1152,7 +1248,10 @@
     "price_usd": 216.99,
     "datasheet_url": "https://www.firgelliauto.com/products/power-max-heavy-duty-actuators",
     "source": "Firgelli product page 'Power Max Heavy Duty Actuators - 900 to 1500lbs Force', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-power-max-1500",
@@ -1187,7 +1286,10 @@
     "price_usd": 230.99,
     "datasheet_url": "https://www.firgelliauto.com/products/power-max-heavy-duty-actuators",
     "source": "Firgelli product page 'Power Max Heavy Duty Actuators - 900 to 1500lbs Force', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-adjustable-stroke-35",
@@ -1226,7 +1328,10 @@
     "price_usd": 154.95,
     "datasheet_url": "https://www.firgelliauto.com/products/adjustable-stroke-linear-actuators",
     "source": "Firgelli product page 'Adjustable Stroke Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-adjustable-stroke-150",
@@ -1265,7 +1370,10 @@
     "price_usd": 154.95,
     "datasheet_url": "https://www.firgelliauto.com/products/adjustable-stroke-linear-actuators",
     "source": "Firgelli product page 'Adjustable Stroke Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-adjustable-stroke-240",
@@ -1304,7 +1412,10 @@
     "price_usd": 154.95,
     "datasheet_url": "https://www.firgelliauto.com/products/adjustable-stroke-linear-actuators",
     "source": "Firgelli product page 'Adjustable Stroke Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-36-224",
@@ -1339,7 +1450,10 @@
     "price_usd": 195.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-36-cal-linear-actuators",
     "source": "Firgelli product page 'Bullet Series 36 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-bullet-23-26",
@@ -1375,7 +1489,10 @@
     "price_usd": 170.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-23-cal",
     "source": "Firgelli product page 'Bullet Series 23 Cal. Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-mini-20",
@@ -1409,7 +1526,10 @@
     "price_usd": 160.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-mini-actuators",
     "source": "Firgelli product page 'Bullet Series Mini Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-bullet-mini-110",
@@ -1443,7 +1563,10 @@
     "price_usd": 170.0,
     "datasheet_url": "https://www.firgelliauto.com/products/bullet-series-mini-actuators",
     "source": "Firgelli product page 'Bullet Series Mini Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-industrial-heavy-duty-2200",
@@ -1475,7 +1598,10 @@
     "price_usd": 300.0,
     "datasheet_url": "https://www.firgelliauto.com/products/industrial-heavy-duty-linear-actuators",
     "source": "Firgelli product page 'FIRGELLI® Industrial Heavy Duty Linear Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-heavy-duty-ip66-200",
@@ -1509,7 +1635,10 @@
     "price_usd": 239.99,
     "datasheet_url": "https://www.firgelliauto.com/products/heavy-duty-linear-actuator-ip66",
     "source": "Firgelli product page 'Heavy Duty Rod Actuator - IP66 Rated (Dust and Water Resistant)', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-high-speed-22",
@@ -1549,7 +1678,10 @@
     "price_usd": 159.0,
     "datasheet_url": "https://www.firgelliauto.com/products/high-speed-actuator",
     "source": "Firgelli product page 'High Speed Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-optical-feedback-35",
@@ -1586,7 +1718,10 @@
     "price_usd": 110.0,
     "datasheet_url": "https://www.firgelliauto.com/products/optical-sensor-actuators",
     "source": "Firgelli product page 'Optical Feedback Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-optical-feedback-200",
@@ -1622,7 +1757,10 @@
     "price_usd": 110.0,
     "datasheet_url": "https://www.firgelliauto.com/products/optical-sensor-actuators",
     "source": "Firgelli product page 'Optical Feedback Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-optical-feedback-400",
@@ -1658,7 +1796,10 @@
     "price_usd": 118.0,
     "datasheet_url": "https://www.firgelliauto.com/products/optical-sensor-actuators",
     "source": "Firgelli product page 'Optical Feedback Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-sleek-rod-40",
@@ -1692,7 +1833,10 @@
     "price_usd": 149.99,
     "datasheet_url": "https://www.firgelliauto.com/products/tubular-linear-actuator",
     "source": "Firgelli product page 'Sleek Rod Tubular Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-sleek-rod-150",
@@ -1727,7 +1871,10 @@
     "price_usd": 149.99,
     "datasheet_url": "https://www.firgelliauto.com/products/tubular-linear-actuator",
     "source": "Firgelli product page 'Sleek Rod Tubular Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-mini-rod-15",
@@ -1760,7 +1907,9 @@
     "price_usd": 118.99,
     "datasheet_url": "https://www.firgelliauto.com/products/mini-linear-actuator",
     "source": "Firgelli product page 'Mini Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated"
   },
   {
     "id": "firgelli-p-series-400",
@@ -1795,7 +1944,10 @@
     "price_usd": 104.0,
     "datasheet_url": "https://www.firgelliauto.com/products/premium-high-force-linear-actuators",
     "source": "Firgelli product page 'P-Series High Force Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-p-series-35",
@@ -1832,7 +1984,10 @@
     "price_usd": 96.0,
     "datasheet_url": "https://www.firgelliauto.com/products/premium-linear-actuators",
     "source": "Firgelli product page 'P-Series Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-p-series-150",
@@ -1869,7 +2024,10 @@
     "price_usd": 96.0,
     "datasheet_url": "https://www.firgelliauto.com/products/premium-linear-actuators",
     "source": "Firgelli product page 'P-Series Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-p-series-200",
@@ -1906,7 +2064,10 @@
     "price_usd": 96.0,
     "datasheet_url": "https://www.firgelliauto.com/products/premium-linear-actuators",
     "source": "Firgelli product page 'P-Series Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "unstated",
+    "current_condition": "max"
   },
   {
     "id": "firgelli-fa-scl-650",
@@ -1927,7 +2088,9 @@
     "datasheet_url": "https://www.firgelliauto.com/products/electric-column-lift",
     "source": "Firgelli product page 'Kitchen Appliance Lift - Column Lift Actuator', Technical Details table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Dynamic 180 lbf; speed 0.8 in/s at full load. 24V output (max 7A) from included control box, 100-120 VAC input. Bending moment 1200 lbf-in. Duty 50% depending on load."
+    "remarks": "Dynamic 180 lbf; speed 0.8 in/s at full load. 24V output (max 7A) from included control box, 100-120 VAC input. Bending moment 1200 lbf-in. Duty 50% depending on load.",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "id": "firgelli-fa-scl-1000",
@@ -1948,7 +2111,9 @@
     "datasheet_url": "https://www.firgelliauto.com/products/electric-column-lift",
     "source": "Firgelli product page 'Kitchen Appliance Lift - Column Lift Actuator', Technical Details table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Dynamic 80 lbf; speed 0.8 in/s at full load. 24V output (max 7A) from included control box, 100-120 VAC input. Bending moment 1200 lbf-in. Duty 50% depending on load."
+    "remarks": "Dynamic 80 lbf; speed 0.8 in/s at full load. 24V output (max 7A) from included control box, 100-120 VAC input. Bending moment 1200 lbf-in. Duty 50% depending on load.",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load"
   },
   {
     "id": "firgelli-f12-4",
@@ -1980,7 +2145,10 @@
     "price_usd": 50.0,
     "datasheet_url": "https://www.firgelliauto.com/products/f12-micro-linear-actuators",
     "source": "Firgelli product page 'F12 Micro Linear Actuators', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-silent-micro-22",
@@ -2014,7 +2182,10 @@
     "price_usd": 52.0,
     "datasheet_url": "https://www.firgelliauto.com/products/silent-micro-linear-actuator",
     "source": "Firgelli product page 'Silent Micro Linear Actuator', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-pen-feedback-20n",
@@ -2046,7 +2217,10 @@
     "price_usd": 135.95,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-actuators",
     "source": "Firgelli product page 'Micro Pen Actuator with Feedback', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-pen-feedback-50n",
@@ -2078,7 +2252,10 @@
     "price_usd": 135.95,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-actuators",
     "source": "Firgelli product page 'Micro Pen Actuator with Feedback', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-pen-feedback-100n",
@@ -2110,7 +2287,10 @@
     "price_usd": 135.95,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-actuators",
     "source": "Firgelli product page 'Micro Pen Actuator with Feedback', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "no-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-pen-20n",
@@ -2142,7 +2322,10 @@
     "price_usd": 135.95,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-actuators-12v",
     "source": "Firgelli product page 'Micro Pen Actuators 12v', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "full-load"
   },
   {
     "id": "firgelli-micro-pen-100n",
@@ -2173,6 +2356,9 @@
     "price_usd": 135.95,
     "datasheet_url": "https://www.firgelliauto.com/products/micro-actuators-12v",
     "source": "Firgelli product page 'Micro Pen Actuators 12v', Technical Details table + variant list",
-    "retrieved_on": "2026-10-07"
+    "retrieved_on": "2026-10-07",
+    "peak_basis": "max-load",
+    "speed_condition": "full-load",
+    "current_condition": "full-load"
   }
 ]

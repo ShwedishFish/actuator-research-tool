@@ -17,7 +17,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -37,7 +39,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -57,7 +61,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -77,7 +83,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -97,7 +105,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -117,7 +127,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -137,7 +149,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -157,7 +171,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -177,7 +193,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -197,7 +215,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -217,7 +237,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -237,7 +259,9 @@
     "feedback": "incremental encoder",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm."
+    "remarks": "Peak force = maximum of the published pushing-force setting range (pushing-force accuracy +/-20% F.S.; depends on duty ratio). Speed with JXC*1/LECP1 controller. Holding force applies to lock option. Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -255,7 +279,9 @@
     "supply_voltage_v": 24,
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm."
+    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -273,7 +299,9 @@
     "supply_voltage_v": 24,
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm."
+    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -291,7 +319,9 @@
     "supply_voltage_v": 24,
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm."
+    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -309,7 +339,9 @@
     "supply_voltage_v": 24,
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm."
+    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -327,7 +359,9 @@
     "supply_voltage_v": 24,
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm."
+    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "unstated"
   },
   {
     "kind": "linear",
@@ -345,7 +379,9 @@
     "supply_voltage_v": 24,
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm."
+    "remarks": "Peak = upper end of published pushing-force range (+/-20% F.S.). Stroke from 30 mm.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -363,7 +399,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "100 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "100 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -381,7 +419,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "100 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "100 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -399,7 +439,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "100 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "100 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -417,7 +459,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes. Lead includes 1.25:1 belt ratio."
+    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes. Lead includes 1.25:1 belt ratio.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -435,7 +479,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes. Lead includes 1.25:1 belt ratio."
+    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes. Lead includes 1.25:1 belt ratio.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -453,7 +499,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes. Lead includes 1.25:1 belt ratio."
+    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes. Lead includes 1.25:1 belt ratio.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -471,7 +519,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -489,7 +539,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -507,7 +559,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "200 W AC servo motor (100/200 VAC driver). Peak = upper end of published force range at set value 15-30%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -525,7 +579,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -543,7 +599,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -561,7 +619,9 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes."
+    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes.",
+    "peak_basis": "max-push",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -578,6 +638,7 @@
     "feedback": "incremental or absolute encoder (motor type option)",
     "datasheet_url": "https://static.smc.eu/pdf/LEY.pdf",
     "source": "SMC Electric Actuator Rod Type LEY catalog CAT.ES100-83F, Specifications tables",
-    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes. Lead 5 mm with 4:7 pulley (2.86 mm equiv.), parallel type only; speed not clearly tabulated."
+    "remarks": "400 W AC servo motor (200 VAC). Peak = upper end of published force range at set value 15-50%. Max speed for shortest stroke band; decreases with longer strokes. Lead 5 mm with 4:7 pulley (2.86 mm equiv.), parallel type only; speed not clearly tabulated.",
+    "peak_basis": "max-push"
   }
 ]

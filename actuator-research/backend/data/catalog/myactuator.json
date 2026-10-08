@@ -19,7 +19,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x2-p28-7",
     "source": "MyActuator USA product page (myactuator.us), RMD-X2-P28-7 technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 2.5 N.m at 142 RPM, 3 A; peak current 8.1 A. max_speed is no-load at 24 V. Rated power 37 W. Gear ratio 28.17. Backlash 12 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 3.75 N·m/15 s, 5 N·m/10 s, 6.25 N·m/8 s, 7.5 N·m/5 s."
+    "remarks": "Rated 2.5 N.m at 142 RPM, 3 A; peak current 8.1 A. max_speed is no-load at 24 V. Rated power 37 W. Gear ratio 28.17. Backlash 12 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 3.75 N·m/15 s, 5 N·m/10 s, 6.25 N·m/8 s, 7.5 N·m/5 s.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x4-p12-5-10",
@@ -41,7 +45,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x4-p12-5-10",
     "source": "MyActuator USA product page (myactuator.us), RMD-X4-P12.5-10 technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 4 N.m at 238 RPM, 7.8 A; peak current 19.5 A. max_speed is no-load at 24 V. Rated power 100 W. Gear ratio 12.5. Backlash 10 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 5.2 N·m/10 s, 6 N·m/8 s, 7.2 N·m/5 s, 8 N·m/3 s."
+    "remarks": "Rated 4 N.m at 238 RPM, 7.8 A; peak current 19.5 A. max_speed is no-load at 24 V. Rated power 100 W. Gear ratio 12.5. Backlash 10 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 5.2 N·m/10 s, 6 N·m/8 s, 7.2 N·m/5 s, 8 N·m/3 s.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x4-p36-36-e",
@@ -63,7 +71,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x4-p36-36",
     "source": "MyActuator USA product page (myactuator.us), RMD-X4-P36-36-E technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 10.5 N.m at 83 RPM, 6.1 A(rms); peak current 21.5 A(rms). max_speed is no-load at 24 V. Rated power 100 W. Gear ratio 36. Backlash 10 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 17.25 N·m/15 s, 23 N·m/10 s, 28.75 N·m/5 s, 34.5 N·m/3 s."
+    "remarks": "Rated 10.5 N.m at 83 RPM, 6.1 A(rms); peak current 21.5 A(rms). max_speed is no-load at 24 V. Rated power 100 W. Gear ratio 36. Backlash 10 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 17.25 N·m/15 s, 23 N·m/10 s, 28.75 N·m/5 s, 34.5 N·m/3 s.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x4-p36-36-e-l",
@@ -85,7 +97,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x4-p36-36-e-l",
     "source": "MyActuator USA product page (myactuator.us), RMD-X4-P36-36-E-L technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 10.5 N.m at 83 RPM, 6.1 A; peak current 21.2 A. max_speed is no-load at 24 V. Rated power 100 W. Gear ratio 36. Backlash 15 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 10.5 N·m/551 s, 31.5 N·m/7 s. myactuator.com sheet: stall torque 36 N·m."
+    "remarks": "Rated 10.5 N.m at 83 RPM, 6.1 A; peak current 21.2 A. max_speed is no-load at 24 V. Rated power 100 W. Gear ratio 36. Backlash 15 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 10.5 N·m/551 s, 31.5 N·m/7 s. myactuator.com sheet: stall torque 36 N·m.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x6-p20-60-e",
@@ -106,7 +122,11 @@
     "datasheet_url": "https://www.myactuator.com/x6-60details",
     "source": "MyActuator X6-60 product parameters sheet (myactuator.com)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 20 N·m at 153 rpm, 9.5 A(rms); peak current 29.1 A(rms). max_speed is no-load at 48 V (range 20-55 V). Rated power 320 W. Ratio 19.612. Backlash ≤15 arcmin. EtherCAT & CAN BUS. myactuator.us listing \"RMD-X6-P20-60\" (USD 599) gives peak 50 N·m, 0.78 kg (matches X6-50-L); used myactuator.com sheet values; price omitted (listing not clearly this variant)."
+    "remarks": "Rated 20 N·m at 153 rpm, 9.5 A(rms); peak current 29.1 A(rms). max_speed is no-load at 48 V (range 20-55 V). Rated power 320 W. Ratio 19.612. Backlash ≤15 arcmin. EtherCAT & CAN BUS. myactuator.us listing \"RMD-X6-P20-60\" (USD 599) gives peak 50 N·m, 0.78 kg (matches X6-50-L); used myactuator.com sheet values; price omitted (listing not clearly this variant).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x8-p9-32-r",
@@ -128,7 +148,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x8-p9-32-r",
     "source": "MyActuator USA product page (myactuator.us), RMD-X8-P9-32-R technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 8 N.m at 244 RPM, 6.2 A; peak current 30 A. max_speed is no-load at 24 V. Rated power 204 W. Gear ratio 9. Backlash 8 Arcmin. Bus: RS485. Brake: N (without brake)."
+    "remarks": "Rated 8 N.m at 244 RPM, 6.2 A; peak current 30 A. max_speed is no-load at 24 V. Rated power 204 W. Gear ratio 9. Backlash 8 Arcmin. Bus: RS485. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x8-p20-120-e",
@@ -150,7 +174,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x8-p20-120",
     "source": "MyActuator USA product page (myactuator.us), RMD-X8-P20-120-E technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 43 N.m at 127 RPM, 17.6 A(rms); peak current 43.8 A(rms). max_speed is no-load at 48 V. Rated power 574 W. Gear ratio 19.612. Backlash 10 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 64.5 N·m/15 s, 86 N·m/10 s, 107.5 N·m/8 s, 129 N·m/5 s."
+    "remarks": "Rated 43 N.m at 127 RPM, 17.6 A(rms); peak current 43.8 A(rms). max_speed is no-load at 48 V. Rated power 574 W. Gear ratio 19.612. Backlash 10 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 64.5 N·m/15 s, 86 N·m/10 s, 107.5 N·m/8 s, 129 N·m/5 s.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x8-p20-150-e-03",
@@ -172,7 +200,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x8-p20-150-e-03",
     "source": "MyActuator USA product page (myactuator.us), RMD-X8-P20-150-E-03 technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 43 N.m at 127 RPM, 17.6 A; peak current 67.18 A. max_speed is no-load at 48 V. Rated power 574 W. Gear ratio 19.612. Backlash 15 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). myactuator.com X8-150 sheet: stall torque 150 N·m, 67.18 A(rms) stall current, dual ABS 17/19-bit encoder."
+    "remarks": "Rated 43 N.m at 127 RPM, 17.6 A; peak current 67.18 A. max_speed is no-load at 48 V. Rated power 574 W. Gear ratio 19.612. Backlash 15 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). myactuator.com X8-150 sheet: stall torque 150 N·m, 67.18 A(rms) stall current, dual ABS 17/19-bit encoder.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x10-p20-200-e",
@@ -194,7 +226,11 @@
     "datasheet_url": "https://myactuator.us/products/rmd-x-series/rmd-x10-p20-200-e",
     "source": "MyActuator USA product page (myactuator.us), RMD-X10-P20-200-E technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 60 N.m at 74 RPM, 12.7 A; 56.6 A(rms) is stall phase current (stall torque 200 N·m per myactuator.com sheet). max_speed is no-load at 48 V. Rated power 465 W. Gear ratio 20. Backlash 15 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 60 N·m/3660 s, 180 N·m/14 s."
+    "remarks": "Rated 60 N.m at 74 RPM, 12.7 A; 56.6 A(rms) is stall phase current (stall torque 200 N·m per myactuator.com sheet). max_speed is no-load at 48 V. Rated power 465 W. Gear ratio 20. Backlash 15 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake). Stall table: 60 N·m/3660 s, 180 N·m/14 s.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rh-14-100-e-n-d",
@@ -216,7 +252,11 @@
     "datasheet_url": "https://myactuator.us/products/rh-series/rh-14-100-e-n-d",
     "source": "MyActuator USA product page (myactuator.us), RH-14-100-E-N-D technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 11 N.m at 25 RPM, 2.8 A; peak current 5.7 A. max_speed is no-load at 48 V. Rated power 28 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 11 N.m at 25 RPM, 2.8 A; peak current 5.7 A. max_speed is no-load at 48 V. Rated power 28 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rh-17-100-e-n-d",
@@ -238,7 +278,11 @@
     "datasheet_url": "https://myactuator.us/products/rh-series/rh-17-100-e-n-d",
     "source": "MyActuator USA product page (myactuator.us), RH-17-100-E-N-D technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 35 N.m at 25 RPM, 4.7 A; peak current 7.4 A. max_speed is no-load at 48 V. Rated power 91 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 35 N.m at 25 RPM, 4.7 A; peak current 7.4 A. max_speed is no-load at 48 V. Rated power 91 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rh-20-100-e-n-d",
@@ -260,7 +304,11 @@
     "datasheet_url": "https://myactuator.us/products/rh-series/rh-20-100-e-n-d",
     "source": "MyActuator USA product page (myactuator.us), RH-20-100-E-N-D technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 50 N.m at 25 RPM, 6.8 A; peak current 10.6 A. max_speed is no-load at 48 V. Rated power 130 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 50 N.m at 25 RPM, 6.8 A; peak current 10.6 A. max_speed is no-load at 48 V. Rated power 130 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rh-25-100-e-n-d",
@@ -282,7 +330,11 @@
     "datasheet_url": "https://myactuator.us/products/rh-series/rh-25-100-e-n-d",
     "source": "MyActuator USA product page (myactuator.us), RH-25-100-E-N-D technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 108 N.m at 25 RPM, 10.6 A; peak current 14.1 A. max_speed is no-load at 48 V. Rated power 282 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 108 N.m at 25 RPM, 10.6 A; peak current 14.1 A. max_speed is no-load at 48 V. Rated power 282 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rh-32-100-e-n-d",
@@ -304,7 +356,11 @@
     "datasheet_url": "https://myactuator.us/products/rh-series/rh-32-100-e-n-d",
     "source": "MyActuator USA product page (myactuator.us), RH-32-100-E-N-D technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 150 N.m at 18 RPM, 21.8 A; peak current 32.1 A. max_speed is no-load at 48 V. Rated power 282 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 150 N.m at 18 RPM, 21.8 A; peak current 32.1 A. max_speed is no-load at 48 V. Rated power 282 W. Gear ratio 100. Backlash 40 Arcsec. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-cem-25",
@@ -326,7 +382,11 @@
     "datasheet_url": "https://myactuator.us/products/cem-series/cem-25",
     "source": "MyActuator USA product page (myactuator.us), CEM-25 technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 15 N.m at 100 RPM, 2.6 A; peak current 7.2 A. max_speed is no-load at 48 V. Rated power 157 W. Gear ratio 30. Backlash <5 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 15 N.m at 100 RPM, 2.6 A; peak current 7.2 A. max_speed is no-load at 48 V. Rated power 157 W. Gear ratio 30. Backlash <5 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-cem-45",
@@ -348,7 +408,11 @@
     "datasheet_url": "https://myactuator.us/products/cem-series/cem-45",
     "source": "MyActuator USA product page (myactuator.us), CEM-45 technical parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 25 N.m at 80 RPM, 5.7 A; peak current 16.8 A. max_speed is no-load at 48 V. Rated power 210 W. Gear ratio 30. Backlash <5 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake)."
+    "remarks": "Rated 25 N.m at 80 RPM, 5.7 A; peak current 16.8 A. max_speed is no-load at 48 V. Rated power 210 W. Gear ratio 30. Backlash <5 Arcmin. Bus: CAN BUS / EtherCAT. Brake: N (without brake).",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x12-p20-320-e",
@@ -369,7 +433,11 @@
     "datasheet_url": "https://www.myactuator.com/x12-320-details",
     "source": "MyActuator X12-P20-320-E product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 85.0 N·m at 100 rpm, 30.0 A; peak current 100 A. max_speed is no-load at 48.0 V. Rated power 900 W. Ratio 20. Backlash ≤15 arcmin. EtherCAT & CAN BUS. Currents are phase A(rms). Voltage range 20-70 V."
+    "remarks": "Rated 85.0 N·m at 100 rpm, 30.0 A; peak current 100 A. max_speed is no-load at 48.0 V. Rated power 900 W. Ratio 20. Backlash ≤15 arcmin. EtherCAT & CAN BUS. Currents are phase A(rms). Voltage range 20-70 V.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x15-p20-450-e",
@@ -390,7 +458,11 @@
     "datasheet_url": "https://www.myactuator.com/x15-450-details",
     "source": "MyActuator X15-P20-450-E product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 145.0 N·m at 98 rpm, 25.0 A; peak current 69.2 A. max_speed is no-load at 72.0 V. Rated power 1480 W. Ratio 20.25. Backlash ≤15 arcmin. EtherCAT & CAN BUS. Currents are phase A(rms). Voltage range 20-80 V."
+    "remarks": "Rated 145.0 N·m at 98 rpm, 25.0 A; peak current 69.2 A. max_speed is no-load at 72.0 V. Rated power 1480 W. Ratio 20.25. Backlash ≤15 arcmin. EtherCAT & CAN BUS. Currents are phase A(rms). Voltage range 20-80 V.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x4-p12-10-e-l",
@@ -411,7 +483,11 @@
     "datasheet_url": "https://www.myactuator.com/x4-10-l-details",
     "source": "MyActuator X4-P12-10-E-L product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 4.0 N·m at 238 rpm, 7.8 A; max_speed is no-load at 24.0 V. Rated power 100 W. Ratio 12.5. Backlash ≤15 arcmin. EtherCAT / CAN BUS. V4.1 L variant; peak current not listed (rated phase current A rms). Voltage range 20-55 V."
+    "remarks": "Rated 4.0 N·m at 238 rpm, 7.8 A; max_speed is no-load at 24.0 V. Rated power 100 W. Ratio 12.5. Backlash ≤15 arcmin. EtherCAT / CAN BUS. V4.1 L variant; peak current not listed (rated phase current A rms). Voltage range 20-55 V.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x6-p20-50-e-l",
@@ -432,7 +508,11 @@
     "datasheet_url": "https://www.myactuator.com/%E5%89%AF%E6%9C%AC-v4-1-x4-10-l-details",
     "source": "MyActuator X6-P20-50-E-L product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 20.0 N·m at 153 rpm, 9.5 A(rms) / 13.4 A(peak); peak current not listed. max_speed is no-load at 48.0 V. Rated power 320 W. Ratio 19.612. Backlash 15 arcmin. EtherCAT / CAN BUS. Stall torque 50 N·m; 35.4 A(rms) is stall phase current. Hollow shaft 8.6 mm. Voltage range 20-55 V."
+    "remarks": "Rated 20.0 N·m at 153 rpm, 9.5 A(rms) / 13.4 A(peak); peak current not listed. max_speed is no-load at 48.0 V. Rated power 320 W. Ratio 19.612. Backlash 15 arcmin. EtherCAT / CAN BUS. Stall torque 50 N·m; 35.4 A(rms) is stall phase current. Hollow shaft 8.6 mm. Voltage range 20-55 V.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated",
+    "speed_condition": "no-load"
   },
   {
     "id": "myactuator-rmd-x10-p7-40",
@@ -452,7 +532,10 @@
     "datasheet_url": "https://www.myactuator.com/x10-40-details",
     "source": "MyActuator X10-P7-40 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 15.0 N·m at 165.0 rpm, 6.5 A; peak current 15 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 265 W. Ratio 7. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
+    "remarks": "Rated 15.0 N·m at 165.0 rpm, 6.5 A; peak current 15 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 265 W. Ratio 7. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated"
   },
   {
     "id": "myactuator-rmd-x10-p35-100",
@@ -472,7 +555,10 @@
     "datasheet_url": "https://www.myactuator.com/x10-100-details",
     "source": "MyActuator X10-P35-100 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 50.0 N·m at 50.0 rpm, 6.7 A; peak current 13.5 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 265 W. Ratio 35. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
+    "remarks": "Rated 50.0 N·m at 50.0 rpm, 6.7 A; peak current 13.5 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 265 W. Ratio 35. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated"
   },
   {
     "id": "myactuator-rmd-x6-p8-8",
@@ -492,7 +578,10 @@
     "datasheet_url": "https://www.myactuator.com/x6-8-details",
     "source": "MyActuator X6-P8-8 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 4.5 N·m at 310.0 rpm, 3.6 A; peak current 7.2 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 135 W. Ratio 8. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
+    "remarks": "Rated 4.5 N·m at 310.0 rpm, 3.6 A; peak current 7.2 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 135 W. Ratio 8. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated"
   },
   {
     "id": "myactuator-rmd-x6-p6-7",
@@ -512,7 +601,10 @@
     "datasheet_url": "https://www.myactuator.com/x6-7-details",
     "source": "MyActuator X6-P6-7 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 3.5 N·m at 400.0 rpm, 4.0 A; peak current 9 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 150 W. Ratio 6. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
+    "remarks": "Rated 3.5 N·m at 400.0 rpm, 4.0 A; peak current 9 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 150 W. Ratio 6. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated"
   },
   {
     "id": "myactuator-rmd-x6-p36-40",
@@ -532,7 +624,10 @@
     "datasheet_url": "https://www.myactuator.com/x6-40-details",
     "source": "MyActuator X6-P36-40 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 18.0 N·m at 90.0 rpm, 5.2 A; peak current 10.5 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 170 W. Ratio 36. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
+    "remarks": "Rated 18.0 N·m at 90.0 rpm, 5.2 A; peak current 10.5 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 170 W. Ratio 36. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated"
   },
   {
     "id": "myactuator-rmd-x8-p9-25",
@@ -552,6 +647,9 @@
     "datasheet_url": "https://www.myactuator.com/x8-25-details",
     "source": "MyActuator X8-P9-25 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 10.0 N·m at 110.0 rpm, 3.2 A; peak current 8 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 125 W. Ratio 9. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
+    "remarks": "Rated 10.0 N·m at 110.0 rpm, 3.2 A; peak current 8 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 125 W. Ratio 9. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series.",
+    "peak_basis": "peak",
+    "continuous_basis": "rated",
+    "current_condition": "rated"
   }
 ]

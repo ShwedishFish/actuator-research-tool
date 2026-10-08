@@ -15,7 +15,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -33,7 +34,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options. Product page lists 400 mm/s max for 150/300 mm stroke actuator-alone."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options. Product page lists 400 mm/s max for 150/300 mm stroke actuator-alone.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -51,7 +53,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options. Product page lists 800 mm/s max for 150/300 mm stroke actuator-alone."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options. Product page lists 800 mm/s max for 150/300 mm stroke actuator-alone.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -69,7 +72,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -87,7 +91,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -105,7 +110,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -123,7 +129,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -141,7 +148,8 @@
     "ip_rating": "IP40",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2190-4000_28_ERD-cat.pdf",
     "source": "Tolomatic ERD catalog 2190-4000_28, ERD10/15/20 Specifications (metric) table",
-    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options."
+    "remarks": "Motorless (NEMA/metric stepper or servo). Speed limited by screw critical speed vs stroke (catalog chart); not tabulated. IP40 standard; IP67/IP69K options.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -164,7 +172,10 @@
     "feedback": "integrated servo (Teknic ClearPath-MC)",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2024/01/2190-4021_01_Quick_Ship_Flyer.pdf",
     "source": "Tolomatic ERD15 Quick Ship flyer 2190-4021_01, Specifications table",
-    "remarks": "Package with Teknic ClearPath-MC integrated drive/motor, 24-75 VDC operating range. 10 mm lead package (2192-0291/0293) rated 325 N cont., 550 mm/s."
+    "remarks": "Package with Teknic ClearPath-MC integrated drive/motor, 24-75 VDC operating range. 10 mm lead package (2192-0291/0293) rated 325 N cont., 550 mm/s.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -182,7 +193,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -200,7 +212,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -218,7 +231,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -236,7 +250,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -254,7 +269,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -272,7 +288,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -290,7 +307,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -308,7 +326,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -326,7 +345,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -344,7 +364,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -362,7 +383,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -380,7 +402,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -398,7 +421,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -416,7 +440,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -434,7 +459,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -452,7 +478,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -470,7 +497,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -488,7 +516,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -506,7 +535,8 @@
     "ip_rating": "IP69K",
     "datasheet_url": "https://www.tolomatic.com/wp-content/uploads/2022/05/2100-4010_06_RSH_Cat-2.pdf",
     "source": "Tolomatic RSH catalog 2100-4010_06, Size: All Specifications (metric) table",
-    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor."
+    "remarks": "316 stainless hygienic actuator (replaces ERD22/25/30). Max thrust per screw; speed limited by critical speed vs stroke (catalog chart), product page lists 498 mm/s frame max. Thrust depends on user motor.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -525,7 +555,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -544,7 +576,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -563,7 +597,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -582,7 +618,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX096."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX096.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -601,7 +639,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX096."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX096.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -620,7 +660,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX096."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX096.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -639,7 +681,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -658,7 +702,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX128."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Formerly RSX128.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -677,7 +723,9 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Pressing variant: max force in extend only."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Pressing variant: max force in extend only.",
+    "peak_basis": "max-load",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -695,7 +743,8 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Per-screw speed not tabulated; product page lists 432 mm/s frame max."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Per-screw speed not tabulated; product page lists 432 mm/s frame max.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -713,7 +762,8 @@
     "feedback": "motorless - user motor",
     "datasheet_url": "https://www.tolomatic.com/products/product-details/rsx-extreme-force-electric-linear-actuators/",
     "source": "Tolomatic RSX product page, RSX Specifications (Metric) table; per-screw max speed from RSX catalog 2171-4001_32",
-    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Per-screw speed not tabulated; product page lists 432 mm/s frame max."
+    "remarks": "Motorless (Your Motor Here). Max thrust per screw; designed for 100% duty. Extended strokes on request. IP67 option. Per-screw speed not tabulated; product page lists 432 mm/s frame max.",
+    "peak_basis": "max-load"
   },
   {
     "kind": "linear",
@@ -731,7 +781,10 @@
     "stroke_mm": 305,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -749,7 +802,10 @@
     "stroke_mm": 305,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -767,7 +823,10 @@
     "stroke_mm": 305,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -784,7 +843,9 @@
     "stroke_mm": 305,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max. Speed unlisted: catalog metric table says 771 mm/s, imperial table says 28 in/s."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max. Speed unlisted: catalog metric table says 771 mm/s, imperial table says 28 in/s.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous"
   },
   {
     "kind": "linear",
@@ -802,7 +863,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -820,7 +884,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -838,7 +905,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -856,7 +926,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -874,7 +947,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -892,7 +968,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -910,7 +989,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -928,7 +1010,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -946,7 +1031,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -964,7 +1052,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -982,7 +1073,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1000,7 +1094,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1018,7 +1115,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1036,7 +1136,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1054,7 +1157,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1072,7 +1178,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1090,7 +1199,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1108,7 +1220,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1126,7 +1241,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1144,7 +1262,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1162,7 +1283,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1180,7 +1304,10 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   },
   {
     "kind": "linear",
@@ -1198,6 +1325,9 @@
     "stroke_mm": 457,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max.",
+    "peak_basis": "peak",
+    "continuous_basis": "continuous",
+    "speed_condition": "max"
   }
 ]
