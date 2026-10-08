@@ -11,6 +11,10 @@
     "peak_torque_nm": 1.78,
     "continuous_torque_nm": 0.636,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 9.3e-06,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.1,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.17,
@@ -18,7 +22,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.448 kW at 8000 rpm (0.534 N·m); 400 VAC: rated 0.439 kW at 8000 rpm (0.525 N·m). Rotor inertia 9.3e-06 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.448 kW at 8000 rpm (0.534 N·m); 400 VAC: rated 0.439 kW at 8000 rpm (0.525 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-21e",
@@ -32,6 +36,10 @@
     "peak_torque_nm": 1.79,
     "continuous_torque_nm": 0.642,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 9.3e-06,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.1,
     "supply_voltage_v": 240.0,
     "rated_current_a": 2.73,
@@ -39,7 +47,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.448 kW at 8000 rpm (0.534 N·m). Rotor inertia 9.3e-06 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 240 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.448 kW at 8000 rpm (0.534 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 240 VAC."
   },
   {
     "id": "kollmorgen-akm2g-21g",
@@ -53,6 +61,10 @@
     "peak_torque_nm": 1.79,
     "continuous_torque_nm": 0.649,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 9.3e-06,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.1,
     "supply_voltage_v": 120.0,
     "rated_current_a": 4.18,
@@ -60,7 +72,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). Rotor inertia 9.3e-06 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 120 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 120 VAC."
   },
   {
     "id": "kollmorgen-akm2g-22c",
@@ -74,6 +86,10 @@
     "peak_torque_nm": 3.33,
     "continuous_torque_nm": 1.11,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 1.55e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.4,
     "supply_voltage_v": 480.0,
     "rated_current_a": 1.65,
@@ -81,7 +97,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.48 kW at 4400 rpm (1.04 N·m); 400 VAC: rated 0.781 kW at 7800 rpm (0.956 N·m). Rotor inertia 1.55e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.48 kW at 4400 rpm (1.04 N·m); 400 VAC: rated 0.781 kW at 7800 rpm (0.956 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-22d",
@@ -95,6 +111,10 @@
     "peak_torque_nm": 3.33,
     "continuous_torque_nm": 1.11,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 1.55e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.4,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.37,
@@ -102,7 +122,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.685 kW at 6600 rpm (0.991 N·m); 400 VAC: rated 0.786 kW at 8000 rpm (0.938 N·m). Rotor inertia 1.55e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.685 kW at 6600 rpm (0.991 N·m); 400 VAC: rated 0.786 kW at 8000 rpm (0.938 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-22e",
@@ -116,6 +136,10 @@
     "peak_torque_nm": 3.34,
     "continuous_torque_nm": 1.11,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 1.55e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.4,
     "supply_voltage_v": 240.0,
     "rated_current_a": 2.93,
@@ -123,7 +147,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.8 kW at 8000 rpm (0.955 N·m). Rotor inertia 1.55e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 240 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.8 kW at 8000 rpm (0.955 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 240 VAC."
   },
   {
     "id": "kollmorgen-akm2g-23d",
@@ -137,6 +161,10 @@
     "peak_torque_nm": 4.69,
     "continuous_torque_nm": 1.48,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 2.17e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.7,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.11,
@@ -144,7 +172,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.615 kW at 4300 rpm (1.37 N·m); 400 VAC: rated 0.977 kW at 7600 rpm (1.23 N·m). Rotor inertia 2.17e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.615 kW at 4300 rpm (1.37 N·m); 400 VAC: rated 0.977 kW at 7600 rpm (1.23 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-23e",
@@ -158,6 +186,10 @@
     "peak_torque_nm": 4.69,
     "continuous_torque_nm": 1.48,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 2.17e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.7,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.92,
@@ -165,7 +197,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.839 kW at 6200 rpm (1.29 N·m); 400 VAC: rated 0.993 kW at 8000 rpm (1.19 N·m). Rotor inertia 2.17e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.839 kW at 6200 rpm (1.29 N·m); 400 VAC: rated 0.993 kW at 8000 rpm (1.19 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-23f",
@@ -179,6 +211,10 @@
     "peak_torque_nm": 4.74,
     "continuous_torque_nm": 1.5,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 2.17e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.7,
     "supply_voltage_v": 240.0,
     "rated_current_a": 4.07,
@@ -186,7 +222,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.02 kW at 8000 rpm (1.22 N·m). Rotor inertia 2.17e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 240 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.02 kW at 8000 rpm (1.22 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 240 VAC."
   },
   {
     "id": "kollmorgen-akm2g-24d",
@@ -200,6 +236,10 @@
     "peak_torque_nm": 5.93,
     "continuous_torque_nm": 1.8,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 2.79e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.11,
@@ -207,7 +247,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.629 kW at 3600 rpm (1.67 N·m); 400 VAC: rated 0.999 kW at 6300 rpm (1.51 N·m). Rotor inertia 2.79e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.629 kW at 3600 rpm (1.67 N·m); 400 VAC: rated 0.999 kW at 6300 rpm (1.51 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-24e",
@@ -221,6 +261,10 @@
     "peak_torque_nm": 5.95,
     "continuous_torque_nm": 1.81,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 2.79e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.92,
@@ -228,7 +272,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.853 kW at 5100 rpm (1.6 N·m); 400 VAC: rated 1.16 kW at 8000 rpm (1.39 N·m). Rotor inertia 2.79e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.853 kW at 5100 rpm (1.6 N·m); 400 VAC: rated 1.16 kW at 8000 rpm (1.39 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-24f",
@@ -242,6 +286,10 @@
     "peak_torque_nm": 6.0,
     "continuous_torque_nm": 1.83,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 2.79e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 4.11,
@@ -249,7 +297,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-2x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.13 kW at 7300 rpm (1.47 N·m); 400 VAC: rated 1.14 kW at 8000 rpm (1.36 N·m). Rotor inertia 2.79e-05 kg·m² (with resolver). Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.13 kW at 7300 rpm (1.47 N·m); 400 VAC: rated 1.14 kW at 8000 rpm (1.36 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.45 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-31c",
@@ -263,6 +311,10 @@
     "peak_torque_nm": 5.99,
     "continuous_torque_nm": 1.68,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 4.26e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 1.48,
@@ -270,7 +322,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.412 kW at 2400 rpm (1.64 N·m); 400 VAC: rated 0.713 kW at 4300 rpm (1.58 N·m). Rotor inertia 4.26e-05 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.412 kW at 2400 rpm (1.64 N·m); 400 VAC: rated 0.713 kW at 4300 rpm (1.58 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-31d",
@@ -284,6 +336,10 @@
     "peak_torque_nm": 6.0,
     "continuous_torque_nm": 1.68,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 4.26e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.06,
@@ -291,7 +347,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.594 kW at 3500 rpm (1.62 N·m); 400 VAC: rated 0.972 kW at 6100 rpm (1.52 N·m). Rotor inertia 4.26e-05 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.594 kW at 3500 rpm (1.62 N·m); 400 VAC: rated 0.972 kW at 6100 rpm (1.52 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-31e",
@@ -305,6 +361,10 @@
     "peak_torque_nm": 6.06,
     "continuous_torque_nm": 1.7,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 4.26e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 1.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.9,
@@ -312,7 +372,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.832 kW at 5000 rpm (1.59 N·m); 400 VAC: rated 1.2 kW at 8000 rpm (1.43 N·m). Rotor inertia 4.26e-05 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.832 kW at 5000 rpm (1.59 N·m); 400 VAC: rated 1.2 kW at 8000 rpm (1.43 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-32d",
@@ -326,6 +386,10 @@
     "peak_torque_nm": 10.4,
     "continuous_torque_nm": 2.81,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 8.13e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.5,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.17,
@@ -333,7 +397,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.628 kW at 2200 rpm (2.72 N·m); 400 VAC: rated 1.06 kW at 3900 rpm (2.58 N·m). Rotor inertia 8.13e-05 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.628 kW at 2200 rpm (2.72 N·m); 400 VAC: rated 1.06 kW at 3900 rpm (2.58 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-32e",
@@ -347,6 +411,10 @@
     "peak_torque_nm": 10.3,
     "continuous_torque_nm": 2.8,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 8.13e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.5,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.75,
@@ -354,7 +422,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.811 kW at 2900 rpm (2.67 N·m); 400 VAC: rated 1.29 kW at 5000 rpm (2.46 N·m). Rotor inertia 8.13e-05 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.811 kW at 2900 rpm (2.67 N·m); 400 VAC: rated 1.29 kW at 5000 rpm (2.46 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-32g",
@@ -368,6 +436,10 @@
     "peak_torque_nm": 10.6,
     "continuous_torque_nm": 2.9,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 8.13e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.5,
     "supply_voltage_v": 400.0,
     "rated_current_a": 4.24,
@@ -375,7 +447,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.28 kW at 4700 rpm (2.6 N·m); 400 VAC: rated 1.72 kW at 7600 rpm (2.17 N·m). Rotor inertia 8.13e-05 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.28 kW at 4700 rpm (2.6 N·m); 400 VAC: rated 1.72 kW at 7600 rpm (2.17 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-33e",
@@ -389,6 +461,10 @@
     "peak_torque_nm": 14.6,
     "continuous_torque_nm": 3.86,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 0.00012,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 3.3,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.99,
@@ -396,7 +472,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.878 kW at 2300 rpm (3.64 N·m); 400 VAC: rated 1.39 kW at 4000 rpm (3.33 N·m). Rotor inertia 0.00012 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.878 kW at 2300 rpm (3.64 N·m); 400 VAC: rated 1.39 kW at 4000 rpm (3.33 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-33g",
@@ -410,6 +486,10 @@
     "peak_torque_nm": 14.4,
     "continuous_torque_nm": 3.81,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 0.00012,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 3.3,
     "supply_voltage_v": 480.0,
     "rated_current_a": 4.24,
@@ -417,7 +497,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.21 kW at 3350 rpm (3.44 N·m); 400 VAC: rated 1.72 kW at 5800 rpm (2.83 N·m). Rotor inertia 0.00012 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.21 kW at 3350 rpm (3.44 N·m); 400 VAC: rated 1.72 kW at 5800 rpm (2.83 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-33h",
@@ -431,6 +511,10 @@
     "peak_torque_nm": 14.6,
     "continuous_torque_nm": 3.85,
     "max_speed_rpm": 8000.0,
+    "rotor_inertia_kgm2": 0.00012,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 3.3,
     "supply_voltage_v": 400.0,
     "rated_current_a": 5.8,
@@ -438,7 +522,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-3x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.54 kW at 4600 rpm (3.2 N·m); 400 VAC: rated 1.57 kW at 8000 rpm (1.88 N·m). Rotor inertia 0.00012 kg·m² (with resolver). Optional holding brake adds 0.72 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.54 kW at 4600 rpm (3.2 N·m); 400 VAC: rated 1.57 kW at 8000 rpm (1.88 N·m). Rotor inertia includes resolver. Optional holding brake adds 0.72 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-41d",
@@ -452,6 +536,10 @@
     "peak_torque_nm": 7.25,
     "continuous_torque_nm": 2.85,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 7.74e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.9,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.32,
@@ -459,7 +547,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.607 kW at 2100 rpm (2.76 N·m); 400 VAC: rated 1.04 kW at 3800 rpm (2.62 N·m). Rotor inertia 7.74e-05 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.607 kW at 2100 rpm (2.76 N·m); 400 VAC: rated 1.04 kW at 3800 rpm (2.62 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-41e",
@@ -473,6 +561,10 @@
     "peak_torque_nm": 7.26,
     "continuous_torque_nm": 2.87,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 7.74e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.9,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.92,
@@ -480,7 +572,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.773 kW at 2700 rpm (2.73 N·m); 400 VAC: rated 1.27 kW at 4800 rpm (2.52 N·m). Rotor inertia 7.74e-05 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.773 kW at 2700 rpm (2.73 N·m); 400 VAC: rated 1.27 kW at 4800 rpm (2.52 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-41g",
@@ -494,6 +586,10 @@
     "peak_torque_nm": 7.26,
     "continuous_torque_nm": 2.86,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 7.74e-05,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 2.9,
     "supply_voltage_v": 480.0,
     "rated_current_a": 4.53,
@@ -501,7 +597,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.21 kW at 4500 rpm (2.57 N·m); 400 VAC: rated 1.43 kW at 6000 rpm (2.28 N·m). Rotor inertia 7.74e-05 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.21 kW at 4500 rpm (2.57 N·m); 400 VAC: rated 1.43 kW at 6000 rpm (2.28 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-42d",
@@ -515,6 +611,10 @@
     "peak_torque_nm": 14.35,
     "continuous_torque_nm": 5.04,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000136,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 3.86,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.27,
@@ -522,7 +622,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.62 kW at 1200 rpm (4.94 N·m); 400 VAC: rated 1.05 kW at 2100 rpm (4.79 N·m). Rotor inertia 0.000136 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.62 kW at 1200 rpm (4.94 N·m); 400 VAC: rated 1.05 kW at 2100 rpm (4.79 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-42e",
@@ -536,6 +636,10 @@
     "peak_torque_nm": 14.4,
     "continuous_torque_nm": 5.08,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000136,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 3.86,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.88,
@@ -543,7 +647,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.83 kW at 1600 rpm (4.93 N·m); 400 VAC: rated 1.33 kW at 2700 rpm (4.71 N·m). Rotor inertia 0.000136 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.83 kW at 1600 rpm (4.93 N·m); 400 VAC: rated 1.33 kW at 2700 rpm (4.71 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-42h",
@@ -557,6 +661,10 @@
     "peak_torque_nm": 14.44,
     "continuous_torque_nm": 5.12,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000136,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 3.86,
     "supply_voltage_v": 480.0,
     "rated_current_a": 5.64,
@@ -564,7 +672,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.56 kW at 3200 rpm (4.65 N·m); 400 VAC: rated 2.27 kW at 5600 rpm (3.87 N·m). Rotor inertia 0.000136 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.56 kW at 3200 rpm (4.65 N·m); 400 VAC: rated 2.27 kW at 5600 rpm (3.87 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-43d",
@@ -578,6 +686,10 @@
     "peak_torque_nm": 21.1,
     "continuous_torque_nm": 6.97,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000195,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 4.81,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.33,
@@ -585,7 +697,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 400 VAC: rated 1.12 kW at 1600 rpm (6.67 N·m). Rotor inertia 0.000195 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 400 VAC: rated 1.12 kW at 1600 rpm (6.67 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-43g",
@@ -599,6 +711,10 @@
     "peak_torque_nm": 21.1,
     "continuous_torque_nm": 6.97,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000195,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 4.81,
     "supply_voltage_v": 480.0,
     "rated_current_a": 4.52,
@@ -606,7 +722,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.32 kW at 1900 rpm (6.61 N·m); 400 VAC: rated 2.05 kW at 3200 rpm (6.1 N·m). Rotor inertia 0.000195 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.32 kW at 1900 rpm (6.61 N·m); 400 VAC: rated 2.05 kW at 3200 rpm (6.1 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-43i",
@@ -620,6 +736,10 @@
     "peak_torque_nm": 21.1,
     "continuous_torque_nm": 6.98,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000195,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 4.81,
     "supply_voltage_v": 480.0,
     "rated_current_a": 7.14,
@@ -627,7 +747,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.95 kW at 3000 rpm (6.21 N·m); 400 VAC: rated 2.68 kW at 5300 rpm (4.83 N·m). Rotor inertia 0.000195 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.95 kW at 3000 rpm (6.21 N·m); 400 VAC: rated 2.68 kW at 5300 rpm (4.83 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-44e",
@@ -641,6 +761,10 @@
     "peak_torque_nm": 26.9,
     "continuous_torque_nm": 8.48,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000253,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 5.76,
     "supply_voltage_v": 480.0,
     "rated_current_a": 2.99,
@@ -648,7 +772,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.783 kW at 900 rpm (8.31 N·m); 400 VAC: rated 1.42 kW at 1700 rpm (7.99 N·m). Rotor inertia 0.000253 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 0.783 kW at 900 rpm (8.31 N·m); 400 VAC: rated 1.42 kW at 1700 rpm (7.99 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-44h",
@@ -662,6 +786,10 @@
     "peak_torque_nm": 27.0,
     "continuous_torque_nm": 8.51,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000253,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 5.76,
     "supply_voltage_v": 480.0,
     "rated_current_a": 5.87,
@@ -669,7 +797,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.66 kW at 2000 rpm (7.92 N·m); 400 VAC: rated 2.56 kW at 3500 rpm (6.98 N·m). Rotor inertia 0.000253 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.66 kW at 2000 rpm (7.92 N·m); 400 VAC: rated 2.56 kW at 3500 rpm (6.98 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-44j",
@@ -683,6 +811,10 @@
     "peak_torque_nm": 26.9,
     "continuous_torque_nm": 8.47,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000253,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 5.76,
     "supply_voltage_v": 480.0,
     "rated_current_a": 7.3,
@@ -690,7 +822,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-4x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.06 kW at 2600 rpm (7.58 N·m); 400 VAC: rated 2.84 kW at 4500 rpm (6.04 N·m). Rotor inertia 0.000253 kg·m² (with resolver). Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.06 kW at 2600 rpm (7.58 N·m); 400 VAC: rated 2.84 kW at 4500 rpm (6.04 N·m). Rotor inertia includes resolver. Optional holding brake adds 1.36 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-51h",
@@ -704,6 +836,10 @@
     "peak_torque_nm": 15.7,
     "continuous_torque_nm": 6.82,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000252,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 5.13,
     "supply_voltage_v": 480.0,
     "rated_current_a": 5.78,
@@ -711,7 +847,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.62 kW at 2400 rpm (6.44 N·m); 400 VAC: rated 2.59 kW at 4200 rpm (5.89 N·m). Rotor inertia 0.000252 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.62 kW at 2400 rpm (6.44 N·m); 400 VAC: rated 2.59 kW at 4200 rpm (5.89 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-51i",
@@ -725,6 +861,10 @@
     "peak_torque_nm": 15.7,
     "continuous_torque_nm": 6.83,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000252,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 5.13,
     "supply_voltage_v": 480.0,
     "rated_current_a": 6.35,
@@ -732,7 +872,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.8 kW at 2700 rpm (6.38 N·m); 400 VAC: rated 2.77 kW at 4600 rpm (5.74 N·m). Rotor inertia 0.000252 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.8 kW at 2700 rpm (6.38 N·m); 400 VAC: rated 2.77 kW at 4600 rpm (5.74 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-51k",
@@ -746,6 +886,10 @@
     "peak_torque_nm": 15.7,
     "continuous_torque_nm": 6.81,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000252,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 5.13,
     "supply_voltage_v": 400.0,
     "rated_current_a": 10.2,
@@ -753,7 +897,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.72 kW at 4500 rpm (5.77 N·m); 400 VAC: rated 2.93 kW at 6000 rpm (4.67 N·m). Rotor inertia 0.000252 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.72 kW at 4500 rpm (5.77 N·m); 400 VAC: rated 2.93 kW at 6000 rpm (4.67 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-52h",
@@ -767,6 +911,10 @@
     "peak_torque_nm": 29.0,
     "continuous_torque_nm": 12.0,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000458,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 7.03,
     "supply_voltage_v": 480.0,
     "rated_current_a": 6.3,
@@ -774,7 +922,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.8 kW at 1500 rpm (11.5 N·m); 400 VAC: rated 3.02 kW at 2700 rpm (10.7 N·m). Rotor inertia 0.000458 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.8 kW at 1500 rpm (11.5 N·m); 400 VAC: rated 3.02 kW at 2700 rpm (10.7 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-52k",
@@ -788,6 +936,10 @@
     "peak_torque_nm": 29.0,
     "continuous_torque_nm": 11.9,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000458,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 7.03,
     "supply_voltage_v": 480.0,
     "rated_current_a": 10.0,
@@ -795,7 +947,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.83 kW at 2500 rpm (10.8 N·m); 400 VAC: rated 4.14 kW at 4400 rpm (9 N·m). Rotor inertia 0.000458 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.83 kW at 2500 rpm (10.8 N·m); 400 VAC: rated 4.14 kW at 4400 rpm (9 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-52l",
@@ -809,6 +961,10 @@
     "peak_torque_nm": 28.9,
     "continuous_torque_nm": 11.93,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000458,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 7.03,
     "supply_voltage_v": 400.0,
     "rated_current_a": 12.5,
@@ -816,7 +972,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.42 kW at 3200 rpm (10.2 N·m); 400 VAC: rated 4.35 kW at 5600 rpm (7.42 N·m). Rotor inertia 0.000458 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.42 kW at 3200 rpm (10.2 N·m); 400 VAC: rated 4.35 kW at 5600 rpm (7.42 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-53h",
@@ -830,6 +986,10 @@
     "peak_torque_nm": 41.8,
     "continuous_torque_nm": 16.2,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000664,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 8.89,
     "supply_voltage_v": 480.0,
     "rated_current_a": 5.69,
@@ -837,7 +997,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.65 kW at 1000 rpm (15.7 N·m); 400 VAC: rated 2.81 kW at 1800 rpm (14.9 N·m). Rotor inertia 0.000664 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.65 kW at 1000 rpm (15.7 N·m); 400 VAC: rated 2.81 kW at 1800 rpm (14.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-53l",
@@ -851,6 +1011,10 @@
     "peak_torque_nm": 41.4,
     "continuous_torque_nm": 16.0,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000664,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 8.89,
     "supply_voltage_v": 480.0,
     "rated_current_a": 12.5,
@@ -858,7 +1022,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.53 kW at 2400 rpm (14.1 N·m); 400 VAC: rated 4.77 kW at 4200 rpm (10.9 N·m). Rotor inertia 0.000664 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.53 kW at 2400 rpm (14.1 N·m); 400 VAC: rated 4.77 kW at 4200 rpm (10.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-53m",
@@ -872,6 +1036,10 @@
     "peak_torque_nm": 41.4,
     "continuous_torque_nm": 16.1,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.000664,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 8.89,
     "supply_voltage_v": 400.0,
     "rated_current_a": 14.2,
@@ -879,7 +1047,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.97 kW at 2800 rpm (13.5 N·m); 400 VAC: rated 4.9 kW at 4800 rpm (9.74 N·m). Rotor inertia 0.000664 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.97 kW at 2800 rpm (13.5 N·m); 400 VAC: rated 4.9 kW at 4800 rpm (9.74 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-54l",
@@ -893,6 +1061,10 @@
     "peak_torque_nm": 54.8,
     "continuous_torque_nm": 20.1,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00087,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 10.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 10.6,
@@ -900,7 +1072,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.09 kW at 1600 rpm (18.4 N·m); 400 VAC: rated 4.66 kW at 2800 rpm (15.9 N·m). Rotor inertia 0.00087 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.09 kW at 1600 rpm (18.4 N·m); 400 VAC: rated 4.66 kW at 2800 rpm (15.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-54m",
@@ -914,6 +1086,10 @@
     "peak_torque_nm": 54.7,
     "continuous_torque_nm": 20.0,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00087,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 10.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 14.5,
@@ -921,7 +1097,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.13 kW at 2300 rpm (17.2 N·m); 400 VAC: rated 5.28 kW at 3900 rpm (12.9 N·m). Rotor inertia 0.00087 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.13 kW at 2300 rpm (17.2 N·m); 400 VAC: rated 5.28 kW at 3900 rpm (12.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-54n",
@@ -935,6 +1111,10 @@
     "peak_torque_nm": 54.7,
     "continuous_torque_nm": 20.0,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00087,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 10.8,
     "supply_voltage_v": 400.0,
     "rated_current_a": 16.3,
@@ -942,7 +1122,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-5x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.49 kW at 2600 rpm (16.5 N·m); 400 VAC: rated 5.2 kW at 4500 rpm (11 N·m). Rotor inertia 0.00087 kg·m² (with resolver). Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.49 kW at 2600 rpm (16.5 N·m); 400 VAC: rated 5.2 kW at 4500 rpm (11 N·m). Rotor inertia includes resolver. Optional holding brake adds 2.6 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-62k",
@@ -956,6 +1136,10 @@
     "peak_torque_nm": 37.6,
     "continuous_torque_nm": 15.3,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00091,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 10.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 9.32,
@@ -963,7 +1147,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.56 kW at 1700 rpm (14.4 N·m); 400 VAC: rated 4.05 kW at 3000 rpm (12.9 N·m). Rotor inertia 0.00091 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.56 kW at 1700 rpm (14.4 N·m); 400 VAC: rated 4.05 kW at 3000 rpm (12.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-62l",
@@ -977,6 +1161,10 @@
     "peak_torque_nm": 37.4,
     "continuous_torque_nm": 15.2,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00091,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 10.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 11.6,
@@ -984,7 +1172,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.19 kW at 2200 rpm (13.8 N·m); 400 VAC: rated 4.7 kW at 3900 rpm (11.5 N·m). Rotor inertia 0.00091 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.19 kW at 2200 rpm (13.8 N·m); 400 VAC: rated 4.7 kW at 3900 rpm (11.5 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-62m",
@@ -998,6 +1186,10 @@
     "peak_torque_nm": 37.4,
     "continuous_torque_nm": 15.1,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00091,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 10.0,
     "supply_voltage_v": 400.0,
     "rated_current_a": 14.6,
@@ -1005,7 +1197,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.85 kW at 2800 rpm (13.1 N·m); 400 VAC: rated 5.03 kW at 5000 rpm (9.6 N·m). Rotor inertia 0.00091 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.85 kW at 2800 rpm (13.1 N·m); 400 VAC: rated 5.03 kW at 5000 rpm (9.6 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-63h",
@@ -1019,6 +1211,10 @@
     "peak_torque_nm": 55.1,
     "continuous_torque_nm": 21.7,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.0013,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 12.3,
     "supply_voltage_v": 480.0,
     "rated_current_a": 6.11,
@@ -1026,7 +1222,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.69 kW at 750 rpm (21.5 N·m); 400 VAC: rated 2.8 kW at 1300 rpm (20.6 N·m). Rotor inertia 0.0013 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 1.69 kW at 750 rpm (21.5 N·m); 400 VAC: rated 2.8 kW at 1300 rpm (20.6 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-63k",
@@ -1040,6 +1236,10 @@
     "peak_torque_nm": 54.7,
     "continuous_torque_nm": 21.5,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.0013,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 12.3,
     "supply_voltage_v": 480.0,
     "rated_current_a": 9.79,
@@ -1047,7 +1247,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.79 kW at 1300 rpm (20.5 N·m); 400 VAC: rated 4.35 kW at 2200 rpm (18.9 N·m). Rotor inertia 0.0013 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 2.79 kW at 1300 rpm (20.5 N·m); 400 VAC: rated 4.35 kW at 2200 rpm (18.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-63m",
@@ -1061,6 +1261,10 @@
     "peak_torque_nm": 54.5,
     "continuous_torque_nm": 21.4,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.0013,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 12.3,
     "supply_voltage_v": 480.0,
     "rated_current_a": 15.2,
@@ -1068,7 +1272,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.21 kW at 2100 rpm (19.2 N·m); 400 VAC: rated 5.88 kW at 3600 rpm (15.6 N·m). Rotor inertia 0.0013 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.21 kW at 2100 rpm (19.2 N·m); 400 VAC: rated 5.88 kW at 3600 rpm (15.6 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-63n",
@@ -1082,6 +1286,10 @@
     "peak_torque_nm": 54.5,
     "continuous_torque_nm": 21.4,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.0013,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 12.3,
     "supply_voltage_v": 400.0,
     "rated_current_a": 16.8,
@@ -1089,7 +1297,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.51 kW at 2300 rpm (18.7 N·m); 400 VAC: rated 6.07 kW at 4100 rpm (14.1 N·m). Rotor inertia 0.0013 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.51 kW at 2300 rpm (18.7 N·m); 400 VAC: rated 6.07 kW at 4100 rpm (14.1 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-64l",
@@ -1103,6 +1311,10 @@
     "peak_torque_nm": 70.7,
     "continuous_torque_nm": 27.0,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00169,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 14.5,
     "supply_voltage_v": 480.0,
     "rated_current_a": 11.4,
@@ -1110,7 +1322,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.23 kW at 1200 rpm (25.7 N·m); 400 VAC: rated 5.15 kW at 2100 rpm (23.4 N·m). Rotor inertia 0.00169 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.23 kW at 1200 rpm (25.7 N·m); 400 VAC: rated 5.15 kW at 2100 rpm (23.4 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-64m",
@@ -1124,6 +1336,10 @@
     "peak_torque_nm": 70.5,
     "continuous_torque_nm": 26.9,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00169,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 14.5,
     "supply_voltage_v": 480.0,
     "rated_current_a": 15.8,
@@ -1131,7 +1347,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.37 kW at 1700 rpm (24.6 N·m); 400 VAC: rated 6.45 kW at 3000 rpm (20.5 N·m). Rotor inertia 0.00169 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.37 kW at 1700 rpm (24.6 N·m); 400 VAC: rated 6.45 kW at 3000 rpm (20.5 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-64n",
@@ -1145,6 +1361,10 @@
     "peak_torque_nm": 70.3,
     "continuous_torque_nm": 26.8,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00169,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 14.5,
     "supply_voltage_v": 480.0,
     "rated_current_a": 17.8,
@@ -1152,7 +1372,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.98 kW at 2000 rpm (23.8 N·m); 400 VAC: rated 6.72 kW at 3400 rpm (18.9 N·m). Rotor inertia 0.00169 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.98 kW at 2000 rpm (23.8 N·m); 400 VAC: rated 6.72 kW at 3400 rpm (18.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-65l",
@@ -1166,6 +1386,10 @@
     "peak_torque_nm": 86.8,
     "continuous_torque_nm": 32.6,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00208,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 16.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 12.4,
@@ -1173,7 +1397,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.58 kW at 1100 rpm (31.1 N·m); 400 VAC: rated 5.67 kW at 1900 rpm (28.5 N·m). Rotor inertia 0.00208 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.58 kW at 1100 rpm (31.1 N·m); 400 VAC: rated 5.67 kW at 1900 rpm (28.5 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-65m",
@@ -1187,6 +1411,10 @@
     "peak_torque_nm": 86.8,
     "continuous_torque_nm": 32.6,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00208,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 16.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 15.3,
@@ -1194,7 +1422,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.44 kW at 1400 rpm (30.3 N·m); 400 VAC: rated 6.71 kW at 2400 rpm (26.7 N·m). Rotor inertia 0.00208 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.44 kW at 1400 rpm (30.3 N·m); 400 VAC: rated 6.71 kW at 2400 rpm (26.7 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-65n",
@@ -1208,6 +1436,10 @@
     "peak_torque_nm": 87.0,
     "continuous_torque_nm": 32.7,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00208,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 16.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 19.0,
@@ -1215,7 +1447,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-6x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.25 kW at 1700 rpm (29.5 N·m); 400 VAC: rated 7.67 kW at 3100 rpm (23.6 N·m). Rotor inertia 0.00208 kg·m² (with resolver). Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.25 kW at 1700 rpm (29.5 N·m); 400 VAC: rated 7.67 kW at 3100 rpm (23.6 N·m). Rotor inertia includes resolver. Optional holding brake adds 4.5 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-71l",
@@ -1229,6 +1461,10 @@
     "peak_torque_nm": 49.5,
     "continuous_torque_nm": 22.9,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00259,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 16.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 12.1,
@@ -1236,7 +1472,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.34 kW at 1500 rpm (21.2 N·m); 400 VAC: rated 5.17 kW at 2600 rpm (19 N·m). Rotor inertia 0.00259 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.34 kW at 1500 rpm (21.2 N·m); 400 VAC: rated 5.17 kW at 2600 rpm (19 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-71n",
@@ -1250,6 +1486,10 @@
     "peak_torque_nm": 49.3,
     "continuous_torque_nm": 22.8,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00259,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 16.8,
     "supply_voltage_v": 480.0,
     "rated_current_a": 17.3,
@@ -1257,7 +1497,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.58 kW at 2200 rpm (19.9 N·m); 400 VAC: rated 6.38 kW at 4000 rpm (15.2 N·m). Rotor inertia 0.00259 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 4.58 kW at 2200 rpm (19.9 N·m); 400 VAC: rated 6.38 kW at 4000 rpm (15.2 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-71p",
@@ -1271,6 +1511,10 @@
     "peak_torque_nm": 49.8,
     "continuous_torque_nm": 23.0,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00259,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 16.8,
     "supply_voltage_v": 400.0,
     "rated_current_a": 21.1,
@@ -1278,7 +1522,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.36 kW at 2700 rpm (19 N·m); 400 VAC: rated 6.18 kW at 4900 rpm (12.1 N·m). Rotor inertia 0.00259 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 400 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.36 kW at 2700 rpm (19 N·m); 400 VAC: rated 6.18 kW at 4900 rpm (12.1 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 400 VAC."
   },
   {
     "id": "kollmorgen-akm2g-72l",
@@ -1292,6 +1536,10 @@
     "peak_torque_nm": 89.3,
     "continuous_torque_nm": 40.5,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00468,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 22.9,
     "supply_voltage_v": 480.0,
     "rated_current_a": 12.3,
@@ -1299,7 +1547,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.64 kW at 900 rpm (38.7 N·m); 400 VAC: rated 5.86 kW at 1550 rpm (36.1 N·m). Rotor inertia 0.00468 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 3.64 kW at 900 rpm (38.7 N·m); 400 VAC: rated 5.86 kW at 1550 rpm (36.1 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-72n",
@@ -1313,6 +1561,10 @@
     "peak_torque_nm": 90.4,
     "continuous_torque_nm": 41.1,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00468,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 22.9,
     "supply_voltage_v": 480.0,
     "rated_current_a": 18.7,
@@ -1320,7 +1572,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.48 kW at 1400 rpm (37.4 N·m); 400 VAC: rated 8.03 kW at 2400 rpm (31.9 N·m). Rotor inertia 0.00468 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.48 kW at 1400 rpm (37.4 N·m); 400 VAC: rated 8.03 kW at 2400 rpm (31.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-72p",
@@ -1334,6 +1586,10 @@
     "peak_torque_nm": 89.6,
     "continuous_torque_nm": 40.7,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00468,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 22.9,
     "supply_voltage_v": 480.0,
     "rated_current_a": 21.2,
@@ -1341,7 +1597,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 6.05 kW at 1600 rpm (36.1 N·m); 400 VAC: rated 8.51 kW at 2800 rpm (29 N·m). Rotor inertia 0.00468 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 6.05 kW at 1600 rpm (36.1 N·m); 400 VAC: rated 8.51 kW at 2800 rpm (29 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-72r",
@@ -1355,6 +1611,10 @@
     "peak_torque_nm": 89.4,
     "continuous_torque_nm": 40.5,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00468,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 22.9,
     "supply_voltage_v": 240.0,
     "rated_current_a": 37.0,
@@ -1362,7 +1622,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 8.38 kW at 2800 rpm (28.6 N·m). Rotor inertia 0.00468 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 240 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 8.38 kW at 2800 rpm (28.6 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 240 VAC."
   },
   {
     "id": "kollmorgen-akm2g-73l",
@@ -1376,6 +1636,10 @@
     "peak_torque_nm": 127.3,
     "continuous_torque_nm": 56.6,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00677,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 29.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 11.6,
@@ -1383,7 +1647,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 400 VAC: rated 5.77 kW at 1050 rpm (52.5 N·m). Rotor inertia 0.00677 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 400 VAC: rated 5.77 kW at 1050 rpm (52.5 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-73n",
@@ -1397,6 +1661,10 @@
     "peak_torque_nm": 129.6,
     "continuous_torque_nm": 57.9,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00677,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 29.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 17.6,
@@ -1404,7 +1672,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.15 kW at 900 rpm (54.6 N·m); 400 VAC: rated 8.29 kW at 1600 rpm (49.5 N·m). Rotor inertia 0.00677 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 5.15 kW at 900 rpm (54.6 N·m); 400 VAC: rated 8.29 kW at 1600 rpm (49.5 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-73q",
@@ -1418,6 +1686,10 @@
     "peak_torque_nm": 128.1,
     "continuous_torque_nm": 57.1,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00677,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 29.0,
     "supply_voltage_v": 480.0,
     "rated_current_a": 27.4,
@@ -1425,7 +1697,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 7.85 kW at 1500 rpm (50 N·m); 400 VAC: rated 10.6 kW at 2600 rpm (38.9 N·m). Rotor inertia 0.00677 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 7.85 kW at 1500 rpm (50 N·m); 400 VAC: rated 10.6 kW at 2600 rpm (38.9 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-74p",
@@ -1439,6 +1711,10 @@
     "peak_torque_nm": 164.6,
     "continuous_torque_nm": 72.2,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00886,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 35.2,
     "supply_voltage_v": 480.0,
     "rated_current_a": 23.1,
@@ -1446,7 +1722,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 6.96 kW at 1000 rpm (66.5 N·m); 400 VAC: rated 10.3 kW at 1700 rpm (58.1 N·m). Rotor inertia 0.00886 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 6.96 kW at 1000 rpm (66.5 N·m); 400 VAC: rated 10.3 kW at 1700 rpm (58.1 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-74q",
@@ -1460,6 +1736,10 @@
     "peak_torque_nm": 163.8,
     "continuous_torque_nm": 71.7,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00886,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 35.2,
     "supply_voltage_v": 480.0,
     "rated_current_a": 28.8,
@@ -1467,7 +1747,7 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 8.37 kW at 1250 rpm (64 N·m); 400 VAC: rated 11.7 kW at 2200 rpm (50.7 N·m). Rotor inertia 0.00886 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 8.37 kW at 1250 rpm (64 N·m); 400 VAC: rated 11.7 kW at 2200 rpm (50.7 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   },
   {
     "id": "kollmorgen-akm2g-74r",
@@ -1481,6 +1761,10 @@
     "peak_torque_nm": 162.9,
     "continuous_torque_nm": 71.3,
     "max_speed_rpm": 6000.0,
+    "rotor_inertia_kgm2": 0.00886,
+    "peak_basis": "peak",
+    "continuous_basis": "continuous-stall",
+    "speed_condition": "max",
     "mass_kg": 35.2,
     "supply_voltage_v": 480.0,
     "rated_current_a": 32.5,
@@ -1488,6 +1772,6 @@
     "datasheet_url": "https://www.kollmorgen.com/sites/default/files/2026-05/AKM2G-KM_CA_000315_RevG_EN.pdf",
     "source": "Kollmorgen AKM2G Selection Guide KM_CA_000315 Rev G, AKM2G-7x Performance Data and Motor Parameters",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 9.34 kW at 1450 rpm (61.5 N·m); 400 VAC: rated 11.8 kW at 2500 rpm (45.1 N·m). Rotor inertia 0.00886 kg·m² (with resolver). Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
+    "remarks": "Continuous = stall torque Tcs (winding dT 100 C, 40 C ambient). 240 VAC: rated 9.34 kW at 1450 rpm (61.5 N·m); 400 VAC: rated 11.8 kW at 2500 rpm (45.1 N·m). Rotor inertia includes resolver. Optional holding brake adds 9.1 kg. Max rated line voltage 480 VAC."
   }
 ]
