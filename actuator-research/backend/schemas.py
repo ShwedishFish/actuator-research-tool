@@ -7,6 +7,12 @@ from pydantic import BaseModel, ConfigDict, Field, model_validator
 Kind = Literal["linear", "rotary"]
 Actuation = Literal["electric", "pneumatic", "hydraulic"]
 
+# Measurement basis of a published rating, as stated by the source. "" means the source does not say.
+PeakBasis = Literal["", "peak", "stall", "holding", "max-load", "max-push"]
+ContinuousBasis = Literal["", "rated", "continuous", "continuous-stall", "standstill", "recommended-max"]
+SpeedCondition = Literal["", "no-load", "full-load", "rated", "max", "unstated"]
+CurrentCondition = Literal["", "rated", "stall", "full-load", "max", "standstill", "no-load", "per-phase"]
+
 
 class Actuator(BaseModel):
     """One catalog entry. Linear ratings use N and mm/s; rotary ratings use N·m and rpm.
@@ -36,6 +42,16 @@ class Actuator(BaseModel):
     peak_torque_nm: float | None = Field(default=None, gt=0)
     continuous_torque_nm: float | None = Field(default=None, gt=0)
     max_speed_rpm: float | None = Field(default=None, gt=0)
+    rotor_inertia_kgm2: float | None = Field(default=None, gt=0)
+
+    peak_basis: PeakBasis = ""
+    continuous_basis: ContinuousBasis = ""
+    speed_condition: SpeedCondition = ""
+    current_condition: CurrentCondition = ""
+
+    bore_mm: float | None = Field(default=None, gt=0)
+    rod_mm: float | None = Field(default=None, gt=0)
+    max_pressure_bar: float | None = Field(default=None, gt=0)
 
     duty_cycle_pct: float | None = Field(default=None, gt=0, le=100)
     mass_kg: float | None = Field(default=None, gt=0)
@@ -52,8 +68,10 @@ class Actuator(BaseModel):
 
     @model_validator(mode="after")
     def _ratings_match_kind(self) -> Actuator:
-        if self.kind == "linear" and self.peak_force_n is None and self.continuous_force_n is None:
-            raise ValueError("linear actuators need peak_force_n or continuous_force_n")
+        if self.kind == "linear" and self.peak_force_n is None and self.continuous_force_n is None and not self.bore_mm:
+            raise ValueError("linear actuators need peak_force_n, continuous_force_n or bore_mm")
+        if self.rod_mm and self.bore_mm and self.rod_mm >= self.bore_mm:
+            raise ValueError("rod_mm must be smaller than bore_mm")
         if self.kind == "rotary" and self.peak_torque_nm is None and self.continuous_torque_nm is None:
             raise ValueError("rotary actuators need peak_torque_nm or continuous_torque_nm")
         return self
