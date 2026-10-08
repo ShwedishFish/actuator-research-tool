@@ -2761,12 +2761,11 @@
     "stroke_mm": 800,
     "duty_cycle_pct": 10,
     "supply_voltage_v": 29,
-    "rated_current_a": 4.8,
     "feedback": "Hall sensors",
     "datasheet_url": "https://www.timotion.com/_upload/files/DataSheet_TA20-G_EN.pdf",
     "source": "TiMOTION TA20 series datasheet, version 20210408-G, Load and Speed table p.2",
     "retrieved_on": "2026-10-07",
-    "remarks": "Desk-column drive; speeds/currents at 29 V DC: no-load 63 mm/s, rated load 45 mm/s. Series stroke range 50-800 mm. Motor 5200 rpm."
+    "remarks": "Desk-column drive; speeds/currents at 29 V DC: no-load 63 mm/s, rated load 45 mm/s. Series stroke range 50-800 mm. Motor 5200 rpm. Typical current with load published as '≤ 4.8 A' (29 V DC); not recorded."
   },
   {
     "id": "timotion-ta20-c",
@@ -2780,12 +2779,11 @@
     "stroke_mm": 800,
     "duty_cycle_pct": 10,
     "supply_voltage_v": 29,
-    "rated_current_a": 5,
     "feedback": "Hall sensors",
     "datasheet_url": "https://www.timotion.com/_upload/files/DataSheet_TA20-G_EN.pdf",
     "source": "TiMOTION TA20 series datasheet, version 20210408-G, Load and Speed table p.2",
     "retrieved_on": "2026-10-07",
-    "remarks": "Desk-column drive; speeds/currents at 29 V DC: no-load 48 mm/s, rated load 38 mm/s. Series stroke range 50-800 mm. Motor 5200 rpm."
+    "remarks": "Desk-column drive; speeds/currents at 29 V DC: no-load 48 mm/s, rated load 38 mm/s. Series stroke range 50-800 mm. Motor 5200 rpm. Typical current with load published as '≤ 5.0 A' (29 V DC); not recorded."
   },
   {
     "id": "timotion-ta21-a",
@@ -4661,12 +4659,11 @@
     "stroke_mm": 600,
     "duty_cycle_pct": 10,
     "supply_voltage_v": 29,
-    "rated_current_a": 5.5,
     "feedback": "Hall sensors",
     "datasheet_url": "https://www.timotion.com/_upload/files/DataSheet_TA45-B_EN.pdf",
     "source": "TiMOTION TA45 series datasheet, version 20250108-B, Load and Speed table p.2",
     "retrieved_on": "2026-10-07",
-    "remarks": "Desk-column drive; speeds/currents at 29 V DC: no-load 44 mm/s, rated load 35 mm/s. Series stroke range 50-600 mm. Motor 5200 rpm."
+    "remarks": "Desk-column drive; speeds/currents at 29 V DC: no-load 44 mm/s, rated load 35 mm/s. Series stroke range 50-600 mm. Motor 5200 rpm. Typical current with load published as '≤ 5.5 A' (29 V DC); not recorded."
   },
   {
     "id": "timotion-ta49-g",

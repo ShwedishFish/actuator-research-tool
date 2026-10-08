@@ -645,7 +645,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/en/linear-actuator-la37-data-sheet-eng.pdf",
     "source": "LINAK LA37 data sheet (ENG), specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No-load speed at 24 V; 2.8 mm/s at full load; 3 mm/s with speed regulation option. Stroke 100-600 mm. Mass 4.29 kg at 100 mm stroke. Current is 24 V full-load."
+    "remarks": "No-load speed at 24 V; 2.8 mm/s at full load; 3 mm/s with speed regulation option. Stroke 100-600 mm; load-vs-stroke table limits 15000 N push to 400 mm stroke (10000 N to 600 mm). Mass 4.29 kg at 100 mm stroke. Current is 24 V full-load."
   },
   {
     "id": "linak-la37-10000n-2p5mm",
@@ -944,7 +944,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Pull 2000 N. No-load speed at 24 V; 3.0 mm/s at full load. Current is 24 V full-load."
+    "remarks": "Standard motor. Pull 2000 N. No-load speed at 24 V; 3.0 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-standard-2000n-2p5mm",
@@ -964,7 +964,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 4.0 mm/s at full load. Current is 24 V full-load."
+    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 4.0 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-standard-2000n-3mm",
@@ -984,7 +984,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 4.8 mm/s at full load. Current is 24 V full-load."
+    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 4.8 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-standard-1500n-4mm",
@@ -1004,7 +1004,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 6.7 mm/s at full load. Current is 24 V full-load."
+    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 6.7 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-standard-1000n-6mm",
@@ -1024,7 +1024,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 9.6 mm/s at full load. Self-lock 500 N without brake, 1000 N with brake. Current is 24 V full-load."
+    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 9.6 mm/s at full load. Self-lock 500 N without brake, 1000 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-standard-800n-9mm",
@@ -1044,7 +1044,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 14.5 mm/s at full load. Self-lock 200 N without brake, 800 N with brake. Current is 24 V full-load."
+    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 14.5 mm/s at full load. Self-lock 200 N without brake, 800 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-standard-600n-12mm",
@@ -1063,7 +1063,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 17.1 mm/s at full load. No self-lock without brake; 300 N with brake. Current is 24 V full-load."
+    "remarks": "Standard motor. Push = pull. No-load speed at 24 V; 17.1 mm/s at full load. No self-lock without brake; 300 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-3500n-2mm",
@@ -1083,7 +1083,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Pull 2000 N. No-load speed at 24 V; 4.7 mm/s at full load. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Pull 2000 N. No-load speed at 24 V; 4.7 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-3000n-2p5mm",
@@ -1103,7 +1103,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Pull 2000 N. No-load speed at 24 V; 6.1 mm/s at full load. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Pull 2000 N. No-load speed at 24 V; 6.1 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-2000n-3mm",
@@ -1123,7 +1123,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 8.4 mm/s at full load. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 8.4 mm/s at full load. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-2000n-4mm",
@@ -1143,7 +1143,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 10.3 mm/s at full load. Self-lock 1200 N without brake, 2000 N with brake. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 10.3 mm/s at full load. Self-lock 1200 N without brake, 2000 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-2000n-6mm",
@@ -1163,7 +1163,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 13.8 mm/s at full load. Self-lock 500 N without brake, 2000 N with brake. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 13.8 mm/s at full load. Self-lock 500 N without brake, 2000 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-1500n-9mm",
@@ -1183,7 +1183,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 16.5 mm/s at full load. Self-lock 500 N without brake, 1500 N with brake. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 16.5 mm/s at full load. Self-lock 500 N without brake, 1500 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la28-s-800n-12mm",
@@ -1202,7 +1202,7 @@
     "datasheet_url": "https://assets.linak.com/asset/590184044899/document_h727i57d5p3ape8e62tc4rpv2t?content-disposition=inline",
     "source": "LINAK LA28 data sheet (ENG), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 33.5 mm/s at full load. No self-lock without brake; 800 N with brake. Current is 24 V full-load."
+    "remarks": "S (fast) motor. Push = pull. No-load speed at 24 V; 33.5 mm/s at full load. No self-lock without brake; 800 N with brake. Current is 24 V full-load. IPX6 is an ordering option (IPX1 or IPX5 also offered)."
   },
   {
     "id": "linak-la31-standard-6000n-3mm",
@@ -1403,7 +1403,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/us/tech-la31t-data-sheet-lus.pdf",
     "source": "LINAK TECHLINE LA31 data sheet (US), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Fast motor. Push = pull. Unloaded speed; 13 mm/s at full load. IPX1 standard; IPX4/IPX6 optional."
+    "remarks": "Fast motor, with brake (data sheet lists this pitch only with brake). Push = pull. Unloaded speed; 13 mm/s at full load. IPX1 standard; IPX4/IPX6 optional."
   },
   {
     "id": "linak-la31-fast-6000n-4mm",
@@ -1422,7 +1422,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/us/tech-la31t-data-sheet-lus.pdf",
     "source": "LINAK TECHLINE LA31 data sheet (US), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Fast motor. Pull 4000 N. Self-lock 6000 N push / 4000 N pull. Unloaded speed; 5.3 mm/s at full load. Max stroke 250 mm above 4000 N push. IPX1 standard; IPX4/IPX6 optional."
+    "remarks": "Fast motor, with brake (data sheet lists this pitch only with brake). Pull 4000 N. Self-lock 6000 N push / 4000 N pull. Unloaded speed; 5.3 mm/s at full load. Max stroke 250 mm above 4000 N push. IPX1 standard; IPX4/IPX6 optional."
   },
   {
     "id": "linak-la31-fast-1000n-12mm",
@@ -1440,7 +1440,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/us/tech-la31t-data-sheet-lus.pdf",
     "source": "LINAK TECHLINE LA31 data sheet (US), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Fast motor. Push = pull. Unloaded speed; 17.6 mm/s at full load. IPX1 standard; IPX4/IPX6 optional."
+    "remarks": "Fast motor, with brake (data sheet lists this pitch only with brake). Push = pull. Unloaded speed; 17.6 mm/s at full load. IPX1 standard; IPX4/IPX6 optional."
   },
   {
     "id": "linak-la31-fast-2500n-6mm",
@@ -1458,7 +1458,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/us/tech-la31t-data-sheet-lus.pdf",
     "source": "LINAK TECHLINE LA31 data sheet (US), load/speed table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Fast motor. Push = pull. Unloaded speed; 8.3 mm/s at full load. IPX1 standard; IPX4/IPX6 optional."
+    "remarks": "Fast motor, with brake (data sheet lists this pitch only with brake). Push = pull. Unloaded speed; 8.3 mm/s at full load. IPX1 standard; IPX4/IPX6 optional."
   },
   {
     "id": "linak-la20-2500n-2p5mm",
@@ -1475,7 +1475,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/en/linear-actuator-la20-data-sheet-eng.pdf",
     "source": "LINAK LA20 data sheet (ENG), load table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Push rating; pull 800 N. Speed published only as curves (not recorded)."
+    "remarks": "Push rating; series pull rating 800 N (not given per pitch). Speed published only as curves (not recorded)."
   },
   {
     "id": "linak-la20-2200n-3mm",
@@ -1492,7 +1492,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/en/linear-actuator-la20-data-sheet-eng.pdf",
     "source": "LINAK LA20 data sheet (ENG), load table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Push rating; pull 800 N. Speed published only as curves (not recorded)."
+    "remarks": "Push rating; series pull rating 800 N (not given per pitch). Speed published only as curves (not recorded)."
   },
   {
     "id": "linak-la20-1300n-4mm",
@@ -1509,7 +1509,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/en/linear-actuator-la20-data-sheet-eng.pdf",
     "source": "LINAK LA20 data sheet (ENG), load table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Push rating; pull 800 N. Speed published only as curves (not recorded)."
+    "remarks": "Push rating; series pull rating 800 N (not given per pitch). Speed published only as curves (not recorded)."
   },
   {
     "id": "linak-la20-800n-5mm",
@@ -1526,7 +1526,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/en/linear-actuator-la20-data-sheet-eng.pdf",
     "source": "LINAK LA20 data sheet (ENG), load table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Push rating; pull 800 N. Speed published only as curves (not recorded)."
+    "remarks": "Push rating; series pull rating 800 N (not given per pitch). Speed published only as curves (not recorded)."
   },
   {
     "id": "linak-la20-600n-6mm",
@@ -1543,7 +1543,7 @@
     "datasheet_url": "https://cdn.linak.com/-/media/files/data-sheet-source/en/linear-actuator-la20-data-sheet-eng.pdf",
     "source": "LINAK LA20 data sheet (ENG), load table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Push rating; pull 800 N. Speed published only as curves (not recorded)."
+    "remarks": "Push rating; series pull rating 800 N (not given per pitch). Speed published only as curves (not recorded)."
   },
   {
     "id": "linak-la76-500n-20mm-e",

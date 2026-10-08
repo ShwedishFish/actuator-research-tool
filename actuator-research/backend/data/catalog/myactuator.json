@@ -103,11 +103,10 @@
     "supply_voltage_v": 48.0,
     "rated_current_a": 9.5,
     "feedback": "dual absolute encoder 17BIT (Input) / 17BIT (Output)",
-    "price_usd": 599.0,
     "datasheet_url": "https://www.myactuator.com/x6-60details",
-    "source": "MyActuator X6-60 product parameters sheet (myactuator.com); price from myactuator.us",
+    "source": "MyActuator X6-60 product parameters sheet (myactuator.com)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 20 N·m at 153 rpm, 9.5 A(rms); peak current 29.1 A(rms). max_speed is no-load at 48 V (range 20-55 V). Rated power 320 W. Ratio 19.612. Backlash ≤15 arcmin. EtherCAT & CAN BUS. myactuator.us page lists peak 50 N·m and 0.78 kg (matches X6-50-L); used myactuator.com sheet values."
+    "remarks": "Rated 20 N·m at 153 rpm, 9.5 A(rms); peak current 29.1 A(rms). max_speed is no-load at 48 V (range 20-55 V). Rated power 320 W. Ratio 19.612. Backlash ≤15 arcmin. EtherCAT & CAN BUS. myactuator.us listing \"RMD-X6-P20-60\" (USD 599) gives peak 50 N·m, 0.78 kg (matches X6-50-L); used myactuator.com sheet values; price omitted (listing not clearly this variant)."
   },
   {
     "id": "myactuator-rmd-x8-p9-32-r",
@@ -433,7 +432,7 @@
     "datasheet_url": "https://www.myactuator.com/%E5%89%AF%E6%9C%AC-v4-1-x4-10-l-details",
     "source": "MyActuator X6-P20-50-E-L product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 20.0 N·m at 153 rpm, 9.5 A; peak current 35.4 A. max_speed is no-load at 48.0 V. Rated power 320 W. Ratio 19.612. Backlash 15 arcmin. EtherCAT / CAN BUS. Stall torque 50 N·m; 35.4 A(rms) is stall phase current. Hollow shaft 8.6 mm. Voltage range 20-55 V."
+    "remarks": "Rated 20.0 N·m at 153 rpm, 9.5 A(rms) / 13.4 A(peak); peak current not listed. max_speed is no-load at 48.0 V. Rated power 320 W. Ratio 19.612. Backlash 15 arcmin. EtherCAT / CAN BUS. Stall torque 50 N·m; 35.4 A(rms) is stall phase current. Hollow shaft 8.6 mm. Voltage range 20-55 V."
   },
   {
     "id": "myactuator-rmd-x10-p7-40",
@@ -486,13 +485,14 @@
     "part_number": "RMD-X6-P8-8",
     "peak_torque_nm": 8.0,
     "continuous_torque_nm": 4.5,
+    "mass_kg": 0.49,
     "supply_voltage_v": 48.0,
     "rated_current_a": 3.6,
     "feedback": "dual encoder 14-bit / 14-bit",
     "datasheet_url": "https://www.myactuator.com/x6-8-details",
     "source": "MyActuator X6-P8-8 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 4.5 N·m at 310.0 rpm, 3.6 A; peak current 7.2 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 135 W. Ratio 8. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series. Mass unlisted (spec image illegible)."
+    "remarks": "Rated 4.5 N·m at 310.0 rpm, 3.6 A; peak current 7.2 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 135 W. Ratio 8. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
   },
   {
     "id": "myactuator-rmd-x6-p6-7",

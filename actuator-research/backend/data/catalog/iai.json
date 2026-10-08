@@ -388,7 +388,7 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA8C/index.html",
     "source": "IAI Japan product page RCP5-RA8C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table)."
   },
   {
     "kind": "linear",
@@ -423,7 +423,7 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA8C/index.html",
     "source": "IAI Japan product page RCP5-RA8C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table)."
   },
   {
     "kind": "linear",
@@ -458,7 +458,7 @@
     "feedback": "battery-less absolute encoder",
     "datasheet_url": "https://www.iai-robot.co.jp/product/details/RCP5-RA8C/index.html",
     "source": "IAI Japan product page RCP5-RA8C (Japanese), lead/payload/max push force and stroke/max speed tables",
-    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON etc.). Peak = published max push force. Max speed with high-output setting enabled; may drop at longest strokes."
+    "remarks": "Stepper (pulse) motor, battery-less absolute encoder, 24 VDC controller (PCON-CFB etc.). Peak = published max push force. Max speed is the fastest stroke band; drops at short and long strokes (stroke/max speed table)."
   },
   {
     "kind": "linear",

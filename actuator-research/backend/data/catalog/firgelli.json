@@ -2098,7 +2098,7 @@
     "rated_current_a": 0.3,
     "feedback": "hall (quadrature)",
     "ip_rating": "IP66",
-    "remarks": "Push/pull 100 N, static 140 N. Speed no-load. 0.3A at full load. Dual hall 45 pulses/mm, 0.1 mm repeatability. 16 mm dia. mass_kg = 100 mm stroke (81 g).",
+    "remarks": "Push/pull 100 N, static 140 N. Speed no-load. 0.3A at full load. Dual hall 45 pulses/mm, 0.1 mm repeatability. 16 mm dia. mass_kg = 100 mm stroke (81 g). Static published as \"140N (33-lbs)\"; 33 lbf would be 147 N.",
     "stroke_options_mm": [
       20,
       40,

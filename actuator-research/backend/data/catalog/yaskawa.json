@@ -737,7 +737,7 @@
     "peak_torque_nm": 0.557,
     "continuous_torque_nm": 0.159,
     "max_speed_rpm": 7000,
-    "mass_kg": 0.4,
+    "mass_kg": 0.3,
     "supply_voltage_v": 200,
     "rated_current_a": 0.55,
     "feedback": "26-bit absolute encoder",
@@ -745,7 +745,7 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 50 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.0421e-4 kg·m² (no brake). Mass 0.4 kg (0.7 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 50 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.0421e-4 kg·m² (no brake). Mass 0.3 kg (0.6 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   },
   {
     "id": "yaskawa-sgmxj-01a",
@@ -759,7 +759,7 @@
     "peak_torque_nm": 1.11,
     "continuous_torque_nm": 0.318,
     "max_speed_rpm": 7000,
-    "mass_kg": 0.5,
+    "mass_kg": 0.4,
     "supply_voltage_v": 200,
     "rated_current_a": 0.85,
     "feedback": "26-bit absolute encoder",
@@ -767,7 +767,7 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 100 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.0669e-4 kg·m² (no brake). Mass 0.5 kg (0.8 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 100 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.0669e-4 kg·m² (no brake). Mass 0.4 kg (0.7 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   },
   {
     "id": "yaskawa-sgmxj-c2a",
@@ -781,7 +781,7 @@
     "peak_torque_nm": 1.67,
     "continuous_torque_nm": 0.477,
     "max_speed_rpm": 7000,
-    "mass_kg": 0.6,
+    "mass_kg": 0.5,
     "supply_voltage_v": 200,
     "rated_current_a": 1.6,
     "feedback": "26-bit absolute encoder",
@@ -789,7 +789,7 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 150 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.0946e-4 kg·m² (no brake). Mass 0.6 kg (0.9 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 150 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.0946e-4 kg·m² (no brake). Mass 0.5 kg (0.8 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   },
   {
     "id": "yaskawa-sgmxj-02a",
@@ -803,7 +803,7 @@
     "peak_torque_nm": 2.23,
     "continuous_torque_nm": 0.637,
     "max_speed_rpm": 7000,
-    "mass_kg": 0.9,
+    "mass_kg": 0.8,
     "supply_voltage_v": 200,
     "rated_current_a": 1.6,
     "feedback": "26-bit absolute encoder",
@@ -811,7 +811,7 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 200 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.263e-4 kg·m² (no brake). Mass 0.9 kg (1.5 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 200 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.263e-4 kg·m² (no brake). Mass 0.8 kg (1.4 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   },
   {
     "id": "yaskawa-sgmxj-04a",
@@ -825,7 +825,7 @@
     "peak_torque_nm": 4.46,
     "continuous_torque_nm": 1.27,
     "max_speed_rpm": 7000,
-    "mass_kg": 1.2,
+    "mass_kg": 1.1,
     "supply_voltage_v": 200,
     "rated_current_a": 2.5,
     "feedback": "26-bit absolute encoder",
@@ -833,7 +833,7 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 400 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.486e-4 kg·m² (no brake). Mass 1.2 kg (1.8 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 400 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.486e-4 kg·m² (no brake). Mass 1.1 kg (1.7 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   },
   {
     "id": "yaskawa-sgmxj-06a",
@@ -847,7 +847,7 @@
     "peak_torque_nm": 6.69,
     "continuous_torque_nm": 1.91,
     "max_speed_rpm": 7000,
-    "mass_kg": 1.7,
+    "mass_kg": 1.6,
     "supply_voltage_v": 200,
     "rated_current_a": 4.2,
     "feedback": "26-bit absolute encoder",
@@ -855,7 +855,7 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 600 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.8e-4 kg·m² (no brake). Mass 1.7 kg (2.3 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 600 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 0.8e-4 kg·m² (no brake). Mass 1.6 kg (2.2 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   },
   {
     "id": "yaskawa-sgmxj-08a",
@@ -869,7 +869,7 @@
     "peak_torque_nm": 8.36,
     "continuous_torque_nm": 2.39,
     "max_speed_rpm": 7000,
-    "mass_kg": 2.3,
+    "mass_kg": 2.2,
     "supply_voltage_v": 200,
     "rated_current_a": 4.4,
     "feedback": "26-bit absolute encoder",
@@ -877,6 +877,6 @@
     "datasheet_url": "https://www.yaskawa.com/delegate/getAttachment?cmd=documents&documentId=SIEPC23021000&documentName=siepc23021000h_7_0.pdf",
     "source": "Yaskawa Sigma-X Rotary Servomotor Product Manual SIEP C230210 00H, sec. 3.2.2 Servomotor Ratings and 3.3.4 dimensions",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated output 750 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 1.59e-4 kg·m² (no brake). Mass 2.3 kg (2.9 kg with brake) is the published value for the batteryless absolute encoder (W) version; manual states other encoders are 0.1 kg lighter."
+    "remarks": "Rated output 750 W; continuous = rated torque with specified heat sink; rated speed 3000 rpm; rotor inertia 1.59e-4 kg·m² (no brake). Mass 2.2 kg (2.8 kg with brake) per standard dimension table (26-bit encoder models); manual states batteryless absolute encoder (W) models are 0.1 kg heavier."
   }
 ]

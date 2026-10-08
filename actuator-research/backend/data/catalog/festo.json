@@ -547,9 +547,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -567,9 +567,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -587,9 +587,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -607,9 +607,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -627,9 +627,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -647,9 +647,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -667,9 +667,9 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   },
   {
     "kind": "linear",
@@ -687,8 +687,8 @@
     "duty_cycle_pct": 100,
     "feedback": "motorless - user motor",
     "ip_rating": "IP40",
-    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/DataSheet/EN_GB/5428860.pdf",
-    "source": "Festo EPCC data sheet (catalog, Datasheet general/mechanical data; EPCC-BS-45-75-3P-A part 5428860 data sheet)",
-    "remarks": "Max feed force Fx; max speed decreases with stroke. Strokes from 25 mm. Festo series catalog (motionworld.com-hosted copy) used for sizes other than the cited 45-3P data sheet; size 32 max stroke from ordering data."
+    "datasheet_url": "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2020/US/EPCC_ENUS.PDF",
+    "source": "Festo EPCC catalog (2020/08, US edition), Data sheet p. 6: general technical data, mechanical data, operating and environmental conditions",
+    "remarks": "Max feed force Fx; max speed is stroke-dependent (catalog p. 9). Working stroke 25 mm up to stroke_mm. Motorless (stepper or servo motor kit)."
   }
 ]

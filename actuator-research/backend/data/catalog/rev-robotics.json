@@ -32,7 +32,7 @@
     "peak_torque_nm": 4.2,
     "max_speed_rpm": 150,
     "mass_kg": 0.35,
-    "feedback": "integrated encoder 28 counts/rev at motor (HD Hex Motor)",
+    "feedback": "integrated encoder (counts/rev not listed on this page)",
     "price_usd": 34.5,
     "datasheet_url": "https://www.revrobotics.com/rev-41-1301/",
     "source": "REV Robotics product page REV-41-1301, Specifications list",

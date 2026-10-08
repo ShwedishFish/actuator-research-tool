@@ -371,7 +371,7 @@
     "datasheet_url": "https://www.cubemars.com/product/ak60-6-v3-0-kv80-robotic-actuator.html",
     "source": "CubeMars product page spec table + AK/AKE/AKA/AKH comparison table, cubemars.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 3 N·m at 233 rpm, 3.8 A; peak current 10.3 A; max_speed is no-load at 24 V. Rated power 74 W. Ratio 6:1. Size Ø79*43 mm. Integrated driver (CAN/UART). Also rated at 24/48 V (separate entries)."
+    "remarks": "Rated 3 N·m at 233 rpm, 3.8 A; peak current 10.3 A; max_speed is no-load at 24 V. Rated power: spec table 60/125 W (24/48 V); comparison table 74 W. Ratio 6:1. Size Ø79*43 mm. Integrated driver (CAN/UART). Also rated at 24/48 V (separate entries)."
   },
   {
     "id": "cubemars-ak60-6-v3-0-kv80-48v",
@@ -393,7 +393,7 @@
     "datasheet_url": "https://www.cubemars.com/product/ak60-6-v3-0-kv80-robotic-actuator.html",
     "source": "CubeMars product page spec table + AK/AKE/AKA/AKH comparison table, cubemars.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 3 N·m at 490 rpm, 3.8 A; peak current 11.2 A; max_speed is no-load at 48 V. Rated power 74 W. Ratio 6:1. Size Ø79*43 mm. Integrated driver (CAN/UART). Also rated at 24/48 V (separate entries)."
+    "remarks": "Rated 3 N·m at 490 rpm, 3.8 A; peak current 11.2 A; max_speed is no-load at 48 V. Rated power: spec table 60/125 W (24/48 V); comparison table 74 W. Ratio 6:1. Size Ø79*43 mm. Integrated driver (CAN/UART). Also rated at 24/48 V (separate entries)."
   },
   {
     "id": "cubemars-ak60-6-v1-1-kv140",

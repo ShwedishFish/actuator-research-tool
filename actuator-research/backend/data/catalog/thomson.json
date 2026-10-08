@@ -1300,7 +1300,7 @@
     "ip_rating": "IP66",
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.5 Technical data for dc units, 6.1 ordering key",
-    "remarks": "No-load speed; 9 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme.",
+    "remarks": "No-load speed; 9 mm/s at max load. 12/24/36/48/90 Vdc; 12 V max-load current shown. Mass at 2 in stroke. IP66 standard, IP69K optional. Overload clutch; holding brake on ball models, self-locking acme. Ordering key lists 2KB5 as 9 mm/s; spec table 15 no-load/9 max-load.",
     "stroke_mm": 304.8
   },
   {
@@ -1580,7 +1580,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://www.thomsonlinear.com/downloads/actuators/Electrak_GX_Installation_Operation_mnuk.pdf",
     "source": "Thomson Electrak GX Installation Manual MNUK-0011-02, Edition 2026-01, sec. 5.6 Technical data for ac units, 6.2 ordering key",
-    "remarks": "No-load speed; 9 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.8 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45.",
+    "remarks": "No-load speed; 9 mm/s at max load. 1x115 Vac (35 uF capacitor) or 1x230 Vac (A22C, 1.8 A at max load). Mass at 6 in stroke. Product page lists AC IP54; manual lists IP45. Ordering key lists 2KB5 as 9 mm/s; spec table 15 no-load/9 max-load.",
     "stroke_mm": 304.8
   },
   {
@@ -2776,7 +2776,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -2786,7 +2785,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 32 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 32 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -2812,7 +2811,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -2822,7 +2820,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 32 mm/s at max load. 1x230 Vac (10 uF capacitor); not available at 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 32 mm/s at max load. 1x230 Vac (10 uF capacitor); not available at 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -2848,7 +2846,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -2858,7 +2855,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 18 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 18 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -2884,7 +2881,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -2894,7 +2890,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 18 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 18 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -2920,7 +2916,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -2930,7 +2925,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 12 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 565 N·m. No-load speed; 12 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -2956,7 +2951,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -2966,7 +2960,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 565 N·m. No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -2992,7 +2986,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3002,7 +2995,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 37 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 37 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3028,7 +3021,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3038,7 +3030,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 37 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 37 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3064,7 +3056,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3074,7 +3065,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3100,7 +3091,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3110,7 +3100,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 19 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3136,7 +3126,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3146,7 +3135,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 12 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 12 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3172,7 +3161,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3182,7 +3170,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 12 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3208,7 +3196,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3218,7 +3205,7 @@
     "ip_rating": "IP65",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMD Technical Specifications",
-    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 11 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch.",
+    "remarks": "DC column actuator, max load torque 710 N·m. No-load speed; 11 mm/s at max load. 12/24 Vdc; 12 V max-load current shown. Overload clutch. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {
@@ -3244,7 +3231,6 @@
       406.4,
       457.2,
       508.0,
-      558.8,
       609.6
     ],
     "duty_cycle_pct": 25,
@@ -3254,7 +3240,7 @@
     "ip_rating": "IP45",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), DMA Technical Specifications",
-    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 11 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s.",
+    "remarks": "AC column actuator, max load torque 710 N·m. No-load speed; 11 mm/s at max load. 1x230 Vac (10 uF capacitor); also 3x400 Vac. Max on-time 45 s. Ordering key strokes 4-20 and 24 in (no 22 in).",
     "stroke_mm": 609.6
   },
   {

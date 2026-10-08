@@ -517,9 +517,7 @@
       228.6,
       254.0,
       304.8,
-      457.2,
       609.6,
-      762.0,
       1016
     ],
     "mass_kg": 3.9,
@@ -614,16 +612,15 @@
     "peak_force_n": 1001,
     "holding_force_n": 1001,
     "max_speed_mm_s": 7.112,
-    "stroke_mm": 609.6,
+    "stroke_mm": 304.8,
     "stroke_options_mm": [
       25.4,
       50.8,
       101.6,
       152.4,
-      304.8,
-      609.6
+      304.8
     ],
-    "mass_kg": 2.9,
+    "mass_kg": 1.22,
     "duty_cycle_pct": 25,
     "supply_voltage_v": 12,
     "feedback": "none (optional)",
@@ -632,7 +629,7 @@
     "datasheet_url": "https://www.progressiveautomations.com/products/pa-01",
     "source": "Progressive Automations PA-01 product page spec table (force/speed/current, length & weight)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.2 in/s, <= 2 A full load."
+    "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 12 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.2 in/s, <= 2 A full load."
   },
   {
     "id": "progressive-automations-pa-01-hall-16lb",
@@ -766,11 +763,10 @@
     "supply_voltage_v": 12,
     "feedback": "hall",
     "ip_rating": "IP65",
-    "price_usd": 136.99,
     "datasheet_url": "https://www.progressiveautomations.com/products/feedback-ip65-mini-linear-actuator",
     "source": "Progressive Automations PA-01-HALL product page spec table (force/speed/current, length & weight)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.2 in/s, <= 2 A full load."
+    "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 24 in stroke. Store sells this force only at 24 VDC: strokes are the 24 VDC listings; 12 VDC price unlisted. 24 VDC version: same force/no-load speed, full-load 0.2 in/s, <= 2 A full load."
   },
   {
     "id": "progressive-automations-pa-01-pot-56lb",
@@ -899,7 +895,6 @@
       101.6,
       152.4,
       203.2,
-      254.0,
       304.8,
       457.2,
       609.6,
@@ -935,7 +930,6 @@
       25.4,
       50.8,
       76.2,
-      101.6,
       152.4,
       203.2,
       304.8,
@@ -1507,11 +1501,10 @@
     "rated_current_a": 18.0,
     "feedback": "none",
     "ip_rating": "IP65",
-    "price_usd": 311.99,
     "datasheet_url": "https://www.progressiveautomations.com/products/pa-hd1",
     "source": "Progressive Automations PA-HD1 product page spec table (force/speed/current, length & weight)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Full-load speed 1.11 in/s (28.19 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 10.0 A full load. Mechanical slip clutch."
+    "remarks": "Full-load speed 1.11 in/s (28.19 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 24 in stroke. Store sells this force only at 24 VDC: strokes are the 24 VDC listings; 12 VDC price unlisted. Also 24 VDC: same speeds, 10.0 A full load. Mechanical slip clutch."
   },
   {
     "id": "progressive-automations-pa-hd1-899lb",
@@ -1525,14 +1518,12 @@
     "peak_force_n": 3999,
     "holding_force_n": 7001,
     "max_speed_mm_s": 16.76,
-    "stroke_mm": 1016,
+    "stroke_mm": 609.6,
     "stroke_options_mm": [
       254.0,
-      609.6,
-      762.0,
-      1016
+      609.6
     ],
-    "mass_kg": 11.2,
+    "mass_kg": 7.78,
     "duty_cycle_pct": 10,
     "supply_voltage_v": 12,
     "rated_current_a": 18.0,
@@ -1542,7 +1533,7 @@
     "datasheet_url": "https://www.progressiveautomations.com/products/pa-hd1",
     "source": "Progressive Automations PA-HD1 product page spec table (force/speed/current, length & weight)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Full-load speed 0.55 in/s (13.97 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 10.0 A full load. Mechanical slip clutch."
+    "remarks": "Full-load speed 0.55 in/s (13.97 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 10.0 A full load. Mechanical slip clutch."
   },
   {
     "id": "progressive-automations-pa-hd1-1574lb",
@@ -1568,11 +1559,10 @@
     "rated_current_a": 18.0,
     "feedback": "none",
     "ip_rating": "IP65",
-    "price_usd": 311.99,
     "datasheet_url": "https://www.progressiveautomations.com/products/pa-hd1",
     "source": "Progressive Automations PA-HD1 product page spec table (force/speed/current, length & weight)",
     "retrieved_on": "2026-10-07",
-    "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 9.0 A full load. Mechanical slip clutch."
+    "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 40 in stroke. Store sells this force only at 24 VDC: strokes are the 24 VDC listings; 12 VDC price unlisted. Also 24 VDC: same speeds, 9.0 A full load. Mechanical slip clutch."
   },
   {
     "id": "progressive-automations-pa-hd1-hall-1574lb",
