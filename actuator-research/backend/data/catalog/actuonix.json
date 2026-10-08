@@ -496,7 +496,6 @@
     "series": "P16",
     "part_number": "P16-SS-256-12-C",
     "peak_force_n": 300,
-    "holding_force_n": 500,
     "max_speed_mm_s": 4.8,
     "stroke_options_mm": [
       50,
@@ -582,7 +581,6 @@
     "series": "T16",
     "part_number": "T16-SS-256-12-C",
     "peak_force_n": 300,
-    "holding_force_n": 500,
     "max_speed_mm_s": 4.8,
     "stroke_options_mm": [
       100,

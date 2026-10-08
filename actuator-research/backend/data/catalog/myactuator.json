@@ -446,7 +446,6 @@
     "part_number": "RMD-X10-P7-40",
     "peak_torque_nm": 40.0,
     "continuous_torque_nm": 15.0,
-    "max_speed_rpm": 165.0,
     "mass_kg": 1.15,
     "supply_voltage_v": 48.0,
     "rated_current_a": 6.5,
@@ -454,7 +453,7 @@
     "datasheet_url": "https://www.myactuator.com/x10-40-details",
     "source": "MyActuator X10-P7-40 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 15.0 N·m at 165.0 rpm, 6.5 A; peak current 15 A. No no-load speed published; max_speed is rated speed at 48.0 V. Rated power 265 W. Ratio 7. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
+    "remarks": "Rated 15.0 N·m at 165.0 rpm, 6.5 A; peak current 15 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 265 W. Ratio 7. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
   },
   {
     "id": "myactuator-rmd-x10-p35-100",
@@ -467,7 +466,6 @@
     "part_number": "RMD-X10-P35-100",
     "peak_torque_nm": 100.0,
     "continuous_torque_nm": 50.0,
-    "max_speed_rpm": 50.0,
     "mass_kg": 1.7,
     "supply_voltage_v": 48.0,
     "rated_current_a": 6.7,
@@ -475,7 +473,7 @@
     "datasheet_url": "https://www.myactuator.com/x10-100-details",
     "source": "MyActuator X10-P35-100 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 50.0 N·m at 50.0 rpm, 6.7 A; peak current 13.5 A. No no-load speed published; max_speed is rated speed at 48.0 V. Rated power 265 W. Ratio 35. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
+    "remarks": "Rated 50.0 N·m at 50.0 rpm, 6.7 A; peak current 13.5 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 265 W. Ratio 35. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
   },
   {
     "id": "myactuator-rmd-x6-p8-8",
@@ -488,15 +486,13 @@
     "part_number": "RMD-X6-P8-8",
     "peak_torque_nm": 8.0,
     "continuous_torque_nm": 4.5,
-    "max_speed_rpm": 310.0,
-    "mass_kg": 0.49,
     "supply_voltage_v": 48.0,
     "rated_current_a": 3.6,
     "feedback": "dual encoder 14-bit / 14-bit",
     "datasheet_url": "https://www.myactuator.com/x6-8-details",
     "source": "MyActuator X6-P8-8 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 4.5 N·m at 310.0 rpm, 3.6 A; peak current 7.2 A. No no-load speed published; max_speed is rated speed at 48.0 V. Rated power 135 W. Ratio 8. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series."
+    "remarks": "Rated 4.5 N·m at 310.0 rpm, 3.6 A; peak current 7.2 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 135 W. Ratio 8. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V3 dual-encoder series. Mass unlisted (spec image illegible)."
   },
   {
     "id": "myactuator-rmd-x6-p6-7",
@@ -509,7 +505,6 @@
     "part_number": "RMD-X6-P6-7",
     "peak_torque_nm": 7.0,
     "continuous_torque_nm": 3.5,
-    "max_speed_rpm": 400.0,
     "mass_kg": 0.35,
     "supply_voltage_v": 48.0,
     "rated_current_a": 4.0,
@@ -517,7 +512,7 @@
     "datasheet_url": "https://www.myactuator.com/x6-7-details",
     "source": "MyActuator X6-P6-7 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 3.5 N·m at 400.0 rpm, 4.0 A; peak current 9 A. No no-load speed published; max_speed is rated speed at 48.0 V. Rated power 150 W. Ratio 6. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
+    "remarks": "Rated 3.5 N·m at 400.0 rpm, 4.0 A; peak current 9 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 150 W. Ratio 6. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
   },
   {
     "id": "myactuator-rmd-x6-p36-40",
@@ -530,7 +525,6 @@
     "part_number": "RMD-X6-P36-40",
     "peak_torque_nm": 40.0,
     "continuous_torque_nm": 18.0,
-    "max_speed_rpm": 90.0,
     "mass_kg": 0.59,
     "supply_voltage_v": 48.0,
     "rated_current_a": 5.2,
@@ -538,7 +532,7 @@
     "datasheet_url": "https://www.myactuator.com/x6-40-details",
     "source": "MyActuator X6-P36-40 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 18.0 N·m at 90.0 rpm, 5.2 A; peak current 10.5 A. No no-load speed published; max_speed is rated speed at 48.0 V. Rated power 170 W. Ratio 36. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
+    "remarks": "Rated 18.0 N·m at 90.0 rpm, 5.2 A; peak current 10.5 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 170 W. Ratio 36. Backlash 15 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
   },
   {
     "id": "myactuator-rmd-x8-p9-25",
@@ -551,7 +545,6 @@
     "part_number": "RMD-X8-P9-25",
     "peak_torque_nm": 25.0,
     "continuous_torque_nm": 10.0,
-    "max_speed_rpm": 110.0,
     "mass_kg": 0.71,
     "supply_voltage_v": 48.0,
     "rated_current_a": 3.2,
@@ -559,6 +552,6 @@
     "datasheet_url": "https://www.myactuator.com/x8-25-details",
     "source": "MyActuator X8-P9-25 product parameters sheet (image), myactuator.com",
     "retrieved_on": "2026-10-07",
-    "remarks": "Rated 10.0 N·m at 110.0 rpm, 3.2 A; peak current 8 A. No no-load speed published; max_speed is rated speed at 48.0 V. Rated power 125 W. Ratio 9. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
+    "remarks": "Rated 10.0 N·m at 110.0 rpm, 3.2 A; peak current 8 A. Max/no-load speed unlisted (rated speed is at 48.0 V). Rated power 125 W. Ratio 9. Backlash 10 arcmin. CAN (-C-N) or RS485 (-R-N). V2 single-encoder series."
   }
 ]

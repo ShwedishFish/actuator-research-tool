@@ -35,7 +35,7 @@ def evaluate(actuator: Actuator, req: SelectionIn) -> dict:
         rating = getattr(actuator, rating_field)
         if rating is None:
             margins[req_field] = None
-            issues.append(f"{label}: no rating in catalog")
+            issues.append(f"{label}: unlisted")
             continue
         margin = rating / required
         margins[req_field] = margin

@@ -94,5 +94,6 @@ dd { margin: 0; }
 #notes-list li { margin-bottom: 8px; }
 .note-meta { color: var(--muted); font-size: 12px; }
 
+.unlisted { color: var(--muted); font-style: italic; }
 .ok { color: var(--ok); }
 .bad, .error { color: var(--bad); }

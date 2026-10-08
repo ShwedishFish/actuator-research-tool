@@ -34,6 +34,20 @@ def test_entry_is_valid_and_sourced(file, row):
         assert a.stroke_mm == max(a.stroke_options_mm)
 
 
+FILLED_IN_MARKERS = re.compile(
+    r"lower bound|upper bound|holds the published|\(conservative\)|peak = 2x|max_speed is rated|assum|estimated value",
+    re.IGNORECASE,
+)
+
+
+@pytest.mark.parametrize(("file", "row"), ROWS, ids=[f"{f}:{r.get('id')}" for f, r in ROWS])
+def test_no_filled_in_specs(file, row):
+    """Unpublished specs must be left out (shown as unlisted), never inferred from bounds or other fields."""
+    assert not FILLED_IN_MARKERS.search(row.get("remarks", "")), row.get("remarks")
+    if row.get("peak_force_n") and row.get("continuous_force_n"):
+        assert not (row["peak_force_n"] == row["continuous_force_n"] and "No stall/peak" in row.get("remarks", ""))
+
+
 def test_ids_unique_across_files():
     dupes = [i for i, n in Counter(r["id"] for _, r in ROWS).items() if n > 1]
     assert not dupes

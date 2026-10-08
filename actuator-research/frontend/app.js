@@ -6,7 +6,10 @@ const $$ = (sel, root = document) => [...root.querySelectorAll(sel)];
 const esc = (s) =>
   String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]);
 
-const fmt = (v, digits = 3) => (v === null || v === undefined ? "—" : String(Number(Number(v).toPrecision(digits))));
+const UNLISTED = "-";
+const isMissing = (v) => v === null || v === undefined || v === "";
+const fmt = (v, digits = 3) => (isMissing(v) ? UNLISTED : String(Number(Number(v).toPrecision(digits))));
+const withUnit = (v, unit) => (isMissing(v) ? UNLISTED : `${fmt(v)} ${unit}`);
 
 async function api(path, options = {}) {
   const res = await fetch(path, {
@@ -51,9 +54,14 @@ let selectedId = null;
 
 function ratingCells(a) {
   if (a.kind === "linear") {
-    return [`${fmt(a.peak_force_n)} N`, `${fmt(a.continuous_force_n)} N`, `${fmt(a.max_speed_mm_s)} mm/s`, `${fmt(a.stroke_mm)} mm`];
+    return [
+      withUnit(a.peak_force_n, "N"),
+      withUnit(a.continuous_force_n, "N"),
+      withUnit(a.max_speed_mm_s, "mm/s"),
+      withUnit(a.stroke_mm, "mm"),
+    ];
   }
-  return [`${fmt(a.peak_torque_nm)} N·m`, `${fmt(a.continuous_torque_nm)} N·m`, `${fmt(a.max_speed_rpm)} rpm`, "—"];
+  return [withUnit(a.peak_torque_nm, "N·m"), withUnit(a.continuous_torque_nm, "N·m"), withUnit(a.max_speed_rpm, "rpm"), "n/a"];
 }
 
 const CATALOG_RENDER_LIMIT = 300;
@@ -87,7 +95,7 @@ async function loadCatalog() {
       (a) => `<tr data-id="${esc(a.id)}">
         <td>${esc(a.name)}</td><td>${esc(a.kind)}</td><td>${esc(a.actuation)}</td><td>${esc(a.drive)}</td>
         ${ratingCells(a).map((c) => `<td>${c}</td>`).join("")}
-        <td>${a.duty_cycle_pct ? `${fmt(a.duty_cycle_pct)}%` : "—"}</td>
+        <td>${withUnit(a.duty_cycle_pct, "%")}</td>
         <td>${a.user_added ? "user" : ""}</td>
       </tr>`,
     )
@@ -119,14 +127,21 @@ const SPEC_LABELS = {
   source: "Source",
   retrieved_on: "Retrieved",
 };
+const LINEAR_ONLY = ["peak_force_n", "continuous_force_n", "holding_force_n", "max_speed_mm_s", "stroke_mm", "stroke_options_mm"];
+const ROTARY_ONLY = ["peak_torque_nm", "continuous_torque_nm", "max_speed_rpm"];
+const OPTIONAL_TEXT = ["series", "part_number", "remarks"];
 
 async function showDetail(id) {
   selectedId = id;
   const a = await api(`/api/actuators/${encodeURIComponent(id)}`);
   $("#detail-title").textContent = a.name;
+  const skip = a.kind === "linear" ? ROTARY_ONLY : LINEAR_ONLY;
   const specs = Object.entries(SPEC_LABELS)
-    .filter(([k]) => a[k] !== null && a[k] !== "")
-    .map(([k, label]) => `<dt>${label}</dt><dd>${esc(Array.isArray(a[k]) ? a[k].join(", ") : a[k])}</dd>`);
+    .filter(([k]) => !skip.includes(k) && !(OPTIONAL_TEXT.includes(k) && isMissing(a[k])))
+    .map(([k, label]) => {
+      const v = Array.isArray(a[k]) ? a[k].join(", ") : a[k];
+      return `<dt>${label}</dt><dd>${isMissing(v) ? '<span class="unlisted">unlisted</span>' : esc(v)}</dd>`;
+    });
   if (a.datasheet_url) {
     specs.push(`<dt>Datasheet</dt><dd><a href="${esc(a.datasheet_url)}" target="_blank" rel="noopener">${esc(a.datasheet_url)}</a></dd>`);
   }
@@ -287,9 +302,9 @@ function fillSelection(req) {
 function renderCandidate(c) {
   const a = c.actuator;
   const margins = Object.entries(c.margins)
-    .map(([k, m]) => `<span class="${m !== null && m >= 1 ? "ok" : "bad"}">${k}: ${m === null ? "n/a" : `${fmt(m)}×`}</span>`)
+    .map(([k, m]) => `<span class="${m !== null && m >= 1 ? "ok" : "bad"}">${k}: ${m === null ? "unlisted" : `${fmt(m)}×`}</span>`)
     .join(" · ");
-  return `<tr data-id="${esc(a.id)}"><td>${esc(a.name)}</td><td>${esc(a.actuation)}</td><td>${fmt(c.min_margin)}×</td><td>${margins}</td>
+  return `<tr data-id="${esc(a.id)}"><td>${esc(a.name)}</td><td>${esc(a.actuation)}</td><td>${isMissing(c.min_margin) ? UNLISTED : `${fmt(c.min_margin)}×`}</td><td>${margins}</td>
     <td>${c.issues.map(esc).join("<br>")}</td></tr>`;
 }
 

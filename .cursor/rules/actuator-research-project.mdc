@@ -11,6 +11,12 @@ alwaysApply: true
 - Dev server: `bash actuator-research/scripts/dev.sh` on **http://127.0.0.1:8001/** (port 8000 belongs to the Fastener Analysis Tool). `--reload` picks up edits; verify UI changes in Cursor's Simple Browser (task **Actuator Research: Open in Cursor Browser**).
 - User data (added actuators, notes) lives in `actuator-research/backend/data/user/` (gitignored). Tests isolate it with `ACTUATOR_DATA_DIR`.
 
+## Never assume specs
+
+- Record a spec only if the source publishes that exact value for that exact product. Otherwise leave the field out; the UI shows "-" in tables and "unlisted" in detail.
+- Do not fill a field from a range or bound (">500 N", "≤ 0.8 A", "10–20 %"), from another field (peak = continuous, peak = 2× continuous), from a different condition (rated speed in a max-speed field), from an unlabeled unit, or from an unreadable/misaligned table. Put the published wording in `remarks` instead.
+- When sources conflict and neither is clearly authoritative, leave the field out and quote both in `remarks`.
+
 ## Catalog data and IP
 
 - `backend/data/catalog_seed.json` holds **illustrative placeholders only**. Real entries need a `source` (datasheet title, revision, page) and an official manufacturer `datasheet_url`.

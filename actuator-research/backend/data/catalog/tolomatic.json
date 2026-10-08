@@ -781,11 +781,10 @@
     "part_number": "IMA22 BN10 (3-stack winding)",
     "peak_force_n": 1446,
     "continuous_force_n": 800.7,
-    "max_speed_mm_s": 711.2,
     "stroke_mm": 305,
     "datasheet_url": "https://www.tolomatic.com/products/product-details/ima-linear-servo-actuators/",
     "source": "Tolomatic IMA product page, IMA Actuator Specifications (Imperial) table",
-    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max."
+    "remarks": "Integrated brushless servo motor; external servo drive required (230 or 460 VAC bus windings). Ratings validated on aluminum face mount plate at 25 C. IP67 option. Max stroke is frame max. Speed unlisted: catalog metric table says 771 mm/s, imperial table says 28 in/s."
   },
   {
     "kind": "linear",

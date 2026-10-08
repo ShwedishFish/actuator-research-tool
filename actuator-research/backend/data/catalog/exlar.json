@@ -9,7 +9,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX060-xxx-01-4",
-    "peak_force_n": 5336,
     "continuous_force_n": 2668,
     "max_speed_mm_s": 318,
     "stroke_mm": 300,
@@ -22,7 +21,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -34,7 +33,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX060-xxx-01-D",
-    "peak_force_n": 5336,
     "continuous_force_n": 2668,
     "max_speed_mm_s": 212,
     "stroke_mm": 300,
@@ -47,7 +45,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -59,7 +57,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX060-xxx-02-4",
-    "peak_force_n": 3800,
     "continuous_force_n": 1900,
     "max_speed_mm_s": 635,
     "stroke_mm": 300,
@@ -72,7 +69,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -84,7 +81,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX060-xxx-02-D",
-    "peak_force_n": 3220,
     "continuous_force_n": 1610,
     "max_speed_mm_s": 423,
     "stroke_mm": 300,
@@ -97,7 +93,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -109,7 +105,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX060-xxx-04-4",
-    "peak_force_n": 2012,
     "continuous_force_n": 1006,
     "max_speed_mm_s": 1270,
     "stroke_mm": 300,
@@ -122,7 +117,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -134,7 +129,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX060-xxx-04-D",
-    "peak_force_n": 1704,
     "continuous_force_n": 852,
     "max_speed_mm_s": 847,
     "stroke_mm": 300,
@@ -147,7 +141,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -159,7 +153,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX080-xxx-01-4",
-    "peak_force_n": 16730,
     "continuous_force_n": 8365,
     "max_speed_mm_s": 254,
     "stroke_mm": 450,
@@ -173,7 +166,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -185,7 +178,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX080-xxx-01-D",
-    "peak_force_n": 14202,
     "continuous_force_n": 7101,
     "max_speed_mm_s": 102,
     "stroke_mm": 450,
@@ -199,7 +191,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -211,7 +203,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX080-xxx-02-4",
-    "peak_force_n": 9480,
     "continuous_force_n": 4740,
     "max_speed_mm_s": 508,
     "stroke_mm": 450,
@@ -225,7 +216,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -237,7 +228,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX080-xxx-02-D",
-    "peak_force_n": 8048,
     "continuous_force_n": 4024,
     "max_speed_mm_s": 203,
     "stroke_mm": 450,
@@ -251,7 +241,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -263,7 +253,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX080-xxx-05-4",
-    "peak_force_n": 4016,
     "continuous_force_n": 2008,
     "max_speed_mm_s": 1270,
     "stroke_mm": 450,
@@ -277,7 +266,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -289,7 +278,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX080-xxx-05-D",
-    "peak_force_n": 3408,
     "continuous_force_n": 1704,
     "max_speed_mm_s": 508,
     "stroke_mm": 450,
@@ -303,7 +291,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -315,7 +303,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX100-xxx-01-4",
-    "peak_force_n": 30784,
     "continuous_force_n": 15392,
     "max_speed_mm_s": 191,
     "stroke_mm": 300,
@@ -327,7 +314,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -339,7 +326,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX100-xxx-02-4",
-    "peak_force_n": 24196,
     "continuous_force_n": 12098,
     "max_speed_mm_s": 381,
     "stroke_mm": 300,
@@ -351,7 +337,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",
@@ -363,7 +349,6 @@
     "manufacturer": "Curtiss-Wright (Exlar)",
     "series": "GTX",
     "part_number": "GTX100-xxx-05-4",
-    "peak_force_n": 10888,
     "continuous_force_n": 5444,
     "max_speed_mm_s": 953,
     "stroke_mm": 300,
@@ -375,7 +360,7 @@
     "ip_rating": "IP66S",
     "datasheet_url": "https://actuation.curtisswright.com/en-gb/products/integrated-motor-actuators/gtx-series",
     "source": "Curtiss-Wright Exlar GTX Series product page, GTX060/080/100 Mechanical Specifications tables (matches 2026 GTX Product Catalog 8-26)",
-    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak = 2x continuous per catalog note 'do not exceed 2X the continuous force rating' (frame peaks listed on product page). Continuous rating at 25 C ambient; max velocity at max voltage."
+    "remarks": "Integrated brushless servo motor + roller screw; external servo drive required. Peak force unlisted per lead (catalog only says do not exceed 2X the continuous rating). Continuous rating at 25 C ambient; max velocity at max voltage."
   },
   {
     "kind": "linear",

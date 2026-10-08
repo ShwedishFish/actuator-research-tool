@@ -42,6 +42,15 @@ def test_seed_actuators_cannot_be_deleted(client):
 def test_linear_actuator_requires_force(client):
     bad = {**NEW, "peak_force_n": None}
     assert client.post("/api/actuators", json=bad).status_code == 422
+    continuous_only = {**NEW, "id": "continuous-only", "peak_force_n": None, "continuous_force_n": 500}
+    assert client.post("/api/actuators", json=continuous_only).status_code == 201
+
+
+def test_unlisted_rating_fails_selection(client):
+    client.post("/api/actuators", json={**NEW, "id": "cont-only", "peak_force_n": None, "continuous_force_n": 5000})
+    result = client.post("/api/select", json={"kind": "linear", "peak_force_n": 100}).json()
+    entry = next(c for c in result["rejected"] if c["actuator"]["id"] == "cont-only")
+    assert entry["issues"] == ["Peak force: unlisted"]
 
 
 def test_notes_roundtrip(client):

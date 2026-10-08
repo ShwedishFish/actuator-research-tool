@@ -626,12 +626,11 @@
     "duty_cycle_pct": 25,
     "mass_kg": 0.59,
     "supply_voltage_v": 12,
-    "rated_current_a": 3.8,
     "feedback": "none (potentiometer optional)",
     "ip_rating": "IP56",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 050 Technical Specifications and Ordering Key",
-    "remarks": "No-load speed; 9 mm/s at max load. 12/24/36 Vdc (12 V max-load current shown; 24 V about half). Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
+    "remarks": "No-load speed; 9 mm/s at max load. 12/24/36 Vdc . Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
     "stroke_mm": 203.2
   },
   {
@@ -660,12 +659,11 @@
     "duty_cycle_pct": 25,
     "mass_kg": 0.59,
     "supply_voltage_v": 12,
-    "rated_current_a": 3.8,
     "feedback": "none (potentiometer optional)",
     "ip_rating": "IP56",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 050 Technical Specifications and Ordering Key",
-    "remarks": "No-load speed; 18 mm/s at max load. 12/24/36 Vdc (12 V max-load current shown; 24 V about half). Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
+    "remarks": "No-load speed; 18 mm/s at max load. 12/24/36 Vdc . Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
     "stroke_mm": 203.2
   },
   {
@@ -694,12 +692,11 @@
     "duty_cycle_pct": 25,
     "mass_kg": 0.59,
     "supply_voltage_v": 12,
-    "rated_current_a": 3.8,
     "feedback": "none (potentiometer optional)",
     "ip_rating": "IP56",
     "datasheet_url": "https://assets.ctfassets.net/qp8rp917jhxs/61QbxAKcuWYSKAqq2qEawy/49edd6a5a64e5fa148b26b8d93731071/Linear_Actuators_Thomson_2019.pdf",
     "source": "Thomson Linear Actuators catalog CTUK-0011-02 (2019-09), Electrak 050 Technical Specifications and Ordering Key",
-    "remarks": "No-load speed; 37 mm/s at max load. 12/24/36 Vdc (12 V max-load current shown; 24 V about half). Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
+    "remarks": "No-load speed; 37 mm/s at max load. 12/24/36 Vdc . Duty cycle at 20 C. Mass at 1 in stroke (0.91 kg at 8 in). Strokes 1-8 in. Internal limit switches, overload clutch.",
     "stroke_mm": 203.2
   },
   {

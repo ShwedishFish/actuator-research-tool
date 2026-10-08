@@ -1387,7 +1387,6 @@
     "part_number": "FA-B-22-12V",
     "drive": "lead screw",
     "peak_force_n": 88.96,
-    "holding_force_n": 133.4,
     "max_speed_mm_s": 11,
     "duty_cycle_pct": 10,
     "mass_kg": 0.499,
@@ -1395,7 +1394,7 @@
     "rated_current_a": 1.4,
     "feedback": "none",
     "ip_rating": "IP66",
-    "remarks": "Push/pull 20 lbf. Self-locking published as 30-60 lbf (holding = lower bound). Speed 0.433 in/s (load condition not stated). Gear 49. 1.4A @12V, 0.7A @24V. mass_kg = 8 in stroke (1.10 lb).",
+    "remarks": "Push/pull 20 lbf. Self-locking published as 30-60 lbf. Speed 0.433 in/s (load condition not stated). Gear 49. 1.4A @12V, 0.7A @24V. mass_kg = 8 in stroke (1.10 lb).",
     "stroke_options_mm": [
       25.4,
       50.8,
@@ -1422,7 +1421,6 @@
     "part_number": "FA-B-110-12V",
     "drive": "lead screw",
     "peak_force_n": 489.3,
-    "holding_force_n": 734,
     "max_speed_mm_s": 3.505,
     "duty_cycle_pct": 10,
     "mass_kg": 0.499,
@@ -1430,7 +1428,7 @@
     "rated_current_a": 1.4,
     "feedback": "none",
     "ip_rating": "IP66",
-    "remarks": "Push/pull 110 lbf. Self-locking published as 165-330 lbf (holding = lower bound). Speed 0.138 in/s (load condition not stated). Gear 139. 1.4A @12V, 0.7A @24V. mass_kg = 8 in stroke (1.10 lb).",
+    "remarks": "Push/pull 110 lbf. Self-locking published as 165-330 lbf. Speed 0.138 in/s (load condition not stated). Gear 139. 1.4A @12V, 0.7A @24V. mass_kg = 8 in stroke (1.10 lb).",
     "stroke_options_mm": [
       25.4,
       50.8,
@@ -1476,7 +1474,7 @@
     "stroke_mm": 889,
     "price_usd": 300.0,
     "datasheet_url": "https://www.firgelliauto.com/products/industrial-heavy-duty-linear-actuators",
-    "source": "Firgelli product page 'FIRGELLI\u00ae Industrial Heavy Duty Linear Actuator', Technical Details table + variant list",
+    "source": "Firgelli product page 'FIRGELLI® Industrial Heavy Duty Linear Actuator', Technical Details table + variant list",
     "retrieved_on": "2026-10-07"
   },
   {

@@ -605,8 +605,7 @@
     "datasheet_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-99-5-1-ratio-80mm-length-8mm-rex-shaft-60-rpm-3-3-5v-encoder/",
     "source": "goBILDA product page 5204-8002-0100, Specs table",
     "retrieved_on": "2026-10-07",
-    "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft.",
-    "mass_kg": 0.501
+    "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft. Weight published as \"501\" with no unit; mass unlisted."
   },
   {
     "id": "gobilda-5204-8002-0139",

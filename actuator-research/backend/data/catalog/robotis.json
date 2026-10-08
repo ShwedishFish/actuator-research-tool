@@ -791,7 +791,6 @@
     "manufacturer": "ROBOTIS",
     "series": "DYNAMIXEL P",
     "part_number": "PH54-200-S500-R",
-    "peak_torque_nm": 44.7,
     "continuous_torque_nm": 44.7,
     "max_speed_rpm": 33.1,
     "mass_kg": 0.855,
@@ -802,7 +801,7 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/ph54-200-s500-r/",
     "source": "ROBOTIS e-Manual, PH54-200-S500-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); peak_torque_nm holds the published continuous torque 44.7 N·m at 29.0 [rev/min], 9.3 A (conservative). max_speed is no-load. Motor: BLDC (Maxon), output 200 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 44.7 N·m at 29.0 [rev/min], 9.3 A . max_speed is no-load. Motor: BLDC (Maxon), output 200 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
   },
   {
     "id": "robotis-ph54-100-s500-r",
@@ -813,7 +812,6 @@
     "manufacturer": "ROBOTIS",
     "series": "DYNAMIXEL P",
     "part_number": "PH54-100-S500-R",
-    "peak_torque_nm": 25.3,
     "continuous_torque_nm": 25.3,
     "max_speed_rpm": 33.3,
     "mass_kg": 0.74,
@@ -824,7 +822,7 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/ph54-100-s500-r/",
     "source": "ROBOTIS e-Manual, PH54-100-S500-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); peak_torque_nm holds the published continuous torque 25.3 N·m at 29.2 [rev/min], 5.5 A (conservative). max_speed is no-load. Motor: BLDC (Maxon), output 100 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 25.3 N·m at 29.2 [rev/min], 5.5 A . max_speed is no-load. Motor: BLDC (Maxon), output 100 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
   },
   {
     "id": "robotis-ph42-020-s300-r",
@@ -835,7 +833,6 @@
     "manufacturer": "ROBOTIS",
     "series": "DYNAMIXEL P",
     "part_number": "PH42-020-S300-R",
-    "peak_torque_nm": 5.1,
     "continuous_torque_nm": 5.1,
     "max_speed_rpm": 32.7,
     "mass_kg": 0.34,
@@ -846,7 +843,7 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/ph42-020-s300-r/",
     "source": "ROBOTIS e-Manual, PH42-020-S300-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); peak_torque_nm holds the published continuous torque 5.1 N·m at 29.2 [rev/min], 1.5 A (conservative). max_speed is no-load. Motor: Coreless (Maxon), output 20 [W]. Gear ratio 303.75:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 5.1 N·m at 29.2 [rev/min], 1.5 A . max_speed is no-load. Motor: Coreless (Maxon), output 20 [W]. Gear ratio 303.75:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
   },
   {
     "id": "robotis-pm54-060-s250-r",
@@ -857,7 +854,6 @@
     "manufacturer": "ROBOTIS",
     "series": "DYNAMIXEL P",
     "part_number": "PM54-060-S250-R",
-    "peak_torque_nm": 10.1,
     "continuous_torque_nm": 10.1,
     "max_speed_rpm": 33.1,
     "mass_kg": 0.855,
@@ -868,7 +864,7 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/pm54-060-s250-r/",
     "source": "ROBOTIS e-Manual, PM54-060-S250-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); peak_torque_nm holds the published continuous torque 10.1 N·m at 28.3 [rev/min], 3 A (conservative). max_speed is no-load. Motor: BLDC (Maxon), output 60 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 10.1 N·m at 28.3 [rev/min], 3 A . max_speed is no-load. Motor: BLDC (Maxon), output 60 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
   },
   {
     "id": "robotis-pm54-040-s250-r",
@@ -879,7 +875,6 @@
     "manufacturer": "ROBOTIS",
     "series": "DYNAMIXEL P",
     "part_number": "PM54-040-S250-R",
-    "peak_torque_nm": 3.9,
     "continuous_torque_nm": 3.9,
     "max_speed_rpm": 28.4,
     "mass_kg": 0.71,
@@ -890,7 +885,7 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/pm54-040-s250-r/",
     "source": "ROBOTIS e-Manual, PM54-040-S250-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); peak_torque_nm holds the published continuous torque 3.9 N·m at 24.2 [rev/min], 1.9 A (conservative). max_speed is no-load. Motor: BLDC (Maxon), output 40 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 3.9 N·m at 24.2 [rev/min], 1.9 A . max_speed is no-load. Motor: BLDC (Maxon), output 40 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
   },
   {
     "id": "robotis-pm42-010-s260-r",
@@ -901,7 +896,6 @@
     "manufacturer": "ROBOTIS",
     "series": "DYNAMIXEL P",
     "part_number": "PM42-010-S260-R",
-    "peak_torque_nm": 1.7,
     "continuous_torque_nm": 1.7,
     "max_speed_rpm": 28.0,
     "mass_kg": 0.27,
@@ -912,6 +906,6 @@
     "datasheet_url": "https://emanual.robotis.com/docs/en/dxl/p/pm42-010-s260-r/",
     "source": "ROBOTIS e-Manual, PM42-010-S260-R specifications table",
     "retrieved_on": "2026-10-07",
-    "remarks": "No stall/peak torque published (only an N-T graph image); peak_torque_nm holds the published continuous torque 1.7 N·m at 26.0 [rev/min], 0.6 A (conservative). max_speed is no-load. Motor: Coreless (Maxon), output 10 [W]. Gear ratio 257.019:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
+    "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 1.7 N·m at 26.0 [rev/min], 0.6 A . max_speed is no-load. Motor: Coreless (Maxon), output 10 [W]. Gear ratio 257.019:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list."
   }
 ]

@@ -52,10 +52,10 @@ class Actuator(BaseModel):
 
     @model_validator(mode="after")
     def _ratings_match_kind(self) -> Actuator:
-        if self.kind == "linear" and self.peak_force_n is None:
-            raise ValueError("linear actuators need peak_force_n")
-        if self.kind == "rotary" and self.peak_torque_nm is None:
-            raise ValueError("rotary actuators need peak_torque_nm")
+        if self.kind == "linear" and self.peak_force_n is None and self.continuous_force_n is None:
+            raise ValueError("linear actuators need peak_force_n or continuous_force_n")
+        if self.kind == "rotary" and self.peak_torque_nm is None and self.continuous_torque_nm is None:
+            raise ValueError("rotary actuators need peak_torque_nm or continuous_torque_nm")
         return self
 
 
