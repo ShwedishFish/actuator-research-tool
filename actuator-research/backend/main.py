@@ -1,13 +1,25 @@
 from __future__ import annotations
 
+import os
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException
+from fastapi import Depends, FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 
 from backend import store
-from backend.schemas import Actuator, Kind, LinearSizingIn, Note, NoteIn, RotarySizingIn, SelectionIn
-from backend.selection import select
+from backend.schemas import (
+    Actuator,
+    Kind,
+    LinearSizingIn,
+    Note,
+    NoteIn,
+    Project,
+    ProjectIn,
+    RotarySizingIn,
+    SelectionIn,
+    TransmissionSelectionIn,
+)
+from backend.selection import select, select_with_transmission
 from backend.sizing import size_linear, size_rotary
 
 FRONTEND_DIR = Path(__file__).resolve().parent.parent / "frontend"
@@ -15,9 +27,23 @@ FRONTEND_DIR = Path(__file__).resolve().parent.parent / "frontend"
 app = FastAPI(title="Actuator Research Tool")
 
 
+def read_only() -> bool:
+    return os.environ.get("ACTUATOR_READ_ONLY", "") == "1"
+
+
+def require_writable() -> None:
+    if read_only():
+        raise HTTPException(403, "this deployment is read-only")
+
+
 @app.get("/healthz")
 def healthz() -> dict:
     return {"status": "ok"}
+
+
+@app.get("/api/config")
+def config() -> dict:
+    return {"read_only": read_only()}
 
 
 @app.get("/api/actuators")
@@ -56,7 +82,7 @@ def get_actuator(actuator_id: str) -> Actuator:
     return actuator
 
 
-@app.post("/api/actuators", status_code=201)
+@app.post("/api/actuators", status_code=201, dependencies=[Depends(require_writable)])
 def add_actuator(actuator: Actuator) -> Actuator:
     try:
         return store.add_actuator(actuator)
@@ -64,7 +90,7 @@ def add_actuator(actuator: Actuator) -> Actuator:
         raise HTTPException(409, f"id '{actuator.id}' already exists") from None
 
 
-@app.delete("/api/actuators/{actuator_id}", status_code=204)
+@app.delete("/api/actuators/{actuator_id}", status_code=204, dependencies=[Depends(require_writable)])
 def delete_actuator(actuator_id: str) -> None:
     if not store.delete_actuator(actuator_id):
         raise HTTPException(404, "user-added actuator not found (seed entries cannot be deleted)")
@@ -76,13 +102,13 @@ def list_notes(actuator_id: str) -> list[Note]:
     return store.list_notes(actuator_id)
 
 
-@app.post("/api/actuators/{actuator_id}/notes", status_code=201)
+@app.post("/api/actuators/{actuator_id}/notes", status_code=201, dependencies=[Depends(require_writable)])
 def add_note(actuator_id: str, note: NoteIn) -> Note:
     get_actuator(actuator_id)
     return store.add_note(actuator_id, note)
 
 
-@app.delete("/api/notes/{note_id}", status_code=204)
+@app.delete("/api/notes/{note_id}", status_code=204, dependencies=[Depends(require_writable)])
 def delete_note(note_id: str) -> None:
     if not store.delete_note(note_id):
         raise HTTPException(404, "note not found")
@@ -101,6 +127,46 @@ def sizing_rotary(inp: RotarySizingIn) -> dict:
 @app.post("/api/select")
 def selection(req: SelectionIn) -> dict:
     return select(store.list_actuators(), req)
+
+
+@app.post("/api/select/transmission")
+def selection_with_transmission(req: TransmissionSelectionIn) -> dict:
+    try:
+        return select_with_transmission(store.list_actuators(), req)
+    except ValueError as exc:
+        raise HTTPException(422, str(exc)) from None
+
+
+@app.get("/api/projects")
+def list_projects() -> list[Project]:
+    return sorted(store.list_projects(), key=lambda p: p.updated_at, reverse=True)
+
+
+@app.get("/api/projects/{project_id}")
+def get_project(project_id: str) -> Project:
+    project = store.get_project(project_id)
+    if project is None:
+        raise HTTPException(404, "project not found")
+    return project
+
+
+@app.post("/api/projects", status_code=201)
+def create_project(project: ProjectIn) -> Project:
+    return store.save_project(project)
+
+
+@app.put("/api/projects/{project_id}")
+def update_project(project_id: str, project: ProjectIn) -> Project:
+    saved = store.save_project(project, project_id)
+    if saved is None:
+        raise HTTPException(404, "project not found")
+    return saved
+
+
+@app.delete("/api/projects/{project_id}", status_code=204)
+def delete_project(project_id: str) -> None:
+    if not store.delete_project(project_id):
+        raise HTTPException(404, "project not found")
 
 
 app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")

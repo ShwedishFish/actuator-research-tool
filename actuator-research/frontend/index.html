@@ -28,11 +28,11 @@
         <select id="catalog-manufacturer">
           <option value="">All manufacturers</option>
         </select>
-        <button id="add-actuator-toggle">Add actuator</button>
+        <button id="add-actuator-toggle" class="write-only">Add actuator</button>
       </div>
       <p id="catalog-count" class="note-meta"></p>
 
-      <form id="add-actuator" class="card hidden">
+      <form id="add-actuator" class="card hidden write-only">
         <h3>Add actuator</h3>
         <div class="grid">
           <label>ID <input name="id" required pattern="[a-z0-9][a-z0-9\-]*" placeholder="my-actuator-1"></label>
@@ -75,12 +75,12 @@
         <dl id="detail-specs"></dl>
         <h4>Research notes</h4>
         <ul id="notes-list"></ul>
-        <form id="note-form">
+        <form id="note-form" class="write-only">
           <textarea name="text" required placeholder="Findings, quotes, test results…"></textarea>
           <input name="source_url" type="url" placeholder="Source URL (optional)">
           <button type="submit">Add note</button>
         </form>
-        <button id="delete-actuator" class="danger hidden">Delete actuator</button>
+        <button id="delete-actuator" class="danger hidden write-only">Delete actuator</button>
       </div>
     </section>
 

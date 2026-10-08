@@ -159,7 +159,7 @@ async function loadNotes() {
         (n) => `<li>${esc(n.text)}
           <div class="note-meta">${esc(n.created_at)}
             ${n.source_url ? ` · <a href="${esc(n.source_url)}" target="_blank" rel="noopener">source</a>` : ""}
-            · <button class="link" data-note="${esc(n.id)}">delete</button></div></li>`,
+            <span class="write-only">· <button class="link" data-note="${esc(n.id)}">delete</button></span></div></li>`,
       )
       .join("") || "<li class='note-meta'>No notes yet.</li>";
 }
@@ -333,5 +333,6 @@ $("#select-result").addEventListener("click", (e) => {
   showDetail(row.dataset.id);
 });
 
+api("/api/config").then((cfg) => document.body.classList.toggle("read-only", cfg.read_only));
 loadManufacturers();
 loadCatalog();

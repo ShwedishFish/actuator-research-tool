@@ -49,6 +49,7 @@ main { padding: 20px 24px; max-width: 1200px; }
 .panel { display: none; }
 .panel.active { display: block; }
 .hidden { display: none !important; }
+.read-only .write-only { display: none !important; }
 
 .toolbar { display: flex; gap: 8px; align-items: center; margin-bottom: 12px; }
 .toolbar input[type="search"] { flex: 1; max-width: 360px; }

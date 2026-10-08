@@ -68,3 +68,14 @@ def test_sizing_feeds_selection(client):
     ).json()
     result = client.post("/api/select", json=sized["required"]).json()
     assert result["feasible"], result
+
+
+def test_read_only_blocks_writes_but_not_sizing(client, monkeypatch):
+    assert client.get("/api/config").json() == {"read_only": False}
+    monkeypatch.setenv("ACTUATOR_READ_ONLY", "1")
+    assert client.get("/api/config").json() == {"read_only": True}
+    assert client.post("/api/actuators", json=NEW).status_code == 403
+    assert client.delete("/api/actuators/example-servo-400w").status_code == 403
+    assert client.post("/api/actuators/example-servo-400w/notes", json={"text": "x"}).status_code == 403
+    assert client.delete("/api/notes/anything").status_code == 403
+    assert client.post("/api/select", json={"kind": "linear", "peak_force_n": 100}).status_code == 200

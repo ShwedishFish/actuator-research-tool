@@ -1,0 +1,19 @@
+# Render Blueprint: https://render.com/docs/blueprint-spec
+# After pushing to GitHub: Dashboard → New → Blueprint → select this repo.
+services:
+  - type: web
+    name: actuator-research
+    runtime: python
+    rootDir: actuator-research
+    plan: free
+    branch: main
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.8"
+      # The free plan's disk is wiped on every deploy and restart, and the write routes have no auth,
+      # so the public site serves the catalog, sizing, and selection only.
+      - key: ACTUATOR_READ_ONLY
+        value: "1"

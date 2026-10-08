@@ -23,6 +23,10 @@ python3.12 -m venv .venv
 bash actuator-research/scripts/dev.sh   # http://127.0.0.1:8001/
 ```
 
+## Deploy (Render)
+
+[`render.yaml`](render.yaml) is a [Render Blueprint](https://render.com/docs/blueprint-spec): in the Render dashboard choose **New → Blueprint** and select this repo. Render auto-deploys `main` on every push. The public service sets `ACTUATOR_READ_ONLY=1`, which disables adding or deleting actuators and notes (the free plan's disk is not persistent, and those routes have no auth).
+
 ## Check (lint + tests)
 
 ```bash
