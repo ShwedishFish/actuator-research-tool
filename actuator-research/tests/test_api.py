@@ -100,4 +100,7 @@ def test_read_only_blocks_writes_but_not_sizing(client, monkeypatch):
     assert client.delete("/api/actuators/example-servo-400w").status_code == 403
     assert client.post("/api/actuators/example-servo-400w/notes", json={"text": "x"}).status_code == 403
     assert client.delete("/api/notes/anything").status_code == 403
+    assert client.post("/api/projects", json={"name": "p", "data": {}}).status_code == 403
+    assert client.put("/api/projects/anything", json={"name": "p", "data": {}}).status_code == 403
+    assert client.delete("/api/projects/anything").status_code == 403
     assert client.post("/api/select", json={"kind": "linear", "peak_force_n": 100}).status_code == 200

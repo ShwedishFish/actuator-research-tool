@@ -37,7 +37,7 @@
         <select id="catalog-manufacturer">
           <option value="">All manufacturers</option>
         </select>
-        <button id="add-actuator-toggle">Add actuator</button>
+        <button id="add-actuator-toggle" class="write-only">Add actuator</button>
       </div>
       <div class="toolbar">
         <span id="catalog-count" class="note-meta"></span>
@@ -48,7 +48,7 @@
         <button id="catalog-csv">Export CSV</button>
       </div>
 
-      <form id="add-actuator" class="card hidden">
+      <form id="add-actuator" class="card hidden write-only">
         <h3>Add actuator</h3>
         <p class="note-meta">Enter only values the datasheet publishes; leave the rest blank.</p>
         <div class="grid">
@@ -214,11 +214,11 @@
         <h3>Current project</h3>
         <div class="toolbar">
           <input id="project-name-input" placeholder="Project name">
-          <button id="project-save" type="button">Save</button>
-          <button id="project-save-new" type="button">Save as new</button>
+          <button id="project-save" type="button" class="write-only">Save</button>
+          <button id="project-save-new" type="button" class="write-only">Save as new</button>
           <button id="project-new" type="button">New project</button>
         </div>
-        <p class="note-meta">Saving stores the sizing inputs, selection inputs, shortlist and notes below.</p>
+        <p class="note-meta write-only">Saving stores the sizing inputs, selection inputs, shortlist and notes below.</p>
         <textarea id="project-notes" placeholder="Project notes: requirements, decisions, open questions…"></textarea>
       </div>
       <div class="card">
@@ -230,7 +230,7 @@
         </div>
         <table class="data"><tbody id="shortlist-body"></tbody></table>
       </div>
-      <div class="card">
+      <div class="card write-only">
         <h3>Saved projects</h3>
         <table class="data"><tbody id="projects-body"></tbody></table>
       </div>
@@ -247,12 +247,12 @@
       <dl id="detail-specs"></dl>
       <h4>Research notes</h4>
       <ul id="notes-list"></ul>
-      <form id="note-form">
+      <form id="note-form" class="write-only">
         <textarea name="text" required placeholder="Findings, quotes, test results…"></textarea>
         <input name="source_url" type="url" placeholder="Source URL (optional)">
         <button type="submit">Add note</button>
       </form>
-      <button id="delete-actuator" class="danger hidden">Delete actuator</button>
+      <button id="delete-actuator" class="danger hidden write-only">Delete actuator</button>
     </div>
   </main>
 

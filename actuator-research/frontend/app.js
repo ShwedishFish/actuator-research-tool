@@ -749,8 +749,11 @@ restore();
 $("#project-name-input").value = state.projectName;
 persist();
 syncSelectForm();
+api("/api/config").then((cfg) => {
+  document.body.classList.toggle("read-only", cfg.read_only);
+  if (!cfg.read_only) loadProjects();
+});
 loadManufacturers();
 loadCatalog();
-loadProjects();
 renderShortlist();
 renderCompare();

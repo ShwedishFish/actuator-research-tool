@@ -150,12 +150,12 @@ def get_project(project_id: str) -> Project:
     return project
 
 
-@app.post("/api/projects", status_code=201)
+@app.post("/api/projects", status_code=201, dependencies=[Depends(require_writable)])
 def create_project(project: ProjectIn) -> Project:
     return store.save_project(project)
 
 
-@app.put("/api/projects/{project_id}")
+@app.put("/api/projects/{project_id}", dependencies=[Depends(require_writable)])
 def update_project(project_id: str, project: ProjectIn) -> Project:
     saved = store.save_project(project, project_id)
     if saved is None:
@@ -163,7 +163,7 @@ def update_project(project_id: str, project: ProjectIn) -> Project:
     return saved
 
 
-@app.delete("/api/projects/{project_id}", status_code=204)
+@app.delete("/api/projects/{project_id}", status_code=204, dependencies=[Depends(require_writable)])
 def delete_project(project_id: str) -> None:
     if not store.delete_project(project_id):
         raise HTTPException(404, "project not found")
