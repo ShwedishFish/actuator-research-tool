@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import os
 from pathlib import Path
+from typing import Literal
 
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
@@ -47,19 +48,32 @@ def config() -> dict:
 
 
 @app.get("/api/actuators")
-def list_actuators(kind: Kind | None = None, q: str = "", manufacturer: str = "") -> list[Actuator]:
+def list_actuators(
+    kind: Kind | None = None,
+    q: str = "",
+    manufacturer: str = "",
+    lead_time: Literal["", "listed"] = "",
+    max_lead_time_days: float | None = None,
+) -> list[Actuator]:
     terms = q.lower().split()
     rows = store.list_actuators()
     if kind:
         rows = [a for a in rows if a.kind == kind]
     if manufacturer:
         rows = [a for a in rows if a.manufacturer == manufacturer]
+    if lead_time == "listed":
+        rows = [a for a in rows if a.lead_time or a.lead_time_days is not None]
+    if max_lead_time_days is not None:
+        rows = [a for a in rows if a.lead_time_days is not None and a.lead_time_days <= max_lead_time_days]
     if terms:
         rows = [
             a
             for a in rows
             if all(
-                t in " ".join([a.id, a.name, a.drive, a.manufacturer, a.series, a.part_number, a.actuation]).lower()
+                t
+                in " ".join(
+                    [a.id, a.name, a.drive, a.manufacturer, a.series, a.part_number, a.actuation, a.lead_time]
+                ).lower()
                 for t in terms
             )
         ]
@@ -71,7 +85,11 @@ def list_manufacturers() -> list[dict]:
     counts: dict[str, int] = {}
     for a in store.list_actuators():
         counts[a.manufacturer or "(unspecified)"] = counts.get(a.manufacturer or "(unspecified)", 0) + 1
-    return [{"name": name, "count": n} for name, n in sorted(counts.items(), key=lambda kv: kv[0].lower())]
+    directory = {m.name: m.model_dump() for m in store.list_manufacturers()}
+    return [
+        {**directory.get(name, {}), "name": name, "count": n}
+        for name, n in sorted(counts.items(), key=lambda kv: kv[0].lower())
+    ]
 
 
 @app.get("/api/actuators/{actuator_id}")

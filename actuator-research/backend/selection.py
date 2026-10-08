@@ -121,6 +121,11 @@ def evaluate(actuator: Actuator, req: SelectionIn) -> dict:
             unlisted.append("Price")
         elif a.price_usd > req.max_price_usd:
             issues.append(f"Price ${a.price_usd:g} > max ${req.max_price_usd:g}")
+    if req.max_lead_time_days is not None:
+        if a.lead_time_days is None:
+            unlisted.append("Lead time")
+        elif a.lead_time_days > req.max_lead_time_days:
+            issues.append(f"Lead time {a.lead_time_days:g} days > max {req.max_lead_time_days:g} days")
     if req.supply_voltage_v:
         if a.supply_voltage_v is None:
             unlisted.append("Supply voltage")
@@ -174,6 +179,7 @@ _FILTER_FIELDS = (
     "duty_cycle_pct",
     "max_mass_kg",
     "max_price_usd",
+    "max_lead_time_days",
     "supply_voltage_v",
     "feedback_contains",
     "min_ip_rating",

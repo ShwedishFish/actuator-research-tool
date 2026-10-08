@@ -44,6 +44,13 @@ def test_warned_parts_rank_after_clean_fits():
     assert [c["actuator"]["id"] for c in r["feasible"]] == ["clean", "stall"]
 
 
+def test_lead_time_filter():
+    req = SelectionIn(kind="linear", peak_force_n=500, max_lead_time_days=10)
+    assert evaluate(_act(lead_time="x", lead_time_days=7), req)["status"] == "feasible"
+    assert evaluate(_act(lead_time="x", lead_time_days=30), req)["status"] == "rejected"
+    assert "Lead time" in evaluate(_act(), req)["unlisted"]
+
+
 def test_filters_unlisted_vs_fail():
     req = SelectionIn(kind="linear", max_mass_kg=2, min_ip_rating="IP65", supply_voltage_v=24)
     assert evaluate(_act(), req)["unlisted"] == ["Mass", "Supply voltage", "IP rating"]
@@ -67,9 +74,7 @@ def test_inertia_ratio_check():
 
 
 def test_cylinder_force_from_bore_and_pressure():
-    cyl = Actuator(
-        id="c", name="c", kind="linear", actuation="pneumatic", bore_mm=32, rod_mm=12, max_pressure_bar=10
-    )
+    cyl = Actuator(id="c", name="c", kind="linear", actuation="pneumatic", bore_mm=32, rod_mm=12, max_pressure_bar=10)
     force = theoretical_extend_force_n(32, 6)
     assert force == pytest.approx(6e5 * math.pi / 4 * 0.032**2)
     ok = evaluate(cyl, SelectionIn(kind="linear", peak_force_n=400, supply_pressure_bar=6))

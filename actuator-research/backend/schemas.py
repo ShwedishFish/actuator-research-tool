@@ -60,6 +60,10 @@ class Actuator(BaseModel):
     feedback: str = Field(default="", max_length=120)
     ip_rating: str = Field(default="", max_length=10)
     price_usd: float | None = Field(default=None, ge=0)
+    lead_time: str = Field(default="", max_length=200)
+    lead_time_days: float | None = Field(default=None, ge=0)
+    lead_time_url: str = Field(default="", max_length=500)
+    lead_time_retrieved_on: str = Field(default="", max_length=10)
     datasheet_url: str = Field(default="", max_length=500)
     source: str = Field(default="", max_length=300)
     retrieved_on: str = Field(default="", max_length=10)
@@ -147,6 +151,26 @@ class SelectionIn(BaseModel):
     supply_voltage_v: float | None = Field(default=None, gt=0)
     feedback_contains: str = Field(default="", max_length=60)
     min_ip_rating: str = Field(default="", max_length=6, pattern=r"^$|^IP[0-6X][0-9X]K?$")
+    max_lead_time_days: float | None = Field(default=None, ge=0)
+
+
+class Manufacturer(BaseModel):
+    """Supplier directory entry. Contact details come only from the manufacturer's own pages."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    name: str = Field(min_length=1, max_length=120)
+    website: str = Field(default="", max_length=300)
+    contact_url: str = Field(default="", max_length=500)
+    store_url: str = Field(default="", max_length=500)
+    distributor_url: str = Field(default="", max_length=500)
+    sales_email: str = Field(default="", max_length=120)
+    phone: str = Field(default="", max_length=60)
+    address: str = Field(default="", max_length=300)
+    lead_time_note: str = Field(default="", max_length=300)
+    lead_time_url: str = Field(default="", max_length=500)
+    source: str = Field(default="", max_length=300)
+    retrieved_on: str = Field(default="", max_length=10)
 
 
 class TransmissionSelectionIn(SelectionIn):

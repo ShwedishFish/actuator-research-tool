@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from backend.schemas import Actuator
+from backend.schemas import Actuator, Manufacturer
 
 CATALOG_DIR = Path(__file__).resolve().parent.parent / "backend" / "data" / "catalog"
 FILES = sorted(CATALOG_DIR.glob("*.json"))
@@ -32,6 +32,10 @@ def test_entry_is_valid_and_sourced(file, row):
         assert a.continuous_torque_nm <= a.peak_torque_nm
     if a.stroke_options_mm:
         assert a.stroke_mm == max(a.stroke_options_mm)
+    if a.lead_time or a.lead_time_days is not None:
+        assert a.lead_time, "lead_time_days needs the published lead_time statement"
+        assert a.lead_time_url.startswith("https://"), "lead time needs the https page it was read from"
+        assert re.fullmatch(r"\d{4}-\d{2}-\d{2}", a.lead_time_retrieved_on), "lead_time_retrieved_on must be YYYY-MM-DD"
 
 
 FILLED_IN_MARKERS = re.compile(
@@ -51,3 +55,21 @@ def test_no_filled_in_specs(file, row):
 def test_ids_unique_across_files():
     dupes = [i for i, n in Counter(r["id"] for _, r in ROWS).items() if n > 1]
     assert not dupes
+
+
+MANUFACTURERS_FILE = CATALOG_DIR.parent / "manufacturers.json"
+DIRECTORY = json.loads(MANUFACTURERS_FILE.read_text(encoding="utf-8")) if MANUFACTURERS_FILE.exists() else []
+
+
+@pytest.mark.parametrize("entry", DIRECTORY, ids=[m.get("name") for m in DIRECTORY])
+def test_manufacturer_directory_entry(entry):
+    m = Manufacturer(**entry)
+    assert m.name in {r.get("manufacturer") for _, r in ROWS}, "directory name must match catalog manufacturer"
+    for url in (m.website, m.contact_url, m.store_url, m.distributor_url, m.lead_time_url):
+        assert not url or url.startswith("https://")
+    assert m.source and re.fullmatch(r"\d{4}-\d{2}-\d{2}", m.retrieved_on)
+    assert not m.sales_email or re.fullmatch(r"[^@\s]+@[^@\s]+\.[a-z]{2,}", m.sales_email)
+
+
+def test_manufacturer_directory_names_unique():
+    assert len({m["name"] for m in DIRECTORY}) == len(DIRECTORY)

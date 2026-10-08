@@ -69,9 +69,7 @@ def main() -> int:
     broken = [r for r in results if r[1] == "broken"]
     unverified = [r for r in results if r[1] == "unverified"]
     today = date.today()
-    stale = [
-        (i, d) for i, d in retrieved if not d or (today - date.fromisoformat(d)).days > args.stale_days
-    ]
+    stale = [(i, d) for i, d in retrieved if not d or (today - date.fromisoformat(d)).days > args.stale_days]
 
     lines = [
         "# Catalog link check",

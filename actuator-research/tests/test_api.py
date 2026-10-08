@@ -27,6 +27,26 @@ def test_manufacturer_filter(client):
     assert [a["id"] for a in client.get("/api/actuators", params={"manufacturer": "Acme"}).json()] == [NEW["id"]]
 
 
+def test_manufacturer_directory_merged(client, tmp_path, monkeypatch):
+    directory = tmp_path / "manufacturers.json"
+    directory.write_text('[{"name": "Acme", "phone": "+1 555-0100", "source": "test", "retrieved_on": "2026-10-08"}]')
+    monkeypatch.setenv("ACTUATOR_MANUFACTURERS_FILE", str(directory))
+    client.post("/api/actuators", json={**NEW, "manufacturer": "Acme"})
+    acme = next(m for m in client.get("/api/manufacturers").json() if m["name"] == "Acme")
+    assert acme["count"] == 1 and acme["phone"] == "+1 555-0100"
+
+
+def test_lead_time_filter_and_search(client):
+    lead = {"lead_time": "Acme store: ships in 3 business days", "lead_time_days": 5}
+    client.post("/api/actuators", json={**NEW, **lead})
+    client.post("/api/actuators", json={**NEW, "id": "no-lead"})
+    ids = lambda **p: [a["id"] for a in client.get("/api/actuators", params=p).json()]  # noqa: E731
+    assert ids(lead_time="listed") == [NEW["id"]]
+    assert ids(max_lead_time_days=5) == [NEW["id"]]
+    assert ids(max_lead_time_days=4) == []
+    assert ids(q="business days") == [NEW["id"]]
+
+
 def test_add_and_delete_user_actuator(client):
     assert client.post("/api/actuators", json=NEW).status_code == 201
     assert client.get(f"/api/actuators/{NEW['id']}").json()["user_added"] is True

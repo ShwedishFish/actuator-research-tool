@@ -15,7 +15,7 @@ from datetime import UTC, datetime
 from functools import lru_cache
 from pathlib import Path
 
-from backend.schemas import Actuator, Note, NoteIn, Project, ProjectIn
+from backend.schemas import Actuator, Manufacturer, Note, NoteIn, Project, ProjectIn
 
 _lock = threading.Lock()
 
@@ -61,6 +61,22 @@ def _load_catalog(files: tuple[tuple[str, int], ...]) -> tuple[Actuator, ...]:
     for path, _mtime in files:
         rows.extend(Actuator(**row) for row in json.loads(Path(path).read_text(encoding="utf-8")))
     return tuple(rows)
+
+
+def manufacturers_path() -> Path:
+    return Path(os.environ.get("ACTUATOR_MANUFACTURERS_FILE", catalog_dir().parent / "manufacturers.json"))
+
+
+def list_manufacturers() -> list[Manufacturer]:
+    path = manufacturers_path()
+    if not path.exists():
+        return []
+    return list(_load_manufacturers(str(path), path.stat().st_mtime_ns))
+
+
+@lru_cache(maxsize=2)
+def _load_manufacturers(path: str, _mtime: int) -> tuple[Manufacturer, ...]:
+    return tuple(Manufacturer(**row) for row in json.loads(Path(path).read_text(encoding="utf-8")))
 
 
 def list_actuators() -> list[Actuator]:
