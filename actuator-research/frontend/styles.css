@@ -429,3 +429,8 @@ dd { margin: 0; }
 .ok { color: var(--ok); }
 .warn { color: var(--warn); }
 .bad, .error { color: var(--bad); }
+
+.lead-time { cursor: help; border-bottom: 1px dotted var(--muted); white-space: nowrap; }
+#suppliers-table td { vertical-align: top; }
+#suppliers-table td:nth-child(6), #suppliers-table td:nth-child(7) { max-width: 320px; }
+#suppliers-table button.link { text-align: left; }

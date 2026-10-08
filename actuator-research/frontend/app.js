@@ -87,6 +87,10 @@ const FIELDS = [
   ["feedback", "Feedback"],
   ["ip_rating", "IP rating"],
   ["price_usd", "Price (USD)"],
+  ["lead_time", "Lead time (published)"],
+  ["lead_time_days", "Lead time, upper end (calendar days)"],
+  ["lead_time_url", "Lead time source"],
+  ["lead_time_retrieved_on", "Lead time checked"],
   ["remarks", "Remarks"],
   ["source", "Source"],
   ["retrieved_on", "Retrieved"],
@@ -309,6 +313,7 @@ function renderCatalog() {
         <td>${pill(a.kind)}</td><td>${pill(a.actuation)}</td>
         ${ratingCells(a).map((c) => `<td>${c}</td>`).join("")}
         <td>${withUnit(a.mass_kg, "kg")}</td><td>${isMissing(a.price_usd) ? UNLISTED : `$${fmt(a.price_usd, 6)}`}</td>
+        <td>${leadTimeCell(a)}</td>
       </tr>`,
     )
     .join("");
@@ -318,8 +323,18 @@ function renderCatalog() {
   });
 }
 
+function leadTimeCell(a) {
+  if (!a.lead_time && isMissing(a.lead_time_days)) return UNLISTED;
+  const label = isMissing(a.lead_time_days) ? "status only" : `≤ ${fmt(a.lead_time_days)} d`;
+  return `<span class="lead-time" title="${esc(a.lead_time)}${a.lead_time_retrieved_on ? ` (checked ${esc(a.lead_time_retrieved_on)})` : ""}">${label}</span>`;
+}
+
+let suppliers = [];
+
 async function loadManufacturers() {
   const list = await api("/api/manufacturers");
+  suppliers = list;
+  renderSuppliers();
   const select = $("#catalog-manufacturer");
   const current = select.value;
   select.innerHTML =
@@ -333,6 +348,9 @@ async function loadCatalog() {
   if ($("#catalog-kind").value) params.set("kind", $("#catalog-kind").value);
   if ($("#catalog-manufacturer").value) params.set("manufacturer", $("#catalog-manufacturer").value);
   if ($("#catalog-q").value) params.set("q", $("#catalog-q").value);
+  const lead = $("#catalog-leadtime").value;
+  if (lead === "listed") params.set("lead_time", "listed");
+  else if (lead) params.set("max_lead_time_days", lead);
   const request = ++catalogRequest;
   let rows = await api(`/api/actuators?${params}`);
   if (request !== catalogRequest) return;
@@ -361,7 +379,7 @@ function rowClick(e) {
 }
 
 $("#catalog-table tbody").addEventListener("click", rowClick);
-const CATALOG_FILTERS = ["#catalog-q", "#catalog-kind", "#catalog-actuation", "#catalog-manufacturer"];
+const CATALOG_FILTERS = ["#catalog-q", "#catalog-kind", "#catalog-actuation", "#catalog-manufacturer", "#catalog-leadtime"];
 
 function syncCatalogFilters() {
   for (const sel of CATALOG_FILTERS) $(sel).classList.toggle("is-set", $(sel).value !== "");
@@ -400,12 +418,105 @@ $("#add-actuator").addEventListener("submit", async (e) => {
   }
 });
 
+// ---------- suppliers ----------
+
+const link = (url, text) => (url ? `<a href="${esc(url)}" target="_blank" rel="noopener">${esc(text)}</a>` : "");
+const SUPPLIER_LINKS = [
+  ["website", "Website"],
+  ["contact_url", "Contact"],
+  ["store_url", "Store"],
+  ["distributor_url", "Where to buy"],
+];
+
+function supplierLinks(m) {
+  return SUPPLIER_LINKS.filter(([k]) => m[k]).map(([k, label]) => link(m[k], label)).join(" · ") || UNLISTED;
+}
+
+function phoneHtml(phone) {
+  if (!phone) return "";
+  return phone
+    .split(";")
+    .map((part) => {
+      const number = part.replace(/\(.*?\)/g, "").replace(/[^+\d]/g, "");
+      return number.length >= 7 ? `<a href="tel:${esc(number)}">${esc(part.trim())}</a>` : esc(part.trim());
+    })
+    .join("<br>");
+}
+
+const orUnlisted = (v) => (isMissing(v) ? '<span class="unlisted">unlisted</span>' : v);
+
+function renderSupplierCard(a) {
+  const m = suppliers.find((s) => s.name === a.manufacturer) ?? {};
+  const lead = a.lead_time
+    ? `${esc(a.lead_time)}${isMissing(a.lead_time_days) ? "" : ` <span class="tag">≤ ${fmt(a.lead_time_days)} calendar days</span>`}
+       <div class="note-meta">${link(a.lead_time_url, "lead-time source")}${a.lead_time_retrieved_on ? ` · checked ${esc(a.lead_time_retrieved_on)}` : ""}</div>`
+    : '<span class="unlisted">unlisted</span>: no published lead time for this part. Ask the supplier below.';
+  return `<dl>
+    <dt>Lead time</dt><dd>${lead}</dd>
+    <dt>Supplier</dt><dd>${esc(a.manufacturer) || UNLISTED}</dd>
+    <dt>Links</dt><dd>${supplierLinks(m)}</dd>
+    <dt>Phone</dt><dd>${orUnlisted(phoneHtml(m.phone))}</dd>
+    <dt>Email</dt><dd>${orUnlisted(m.sales_email ? `<a href="mailto:${esc(m.sales_email)}">${esc(m.sales_email)}</a>` : "")}</dd>
+    <dt>Address</dt><dd>${orUnlisted(esc(m.address ?? ""))}</dd>
+    <dt>Supplier lead-time policy</dt><dd>${orUnlisted(esc(m.lead_time_note ?? ""))}${m.lead_time_url ? ` ${link(m.lead_time_url, "source")}` : ""}</dd>
+  </dl>`;
+}
+
+const SUPPLIER_TEXT = ["name", "website", "phone", "sales_email", "address", "lead_time_note"];
+
+function filteredSuppliers() {
+  const terms = $("#suppliers-q").value.toLowerCase().split(/\s+/).filter(Boolean);
+  return suppliers.filter((m) => {
+    const hay = SUPPLIER_TEXT.map((k) => m[k] ?? "").join(" ").toLowerCase();
+    return terms.every((t) => hay.includes(t));
+  });
+}
+
+function renderSuppliers() {
+  const rows = filteredSuppliers();
+  $("#suppliers-count").textContent = `${rows.length} of ${suppliers.length} suppliers`;
+  $("#suppliers-table tbody").innerHTML = rows
+    .map(
+      (m) => `<tr>
+        <td><button class="link" data-supplier="${esc(m.name)}" title="Show this supplier's parts in Catalog">${esc(m.name)}</button></td>
+        <td>${m.count}</td><td>${supplierLinks(m)}</td>
+        <td>${orUnlisted(phoneHtml(m.phone))}</td>
+        <td>${orUnlisted(m.sales_email ? `<a href="mailto:${esc(m.sales_email)}">${esc(m.sales_email)}</a>` : "")}</td>
+        <td>${orUnlisted(esc(m.address ?? ""))}</td>
+        <td>${orUnlisted(esc(m.lead_time_note ?? ""))}${m.lead_time_url ? ` ${link(m.lead_time_url, "source")}` : ""}
+          ${m.retrieved_on ? `<div class="note-meta">checked ${esc(m.retrieved_on)}</div>` : ""}</td>
+      </tr>`,
+    )
+    .join("");
+}
+
+$("#suppliers-q").addEventListener("input", renderSuppliers);
+$("#suppliers-table tbody").addEventListener("click", (e) => {
+  const name = e.target.dataset.supplier;
+  if (!name) return;
+  $("#catalog-manufacturer").value = name;
+  syncCatalogFilters();
+  loadCatalog();
+  showTab("catalog");
+});
+$("#suppliers-csv").addEventListener("click", () => {
+  const cols = ["name", "count", "website", "contact_url", "store_url", "distributor_url", "phone", "sales_email", "address", "lead_time_note", "lead_time_url", "source", "retrieved_on"];
+  const cell = (v) => {
+    const s = isMissing(v) ? "" : String(v);
+    return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
+  };
+  const csv = [cols.join(","), ...filteredSuppliers().map((m) => cols.map((c) => cell(m[c])).join(","))].join("\n");
+  const url = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
+  Object.assign(document.createElement("a"), { href: url, download: "suppliers.csv" }).click();
+  URL.revokeObjectURL(url);
+});
+
 // ---------- detail + notes ----------
 
 function specValue(a, key) {
   const v = displayValue(a, key);
   if (isMissing(v)) return '<span class="unlisted">unlisted</span>';
-  if (key === "datasheet_url") return `<a href="${esc(v)}" target="_blank" rel="noopener">${esc(v)}</a>`;
+  if (key === "datasheet_url" || key === "lead_time_url") return link(v, v);
   return esc(v);
 }
 
@@ -413,7 +524,8 @@ async function showDetail(id) {
   selectedId = id;
   const a = await getActuator(id);
   $("#detail-title").textContent = a.name;
-  $("#detail-specs").innerHTML = FIELDS.filter(([k, , scope]) => fieldApplies(a, scope))
+  $("#detail-supplier").innerHTML = renderSupplierCard(a);
+  $("#detail-specs").innerHTML = FIELDS.filter(([k, , scope]) => fieldApplies(a, scope) && !k.startsWith("lead_time"))
     .filter(([k]) => !(OPTIONAL_TEXT.has(k) && isMissing(a[k])))
     .map(([k, label]) => `<dt>${label}</dt><dd>${specValue(a, k)}</dd>`)
     .join("");

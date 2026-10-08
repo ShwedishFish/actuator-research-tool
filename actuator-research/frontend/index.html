@@ -40,6 +40,7 @@
       <button class="tab tone-sizing" data-tab="sizing">Sizing</button>
       <button class="tab tone-filter" data-tab="select">Selection</button>
       <button class="tab tone-compare" data-tab="compare">Compare <span id="compare-count" class="badge"></span></button>
+      <button class="tab tone-search" data-tab="suppliers">Suppliers</button>
       <button class="tab tone-detail" data-tab="projects">Project <span id="shortlist-count" class="badge"></span></button>
     </nav>
   </header>
@@ -47,7 +48,7 @@
   <main>
     <section id="catalog" class="panel active">
       <div class="toolbar card tone-search">
-        <input id="catalog-q" type="search" placeholder="Search name, series, part number, manufacturer…">
+        <input id="catalog-q" type="search" placeholder="Search name, series, part number, manufacturer, lead time…">
         <select id="catalog-kind">
           <option value="">All kinds</option>
           <option value="linear">Linear</option>
@@ -61,6 +62,15 @@
         </select>
         <select id="catalog-manufacturer">
           <option value="">All manufacturers</option>
+        </select>
+        <select id="catalog-leadtime" title="Only published lead times; unlisted entries are hidden when a limit is chosen">
+          <option value="">Any lead time</option>
+          <option value="listed">Lead time published</option>
+          <option value="1">Ships ≤ 1 day</option>
+          <option value="3">Ships ≤ 3 days</option>
+          <option value="7">Ships ≤ 1 week</option>
+          <option value="14">Ships ≤ 2 weeks</option>
+          <option value="42">Ships ≤ 6 weeks</option>
         </select>
         <button id="catalog-reset" type="button" class="ghost">Clear filters</button>
         <span class="spacer"></span>
@@ -110,6 +120,9 @@
           <label>Supply voltage (V) <input name="supply_voltage_v" type="number" step="any"></label>
           <label>IP rating <input name="ip_rating" placeholder="IP65"></label>
           <label>Price (USD) <input name="price_usd" type="number" step="any"></label>
+          <label>Lead time (as published) <input name="lead_time" placeholder="Ships in 3 business days (store page)"></label>
+          <label>Lead time, upper end (calendar days) <input name="lead_time_days" type="number" step="any" min="0"></label>
+          <label>Lead time source URL <input name="lead_time_url" type="url"></label>
           <label>Datasheet URL <input name="datasheet_url" type="url"></label>
           <label>Source <input name="source" placeholder="Datasheet rev, page…"></label>
         </div>
@@ -125,7 +138,7 @@
             <th data-sort="name">Name</th><th data-sort="manufacturer">Manufacturer</th><th data-sort="kind">Kind</th>
             <th data-sort="actuation">Actuation</th><th data-sort="peak">Peak</th><th data-sort="continuous">Continuous</th>
             <th data-sort="speed">Speed</th><th data-sort="stroke_mm">Stroke</th><th data-sort="mass_kg">Mass</th>
-            <th data-sort="price_usd">Price</th>
+            <th data-sort="price_usd">Price</th><th data-sort="lead_time_days">Lead time</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -215,6 +228,7 @@
           <label>Supply voltage (V) <input name="supply_voltage_v" type="number" step="any"></label>
           <label>Feedback contains <input name="feedback_contains" placeholder="encoder, hall, potentiometer…"></label>
           <label>Minimum IP rating <input name="min_ip_rating" placeholder="IP65" pattern="IP[0-6X][0-9X]K?"></label>
+          <label>Max lead time (calendar days) <input name="max_lead_time_days" type="number" step="any" min="0"></label>
         </div>
         <div class="toolbar">
           <button id="select-reset" type="button" class="ghost">Clear requirements and filters</button>
@@ -240,6 +254,22 @@
         <button id="compare-csv">Export CSV</button>
       </div>
       <div id="compare-table"></div>
+    </section>
+
+    <section id="suppliers" class="panel">
+      <div class="toolbar card tone-search">
+        <input id="suppliers-q" type="search" placeholder="Search supplier, city, country, phone, email, lead-time policy…">
+        <span id="suppliers-count" class="note-meta"></span>
+        <span class="spacer"></span>
+        <button id="suppliers-csv" type="button">Export CSV</button>
+      </div>
+      <p class="note-meta">Contact details and lead-time policies are taken from each manufacturer's own website (see source and date). Per-part lead times are in the Catalog's Lead time column.</p>
+      <div class="table-wrap tone-data">
+        <table id="suppliers-table" class="data">
+          <thead><tr><th>Supplier</th><th>Parts</th><th>Links</th><th>Phone</th><th>Email</th><th>Address</th><th>Lead-time policy</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
     </section>
 
     <section id="projects" class="panel">
@@ -278,6 +308,8 @@
         <button id="detail-close" type="button">Close</button>
       </div>
       <dl id="detail-specs"></dl>
+      <h4>Lead time &amp; supplier</h4>
+      <div id="detail-supplier"></div>
       <h4>Research notes</h4>
       <ul id="notes-list"></ul>
       <form id="note-form" class="write-only">
