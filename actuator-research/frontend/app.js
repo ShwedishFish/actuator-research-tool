@@ -36,6 +36,14 @@ function formData(form, { visibleOnly = false } = {}) {
   return out;
 }
 
+function debounce(fn, ms) {
+  let timer;
+  return (...args) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => fn(...args), ms);
+  };
+}
+
 function fillForm(form, values) {
   for (const el of form.elements) {
     if (!el.name || el.type === "radio" || !(el.name in values)) continue;
@@ -121,6 +129,7 @@ function persist() {
   $("#shortlist-count").textContent = state.shortlist.length || "";
   $("#compare-count").textContent = state.compare.length || "";
   $("#project-name").textContent = state.projectName ? `Project: ${state.projectName}` : "";
+  $("#project-name").classList.toggle("hidden", !state.projectName);
 }
 
 function restore() {
@@ -144,12 +153,38 @@ function addToCompare(ids) {
   renderCompare();
 }
 
+// ---------- theme ----------
+
+const THEME_KEY = "actuator-research-theme";
+const THEMES = ["light", "dark", "system"];
+
+function applyTheme(mode) {
+  if (!THEMES.includes(mode)) mode = "system";
+  document.documentElement.dataset.theme = mode;
+  try {
+    localStorage.setItem(THEME_KEY, mode);
+  } catch {
+    // storage unavailable; theme still applies for this page
+  }
+  for (const btn of $$("#theme-mode .seg-btn")) {
+    const on = btn.dataset.themeMode === mode;
+    btn.classList.toggle("is-active", on);
+    btn.setAttribute("aria-pressed", String(on));
+  }
+}
+
+$("#theme-mode").addEventListener("click", (e) => {
+  const btn = e.target.closest(".seg-btn[data-theme-mode]");
+  if (btn) applyTheme(btn.dataset.themeMode);
+});
+
 // ---------- tabs ----------
 
 $$(".tab").forEach((btn) =>
   btn.addEventListener("click", () => {
     $$(".tab").forEach((b) => b.classList.toggle("active", b === btn));
     $$(".panel").forEach((p) => p.classList.toggle("active", p.id === btn.dataset.tab));
+    if (btn.dataset.tab === "select" && !selectionRan) runSelection();
   }),
 );
 
@@ -218,6 +253,10 @@ function tag(text) {
   return text ? ` <span class="tag">${esc(text)}</span>` : "";
 }
 
+function pill(value) {
+  return value ? `<span class="pill pill-${esc(value)}">${esc(value)}</span>` : UNLISTED;
+}
+
 function ratingCells(a) {
   if (a.kind === "linear") {
     const peak =
@@ -267,7 +306,7 @@ function renderCatalog() {
     .map(
       (a) => `<tr data-id="${esc(a.id)}">${checkCell(a.id)}
         <td>${esc(a.name)}${a.user_added ? tag("user") : ""}</td><td>${esc(a.manufacturer) || UNLISTED}</td>
-        <td>${esc(a.kind)}</td><td>${esc(a.actuation)}</td>
+        <td>${pill(a.kind)}</td><td>${pill(a.actuation)}</td>
         ${ratingCells(a).map((c) => `<td>${c}</td>`).join("")}
         <td>${withUnit(a.mass_kg, "kg")}</td><td>${isMissing(a.price_usd) ? UNLISTED : `$${fmt(a.price_usd, 6)}`}</td>
       </tr>`,
@@ -322,10 +361,29 @@ function rowClick(e) {
 }
 
 $("#catalog-table tbody").addEventListener("click", rowClick);
-$("#catalog-q").addEventListener("input", loadCatalog);
-$("#catalog-kind").addEventListener("change", loadCatalog);
-$("#catalog-actuation").addEventListener("change", loadCatalog);
-$("#catalog-manufacturer").addEventListener("change", loadCatalog);
+const CATALOG_FILTERS = ["#catalog-q", "#catalog-kind", "#catalog-actuation", "#catalog-manufacturer"];
+
+function syncCatalogFilters() {
+  for (const sel of CATALOG_FILTERS) $(sel).classList.toggle("is-set", $(sel).value !== "");
+  $("#catalog-reset").disabled = CATALOG_FILTERS.every((sel) => $(sel).value === "");
+}
+
+const loadCatalogSoon = debounce(loadCatalog, 150);
+$("#catalog-q").addEventListener("input", () => {
+  syncCatalogFilters();
+  loadCatalogSoon();
+});
+for (const sel of CATALOG_FILTERS.slice(1)) {
+  $(sel).addEventListener("change", () => {
+    syncCatalogFilters();
+    loadCatalog();
+  });
+}
+$("#catalog-reset").addEventListener("click", () => {
+  for (const sel of CATALOG_FILTERS) $(sel).value = "";
+  syncCatalogFilters();
+  loadCatalog();
+});
 $("#add-actuator-toggle").addEventListener("click", () => $("#add-actuator").classList.toggle("hidden"));
 $("#catalog-csv").addEventListener("click", () => downloadCsv("catalog.csv", sortedRows(catalogRows)));
 
@@ -561,22 +619,68 @@ function resultTable(rows, limit, withTransmission) {
   return `<table class="data"><thead>${head}</thead><tbody>${body}</tbody></table>${more}`;
 }
 
-$("#select-form").addEventListener("submit", async (e) => {
-  e.preventDefault();
+let selectionRan = false;
+let selectRequest = 0;
+
+function selectionSection(cls, title, rows, limit, transmission) {
+  return `<section class="result-group ${cls}"><h3>${title} <span class="count">${rows.length}</span></h3>
+    ${resultTable(rows, limit, transmission)}</section>`;
+}
+
+async function runSelection() {
+  const form = $("#select-form");
+  const invalid = $$("input, select", form).find((el) => !el.closest(".hidden") && !el.checkValidity());
+  if (invalid) {
+    $("#select-status").textContent = `Fix "${invalid.closest("label")?.firstChild.textContent.trim() ?? invalid.name}" to update results.`;
+    return;
+  }
+  selectionRan = true;
   const transmission = selectMode() === "transmission";
-  const body = formData(e.target, { visibleOnly: true });
+  const body = formData(form, { visibleOnly: true });
   for (const key of ["screw_leads_mm", "gear_ratios"]) if (key in body) body[key] = parseList(body[key]);
+  const request = ++selectRequest;
+  $("#select-status").textContent = "Updating…";
   try {
     const r = await api(transmission ? "/api/select/transmission" : "/api/select", { method: "POST", body });
+    if (request !== selectRequest) return;
     lastSelection = [...r.feasible, ...r.unverified, ...r.rejected];
     remember(lastSelection.map((c) => c.actuator));
-    $("#select-result").innerHTML = `
-      <h3>Feasible (${r.feasible.length})</h3>${resultTable(r.feasible, 100, transmission)}
-      <h3>Unverified: nothing fails, but a needed spec is unlisted (${r.unverified.length})</h3>${resultTable(r.unverified, 50, transmission)}
-      <h3>Rejected, closest first (${r.rejected.length})</h3>${resultTable(r.rejected, 25, transmission)}`;
+    $("#select-summary").innerHTML = `<span class="chip ok-chip">${r.feasible.length} feasible</span>
+      <span class="chip warn-chip">${r.unverified.length} unverified</span>
+      <span class="chip bad-chip">${r.rejected.length} rejected</span>`;
+    $("#select-result").innerHTML =
+      selectionSection("group-ok", "Feasible", r.feasible, 100, transmission) +
+      selectionSection("group-warn", "Unverified: nothing fails, but a needed spec is unlisted", r.unverified, 50, transmission) +
+      selectionSection("group-bad", "Rejected, closest first", r.rejected, 25, transmission);
+    $("#select-status").textContent = "Results update as you edit.";
   } catch (err) {
+    if (request !== selectRequest) return;
+    $("#select-summary").innerHTML = "";
     $("#select-result").innerHTML = `<p class="error">${esc(err.message)}</p>`;
+    $("#select-status").textContent = "";
   }
+}
+
+const runSelectionSoon = debounce(runSelection, 250);
+$("#select-form").addEventListener("submit", (e) => {
+  e.preventDefault();
+  runSelection();
+});
+$("#select-form").addEventListener("input", (e) => {
+  if (e.target.type !== "radio" && e.target.tagName !== "SELECT") runSelectionSoon();
+});
+$("#select-form").addEventListener("change", (e) => {
+  if (e.target.type === "radio" || e.target.tagName === "SELECT") runSelection();
+});
+$("#select-reset").addEventListener("click", () => {
+  const form = $("#select-form");
+  const kind = form.elements.kind.value;
+  const mode = selectMode();
+  form.reset();
+  form.elements.kind.value = kind;
+  $(`input[name="select-mode"][value="${mode}"]`).checked = true;
+  syncSelectForm();
+  runSelection();
 });
 
 $("#select-result").addEventListener("click", rowClick);
@@ -685,6 +789,8 @@ function applyProject(p) {
     $(`input[name="select-mode"][value="${d.selection.mode}"]`).checked = true;
     fillForm($("#select-form"), d.selection.form ?? {});
     syncSelectForm();
+    if ($("#select").classList.contains("active")) runSelection();
+    else selectionRan = false;
   }
   persist();
   renderShortlist();
@@ -745,6 +851,8 @@ $("#projects-body").addEventListener("click", async (e) => {
 
 // ---------- init ----------
 
+applyTheme(document.documentElement.dataset.theme);
+syncCatalogFilters();
 restore();
 $("#project-name-input").value = state.projectName;
 persist();
