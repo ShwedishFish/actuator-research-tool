@@ -21,7 +21,11 @@
     "mass_kg": 0.394,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-3-7-1-ratio-24mm-length-6mm-d-shaft-1620-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0005",
@@ -45,7 +49,11 @@
     "mass_kg": 0.398,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-5-2-1-ratio-24mm-length-6mm-d-shaft-1150-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0014",
@@ -69,7 +77,11 @@
     "mass_kg": 0.435,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-13-7-1-ratio-24mm-length-6mm-d-shaft-435-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0019",
@@ -93,7 +105,11 @@
     "mass_kg": 0.435,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-19-2-1-ratio-24mm-length-6mm-d-shaft-312-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0027",
@@ -117,7 +133,11 @@
     "mass_kg": 0.435,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-26-9-1-ratio-24mm-length-6mm-d-shaft-223-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0051",
@@ -141,7 +161,11 @@
     "mass_kg": 0.479,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-50-9-1-ratio-24mm-length-6mm-d-shaft-117-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0071",
@@ -165,7 +189,11 @@
     "mass_kg": 0.484,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-71-2-1-ratio-24mm-length-6mm-d-shaft-84-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0100",
@@ -189,7 +217,11 @@
     "mass_kg": 0.486,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-99-5-1-ratio-24mm-length-6mm-d-shaft-60-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0139",
@@ -213,7 +245,11 @@
     "mass_kg": 0.483,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-139-1-ratio-24mm-length-6mm-d-shaft-43-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5202-2402-0188",
@@ -237,7 +273,11 @@
     "mass_kg": 0.522,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5202-series-yellow-jacket-planetary-gear-motor-188-1-ratio-24mm-length-6mm-d-shaft-30-rpm-36mm-gearbox-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0001",
@@ -261,7 +301,11 @@
     "mass_kg": 0.391,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-motor-1-1-ratio-24mm-length-8mm-rex-shaft-6000-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0003",
@@ -285,7 +329,11 @@
     "mass_kg": 0.396,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-3-7-1-ratio-1620-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0005",
@@ -309,7 +357,11 @@
     "mass_kg": 0.399,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-5-2-1-ratio-24mm-length-8mm-rex-shaft-1150-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0014",
@@ -333,7 +385,11 @@
     "mass_kg": 0.438,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-13-7-1-ratio-24mm-length-8mm-rex-shaft-435-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0019",
@@ -357,7 +413,11 @@
     "mass_kg": 0.437,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-19-2-1-ratio-24mm-length-8mm-rex-shaft-312-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0027",
@@ -381,7 +441,11 @@
     "mass_kg": 0.437,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-26-9-1-ratio-24mm-length-8mm-rex-shaft-223-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0051",
@@ -405,7 +469,11 @@
     "mass_kg": 0.481,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-50-9-1-ratio-24mm-length-8mm-rex-shaft-117-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0071",
@@ -429,7 +497,11 @@
     "mass_kg": 0.486,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-71-2-1-ratio-24mm-length-8mm-rex-shaft-84-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0100",
@@ -453,7 +525,11 @@
     "mass_kg": 0.486,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-99-5-1-ratio-24mm-length-8mm-rex-shaft-60-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0139",
@@ -477,7 +553,11 @@
     "mass_kg": 0.485,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-139-1-ratio-24mm-length-8mm-rex-shaft-43-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5203-2402-0188",
@@ -501,7 +581,11 @@
     "mass_kg": 0.524,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5203-series-yellow-jacket-planetary-gear-motor-188-1-ratio-24mm-length-8mm-rex-shaft-30-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0003",
@@ -525,7 +609,11 @@
     "mass_kg": 0.411,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-3-7-1-ratio-80mm-length-8mm-rex-shaft-1620-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0005",
@@ -549,7 +637,11 @@
     "mass_kg": 0.412,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-5-2-1-ratio-80mm-length-8mm-rex-shaft-1150-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0014",
@@ -573,7 +665,11 @@
     "mass_kg": 0.435,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-13-7-1-ratio-80mm-length-8mm-rex-shaft-435-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0019",
@@ -597,7 +693,11 @@
     "mass_kg": 0.458,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-19-2-1-ratio-80mm-length-8mm-rex-shaft-312-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0027",
@@ -621,7 +721,11 @@
     "mass_kg": 0.458,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-26-9-1-ratio-80mm-length-8mm-rex-shaft-223-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0051",
@@ -645,7 +749,11 @@
     "mass_kg": 0.465,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-50-9-1-ratio-80mm-length-8mm-rex-shaft-117-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0071",
@@ -669,7 +777,11 @@
     "mass_kg": 0.501,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-71-2-1-ratio-80mm-length-8mm-rex-shaft-84-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0100",
@@ -692,7 +804,11 @@
     "remarks": "Stall values at 12 VDC; rated_current_a is stall current. No-load current 0.25A. Motor Size: RS-555. Output Shaft: 8mm REX®, 80mm Length. Gear Material: Steel. Encoder 2,786.2 PPR at the Output Shaft. Weight published as \"501\" with no unit; mass unlisted.",
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-99-5-1-ratio-80mm-length-8mm-rex-shaft-60-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0139",
@@ -716,7 +832,11 @@
     "mass_kg": 0.501,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-139-1-ratio-80mm-length-8mm-rex-shaft-43-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "gobilda-5204-8002-0188",
@@ -740,6 +860,10 @@
     "mass_kg": 0.543,
     "peak_basis": "stall",
     "current_condition": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "goBILDA: in stock; order handling usually 1-2 business days, some orders up to 5 days (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.gobilda.com/5204-series-yellow-jacket-planetary-gear-motor-188-1-ratio-80mm-length-8mm-rex-shaft-30-rpm-3-3-5v-encoder/",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

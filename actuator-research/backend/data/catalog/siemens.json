@@ -1037,7 +1037,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70225AK211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7022-5AK21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.70 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 9,990 rpm. Rated 0.6 N·m at 6,000 rpm, rated current 1.4 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.70 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 9,990 rpm. Rated 0.6 N·m at 6,000 rpm, rated current 1.4 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7022-5AK21-1AA0): standard lead time ex-works 30 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7022-5AK21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7022-5ak71",
@@ -1063,7 +1066,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70225AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7022-5AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.70 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 0.6 N·m at 6,000 rpm, rated current 1.4 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.70 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 0.6 N·m at 6,000 rpm, rated current 1.4 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7022-5AK71-1AA0): standard lead time ex-works 30 days (calendar vs working days not stated); cancelled since 01.10.2024",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7022-5AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7032-2af21",
@@ -1089,7 +1095,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70322AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7032-2AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.95 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 6,400 rpm. Rated 1.0 N·m at 3,000 rpm, rated current 1.6 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.95 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 6,400 rpm. Rated 1.0 N·m at 3,000 rpm, rated current 1.6 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7032-2AF21-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7032-2AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7032-2ak71",
@@ -1115,7 +1124,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70322AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7032-2AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.95 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 0.8 N·m at 6,000 rpm, rated current 1.3 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.95 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 0.8 N·m at 6,000 rpm, rated current 1.3 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7032-2AK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7032-2AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7032-5af21",
@@ -1141,7 +1153,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70325AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7032-5AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.90 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 6,440 rpm. Rated 1.0 N·m at 3,000 rpm, rated current 1.6 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.90 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 6,440 rpm. Rated 1.0 N·m at 3,000 rpm, rated current 1.6 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7032-5AF21-1AA0): standard lead time ex-works 30 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7032-5AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7032-5ak71",
@@ -1167,7 +1182,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70325AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7032-5AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.85 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 12,800 rpm. Rated 0.8 N·m at 6,000 rpm, rated current 1.4 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 0.85 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 12,800 rpm. Rated 0.8 N·m at 6,000 rpm, rated current 1.4 A. Max current 7.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7032-5AK71-1AA0): standard lead time ex-works 30 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7032-5AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7033-4cf21",
@@ -1193,7 +1211,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70334CF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7033-4CF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.08 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 7,150 rpm. Rated 1.2 N·m at 3,000 rpm, rated current 2.0 A. Max current 7.6 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.08 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 7,150 rpm. Rated 1.2 N·m at 3,000 rpm, rated current 2.0 A. Max current 7.6 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7033-4CF21-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7033-4CF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7033-4ck71",
@@ -1219,7 +1240,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70334CK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7033-4CK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.08 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 0.9 N·m at 6,000 rpm, rated current 1.6 A. Max current 7.6 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.08 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 0.9 N·m at 6,000 rpm, rated current 1.6 A. Max current 7.6 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7033-4CK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7033-4CK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7033-7af21",
@@ -1245,7 +1269,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70337AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7033-7AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.00 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 7,240 rpm. Rated 1.2 N·m at 3,000 rpm, rated current 2.0 A. Max current 7.2 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.00 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 7,240 rpm. Rated 1.2 N·m at 3,000 rpm, rated current 2.0 A. Max current 7.2 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7033-7AF21-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7033-7AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7033-7ak71",
@@ -1271,7 +1298,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70337AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7033-7AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.00 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 13,300 rpm. Rated 0.9 N·m at 6,000 rpm, rated current 1.5 A. Max current 7.2 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.00 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 13,300 rpm. Rated 0.9 N·m at 6,000 rpm, rated current 1.5 A. Max current 7.2 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7033-7AK71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7033-7AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7034-2af21",
@@ -1297,7 +1327,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70342AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7034-2AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.35 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 5,200 rpm. Rated 1.4 N·m at 3,000 rpm, rated current 1.8 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.35 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 5,200 rpm. Rated 1.4 N·m at 3,000 rpm, rated current 1.8 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7034-2AF21-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7034-2AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7034-2ak71",
@@ -1323,7 +1356,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70342AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7034-2AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.35 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 1.0 N·m at 6,000 rpm, rated current 1.3 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.35 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,000 rpm. Rated 1.0 N·m at 6,000 rpm, rated current 1.3 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7034-2AK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7034-2AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7034-5af21",
@@ -1349,7 +1385,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70345AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7034-5AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.40 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 5,270 rpm. Rated 1.4 N·m at 3,000 rpm, rated current 1.8 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.40 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 5,270 rpm. Rated 1.4 N·m at 3,000 rpm, rated current 1.8 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7034-5AF21-1AA0): standard lead time ex-works 30 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7034-5AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7034-5ak71",
@@ -1375,7 +1414,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70345AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7034-5AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.35 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,500 rpm. Rated 1.0 N·m at 6,000 rpm, rated current 1.3 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.35 N·m. Max speed = lower of max permissible speeds: mech. 10,000 rpm, inverter 10,500 rpm. Rated 1.0 N·m at 6,000 rpm, rated current 1.3 A. Max current 8.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7034-5AK71-1AA0): standard lead time ex-works 30 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7034-5AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7040-2ak71",
@@ -1401,7 +1443,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70402AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7040-2AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.30 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 1.1 N·m at 6,000 rpm, rated current 1.9 A. Max current 7.7 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.30 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 1.1 N·m at 6,000 rpm, rated current 1.9 A. Max current 7.7 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7040-2AK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7040-2AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7040-5ak71",
@@ -1427,7 +1472,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70405AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7040-5AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.30 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,990 rpm. Rated 1.1 N·m at 6,000 rpm, rated current 1.7 A. Max current 7.7 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 1.30 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,990 rpm. Rated 1.1 N·m at 6,000 rpm, rated current 1.7 A. Max current 7.7 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7040-5AK71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7040-5AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-2ac71",
@@ -1453,7 +1501,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70422AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 4,750 rpm. Rated 2.8 N·m at 2,000 rpm, rated current 1.6 A. Max current 5.6 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 4,750 rpm. Rated 2.8 N·m at 2,000 rpm, rated current 1.6 A. Max current 5.6 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7042-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-2af21",
@@ -1479,7 +1530,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70422AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-2AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 5,800 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 3.5 A. Max current 13.8 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 5,800 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 3.5 A. Max current 13.8 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7042-2AF21-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-2AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-2af71",
@@ -1505,7 +1559,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70422AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 6,400 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 2.0 A. Max current 7.6 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 6,400 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 2.0 A. Max current 7.6 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7042-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-2ak71",
@@ -1531,7 +1588,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70422AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-2AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 1.5 N·m at 6,000 rpm, rated current 2.5 A. Max current 15.3 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 1.5 N·m at 6,000 rpm, rated current 2.5 A. Max current 15.3 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7042-2AK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-2AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-3bk71",
@@ -1557,7 +1617,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70423BK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-3BK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 1.5 N·m at 6,000 rpm, rated current 2.5 A. Max current 15.3 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 1.5 N·m at 6,000 rpm, rated current 2.5 A. Max current 15.3 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7042-3BK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-3BK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-5af21",
@@ -1583,7 +1646,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70425AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-5AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 5,910 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 3.5 A. Max current 13.3 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 5,910 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 3.5 A. Max current 13.3 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7042-5AF21-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-5AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-5af71",
@@ -1609,7 +1675,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70425AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 6,500 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 1.9 A. Max current 7.4 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 6,500 rpm. Rated 2.6 N·m at 3,000 rpm, rated current 1.9 A. Max current 7.4 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7042-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7042-5ak71",
@@ -1635,7 +1704,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70425AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7042-5AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,990 rpm. Rated 1.5 N·m at 6,000 rpm, rated current 2.5 A. Max current 15.3 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,990 rpm. Rated 1.5 N·m at 6,000 rpm, rated current 2.5 A. Max current 15.3 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7042-5AK71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7042-5AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7043-4cf21",
@@ -1661,7 +1733,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70434CF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7043-4CF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.90 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 5,350 rpm. Rated 3.0 N·m at 3,000 rpm, rated current 3.7 A. Max current 12.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.90 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 5,350 rpm. Rated 3.0 N·m at 3,000 rpm, rated current 3.7 A. Max current 12.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7043-4CF21-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7043-4CF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7043-4ch71",
@@ -1687,7 +1762,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70434CH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7043-4CH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.90 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 2.6 N·m at 4,500 rpm, rated current 3.3 A. Max current 12.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.90 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 2.6 N·m at 4,500 rpm, rated current 3.3 A. Max current 12.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7043-4CH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7043-4CH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7043-4ck71",
@@ -1713,7 +1791,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70434CK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7043-4CK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.90 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 2.0 N·m at 6,000 rpm, rated current 3.5 A. Max current 17.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.90 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 2.0 N·m at 6,000 rpm, rated current 3.5 A. Max current 17.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7043-4CK71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7043-4CK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7043-7af21",
@@ -1739,7 +1820,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70437AF211AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7043-7AF21-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.20 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 6,580 rpm. Rated 2.5 N·m at 3,000 rpm, rated current 3.8 A. Max current 14.8 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.20 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 6,580 rpm. Rated 2.5 N·m at 3,000 rpm, rated current 3.8 A. Max current 14.8 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7043-7AF21-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7043-7AF21-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7043-7ah71",
@@ -1765,7 +1849,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70437AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7043-7AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 13,100 rpm. Rated 2.6 N·m at 4,500 rpm, rated current 4.0 A. Max current 14.8 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 13,100 rpm. Rated 2.6 N·m at 4,500 rpm, rated current 4.0 A. Max current 14.8 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7043-7AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7043-7AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7043-7ak71",
@@ -1791,7 +1878,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70437AK711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7043-7AK71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 13,300 rpm. Rated 2.0 N·m at 6,000 rpm, rated current 4.4 A. Max current 20.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 2.50 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 13,300 rpm. Rated 2.0 N·m at 6,000 rpm, rated current 4.4 A. Max current 20.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7043-7AK71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7043-7AK71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7044-4cf71",
@@ -1817,7 +1907,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70444CF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7044-4CF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.75 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 8,050 rpm. Rated 3.7 N·m at 3,000 rpm, rated current 3.5 A. Max current 12.1 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.75 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 8,050 rpm. Rated 3.7 N·m at 3,000 rpm, rated current 3.5 A. Max current 12.1 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7044-4CF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7044-4CF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7044-4ch71",
@@ -1843,7 +1936,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70444CH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7044-4CH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.75 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.9 A. Max current 16.4 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.75 N·m. Max speed = lower of max permissible speeds: mech. 9,000 rpm, inverter 9,000 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.9 A. Max current 16.4 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7044-4CH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7044-4CH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7044-7af71",
@@ -1869,7 +1965,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70447AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7044-7AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.00 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 10,100 rpm. Rated 3.5 N·m at 3,000 rpm, rated current 4.0 A. Max current 14.8 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.00 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 10,100 rpm. Rated 3.5 N·m at 3,000 rpm, rated current 4.0 A. Max current 14.8 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7044-7AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7044-7AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7044-7ah71",
@@ -1895,7 +1994,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70447AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7044-7AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.00 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 13,300 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 4.9 A. Max current 20.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 3.00 N·m. Max speed = lower of max permissible speeds: mech. 8,000 rpm, inverter 13,300 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 4.9 A. Max current 20.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7044-7AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7044-7AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7060-2ac71",
@@ -1921,7 +2023,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70602AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7060-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 4,750 rpm. Rated 5.3 N·m at 2,000 rpm, rated current 3.0 A. Max current 10.7 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 4,750 rpm. Rated 5.3 N·m at 2,000 rpm, rated current 3.0 A. Max current 10.7 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7060-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7060-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7060-2af71",
@@ -1947,7 +2052,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70602AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7060-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,700 rpm. Rated 4.7 N·m at 3,000 rpm, rated current 3.7 A. Max current 15.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,700 rpm. Rated 4.7 N·m at 3,000 rpm, rated current 3.7 A. Max current 15.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7060-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7060-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7060-2ah71",
@@ -1973,7 +2081,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70602AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7060-2AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 7,200 rpm. Rated 3.7 N·m at 4,500 rpm, rated current 4.3 A. Max current 21.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 7,200 rpm. Rated 3.7 N·m at 4,500 rpm, rated current 4.3 A. Max current 21.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7060-2AH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7060-2AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7060-3bf71",
@@ -1999,7 +2110,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70603BF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7060-3BF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,700 rpm. Rated 4.7 N·m at 3,000 rpm, rated current 3.7 A. Max current 15.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,700 rpm. Rated 4.7 N·m at 3,000 rpm, rated current 3.7 A. Max current 15.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7060-3BF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7060-3BF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7060-5af71",
@@ -2025,7 +2139,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70605AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7060-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,800 rpm. Rated 4.7 N·m at 3,000 rpm, rated current 3.7 A. Max current 15.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,800 rpm. Rated 4.7 N·m at 3,000 rpm, rated current 3.7 A. Max current 15.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7060-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7060-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7060-5ah71",
@@ -2051,7 +2168,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70605AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7060-5AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 9,500 rpm. Rated 3.7 N·m at 4,500 rpm, rated current 4.1 A. Max current 19.5 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.00 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 9,500 rpm. Rated 3.7 N·m at 4,500 rpm, rated current 4.1 A. Max current 19.5 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7060-5AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7060-5AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7061-4cf71",
@@ -2077,7 +2197,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70614CF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7061-4CF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.30 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 5.4 N·m at 3,000 rpm, rated current 5.3 A. Max current 18.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.30 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 5.4 N·m at 3,000 rpm, rated current 5.3 A. Max current 18.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7061-4CF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7061-4CF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7061-4ch71",
@@ -2103,7 +2226,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70614CH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7061-4CH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.30 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 4.3 N·m at 4,500 rpm, rated current 6.2 A. Max current 26.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 5.30 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 4.3 N·m at 4,500 rpm, rated current 6.2 A. Max current 26.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7061-4CH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7061-4CH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7061-7af71",
@@ -2129,7 +2255,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70617AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7061-7AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 4.90 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,700 rpm. Rated 5.4 N·m at 3,000 rpm, rated current 5.3 A. Max current 17.5 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 4.90 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,700 rpm. Rated 5.4 N·m at 3,000 rpm, rated current 5.3 A. Max current 17.5 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7061-7AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7061-7AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7061-7ah71",
@@ -2155,7 +2284,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70617AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7061-7AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 4.90 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 12,500 rpm. Rated 4.3 N·m at 4,500 rpm, rated current 5.9 A. Max current 25.3 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 4.90 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 12,500 rpm. Rated 4.3 N·m at 4,500 rpm, rated current 5.9 A. Max current 25.3 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7061-7AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7061-7AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7062-2ac71",
@@ -2181,7 +2313,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70622AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7062-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 3,200 rpm. Rated 7.0 N·m at 2,000 rpm, rated current 2.6 A. Max current 10.9 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 3,200 rpm. Rated 7.0 N·m at 2,000 rpm, rated current 2.6 A. Max current 10.9 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7062-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7062-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7062-2af71",
@@ -2207,7 +2342,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70622AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7062-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 5,600 rpm. Rated 6.0 N·m at 3,000 rpm, rated current 4.0 A. Max current 19.2 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 5,600 rpm. Rated 6.0 N·m at 3,000 rpm, rated current 4.0 A. Max current 19.2 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7062-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7062-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7062-2ah71",
@@ -2233,7 +2371,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70622AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7062-2AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 7,200 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.3 A. Max current 29.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 7,200 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.3 A. Max current 29.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7062-2AH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7062-2AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7062-3bf71",
@@ -2259,7 +2400,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70623BF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7062-3BF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 5,600 rpm. Rated 6.0 N·m at 3,000 rpm, rated current 4.0 A. Max current 19.2 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 7.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 5,600 rpm. Rated 6.0 N·m at 3,000 rpm, rated current 4.0 A. Max current 19.2 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7062-3BF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7062-3BF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7063-2ac71",
@@ -2285,7 +2429,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70632AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7063-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 4,200 rpm. Rated 8.9 N·m at 2,000 rpm, rated current 4.4 A. Max current 18.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 4,200 rpm. Rated 8.9 N·m at 2,000 rpm, rated current 4.4 A. Max current 18.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7063-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7063-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7063-2af71",
@@ -2311,7 +2458,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70632AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7063-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,400 rpm. Rated 7.3 N·m at 3,000 rpm, rated current 5.6 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,400 rpm. Rated 7.3 N·m at 3,000 rpm, rated current 5.6 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7063-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7063-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7063-2ah71",
@@ -2337,7 +2487,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70632AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7063-2AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 7,200 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.8 A. Max current 42.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 7,200 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.8 A. Max current 42.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7063-2AH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7063-2AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7063-5af71",
@@ -2363,7 +2516,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70635AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7063-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,600 rpm. Rated 7.3 N·m at 3,000 rpm, rated current 5.6 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 6,600 rpm. Rated 7.3 N·m at 3,000 rpm, rated current 5.6 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7063-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7063-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7063-5ah71",
@@ -2389,7 +2545,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70635AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7063-5AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 9,900 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.8 A. Max current 42.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.10 N·m. Max speed = lower of max permissible speeds: mech. 7,200 rpm, inverter 9,900 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.8 A. Max current 42.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7063-5AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7063-5AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7064-4cc71",
@@ -2415,7 +2574,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70644CC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7064-4CC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 6,150 rpm. Rated 10.0 N·m at 2,000 rpm, rated current 7.1 A. Max current 25.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 6,150 rpm. Rated 10.0 N·m at 2,000 rpm, rated current 7.1 A. Max current 25.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7064-4CC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7064-4CC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7064-4cf71",
@@ -2441,7 +2603,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70644CF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7064-4CF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 8.0 N·m at 3,000 rpm, rated current 7.6 A. Max current 33.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 8.0 N·m at 3,000 rpm, rated current 7.6 A. Max current 33.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7064-4CF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7064-4CF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7064-4ch71",
@@ -2467,7 +2632,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70644CH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7064-4CH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 5.0 N·m at 4,500 rpm, rated current 7.0 A. Max current 46.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 7,500 rpm, inverter 7,500 rpm. Rated 5.0 N·m at 4,500 rpm, rated current 7.0 A. Max current 46.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7064-4CH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7064-4CH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7064-7af71",
@@ -2493,7 +2661,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70647AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7064-7AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,500 rpm. Rated 8.0 N·m at 3,000 rpm, rated current 7.5 A. Max current 31.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,500 rpm. Rated 8.0 N·m at 3,000 rpm, rated current 7.5 A. Max current 31.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7064-7AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7064-7AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7064-7ah71",
@@ -2519,7 +2690,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70647AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7064-7AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 11,300 rpm. Rated 5.0 N·m at 4,500 rpm, rated current 7.0 A. Max current 42.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 9.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 11,300 rpm. Rated 5.0 N·m at 4,500 rpm, rated current 7.0 A. Max current 42.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7064-7AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7064-7AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7080-2af71",
@@ -2545,7 +2719,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70802AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7080-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,500 rpm. Rated 6.8 N·m at 3,000 rpm, rated current 4.4 A. Max current 18.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,500 rpm. Rated 6.8 N·m at 3,000 rpm, rated current 4.4 A. Max current 18.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7080-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7080-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7080-2ah71",
@@ -2571,7 +2748,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70802AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7080-2AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 4.5 N·m at 4,500 rpm, rated current 4.8 A. Max current 27.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 4.5 N·m at 4,500 rpm, rated current 4.8 A. Max current 27.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7080-2AH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7080-2AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7080-5af71",
@@ -2597,7 +2777,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70805AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7080-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,600 rpm. Rated 6.8 N·m at 3,000 rpm, rated current 4.4 A. Max current 18.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,600 rpm. Rated 6.8 N·m at 3,000 rpm, rated current 4.4 A. Max current 18.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7080-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7080-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7080-5ah71",
@@ -2623,7 +2806,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70805AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7080-5AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,500 rpm. Rated 4.5 N·m at 4,500 rpm, rated current 4.7 A. Max current 25.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 6.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,500 rpm. Rated 4.5 N·m at 4,500 rpm, rated current 4.7 A. Max current 25.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7080-5AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7080-5AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7081-2ac71",
@@ -2649,7 +2835,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70812AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7081-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 3,750 rpm. Rated 10.0 N·m at 2,000 rpm, rated current 4.4 A. Max current 17.2 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 3,750 rpm. Rated 10.0 N·m at 2,000 rpm, rated current 4.4 A. Max current 17.2 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7081-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7081-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7081-2af71",
@@ -2675,7 +2864,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70812AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7081-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 8.7 N·m at 3,000 rpm, rated current 6.8 A. Max current 30.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 8.7 N·m at 3,000 rpm, rated current 6.8 A. Max current 30.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7081-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7081-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7081-2ah71",
@@ -2701,7 +2893,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70812AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7081-2AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 3.8 N·m at 4,500 rpm, rated current 4.9 A. Max current 45.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 3.8 N·m at 4,500 rpm, rated current 4.9 A. Max current 45.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7081-2AH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7081-2AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7081-3bf71",
@@ -2727,7 +2922,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70813BF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7081-3BF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 8.7 N·m at 3,000 rpm, rated current 6.8 A. Max current 30.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 10.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 8.7 N·m at 3,000 rpm, rated current 6.8 A. Max current 30.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7081-3BF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7081-3BF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7083-2ac71",
@@ -2753,7 +2951,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70832AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7083-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 4,150 rpm. Rated 12.5 N·m at 2,000 rpm, rated current 6.3 A. Max current 27.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 4,150 rpm. Rated 12.5 N·m at 2,000 rpm, rated current 6.3 A. Max current 27.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7083-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7083-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7083-2af71",
@@ -2779,7 +2980,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70832AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7083-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,600 rpm. Rated 10.5 N·m at 3,000 rpm, rated current 7.2 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,600 rpm. Rated 10.5 N·m at 3,000 rpm, rated current 7.2 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7083-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7083-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7083-2ah71",
@@ -2805,7 +3009,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70832AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7083-2AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.6 A. Max current 55.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.6 A. Max current 55.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7083-2AH71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7083-2AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7083-5af71",
@@ -2831,7 +3038,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70835AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7083-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,900 rpm. Rated 10.5 N·m at 3,000 rpm, rated current 7.4 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,900 rpm. Rated 10.5 N·m at 3,000 rpm, rated current 7.4 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7083-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7083-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7083-5ah71",
@@ -2857,7 +3067,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70835AH711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7083-5AH71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,600 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.6 A. Max current 52.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 13.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 8,600 rpm. Rated 3.0 N·m at 4,500 rpm, rated current 3.6 A. Max current 52.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7083-5AH71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7083-5AH71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7084-2ac71",
@@ -2883,7 +3096,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70842AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7084-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 3,800 rpm. Rated 15.0 N·m at 2,000 rpm, rated current 6.7 A. Max current 28.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 3,800 rpm. Rated 15.0 N·m at 2,000 rpm, rated current 6.7 A. Max current 28.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7084-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7084-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7084-2af71",
@@ -2909,7 +3125,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70842AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7084-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,400 rpm. Rated 10.0 N·m at 3,000 rpm, rated current 6.5 A. Max current 41.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,400 rpm. Rated 10.0 N·m at 3,000 rpm, rated current 6.5 A. Max current 41.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7084-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7084-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7084-3bc71",
@@ -2935,7 +3154,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70843BC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7084-3BC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 3,800 rpm. Rated 15.0 N·m at 2,000 rpm, rated current 6.7 A. Max current 28.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 3,800 rpm. Rated 15.0 N·m at 2,000 rpm, rated current 6.7 A. Max current 28.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7084-3BC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7084-3BC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7084-3bf71",
@@ -2961,7 +3183,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70843BF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7084-3BF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,400 rpm. Rated 10.0 N·m at 3,000 rpm, rated current 6.5 A. Max current 41.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 16.60 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,400 rpm. Rated 10.0 N·m at 3,000 rpm, rated current 6.5 A. Max current 41.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7084-3BF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7084-3BF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7085-4cc71",
@@ -2987,7 +3212,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70854CC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7085-4CC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 18.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,500 rpm. Rated 15.0 N·m at 2,000 rpm, rated current 10.0 A. Max current 51.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 18.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 5,500 rpm. Rated 15.0 N·m at 2,000 rpm, rated current 10.0 A. Max current 51.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7085-4CC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7085-4CC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7085-4cf71",
@@ -3013,7 +3241,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70854CF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7085-4CF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 18.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 7.0 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 18.30 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 7.0 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7085-4CF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7085-4CF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7085-7af71",
@@ -3039,7 +3270,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70857AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7085-7AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 17.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 9,100 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 7.0 A. Max current 80.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 17.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 9,100 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 7.0 A. Max current 80.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7085-7AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7085-7AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7086-4cc71",
@@ -3065,7 +3299,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70864CC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7086-4CC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 23.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 4,200 rpm. Rated 18.0 N·m at 2,000 rpm, rated current 9.0 A. Max current 71.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 23.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 4,200 rpm. Rated 18.0 N·m at 2,000 rpm, rated current 9.0 A. Max current 71.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7086-4CC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7086-4CC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7086-4cf71",
@@ -3091,7 +3328,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70864CF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7086-4CF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 23.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 5.7 A. Max current 115.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 23.00 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,000 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 5.7 A. Max current 115.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7086-4CF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7086-4CF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7086-7af71",
@@ -3117,7 +3357,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK70867AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7086-7AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 23.50 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,800 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 5.5 A. Max current 112.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 23.50 N·m. Max speed = lower of max permissible speeds: mech. 6,000 rpm, inverter 6,800 rpm. Rated 6.5 N·m at 3,000 rpm, rated current 5.5 A. Max current 112.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7086-7AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7086-7AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7100-2ac71",
@@ -3143,7 +3386,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71002AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7100-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 14.90 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,200 rpm. Rated 14.5 N·m at 2,000 rpm, rated current 7.1 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 14.90 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,200 rpm. Rated 14.5 N·m at 2,000 rpm, rated current 7.1 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7100-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7100-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7100-2af71",
@@ -3169,7 +3415,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71002AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7100-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 14.90 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 12.0 N·m at 3,000 rpm, rated current 8.0 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 14.90 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 12.0 N·m at 3,000 rpm, rated current 8.0 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7100-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7100-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7100-3bc71",
@@ -3195,7 +3444,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71003BC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7100-3BC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 14.90 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,200 rpm. Rated 14.5 N·m at 2,000 rpm, rated current 7.1 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 14.90 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,200 rpm. Rated 14.5 N·m at 2,000 rpm, rated current 7.1 A. Max current 28.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7100-3BC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7100-3BC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7100-5af71",
@@ -3221,7 +3473,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71005AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7100-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 15.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,700 rpm. Rated 12.0 N·m at 3,000 rpm, rated current 8.0 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 15.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,700 rpm. Rated 12.0 N·m at 3,000 rpm, rated current 8.0 A. Max current 37.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7100-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7100-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7101-2ac71",
@@ -3247,7 +3502,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71012AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7101-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,000 rpm. Rated 20.5 N·m at 2,000 rpm, rated current 9.7 A. Max current 40.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,000 rpm. Rated 20.5 N·m at 2,000 rpm, rated current 9.7 A. Max current 40.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7101-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7101-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7101-2af71",
@@ -3273,7 +3531,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71012AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7101-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 15.5 N·m at 3,000 rpm, rated current 11.6 A. Max current 63.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 15.5 N·m at 3,000 rpm, rated current 11.6 A. Max current 63.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7101-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7101-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7101-3bc71",
@@ -3299,7 +3560,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71013BC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7101-3BC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,000 rpm. Rated 20.5 N·m at 2,000 rpm, rated current 9.7 A. Max current 40.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 4,000 rpm. Rated 20.5 N·m at 2,000 rpm, rated current 9.7 A. Max current 40.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7101-3BC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7101-3BC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7101-3bf71",
@@ -3325,7 +3589,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71013BF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7101-3BF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 15.5 N·m at 3,000 rpm, rated current 11.6 A. Max current 63.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.50 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 15.5 N·m at 3,000 rpm, rated current 11.6 A. Max current 63.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7101-3BF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7101-3BF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7101-5af71",
@@ -3351,7 +3618,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71015AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7101-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.40 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 6,400 rpm. Rated 15.5 N·m at 3,000 rpm, rated current 11.8 A. Max current 63.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 22.40 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 6,400 rpm. Rated 15.5 N·m at 3,000 rpm, rated current 11.8 A. Max current 63.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7101-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7101-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7103-2ac71",
@@ -3377,7 +3647,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71032AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7103-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,550 rpm. Rated 25.0 N·m at 2,000 rpm, rated current 11.0 A. Max current 46.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,550 rpm. Rated 25.0 N·m at 2,000 rpm, rated current 11.0 A. Max current 46.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7103-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7103-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7103-2af71",
@@ -3403,7 +3676,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71032AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7103-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 14.0 N·m at 3,000 rpm, rated current 11.5 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 14.0 N·m at 3,000 rpm, rated current 11.5 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7103-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7103-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7103-3bc71",
@@ -3429,7 +3705,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71033BC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7103-3BC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,550 rpm. Rated 25.0 N·m at 2,000 rpm, rated current 11.0 A. Max current 46.5 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,550 rpm. Rated 25.0 N·m at 2,000 rpm, rated current 11.0 A. Max current 46.5 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7103-3BC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7103-3BC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7103-3bf71",
@@ -3455,7 +3734,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71033BF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7103-3BF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 14.0 N·m at 3,000 rpm, rated current 11.5 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 14.0 N·m at 3,000 rpm, rated current 11.5 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7103-3BF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7103-3BF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7103-5af71",
@@ -3481,7 +3763,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71035AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7103-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 6,700 rpm. Rated 14.0 N·m at 3,000 rpm, rated current 12.0 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 30.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 6,700 rpm. Rated 14.0 N·m at 3,000 rpm, rated current 12.0 A. Max current 84.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7103-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7103-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7105-2ac71",
@@ -3507,7 +3792,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71052AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7105-2AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,650 rpm. Rated 37.0 N·m at 2,000 rpm, rated current 16.0 A. Max current 71.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,650 rpm. Rated 37.0 N·m at 2,000 rpm, rated current 16.0 A. Max current 71.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7105-2AC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7105-2AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7105-2af71",
@@ -3533,7 +3821,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71052AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7105-2AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 26.0 N·m at 3,000 rpm, rated current 18.0 A. Max current 109.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,000 rpm. Rated 26.0 N·m at 3,000 rpm, rated current 18.0 A. Max current 109.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7105-2AF71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 01.10.2020",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7105-2AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7105-3bc71",
@@ -3559,7 +3850,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71053BC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7105-3BC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,650 rpm. Rated 37.0 N·m at 2,000 rpm, rated current 16.0 A. Max current 71.0 A. Data sheet variant without brake; other encoders per order code."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,650 rpm. Rated 37.0 N·m at 2,000 rpm, rated current 16.0 A. Max current 71.0 A. Data sheet variant without brake; other encoders per order code.",
+    "lead_time": "Siemens Industry Mall (1FK7105-3BC71-1AA0): standard lead time ex-works 15 days (calendar vs working days not stated); cancelled since 02.06.2025",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7105-3BC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7105-5ac71",
@@ -3585,7 +3879,10 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71055AC711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7105-5AC71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,800 rpm. Rated 37.0 N·m at 2,000 rpm, rated current 16.0 A. Max current 72.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 3,800 rpm. Rated 37.0 N·m at 2,000 rpm, rated current 16.0 A. Max current 72.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7105-5AC71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7105-5AC71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "siemens-1fk7105-5af71",
@@ -3611,6 +3908,9 @@
     "datasheet_url": "https://mall.industry.siemens.com/spice/docuservice/rest/document.spring?articleNumber=1FK71055AF711AA0&documentGroup=TED&documentId=DCS_DATASHEET_CLEANED&language=en&region=ww",
     "source": "Siemens SiePortal product data sheet SIMOTICS S-1FK7, article 1FK7105-5AF71-1AA0 (generated 2026-10-08)",
     "retrieved_on": "2026-10-08",
-    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,700 rpm. Rated 26.0 N·m at 3,000 rpm, rated current 18.0 A. Max current 109.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range)."
+    "remarks": "Continuous = static torque M0 (100 K); current = stall current I0 (100 K). M0 (60 K) 40.00 N·m. Max speed = lower of max permissible speeds: mech. 5,000 rpm, inverter 5,700 rpm. Rated 26.0 N·m at 3,000 rpm, rated current 18.0 A. Max current 109.0 A. Data sheet variant without brake; other encoders per order code. Order code from the 12/2006 1FK7 manual (pre-Generation 2 range).",
+    "lead_time": "Siemens Industry Mall (1FK7105-5AF71-1AA0): standard lead time ex-works 100 days (calendar vs working days not stated); cancelled since 01.10.2019 (spare part)",
+    "lead_time_url": "https://mall.industry.siemens.com/mall/en/oeii/Catalog/Product/1FK7105-5AF71-1AA0",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

@@ -42,7 +42,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 15 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-super-duty-450",
@@ -87,7 +91,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 15 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-classic-rod-35",
@@ -126,7 +134,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-classic-rod-150",
@@ -165,7 +177,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-classic-rod-200",
@@ -204,7 +220,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-utility-110",
@@ -240,7 +260,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 5 of 6 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/utility-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-utility-330",
@@ -276,7 +299,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 5 of 6 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/utility-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-industrial-2200",
@@ -311,7 +337,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-industrial-1910-40in",
@@ -340,7 +370,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: the only matching variant is in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-c-series-45",
@@ -387,7 +421,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 17 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-c-series-135",
@@ -434,7 +472,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 16 of 17 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/c-series-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-c-series-225",
@@ -481,7 +522,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 16 of 17 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/c-series-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-utility-8",
@@ -517,7 +561,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-utility-16",
@@ -553,7 +601,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-utility-38",
@@ -589,7 +641,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-35-22",
@@ -625,7 +681,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-35-90",
@@ -661,7 +721,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-35-180",
@@ -697,7 +761,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-35-270",
@@ -733,7 +801,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 5 of 6 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/bullet-series-35-cal-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-50-500",
@@ -772,7 +843,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-50-674",
@@ -811,7 +886,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: 2 of 9 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/bullet-series-50-cal-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-50-1124",
@@ -850,7 +928,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-deluxe-rod-100",
@@ -891,7 +973,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 11 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-heavy-duty-rod-200",
@@ -924,7 +1010,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 3 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-heavy-duty-rod-400",
@@ -963,7 +1053,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-heavy-duty-rod-1000",
@@ -1000,7 +1094,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 7 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-feedback-rod-35",
@@ -1036,7 +1134,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-feedback-rod-150",
@@ -1072,7 +1174,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 4 of 6 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/feedback-rod-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-feedback-rod-200",
@@ -1108,7 +1213,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-heavy-duty-track-200",
@@ -1144,7 +1253,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-heavy-duty-track-400",
@@ -1178,7 +1291,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 4 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-mini-track-35",
@@ -1213,7 +1330,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 5 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-power-max-900",
@@ -1251,7 +1372,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 3 of 8 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/power-max-heavy-duty-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-power-max-1500",
@@ -1289,7 +1413,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 2 of 8 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/power-max-heavy-duty-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-adjustable-stroke-35",
@@ -1331,7 +1458,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 11 of 12 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/adjustable-stroke-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-adjustable-stroke-150",
@@ -1373,7 +1503,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 12 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-adjustable-stroke-240",
@@ -1415,7 +1549,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 12 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-36-224",
@@ -1453,7 +1591,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-23-26",
@@ -1492,7 +1634,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 9 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-mini-20",
@@ -1529,7 +1675,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-bullet-mini-110",
@@ -1566,7 +1716,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-industrial-heavy-duty-2200",
@@ -1601,7 +1755,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: 4 of 6 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/industrial-heavy-duty-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-heavy-duty-ip66-200",
@@ -1638,7 +1795,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 7 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-high-speed-22",
@@ -1681,7 +1842,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 13 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-optical-feedback-35",
@@ -1721,7 +1886,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 8 of 11 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/optical-sensor-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-optical-feedback-200",
@@ -1760,7 +1928,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 10 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day. Discontinued: listed stock only.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-optical-feedback-400",
@@ -1799,7 +1971,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 9 of 10 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/optical-sensor-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-sleek-rod-40",
@@ -1836,7 +2011,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 7 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-sleek-rod-150",
@@ -1874,7 +2053,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-mini-rod-15",
@@ -1909,7 +2092,11 @@
     "source": "Firgelli product page 'Mini Linear Actuators', Technical Details table + variant list",
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
-    "speed_condition": "unstated"
+    "speed_condition": "unstated",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-p-series-400",
@@ -1947,7 +2134,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: all 8 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day. Discontinued: listed stock only.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-p-series-35",
@@ -1987,7 +2178,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 5 of 10 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/premium-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-p-series-150",
@@ -2027,7 +2221,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 8 of 10 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/premium-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-p-series-200",
@@ -2067,7 +2264,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "unstated",
-    "current_condition": "max"
+    "current_condition": "max",
+    "lead_time": "Firgelli store: 6 of 10 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/premium-linear-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-fa-scl-650",
@@ -2090,7 +2290,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Dynamic 180 lbf; speed 0.8 in/s at full load. 24V output (max 7A) from included control box, 100-120 VAC input. Bending moment 1200 lbf-in. Duty 50% depending on load.",
     "peak_basis": "max-load",
-    "speed_condition": "full-load"
+    "speed_condition": "full-load",
+    "lead_time": "Firgelli store: the only matching variant is in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-fa-scl-1000",
@@ -2113,7 +2317,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Dynamic 80 lbf; speed 0.8 in/s at full load. 24V output (max 7A) from included control box, 100-120 VAC input. Bending moment 1200 lbf-in. Duty 50% depending on load.",
     "peak_basis": "max-load",
-    "speed_condition": "full-load"
+    "speed_condition": "full-load",
+    "lead_time": "Firgelli store: the only matching variant is in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-f12-4",
@@ -2148,7 +2356,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 6 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day. Discontinued: listed stock only.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-silent-micro-22",
@@ -2185,7 +2397,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: 6 of 8 matching variants in stock 2026-10-08; in-stock orders ship same/next business day. Discontinued: listed stock only.",
+    "lead_time_url": "https://www.firgelliauto.com/products/silent-micro-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-pen-feedback-20n",
@@ -2220,7 +2435,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 5 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-pen-feedback-50n",
@@ -2255,7 +2474,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: 3 of 5 matching variants in stock 2026-10-08; in-stock orders ship same/next business day.",
+    "lead_time_url": "https://www.firgelliauto.com/products/micro-actuators",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-pen-feedback-100n",
@@ -2290,7 +2512,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 5 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-pen-20n",
@@ -2325,7 +2551,11 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 5 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "firgelli-micro-pen-100n",
@@ -2359,6 +2589,10 @@
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
     "speed_condition": "full-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Firgelli store: all 5 matching variants in stock 2026-10-08; ships same business day if ordered by 12pm PST, else next business day.",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.firgelliauto.com/pages/shipping-info",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

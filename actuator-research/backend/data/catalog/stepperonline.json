@@ -19,7 +19,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-8-bipolar-1-8deg-1-4ncm-1-98oz-in-0-2a-20x20x28mm-4-wires-8hs11-0204s",
     "source": "StepperOnline product page 8HS11-0204S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 8 (20 x 20 mm), body length 27.3 mm; 1.8 deg step, bipolar 2-phase; holding torque 1.4 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 8 (20 x 20 mm), body length 27.3 mm; 1.8 deg step, bipolar 2-phase; holding torque 1.4 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-8-bipolar-1-8deg-1-4ncm-1-98oz-in-0-2a-20x20x28mm-4-wires-8hs11-0204s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-8hs15-0604s",
@@ -42,7 +46,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-8-bipolar-1-8deg-4ncm-5-7oz-in-0-6a-6v-20x20x38mm-4-wires-8hs15-0604s",
     "source": "StepperOnline product page 8HS15-0604S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 8 (20 x 20 mm), body length 39.3 mm; 1.8 deg step, bipolar 2-phase; holding torque 4 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 8 (20 x 20 mm), body length 39.3 mm; 1.8 deg step, bipolar 2-phase; holding torque 4 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-8-bipolar-1-8deg-4ncm-5-7oz-in-0-6a-6v-20x20x38mm-4-wires-8hs15-0604s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-11hs12-0674s",
@@ -64,7 +72,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-11-bipolar-1-8deg-7ncm-9-91oz-in-0-67a-3-8v-28x28x31mm-4-wires-11hs12-0674s",
     "source": "StepperOnline product page 11HS12-0674S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 11 (28 x 28 mm), body length 33 mm; 1.8 deg step, bipolar 2-phase; holding torque 7 Ncm; round 5 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 11 (28 x 28 mm), body length 33 mm; 1.8 deg step, bipolar 2-phase; holding torque 7 Ncm; round 5 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-11-bipolar-1-8deg-7ncm-9-91oz-in-0-67a-3-8v-28x28x31mm-4-wires-11hs12-0674s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-11hs18-0674s",
@@ -87,7 +99,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-11-bipolar-1-8deg-9-5ncm-13-5oz-in-0-67a-4-6v-28x28x45mm-4-wires-11hs18-0674s",
     "source": "StepperOnline product page 11HS18-0674S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 11 (28 x 28 mm), body length 45 mm; 1.8 deg step, bipolar 2-phase; holding torque 10 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 11 (28 x 28 mm), body length 45 mm; 1.8 deg step, bipolar 2-phase; holding torque 10 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-11-bipolar-1-8deg-9-5ncm-13-5oz-in-0-67a-4-6v-28x28x45mm-4-wires-11hs18-0674s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-11hs20-0674s",
@@ -110,7 +126,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-11-bipolar-1-8deg-12ncm-17oz-in-0-67a-6-2v-28x28x51mm-4-wires-11hs20-0674s",
     "source": "StepperOnline product page 11HS20-0674S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 11 (28 x 28 mm), body length 51 mm; 1.8 deg step, bipolar 2-phase; holding torque 12 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 11 (28 x 28 mm), body length 51 mm; 1.8 deg step, bipolar 2-phase; holding torque 12 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-11-bipolar-1-8deg-12ncm-17oz-in-0-67a-6-2v-28x28x51mm-4-wires-11hs20-0674s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-14hs13-0804s",
@@ -133,7 +153,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-14-bipolar-1-8deg-18ncm-25-5oz-in-0-8a-5-4v-35x35x34mm-4-wires-14hs13-0804s",
     "source": "StepperOnline product page 14HS13-0804S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 14 (35 x 35 mm), body length 34.8 mm; 1.8 deg step, bipolar 2-phase; holding torque 18 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 14 (35 x 35 mm), body length 34.8 mm; 1.8 deg step, bipolar 2-phase; holding torque 18 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-14-bipolar-1-8deg-18ncm-25-5oz-in-0-8a-5-4v-35x35x34mm-4-wires-14hs13-0804s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-14hs20-1504s",
@@ -155,7 +179,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-14-bipolar-1-8deg-40ncm-56-7oz-in-1-5a-4-2v-35x35x52mm-4-wires-14hs20-1504s",
     "source": "StepperOnline product page 14HS20-1504S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 14 (35 x 35 mm), body length 52 mm; 1.8 deg step, bipolar 2-phase; holding torque 40 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 14 (35 x 35 mm), body length 52 mm; 1.8 deg step, bipolar 2-phase; holding torque 40 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-14-bipolar-1-8deg-40ncm-56-7oz-in-1-5a-4-2v-35x35x52mm-4-wires-14hs20-1504s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17hs08-1004s",
@@ -176,7 +204,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-16ncm-22-6oz-in-1a-3-7v-42x42x20mm-4-wires-17hs08-1004s",
     "source": "StepperOnline product page 17HS08-1004S (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 21.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 16 Ncm; pancake/extruder motor; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 21.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 16 Ncm; pancake/extruder motor; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-16ncm-22-6oz-in-1a-3-7v-42x42x20mm-4-wires-17hs08-1004s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17hs13-0404s1",
@@ -198,7 +230,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-26ncm-36-8oz-in-0-4a-12v-42x42x34mm-4-wires-17hs13-0404s1",
     "source": "StepperOnline product page 17HS13-0404S1 (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 34 mm; 1.8 deg step, bipolar 2-phase; holding torque 26 Ncm; 1 m cable with 2.54 mm connector; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 34 mm; 1.8 deg step, bipolar 2-phase; holding torque 26 Ncm; 1 m cable with 2.54 mm connector; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-26ncm-36-8oz-in-0-4a-12v-42x42x34mm-4-wires-17hs13-0404s1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17he15-1504s",
@@ -221,7 +257,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/e-series-nema-17-bipolar-42ncm-59-49oz-in-1-5a-42x42x38mm-4-wires-w-1m-cable-connector-17he15-1504s",
     "source": "StepperOnline product page 17HE15-1504S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 38 mm; 1.8 deg step, bipolar 2-phase; holding torque 42 Ncm; 1 m cable with connector; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 38 mm; 1.8 deg step, bipolar 2-phase; holding torque 42 Ncm; 1 m cable with connector; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/e-series-nema-17-bipolar-42ncm-59-49oz-in-1-5a-42x42x38mm-4-wires-w-1m-cable-connector-17he15-1504s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17hs16-2004s1",
@@ -243,7 +283,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-connector-17hs16-2004s1",
     "source": "StepperOnline product page 17HS16-2004S1 (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 40 mm; 1.8 deg step, bipolar 2-phase; holding torque 45 Ncm; 1 m cable with connector; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 40 mm; 1.8 deg step, bipolar 2-phase; holding torque 45 Ncm; 1 m cable with connector; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-connector-17hs16-2004s1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17hm19-2004s",
@@ -265,7 +309,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-9v-42x42x48mm-4-wires-17hm19-2004s",
     "source": "StepperOnline product page 17HM19-2004S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 48 mm; 0.9 deg step, bipolar 2-phase; holding torque 46 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 48 mm; 0.9 deg step, bipolar 2-phase; holding torque 46 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-17-bipolar-0-9deg-46ncm-65-1oz-in-2a-2-9v-42x42x48mm-4-wires-17hm19-2004s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17hs19-2004s1",
@@ -288,7 +336,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17hs19-2004s1",
     "source": "StepperOnline product page 17HS19-2004S1 (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 48 mm; 1.8 deg step, bipolar 2-phase; holding torque 59 Ncm; 1 m cable with connector; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 48 mm; 1.8 deg step, bipolar 2-phase; holding torque 59 Ncm; 1 m cable with connector; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-17-bipolar-59ncm-84oz-in-2a-42x48mm-4-wires-w-1m-cable-connector-17hs19-2004s1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-17hs24-2104s",
@@ -311,7 +363,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-65ncm-92oz-in-2-1a-3-36v-42x42x60mm-4-wires-17hs24-2104s",
     "source": "StepperOnline product page 17HS24-2104S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 17 (42 x 42 mm), body length 60 mm; 1.8 deg step, bipolar 2-phase; holding torque 76 Ncm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 17 (42 x 42 mm), body length 60 mm; 1.8 deg step, bipolar 2-phase; holding torque 76 Ncm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-17-bipolar-1-8deg-65ncm-92oz-in-2-1a-3-36v-42x42x60mm-4-wires-17hs24-2104s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23he22-2804s",
@@ -333,7 +389,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/e-series-nema-23-stepper-motor-bipolar-1-8deg-1-26-nm-178-04oz-in-2-8a-57x57x56mm-4-wires-23he22-2804s",
     "source": "StepperOnline product page 23HE22-2804S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 54 mm; 1.8 deg step, bipolar 2-phase; holding torque 124 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 54 mm; 1.8 deg step, bipolar 2-phase; holding torque 124 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/e-series-nema-23-stepper-motor-bipolar-1-8deg-1-26-nm-178-04oz-in-2-8a-57x57x56mm-4-wires-23he22-2804s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23hs22-2804s",
@@ -356,7 +416,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-23-bipolar-1-8deg-1-26nm-178-4oz-in-2-8a-2-5v-57x57x56mm-4-wires-23hs22-2804s",
     "source": "StepperOnline product page 23HS22-2804S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 56 mm; 1.8 deg step, bipolar 2-phase; holding torque 124 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 56 mm; 1.8 deg step, bipolar 2-phase; holding torque 124 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-23-bipolar-1-8deg-1-26nm-178-4oz-in-2-8a-2-5v-57x57x56mm-4-wires-23hs22-2804s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23hm22-2804s",
@@ -378,7 +442,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-23-bipolar-0-9deg-1-26nm-178-4oz-in-2-8a-2-5v-57x57x56mm-4-wires-23hm22-2804s",
     "source": "StepperOnline product page 23HM22-2804S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 56 mm; 0.9 deg step, bipolar 2-phase; holding torque 120 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 56 mm; 0.9 deg step, bipolar 2-phase; holding torque 120 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-23-bipolar-0-9deg-1-26nm-178-4oz-in-2-8a-2-5v-57x57x56mm-4-wires-23hm22-2804s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23hs30-3004s",
@@ -400,7 +468,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-23-bipolar-1-8deg-1-9nm-269oz-in-3a-3-36v-57x57x76mm-4-wires-23hs30-3004s",
     "source": "StepperOnline product page 23HS30-3004S (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 76.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 189 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 76.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 189 Ncm; 6.35 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-23-bipolar-1-8deg-1-9nm-269oz-in-3a-3-36v-57x57x76mm-4-wires-23hs30-3004s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23he30-2804s",
@@ -421,7 +493,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/e-series-nema-23-bipolar-1-8deg-1-9nm-269oz-in-2-8a-3-2v-57x57x76mm-4-wires-23he30-2804s",
     "source": "StepperOnline product page 23HE30-2804S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 76 mm; 1.8 deg step, bipolar 2-phase; holding torque 200 Ncm; 6.35 mm shaft; motor weight not listed; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 76 mm; 1.8 deg step, bipolar 2-phase; holding torque 200 Ncm; 6.35 mm shaft; motor weight not listed; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/e-series-nema-23-bipolar-1-8deg-1-9nm-269oz-in-2-8a-3-2v-57x57x76mm-4-wires-23he30-2804s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23hs45-4204s",
@@ -444,7 +520,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/nema-23-bipolar-3nm-425oz-in-4-2a-57x57x114mm-4-wires-stepper-motor-cnc-23hs45-4204s",
     "source": "StepperOnline product page 23HS45-4204S (Electrical/Physical Specification) + StepperOnline Full Datasheet PDF (rotor inertia)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 113 mm; 1.8 deg step, bipolar 2-phase; holding torque 300 Ncm; 10 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 113 mm; 1.8 deg step, bipolar 2-phase; holding torque 300 Ncm; 10 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (500 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/nema-23-bipolar-3nm-425oz-in-4-2a-57x57x114mm-4-wires-stepper-motor-cnc-23hs45-4204s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-23he45-4204s",
@@ -465,7 +545,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/e-series-nema-23-bipolar-1-8deg-3-0-nm-425oz-in-4-2a-57x57x113mm-4-wires-23he45-4204s",
     "source": "StepperOnline product page 23HE45-4204S (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 23 (57 x 57 mm), body length 113 mm; 1.8 deg step, bipolar 2-phase; holding torque 300 Ncm; 10 mm shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 23 (57 x 57 mm), body length 113 mm; 1.8 deg step, bipolar 2-phase; holding torque 300 Ncm; 10 mm shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/e-series-nema-23-bipolar-1-8deg-3-0-nm-425oz-in-4-2a-57x57x113mm-4-wires-23he45-4204s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-24hs34-3504d",
@@ -487,7 +571,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/dual-shaft-nema-23-bipolar-3-1nm-439oz-in-3-5a-60x60x88mm-4-wires-24hs34-3504d",
     "source": "StepperOnline product page 24HS34-3504D (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 24 (60 x 60 mm), body length 88 mm; 1.8 deg step, bipolar 2-phase; holding torque 310 Ncm; 60 x 60 mm frame (listed as Nema 23/24); dual shaft, 8 mm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 24 (60 x 60 mm), body length 88 mm; 1.8 deg step, bipolar 2-phase; holding torque 310 Ncm; 60 x 60 mm frame (listed as Nema 23/24); dual shaft, 8 mm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/dual-shaft-nema-23-bipolar-3-1nm-439oz-in-3-5a-60x60x88mm-4-wires-24hs34-3504d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-24hs39-4204d",
@@ -509,7 +597,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/dual-shaft-nema-23-stepper-motor-4-2a-4nm-566oz-in-60x60x100mm-4-wires-24hs39-4204d",
     "source": "StepperOnline product page 24HS39-4204D (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 24 (60 x 60 mm), body length 100 mm; 1.8 deg step, bipolar 2-phase; holding torque 400 Ncm; 60 x 60 mm frame; dual shaft, 8 mm; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 24 (60 x 60 mm), body length 100 mm; 1.8 deg step, bipolar 2-phase; holding torque 400 Ncm; 60 x 60 mm frame; dual shaft, 8 mm; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/dual-shaft-nema-23-stepper-motor-4-2a-4nm-566oz-in-60x60x100mm-4-wires-24hs39-4204d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-34hs31-5504s",
@@ -552,7 +644,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/keyway-dual-shaft-nema-34-cnc-stepper-motor-8-5nm-1204oz-in-5a-86x114mm-34hs46-5004d1",
     "source": "StepperOnline product page 34HS46-5004D1 (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 34 (86 x 86 mm), body length 114 mm; 1.8 deg step, bipolar 2-phase; holding torque 850 Ncm; 14 mm keyway shaft; dual shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 34 (86 x 86 mm), body length 114 mm; 1.8 deg step, bipolar 2-phase; holding torque 850 Ncm; 14 mm keyway shaft; dual shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/keyway-dual-shaft-nema-34-cnc-stepper-motor-8-5nm-1204oz-in-5a-86x114mm-34hs46-5004d1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-34hs59-6004s",
@@ -573,7 +669,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/s-series-nema-34-stepper-motor-bipolar-1-8deg-12-0-nm-1699-68oz-in-6-0a-86x86x151-5mm-4-wires-34hs59-6004s",
     "source": "StepperOnline product page 34HS59-6004S (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 34 (86 x 86 mm), body length 151.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 1200 Ncm; 14 mm keyway shaft; replacement for discontinued 34HS59-5004S; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 34 (86 x 86 mm), body length 151.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 1200 Ncm; 14 mm keyway shaft; replacement for discontinued 34HS59-5004S; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/s-series-nema-34-stepper-motor-bipolar-1-8deg-12-0-nm-1699-68oz-in-6-0a-86x86x151-5mm-4-wires-34hs59-6004s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-34he59-6004s",
@@ -593,7 +693,11 @@
     "datasheet_url": "https://www.omc-stepperonline.com/e-series-nema-34-stepper-motor-bipolar-1-8deg-12-0-nm-1699-68oz-in-6-0a-86x86x151-5mm-4-wires-34he59-6004s",
     "source": "StepperOnline product page 34HE59-6004S (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 34 (86 x 86 mm), body length 151.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 1200 Ncm; 14 mm keyway shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 34 (86 x 86 mm), body length 151.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 1200 Ncm; 14 mm keyway shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/e-series-nema-34-stepper-motor-bipolar-1-8deg-12-0-nm-1699-68oz-in-6-0a-86x86x151-5mm-4-wires-34he59-6004s",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "stepperonline-34he46-6004d-e1000",
@@ -613,6 +717,10 @@
     "datasheet_url": "https://www.omc-stepperonline.com/e-series-nema-34-closed-loop-stepper-motor-9-nm-1274-76oz-in-encoder-1000ppr-4000cpr-34he46-6004d-e1000",
     "source": "StepperOnline product page 34HE46-6004D-E1000 (Electrical/Physical Specification)",
     "retrieved_on": "2026-10-07",
-    "remarks": "NEMA 34 (86 x 86 mm), body length 134.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 900 Ncm; closed-loop stepper; 14 mm keyway shaft; peak torque = published holding torque (stepper convention)"
+    "remarks": "NEMA 34 (86 x 86 mm), body length 134.5 mm; 1.8 deg step, bipolar 2-phase; holding torque 900 Ncm; closed-loop stepper; 14 mm keyway shaft; peak torque = published holding torque (stepper convention)",
+    "lead_time": "StepperOnline: in stock (200 shown, warehouse not stated); ships within 24 h of order except Sunday (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.omc-stepperonline.com/e-series-nema-34-closed-loop-stepper-motor-9-nm-1274-76oz-in-encoder-1000ppr-4000cpr-34he46-6004d-e1000",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

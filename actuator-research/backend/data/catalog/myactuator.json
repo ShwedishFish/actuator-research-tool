@@ -23,7 +23,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x2-p28-7",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x4-p12-5-10",
@@ -49,7 +52,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x4-p12-5-10",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x4-p36-36-e",
@@ -75,7 +81,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x4-p36-36",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x4-p36-36-e-l",
@@ -101,7 +110,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x4-p36-36-e-l",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x6-p20-60-e",
@@ -152,7 +164,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x8-p9-32-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x8-p20-120-e",
@@ -178,7 +193,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x8-p20-120",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x8-p20-150-e-03",
@@ -204,7 +222,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x8-p20-150-e-03",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x10-p20-200-e",
@@ -230,7 +251,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rmd-x-series/rmd-x10-p20-200-e",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rh-14-100-e-n-d",
@@ -256,7 +280,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rh-series/rh-14-100-e-n-d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rh-17-100-e-n-d",
@@ -282,7 +309,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rh-series/rh-17-100-e-n-d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rh-20-100-e-n-d",
@@ -308,7 +338,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rh-series/rh-20-100-e-n-d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rh-25-100-e-n-d",
@@ -334,7 +367,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rh-series/rh-25-100-e-n-d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rh-32-100-e-n-d",
@@ -360,7 +396,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/rh-series/rh-32-100-e-n-d",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-cem-25",
@@ -386,7 +425,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/cem-series/cem-25",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-cem-45",
@@ -412,7 +454,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "MyActuator USA: In Stock, ships in 2-3 days (product page) (same badge on every product page; may not reflect live stock)",
+    "lead_time_url": "https://myactuator.us/products/cem-series/cem-45",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "myactuator-rmd-x12-p20-320-e",

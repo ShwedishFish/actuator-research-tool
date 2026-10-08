@@ -21,7 +21,10 @@
     "remarks": "Brushed 550-class motor. rated_current_a is stall current (8.5 A). No-load current 400 mA. Max output power 15 W. Body diameter 37 mm.",
     "peak_basis": "stall",
     "speed_condition": "no-load",
-    "current_condition": "stall"
+    "current_condition": "stall",
+    "lead_time": "REV Robotics: out of stock; expected restock mid-October 2026 (REV Stock Updates, best estimate)",
+    "lead_time_url": "https://www.revrobotics.com/stock/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "rev-robotics-41-1301-hd-hex-40-1-spur",
@@ -42,7 +45,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall torque 594.7 oz-in (4.2 N·m) as published. Weight includes motor. 5 mm hex output, 40 mm long. Page does not list voltage or stall current (HD Hex Motor is 12 V, 8.5 A stall per REV-41-1291). List price $34.50 (sale price shown $29.33).",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "REV Robotics: in stock; processing up to 3 business days in high-volume periods (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.revrobotics.com/rev-41-1301/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "rev-robotics-41-1300-core-hex-motor",
@@ -66,7 +73,11 @@
     "remarks": "rated_current_a is stall current (4.4 A). Weight published as 7 oz (converted). 5 mm female hex output. Encoder 4 counts/rev at motor.",
     "peak_basis": "stall",
     "speed_condition": "no-load",
-    "current_condition": "stall"
+    "current_condition": "stall",
+    "lead_time": "REV Robotics: in stock; processing up to 3 business days in high-volume periods (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.revrobotics.com/rev-41-1300/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "rev-robotics-21-1650-neo-v1-1",
@@ -90,7 +101,10 @@
     "remarks": "Brushless; needs brushless controller. Empirical stall torque 2.6 N·m, stall current 105 A (rated_current_a), free current 1.8 A, peak power 406 W. Theoretical stall 3.75 N·m / 150 A, 540 W. 473 Kv. Discontinued, replaced by NEO 2.0; list $50 (sale $42.50).",
     "peak_basis": "stall",
     "speed_condition": "no-load",
-    "current_condition": "stall"
+    "current_condition": "stall",
+    "lead_time": "REV Robotics: out of stock; no restock date listed on REV Stock Updates",
+    "lead_time_url": "https://www.revrobotics.com/rev-21-1650/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "rev-robotics-21-1653-neo-2-0",
@@ -114,7 +128,11 @@
     "remarks": "Brushless; needs brushless controller. Stall torque and stall current (rated_current_a, 150 A) are REV's theoretical values; theoretical peak power 540 W. 473 Kv. 15T spline output shaft.",
     "peak_basis": "stall",
     "speed_condition": "no-load",
-    "current_condition": "stall"
+    "current_condition": "stall",
+    "lead_time": "REV Robotics: in stock; processing up to 3 business days in high-volume periods (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.revrobotics.com/rev-21-1653/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "rev-robotics-21-1651-neo-550",
@@ -138,7 +156,11 @@
     "remarks": "Brushless; needs brushless controller. Values measured with SPARK MAX at default settings. Stall current 100 A (rated_current_a), free current 1.4 A, peak power 279 W. 917 Kv. 550-series mounting.",
     "peak_basis": "stall",
     "speed_condition": "no-load",
-    "current_condition": "stall"
+    "current_condition": "stall",
+    "lead_time": "REV Robotics: in stock; processing up to 3 business days in high-volume periods (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.revrobotics.com/rev-21-1651/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "rev-robotics-21-1652-neo-vortex",
@@ -162,6 +184,10 @@
     "remarks": "Brushless; needs brushless controller (SPARK Flex dock or Solo Adapter). Stall current 211 A (rated_current_a), free current 3.6 A, peak power 640 W (375 W at 40 A). 565 Kv. 1/2 in hex through-bore rotor.",
     "peak_basis": "stall",
     "speed_condition": "no-load",
-    "current_condition": "stall"
+    "current_condition": "stall",
+    "lead_time": "REV Robotics: in stock; processing up to 3 business days in high-volume periods (shipping policy)",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.revrobotics.com/rev-21-1652/",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

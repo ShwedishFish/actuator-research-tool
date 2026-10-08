@@ -25,7 +25,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC50",
     "source": "Enerpac en-US product specifications for RC50–RC59; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 45 kN (4.9 short ton). Max operating pressure 700 bar. Effective area advance 6.4 cm2. Models (stroke mm): RC50 16, RC51 25, RC53 79, RC55 127, RC57 177, RC59 232. Collapsed height 41-324 mm by stroke."
+    "remarks": "Max cylinder push capacity 45 kN (4.9 short ton). Max operating pressure 700 bar. Effective area advance 6.4 cm2. Models (stroke mm): RC50 16, RC51 25, RC53 79, RC55 127, RC57 177, RC59 232. Collapsed height 41-324 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-19 across RC50–RC59 (4 of 6 in stock); latest RC57",
+    "lead_time_days": 11,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC57",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -55,7 +59,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC101",
     "source": "Enerpac en-US product specifications for RC101–RC1014; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 101 kN (11.2 short ton). Max operating pressure 700 bar. Effective area advance 14.4 cm2. Models (stroke mm): RC101 26, RC102 54, RC104 105, RC106 156, RC108 203, RC1010 257, RC1012 304, RC1014 356. Collapsed height 90-451 mm by stroke."
+    "remarks": "Max cylinder push capacity 101 kN (11.2 short ton). Max operating pressure 700 bar. Effective area advance 14.4 cm2. Models (stroke mm): RC101 26, RC102 54, RC104 105, RC106 156, RC108 203, RC1010 257, RC1012 304, RC1014 356. Collapsed height 90-451 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-08 to 2026-10-29 across RC101–RC1014 (4 of 8 in stock); latest RC106",
+    "lead_time_days": 21,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC106",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -85,7 +93,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC151",
     "source": "Enerpac en-US product specifications for RC151–RC1514; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 142 kN (15.7 short ton). Max operating pressure 700 bar. Effective area advance 20.3 cm2. Models (stroke mm): RC151 25, RC152 51, RC154 101, RC156 152, RC158 203, RC1510 254, RC1512 305, RC1514 356. Collapsed height 124-475 mm by stroke."
+    "remarks": "Max cylinder push capacity 142 kN (15.7 short ton). Max operating pressure 700 bar. Effective area advance 20.3 cm2. Models (stroke mm): RC151 25, RC152 51, RC154 101, RC156 152, RC158 203, RC1510 254, RC1512 305, RC1514 356. Collapsed height 124-475 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-27 across RC151–RC1514 (3 of 8 in stock); latest RC1514",
+    "lead_time_days": 19,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC1514",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -115,7 +127,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC251",
     "source": "Enerpac en-US product specifications for RC251–RC2514; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 232 kN (25.8 short ton). Max operating pressure 700 bar. Effective area advance 33.3 cm2. Models (stroke mm): RC251 26, RC252 50, RC254 102, RC256 158, RC258 210, RC2510 261, RC2512 311, RC2514 362. Collapsed height 140-476 mm by stroke."
+    "remarks": "Max cylinder push capacity 232 kN (25.8 short ton). Max operating pressure 700 bar. Effective area advance 33.3 cm2. Models (stroke mm): RC251 26, RC252 50, RC254 102, RC256 158, RC258 210, RC2510 261, RC2512 311, RC2514 362. Collapsed height 140-476 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-08 to 2026-10-27 across RC251–RC2514 (6 of 8 in stock); latest RC258",
+    "lead_time_days": 19,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC258",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -136,7 +152,11 @@
     "mass_kg": 18.1,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC308",
     "source": "Enerpac en-US product specifications for RC308; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 295 kN (32.4 short ton). Max operating pressure 700 bar. Effective area advance 42.9 cm2. Oil capacity 880 cm3. Collapsed height 387 mm."
+    "remarks": "Max cylinder push capacity 295 kN (32.4 short ton). Max operating pressure 700 bar. Effective area advance 42.9 cm2. Oil capacity 880 cm3. Collapsed height 387 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-27",
+    "lead_time_days": 19,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC308",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -163,7 +183,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC502",
     "source": "Enerpac en-US product specifications for RC502–RC5013; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 498 kN (55.2 short ton). Max operating pressure 700 bar. Effective area advance 71.3 cm2. Models (stroke mm): RC502 51, RC504 101, RC506 159, RC5010 260, RC5013 337. Collapsed height 176-460 mm by stroke."
+    "remarks": "Max cylinder push capacity 498 kN (55.2 short ton). Max operating pressure 700 bar. Effective area advance 71.3 cm2. Models (stroke mm): RC502 51, RC504 101, RC506 159, RC5010 260, RC5013 337. Collapsed height 176-460 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-13 across RC502–RC5013 (4 of 5 in stock); latest RC504",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -187,7 +211,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC756",
     "source": "Enerpac en-US product specifications for RC756–RC7513; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 718 kN (79.5 short ton). Max operating pressure 700 bar. Effective area advance 102.6 cm2. Models (stroke mm): RC756 156, RC7513 333. Collapsed height 286-492 mm by stroke."
+    "remarks": "Max cylinder push capacity 718 kN (79.5 short ton). Max operating pressure 700 bar. Effective area advance 102.6 cm2. Models (stroke mm): RC756 156, RC7513 333. Collapsed height 286-492 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-27 across RC756–RC7513 (1 of 2 in stock); latest RC756",
+    "lead_time_days": 19,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC756",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -212,7 +240,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC1002",
     "source": "Enerpac en-US product specifications for RC1002–RC10010; series brochure RC-Series_General_Purpose_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 933 kN (103.1 short ton). Max operating pressure 700 bar. Effective area advance 133.1 cm2. Models (stroke mm): RC1002 50, RC1006 168, RC10010 260. Collapsed height 219-449 mm by stroke."
+    "remarks": "Max cylinder push capacity 933 kN (103.1 short ton). Max operating pressure 700 bar. Effective area advance 133.1 cm2. Models (stroke mm): RC1002 50, RC1006 168, RC10010 260. Collapsed height 219-449 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RC1002–RC10010 (3 of 3 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rc-series-cylinders/general-purpose-cylinder/RC1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -236,7 +268,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR1010",
     "source": "Enerpac en-US product specifications for RR1010–RR1012; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 101 kN (11.1 short ton). Max operating pressure 700 bar. Effective area advance 14.5 cm2, retract 4.8 cm2. Models (stroke mm): RR1010 254, RR1012 305. Collapsed height 409-457 mm by stroke."
+    "remarks": "Max cylinder push capacity 101 kN (11.1 short ton). Max operating pressure 700 bar. Effective area advance 14.5 cm2, retract 4.8 cm2. Models (stroke mm): RR1010 254, RR1012 305. Collapsed height 409-457 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-19 across RR1010–RR1012 (1 of 2 in stock); latest RR1012",
+    "lead_time_days": 11,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR1012",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -260,7 +296,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR308",
     "source": "Enerpac en-US product specifications for RR308–RR3014; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 295 kN (32.5 short ton). Max operating pressure 700 bar. Effective area advance 42.1 cm2, retract 19.1 cm2. Models (stroke mm): RR308 209, RR3014 368. Collapsed height 394-549 mm by stroke."
+    "remarks": "Max cylinder push capacity 295 kN (32.5 short ton). Max operating pressure 700 bar. Effective area advance 42.1 cm2, retract 19.1 cm2. Models (stroke mm): RR308 209, RR3014 368. Collapsed height 394-549 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RR308–RR3014 (2 of 2 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR308",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -285,7 +325,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR506",
     "source": "Enerpac en-US product specifications for RR506–RR5020; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 498 kN (55.3 short ton). Max operating pressure 700 bar. Effective area advance 71.2 cm2, retract 21.5 cm2. Models (stroke mm): RR506 156, RR5013 334, RR5020 511. Collapsed height 331-733 mm by stroke."
+    "remarks": "Max cylinder push capacity 498 kN (55.3 short ton). Max operating pressure 700 bar. Effective area advance 71.2 cm2, retract 21.5 cm2. Models (stroke mm): RR506 156, RR5013 334, RR5020 511. Collapsed height 331-733 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-21 across RR506–RR5020 (2 of 3 in stock); latest RR5020",
+    "lead_time_days": 13,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR5020",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -309,7 +353,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR756",
     "source": "Enerpac en-US product specifications for RR756–RR7513; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 718 kN (79.6 short ton). Max operating pressure 700 bar. Effective area advance 102.6 cm2, retract 31.4 cm2. Models (stroke mm): RR756 156, RR7513 333. Collapsed height 347-525 mm by stroke."
+    "remarks": "Max cylinder push capacity 718 kN (79.6 short ton). Max operating pressure 700 bar. Effective area advance 102.6 cm2, retract 31.4 cm2. Models (stroke mm): RR756 156, RR7513 333. Collapsed height 347-525 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-29 across RR756–RR7513 (1 of 2 in stock); latest RR7513",
+    "lead_time_days": 82,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR7513",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -334,7 +382,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR1006",
     "source": "Enerpac en-US product specifications for RR1006–RR10018; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 933 kN (103.2 short ton). Max operating pressure 700 bar. Effective area advance 133.3 cm2, retract 62.2 cm2. Models (stroke mm): RR1006 168, RR10013 333, RR10018 460. Collapsed height 357-687 mm by stroke."
+    "remarks": "Max cylinder push capacity 933 kN (103.2 short ton). Max operating pressure 700 bar. Effective area advance 133.3 cm2, retract 62.2 cm2. Models (stroke mm): RR1006 168, RR10013 333, RR10018 460. Collapsed height 357-687 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-03 across RR1006–RR10018 (2 of 3 in stock); latest RR1006",
+    "lead_time_days": 26,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR1006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -360,7 +412,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR1502",
     "source": "Enerpac en-US product specifications for RR1502–RR15032; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 1386 kN (153.5 short ton). Max operating pressure 700 bar. Effective area advance 198.1 cm2, retract 95.4 cm2. Models (stroke mm): RR1502 57, RR1506 156, RR15013 333, RR15032 815. Collapsed height 183-1116 mm by stroke."
+    "remarks": "Max cylinder push capacity 1386 kN (153.5 short ton). Max operating pressure 700 bar. Effective area advance 198.1 cm2, retract 95.4 cm2. Models (stroke mm): RR1502 57, RR1506 156, RR15013 333, RR15032 815. Collapsed height 183-1116 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-17 across RR1502–RR15032 (3 of 4 in stock); latest RR15032",
+    "lead_time_days": 40,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR15032",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -388,7 +444,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR2006",
     "source": "Enerpac en-US product specifications for RR2006–RR20048; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 1995 kN (221 short ton). Max operating pressure 700 bar. Effective area advance 285.0 cm2, retract 145.3 cm2. Models (stroke mm): RR2006 152, RR20013 330, RR20018 457, RR20024 610, RR20036 914, RR20048 1219. Collapsed height 430-1527 mm by stroke."
+    "remarks": "Max cylinder push capacity 1995 kN (221 short ton). Max operating pressure 700 bar. Effective area advance 285.0 cm2, retract 145.3 cm2. Models (stroke mm): RR2006 152, RR20013 330, RR20018 457, RR20024 610, RR20036 914, RR20048 1219. Collapsed height 430-1527 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-03-30 across RR2006–RR20048 (1 of 6 in stock); latest RR20024",
+    "lead_time_days": 173,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR20024",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -416,7 +476,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR3006",
     "source": "Enerpac en-US product specifications for RR3006–RR30048; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 3201 kN (354.6 short ton). Max operating pressure 700 bar. Effective area advance 457.3 cm2, retract 243.2 cm2. Models (stroke mm): RR3006 153, RR30012 305, RR30018 457, RR30024 609, RR30036 915, RR30048 1219. Collapsed height 485-1552 mm by stroke."
+    "remarks": "Max cylinder push capacity 3201 kN (354.6 short ton). Max operating pressure 700 bar. Effective area advance 457.3 cm2, retract 243.2 cm2. Models (stroke mm): RR3006 153, RR30012 305, RR30018 457, RR30024 609, RR30036 915, RR30048 1219. Collapsed height 485-1552 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-30 to 2027-04-15 across RR3006–RR30048 (0 of 6 in stock); latest RR30036",
+    "lead_time_days": 189,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR30036",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -443,7 +507,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR4006",
     "source": "Enerpac en-US product specifications for RR4006–RR40048; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 4292 kN (475.4 short ton). Max operating pressure 700 bar. Effective area advance 613.1 cm2, retract 328.1 cm2. Models (stroke mm): RR4006 152, RR40012 305, RR40018 457, RR40024 610, RR40048 1219. Collapsed height 538-1605 mm by stroke."
+    "remarks": "Max cylinder push capacity 4292 kN (475.4 short ton). Max operating pressure 700 bar. Effective area advance 613.1 cm2, retract 328.1 cm2. Models (stroke mm): RR4006 152, RR40012 305, RR40018 457, RR40024 610, RR40048 1219. Collapsed height 538-1605 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-12-21 to 2029-08-01 across RR4006–RR40048 (0 of 5 in stock); latest RR40048",
+    "lead_time_days": 1028,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR40048",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -470,7 +538,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR5006",
     "source": "Enerpac en-US product specifications for RR5006–RR50048; series brochure RR-Series_Cylinders_Double-Acting_Long_Stroke_EN-US",
-    "remarks": "Max cylinder push capacity 5108 kN (565.7 short ton). Max operating pressure 700 bar. Effective area advance 729.7 cm2, retract 405.4 cm2. Models (stroke mm): RR5006 153, RR50012 305, RR50018 457, RR50024 609, RR50048 1219. Collapsed height 577-1644 mm by stroke."
+    "remarks": "Max cylinder push capacity 5108 kN (565.7 short ton). Max operating pressure 700 bar. Effective area advance 729.7 cm2, retract 405.4 cm2. Models (stroke mm): RR5006 153, RR50012 305, RR50018 457, RR50024 609, RR50048 1219. Collapsed height 577-1644 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-30 to 2027-01-14 across RR5006–RR50048 (0 of 5 in stock); latest RR50048",
+    "lead_time_days": 98,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RR50048",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -495,7 +567,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH120",
     "source": "Enerpac en-US product specifications for RCH120–RCH123; series brochure RCH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 125 kN (13.8 short ton). Max operating pressure 700 bar. Effective area advance 17.9 cm2. Hollow plunger, center hole 19.5 mm; effective area is less than full bore area. Models (stroke mm): RCH120 8, RCH121 42, RCH1211 42, RCH123 76. Collapsed height 55-184 mm by stroke."
+    "remarks": "Max cylinder push capacity 125 kN (13.8 short ton). Max operating pressure 700 bar. Effective area advance 17.9 cm2. Hollow plunger, center hole 19.5 mm; effective area is less than full bore area. Models (stroke mm): RCH120 8, RCH121 42, RCH1211 42, RCH123 76. Collapsed height 55-184 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-08 to 2026-10-09 across RCH120–RCH123 (3 of 4 in stock); latest RCH120",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH120",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -519,7 +595,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH202",
     "source": "Enerpac en-US product specifications for RCH202–RCH206; series brochure RCH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 215 kN (23.6 short ton). Max operating pressure 700 bar. Effective area advance 30.7 cm2. Hollow plunger, center hole 26.9 mm; effective area is less than full bore area. Models (stroke mm): RCH202 49, RCH206 155. Collapsed height 162-306 mm by stroke."
+    "remarks": "Max cylinder push capacity 215 kN (23.6 short ton). Max operating pressure 700 bar. Effective area advance 30.7 cm2. Hollow plunger, center hole 26.9 mm; effective area is less than full bore area. Models (stroke mm): RCH202 49, RCH206 155. Collapsed height 162-306 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-28 across RCH202–RCH206 (1 of 2 in stock); latest RCH206",
+    "lead_time_days": 20,
+    "lead_time_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH206",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -543,7 +623,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH302",
     "source": "Enerpac en-US product specifications for RCH302–RCH306; series brochure RCH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 326 kN (36.1 short ton). Max operating pressure 700 bar. Effective area advance 46.6 cm2. Hollow plunger, center hole 33.3 mm; effective area is less than full bore area. Models (stroke mm): RCH302 64, RCH306 155. Collapsed height 178-330 mm by stroke."
+    "remarks": "Max cylinder push capacity 326 kN (36.1 short ton). Max operating pressure 700 bar. Effective area advance 46.6 cm2. Hollow plunger, center hole 33.3 mm; effective area is less than full bore area. Models (stroke mm): RCH302 64, RCH306 155. Collapsed height 178-330 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RCH302–RCH306 (2 of 2 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH302",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -567,7 +651,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH603",
     "source": "Enerpac en-US product specifications for RCH603–RCH606; series brochure RCH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 576 kN (63.6 short ton). Max operating pressure 700 bar. Effective area advance 82.3 cm2. Hollow plunger, center hole 53.8 mm; effective area is less than full bore area. Models (stroke mm): RCH603 76, RCH606 153. Collapsed height 247-323 mm by stroke."
+    "remarks": "Max cylinder push capacity 576 kN (63.6 short ton). Max operating pressure 700 bar. Effective area advance 82.3 cm2. Hollow plunger, center hole 53.8 mm; effective area is less than full bore area. Models (stroke mm): RCH603 76, RCH606 153. Collapsed height 247-323 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RCH603–RCH606 (2 of 2 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH603",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -588,7 +676,11 @@
     "mass_kg": 63.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH1003",
     "source": "Enerpac en-US product specifications for RCH1003; series brochure RCH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 931 kN (103.1 short ton). Max operating pressure 700 bar. Effective area advance 133.0 cm2. Hollow plunger, center hole 79.0 mm; effective area is less than full bore area. Oil capacity 1011 cm3. Collapsed height 254 mm."
+    "remarks": "Max cylinder push capacity 931 kN (103.1 short ton). Max operating pressure 700 bar. Effective area advance 133.0 cm2. Hollow plunger, center hole 79.0 mm; effective area is less than full bore area. Oil capacity 1011 cm3. Collapsed height 254 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rch-series-cylinders/hollow-plunger-cylinder/RCH1003",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -612,7 +704,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH307",
     "source": "Enerpac en-US product specifications for RRH307–RRH3010; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 326 kN (36 short ton). Max operating pressure 700 bar. Effective area advance 46.6 cm2, retract 30.4 cm2. Hollow plunger, center hole 33.3 mm; effective area is less than full bore area. Models (stroke mm): RRH307 178, RRH3010 258. Collapsed height 330-431 mm by stroke."
+    "remarks": "Max cylinder push capacity 326 kN (36 short ton). Max operating pressure 700 bar. Effective area advance 46.6 cm2, retract 30.4 cm2. Hollow plunger, center hole 33.3 mm; effective area is less than full bore area. Models (stroke mm): RRH307 178, RRH3010 258. Collapsed height 330-431 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RRH307–RRH3010 (2 of 2 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH307",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -637,7 +733,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH603",
     "source": "Enerpac en-US product specifications for RRH603–RRH6010; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 576 kN (64 short ton). Max operating pressure 700 bar. Effective area advance 82.3 cm2, retract 54.2 cm2. Hollow plunger, center hole 53.8 mm; effective area is less than full bore area. Models (stroke mm): RRH603 89, RRH606 166, RRH6010 257. Collapsed height 247-438 mm by stroke."
+    "remarks": "Max cylinder push capacity 576 kN (64 short ton). Max operating pressure 700 bar. Effective area advance 82.3 cm2, retract 54.2 cm2. Hollow plunger, center hole 53.8 mm; effective area is less than full bore area. Models (stroke mm): RRH603 89, RRH606 166, RRH6010 257. Collapsed height 247-438 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RRH603–RRH6010 (3 of 3 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH603",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -663,7 +763,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH1001",
     "source": "Enerpac en-US product specifications for RRH1001–RRH10010; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 931 kN (103 short ton). Max operating pressure 700 bar. Effective area advance 133.0 cm2, retract 87.4 cm2. Hollow plunger, center hole 79.2 mm; effective area is less than full bore area. Models (stroke mm): RRH1001 38, RRH1003 76, RRH1006 153, RRH10010 257. Collapsed height 165-460 mm by stroke."
+    "remarks": "Max cylinder push capacity 931 kN (103 short ton). Max operating pressure 700 bar. Effective area advance 133.0 cm2, retract 87.4 cm2. Hollow plunger, center hole 79.2 mm; effective area is less than full bore area. Models (stroke mm): RRH1001 38, RRH1003 76, RRH1006 153, RRH10010 257. Collapsed height 165-460 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-03-23 across RRH1001–RRH10010 (3 of 4 in stock); latest RRH10010",
+    "lead_time_days": 166,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH10010",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -684,7 +788,11 @@
     "mass_kg": 111.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH1508",
     "source": "Enerpac en-US product specifications for RRH1508; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1429 kN (158 short ton). Max operating pressure 700 bar. Effective area advance 204.1 cm2, retract 102.6 cm2. Hollow plunger, center hole 79.2 mm; effective area is less than full bore area. Oil capacity 4144 cm3. Collapsed height 349 mm."
+    "remarks": "Max cylinder push capacity 1429 kN (158 short ton). Max operating pressure 700 bar. Effective area advance 204.1 cm2, retract 102.6 cm2. Hollow plunger, center hole 79.2 mm; effective area is less than full bore area. Oil capacity 4144 cm3. Collapsed height 349 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-03-31",
+    "lead_time_days": 174,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH1508",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -705,7 +813,11 @@
     "mass_kg": 190.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH2308",
     "source": "Enerpac en-US product specifications for RRH2308; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2164 kN (243 short ton). Max operating pressure 700 bar. Effective area advance 309.3 cm2, retract 138.2 cm2. Hollow plunger, center hole 105.0 mm; effective area is less than full bore area. Oil capacity 6185 cm3. Collapsed height 431 mm."
+    "remarks": "Max cylinder push capacity 2164 kN (243 short ton). Max operating pressure 700 bar. Effective area advance 309.3 cm2, retract 138.2 cm2. Hollow plunger, center hole 105.0 mm; effective area is less than full bore area. Oil capacity 6185 cm3. Collapsed height 431 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-01-22",
+    "lead_time_days": 106,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH2308",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -726,7 +838,11 @@
     "mass_kg": 383.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH4008",
     "source": "Enerpac en-US product specifications for RRH4008; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 4036 kN (453 short ton). Max operating pressure 700 bar. Effective area advance 576.7 cm2, retract 239.7 cm2. Hollow plunger, center hole 110.0 mm; effective area is less than full bore area. Oil capacity 11534 cm3. Collapsed height 486 mm."
+    "remarks": "Max cylinder push capacity 4036 kN (453 short ton). Max operating pressure 700 bar. Effective area advance 576.7 cm2, retract 239.7 cm2. Hollow plunger, center hole 110.0 mm; effective area is less than full bore area. Oil capacity 11534 cm3. Collapsed height 486 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-01-22",
+    "lead_time_days": 106,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH4008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -747,7 +863,11 @@
     "mass_kg": 611.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH6008",
     "source": "Enerpac en-US product specifications for RRH6008; series brochure RRH-Series_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5937 kN (667 short ton). Max operating pressure 700 bar. Effective area advance 848.2 cm2, retract 271.0 cm2. Hollow plunger, center hole 135.0 mm; effective area is less than full bore area. Oil capacity 16964 cm3. Collapsed height 525 mm."
+    "remarks": "Max cylinder push capacity 5937 kN (667 short ton). Max operating pressure 700 bar. Effective area advance 848.2 cm2, retract 271.0 cm2. Hollow plunger, center hole 135.0 mm; effective area is less than full bore area. Oil capacity 16964 cm3. Collapsed height 525 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-12-04",
+    "lead_time_days": 57,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/hollow-plunger-cylinder/RRH6008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -774,7 +894,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH202",
     "source": "Enerpac en-US product specifications for RACH202–RACH2010; series brochure RACH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 229 kN (25.4 short ton). Max operating pressure 700 bar. Effective area advance 32.7 cm2. Hollow plunger, center hole 27 mm; effective area is less than full bore area. Models (stroke mm): RACH202 50, RACH204 100, RACH206 150, RACH208 200, RACH2010 250. Collapsed height 188-442 mm by stroke."
+    "remarks": "Max cylinder push capacity 229 kN (25.4 short ton). Max operating pressure 700 bar. Effective area advance 32.7 cm2. Hollow plunger, center hole 27 mm; effective area is less than full bore area. Models (stroke mm): RACH202 50, RACH204 100, RACH206 150, RACH208 200, RACH2010 250. Collapsed height 188-442 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RACH202–RACH2010 (5 of 5 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH202",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -801,7 +925,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH302",
     "source": "Enerpac en-US product specifications for RACH302–RACH3010; series brochure RACH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 358 kN (39.6 short ton). Max operating pressure 700 bar. Effective area advance 51.1 cm2. Hollow plunger, center hole 34 mm; effective area is less than full bore area. Models (stroke mm): RACH302 50, RACH304 100, RACH306 150, RACH308 200, RACH3010 250. Collapsed height 208-458 mm by stroke."
+    "remarks": "Max cylinder push capacity 358 kN (39.6 short ton). Max operating pressure 700 bar. Effective area advance 51.1 cm2. Hollow plunger, center hole 34 mm; effective area is less than full bore area. Models (stroke mm): RACH302 50, RACH304 100, RACH306 150, RACH308 200, RACH3010 250. Collapsed height 208-458 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-04-16 across RACH302–RACH3010 (3 of 5 in stock); latest RACH308",
+    "lead_time_days": 190,
+    "lead_time_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH308",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -828,7 +956,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH602",
     "source": "Enerpac en-US product specifications for RACH602–RACH6010; series brochure RACH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 596 kN (65.6 short ton). Max operating pressure 700 bar. Effective area advance 84.7 cm2. Hollow plunger, center hole 54 mm; effective area is less than full bore area. Models (stroke mm): RACH602 50, RACH604 100, RACH606 150, RACH608 200, RACH6010 250. Collapsed height 251-510 mm by stroke."
+    "remarks": "Max cylinder push capacity 596 kN (65.6 short ton). Max operating pressure 700 bar. Effective area advance 84.7 cm2. Hollow plunger, center hole 54 mm; effective area is less than full bore area. Models (stroke mm): RACH602 50, RACH604 100, RACH606 150, RACH608 200, RACH6010 250. Collapsed height 251-510 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RACH602–RACH6010 (5 of 5 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH602",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -855,7 +987,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH1002",
     "source": "Enerpac en-US product specifications for RACH1002–RACH10010; series brochure RACH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1157 kN (127.5 short ton). Max operating pressure 700 bar. Effective area advance 164.6 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RACH1002 50, RACH1004 100, RACH1006 150, RACH1008 200, RACH10010 250. Collapsed height 258-527 mm by stroke."
+    "remarks": "Max cylinder push capacity 1157 kN (127.5 short ton). Max operating pressure 700 bar. Effective area advance 164.6 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RACH1002 50, RACH1004 100, RACH1006 150, RACH1008 200, RACH10010 250. Collapsed height 258-527 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-08 across RACH1002–RACH10010 (2 of 5 in stock); latest RACH1006",
+    "lead_time_days": 61,
+    "lead_time_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH1006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -882,7 +1018,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH1502",
     "source": "Enerpac en-US product specifications for RACH1502–RACH15010; series brochure RACH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1588 kN (175 short ton). Max operating pressure 700 bar. Effective area advance 225.8 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RACH1502 50, RACH1504 100, RACH1506 150, RACH1508 200, RACH15010 250. Collapsed height 280-570 mm by stroke."
+    "remarks": "Max cylinder push capacity 1588 kN (175 short ton). Max operating pressure 700 bar. Effective area advance 225.8 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RACH1502 50, RACH1504 100, RACH1506 150, RACH1508 200, RACH15010 250. Collapsed height 280-570 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-12 to 2027-05-28 across RACH1502–RACH15010 (0 of 5 in stock); latest RACH1504",
+    "lead_time_days": 232,
+    "lead_time_url": "https://www.enerpac.com/en-us/rach-series-cylinders/aluminum-hollow-plunger-cylinder/RACH1504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -907,7 +1047,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH302",
     "source": "Enerpac en-US product specifications for RARH302–RARH3010; series brochure RARH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 359 kN (40.3 short ton). Max operating pressure 700 bar. Effective area advance 51.2 cm2, retract 26.7 cm2. Hollow plunger, center hole 34 mm; effective area is less than full bore area. Models (stroke mm): RARH302 50, RARH306 150, RARH3010 250. Collapsed height 209-409 mm by stroke."
+    "remarks": "Max cylinder push capacity 359 kN (40.3 short ton). Max operating pressure 700 bar. Effective area advance 51.2 cm2, retract 26.7 cm2. Hollow plunger, center hole 34 mm; effective area is less than full bore area. Models (stroke mm): RARH302 50, RARH306 150, RARH3010 250. Collapsed height 209-409 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-16 across RARH302–RARH3010 (1 of 3 in stock); latest RARH306",
+    "lead_time_days": 131,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH306",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -932,7 +1076,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH602",
     "source": "Enerpac en-US product specifications for RARH602–RARH6010; series brochure RARH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 595 kN (66.81 short ton). Max operating pressure 700 bar. Effective area advance 84.9 cm2, retract 37.7 cm2. Hollow plunger, center hole 54 mm; effective area is less than full bore area. Models (stroke mm): RARH602 50, RARH606 150, RARH6010 250. Collapsed height 246-446 mm by stroke."
+    "remarks": "Max cylinder push capacity 595 kN (66.81 short ton). Max operating pressure 700 bar. Effective area advance 84.9 cm2, retract 37.7 cm2. Hollow plunger, center hole 54 mm; effective area is less than full bore area. Models (stroke mm): RARH602 50, RARH606 150, RARH6010 250. Collapsed height 246-446 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-05-14 across RARH602–RARH6010 (1 of 3 in stock); latest RARH602",
+    "lead_time_days": 218,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH602",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -957,7 +1105,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH1002",
     "source": "Enerpac en-US product specifications for RARH1002–RARH10010; series brochure RARH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1001 kN (112.4 short ton). Max operating pressure 700 bar. Effective area advance 142.9 cm2, retract 81.1 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RARH1002 50, RARH1006 150, RARH10010 250. Collapsed height 254-454 mm by stroke."
+    "remarks": "Max cylinder push capacity 1001 kN (112.4 short ton). Max operating pressure 700 bar. Effective area advance 142.9 cm2, retract 81.1 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RARH1002 50, RARH1006 150, RARH10010 250. Collapsed height 254-454 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-10 across RARH1002–RARH10010 (2 of 3 in stock); latest RARH1002",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -982,7 +1134,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH1502",
     "source": "Enerpac en-US product specifications for RARH1502–RARH15010; series brochure RARH-Series_Lightweight_Hollow_Plunger_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1489 kN (167.2 short ton). Max operating pressure 700 bar. Effective area advance 212.6 cm2, retract 106.8 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RARH1502 50, RARH1506 150, RARH15010 250. Collapsed height 264-464 mm by stroke."
+    "remarks": "Max cylinder push capacity 1489 kN (167.2 short ton). Max operating pressure 700 bar. Effective area advance 212.6 cm2, retract 106.8 cm2. Hollow plunger, center hole 79 mm; effective area is less than full bore area. Models (stroke mm): RARH1502 50, RARH1506 150, RARH15010 250. Collapsed height 264-464 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-06-11 across RARH1502–RARH15010 (1 of 3 in stock); latest RARH15010",
+    "lead_time_days": 246,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-hollow-plunger-cylinder/RARH15010",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1010,7 +1166,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG502",
     "source": "Enerpac en-US product specifications for HCG502–HCG5012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 550 kN (62 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Models (stroke mm): HCG502 50, HCG504 100, HCG506 150, HCG508 200, HCG5010 250, HCG5012 300. Collapsed height 183-446 mm by stroke."
+    "remarks": "Max cylinder push capacity 550 kN (62 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Models (stroke mm): HCG502 50, HCG504 100, HCG506 150, HCG508 200, HCG5010 250, HCG5012 300. Collapsed height 183-446 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCG502–HCG5012 (3 of 6 in stock); latest HCG5012",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG5012",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1038,7 +1198,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG1002",
     "source": "Enerpac en-US product specifications for HCG1002–HCG10012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1002 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): HCG1002 50, HCG1004 100, HCG1006 150, HCG1008 200, HCG10010 250, HCG10012 300. Collapsed height 202-479 mm by stroke."
+    "remarks": "Max cylinder push capacity 1002 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): HCG1002 50, HCG1004 100, HCG1006 150, HCG1008 200, HCG10010 250, HCG10012 300. Collapsed height 202-479 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCG1002–HCG10012 (3 of 6 in stock); latest HCG1002",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1066,7 +1230,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG1502",
     "source": "Enerpac en-US product specifications for HCG1502–HCG15012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1497 kN (168 short ton). Max operating pressure 700 bar. Effective area advance 213.8 cm2. Models (stroke mm): HCG1502 50, HCG1504 100, HCG1506 150, HCG1508 200, HCG15010 250, HCG15012 300. Collapsed height 220-497 mm by stroke."
+    "remarks": "Max cylinder push capacity 1497 kN (168 short ton). Max operating pressure 700 bar. Effective area advance 213.8 cm2. Models (stroke mm): HCG1502 50, HCG1504 100, HCG1506 150, HCG1508 200, HCG15010 250, HCG15012 300. Collapsed height 220-497 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCG1502–HCG15012 (1 of 6 in stock); latest HCG1504",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG1504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1094,7 +1262,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG2002",
     "source": "Enerpac en-US product specifications for HCG2002–HCG20012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1985 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 283.5 cm2. Models (stroke mm): HCG2002 50, HCG2004 100, HCG2006 150, HCG2008 200, HCG20010 250, HCG20012 300. Collapsed height 231-508 mm by stroke."
+    "remarks": "Max cylinder push capacity 1985 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 283.5 cm2. Models (stroke mm): HCG2002 50, HCG2004 100, HCG2006 150, HCG2008 200, HCG20010 250, HCG20012 300. Collapsed height 231-508 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCG2002–HCG20012 (2 of 6 in stock); latest HCG2002",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG2002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1122,7 +1294,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG2502",
     "source": "Enerpac en-US product specifications for HCG2502–HCG25012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2541 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Models (stroke mm): HCG2502 50, HCG2504 100, HCG2506 150, HCG2508 200, HCG25010 250, HCG25012 300. Collapsed height 241-531 mm by stroke."
+    "remarks": "Max cylinder push capacity 2541 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Models (stroke mm): HCG2502 50, HCG2504 100, HCG2506 150, HCG2508 200, HCG25010 250, HCG25012 300. Collapsed height 241-531 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-10 to 2027-01-08 across HCG2502–HCG25012 (0 of 6 in stock); latest HCG2504",
+    "lead_time_days": 92,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG2504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1150,7 +1326,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG3002",
     "source": "Enerpac en-US product specifications for HCG3002–HCG30012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 3036 kN (341 short ton). Max operating pressure 700 bar. Effective area advance 433.7 cm2. Models (stroke mm): HCG3002 50, HCG3004 100, HCG3006 150, HCG3008 200, HCG30010 250, HCG30012 300. Collapsed height 296-546 mm by stroke."
+    "remarks": "Max cylinder push capacity 3036 kN (341 short ton). Max operating pressure 700 bar. Effective area advance 433.7 cm2. Models (stroke mm): HCG3002 50, HCG3004 100, HCG3006 150, HCG3008 200, HCG30010 250, HCG30012 300. Collapsed height 296-546 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-02 to 2026-11-24 across HCG3002–HCG30012 (0 of 6 in stock); latest HCG3002",
+    "lead_time_days": 47,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG3002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1178,7 +1358,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG4002",
     "source": "Enerpac en-US product specifications for HCG4002–HCG40012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 4008 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Models (stroke mm): HCG4002 50, HCG4004 100, HCG4006 150, HCG4008 200, HCG40010 250, HCG40012 300. Collapsed height 321-571 mm by stroke."
+    "remarks": "Max cylinder push capacity 4008 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Models (stroke mm): HCG4002 50, HCG4004 100, HCG4006 150, HCG4008 200, HCG40010 250, HCG40012 300. Collapsed height 321-571 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-02 to 2026-11-23 across HCG4002–HCG40012 (0 of 6 in stock); latest HCG4006",
+    "lead_time_days": 46,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG4006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1206,7 +1390,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG5002",
     "source": "Enerpac en-US product specifications for HCG5002–HCG50012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Models (stroke mm): HCG5002 50, HCG5004 100, HCG5006 150, HCG5008 200, HCG50010 250, HCG50012 300. Collapsed height 344-594 mm by stroke."
+    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Models (stroke mm): HCG5002 50, HCG5004 100, HCG5006 150, HCG5008 200, HCG50010 250, HCG50012 300. Collapsed height 344-594 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2027-05-06 across HCG5002–HCG50012 (0 of 6 in stock)",
+    "lead_time_days": 210,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG5002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1234,7 +1422,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG6002",
     "source": "Enerpac en-US product specifications for HCG6002–HCG60012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5987 kN (673 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Models (stroke mm): HCG6002 50, HCG6004 100, HCG6006 150, HCG6008 200, HCG60010 250, HCG60012 300. Collapsed height 352-602 mm by stroke."
+    "remarks": "Max cylinder push capacity 5987 kN (673 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Models (stroke mm): HCG6002 50, HCG6004 100, HCG6006 150, HCG6008 200, HCG60010 250, HCG60012 300. Collapsed height 352-602 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-12 across HCG6002–HCG60012 (0 of 6 in stock)",
+    "lead_time_days": 35,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG6002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1262,7 +1454,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG8002",
     "source": "Enerpac en-US product specifications for HCG8002–HCG80012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 8149 kN (916 short ton). Max operating pressure 700 bar. Effective area advance 1164.2 cm2. Models (stroke mm): HCG8002 50, HCG8004 100, HCG8006 150, HCG8008 200, HCG80010 250, HCG80012 300. Collapsed height 404-654 mm by stroke."
+    "remarks": "Max cylinder push capacity 8149 kN (916 short ton). Max operating pressure 700 bar. Effective area advance 1164.2 cm2. Models (stroke mm): HCG8002 50, HCG8004 100, HCG8006 150, HCG8008 200, HCG80010 250, HCG80012 300. Collapsed height 404-654 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-12 to 2026-11-23 across HCG8002–HCG80012 (0 of 6 in stock); latest HCG8006",
+    "lead_time_days": 46,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG8006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1290,7 +1486,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG10002",
     "source": "Enerpac en-US product specifications for HCG10002–HCG100012; series brochure HCG-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 10644 kN (1196 short ton). Max operating pressure 700 bar. Effective area advance 1520.5 cm2. Models (stroke mm): HCG10002 50, HCG10004 100, HCG10006 150, HCG10008 200, HCG100010 250, HCG100012 300. Collapsed height 442-692 mm by stroke."
+    "remarks": "Max cylinder push capacity 10644 kN (1196 short ton). Max operating pressure 700 bar. Effective area advance 1520.5 cm2. Models (stroke mm): HCG10002 50, HCG10004 100, HCG10006 150, HCG10008 200, HCG100010 250, HCG100012 300. Collapsed height 442-692 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2027-02-12 to 2027-02-19 across HCG10002–HCG100012 (0 of 6 in stock); latest HCG10008",
+    "lead_time_days": 134,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcg-series-cylinders/high-tonnage-cylinder/HCG10008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1318,7 +1518,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR502",
     "source": "Enerpac en-US product specifications for HCR502–HCR5012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 550 kN (62 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Models (stroke mm): HCR502 50, HCR504 100, HCR506 150, HCR508 200, HCR5010 250, HCR5012 300. Collapsed height 183-446 mm by stroke."
+    "remarks": "Max cylinder push capacity 550 kN (62 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Models (stroke mm): HCR502 50, HCR504 100, HCR506 150, HCR508 200, HCR5010 250, HCR5012 300. Collapsed height 183-446 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCR502–HCR5012 (4 of 6 in stock); latest HCR508",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR508",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1346,7 +1550,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR1002",
     "source": "Enerpac en-US product specifications for HCR1002–HCR10012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1002 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): HCR1002 50, HCR1004 100, HCR1006 150, HCR1008 200, HCR10010 250, HCR10012 300. Collapsed height 202-479 mm by stroke."
+    "remarks": "Max cylinder push capacity 1002 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): HCR1002 50, HCR1004 100, HCR1006 150, HCR1008 200, HCR10010 250, HCR10012 300. Collapsed height 202-479 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-13 across HCR1002–HCR10012 (4 of 6 in stock); latest HCR1002",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1374,7 +1582,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR1502",
     "source": "Enerpac en-US product specifications for HCR1502–HCR15012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1497 kN (168 short ton). Max operating pressure 700 bar. Effective area advance 213.8 cm2. Models (stroke mm): HCR1502 50, HCR1504 100, HCR1506 150, HCR1508 200, HCR15010 250, HCR15012 300. Collapsed height 220-497 mm by stroke."
+    "remarks": "Max cylinder push capacity 1497 kN (168 short ton). Max operating pressure 700 bar. Effective area advance 213.8 cm2. Models (stroke mm): HCR1502 50, HCR1504 100, HCR1506 150, HCR1508 200, HCR15010 250, HCR15012 300. Collapsed height 220-497 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCR1502–HCR15012 (4 of 6 in stock); latest HCR1508",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR1508",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1402,7 +1614,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR2002",
     "source": "Enerpac en-US product specifications for HCR2002–HCR20012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1985 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 283.5 cm2. Models (stroke mm): HCR2002 50, HCR2004 100, HCR2006 150, HCR2008 200, HCR20010 250, HCR20012 300. Collapsed height 231-508 mm by stroke."
+    "remarks": "Max cylinder push capacity 1985 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 283.5 cm2. Models (stroke mm): HCR2002 50, HCR2004 100, HCR2006 150, HCR2008 200, HCR20010 250, HCR20012 300. Collapsed height 231-508 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-03-23 across HCR2002–HCR20012 (2 of 6 in stock); latest HCR2008",
+    "lead_time_days": 166,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR2008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1430,7 +1646,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR2502",
     "source": "Enerpac en-US product specifications for HCR2502–HCR25012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2541 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Models (stroke mm): HCR2502 50, HCR2504 100, HCR2506 150, HCR2508 200, HCR25010 250, HCR25012 300. Collapsed height 241-531 mm by stroke."
+    "remarks": "Max cylinder push capacity 2541 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Models (stroke mm): HCR2502 50, HCR2504 100, HCR2506 150, HCR2508 200, HCR25010 250, HCR25012 300. Collapsed height 241-531 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-29 across HCR2502–HCR25012 (1 of 6 in stock); latest HCR2504",
+    "lead_time_days": 82,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR2504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1458,7 +1678,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR3002",
     "source": "Enerpac en-US product specifications for HCR3002–HCR30012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 3036 kN (341 short ton). Max operating pressure 700 bar. Effective area advance 433.7 cm2. Models (stroke mm): HCR3002 50, HCR3004 100, HCR3006 150, HCR3008 200, HCR30010 250, HCR30012 300. Collapsed height 296-546 mm by stroke."
+    "remarks": "Max cylinder push capacity 3036 kN (341 short ton). Max operating pressure 700 bar. Effective area advance 433.7 cm2. Models (stroke mm): HCR3002 50, HCR3004 100, HCR3006 150, HCR3008 200, HCR30010 250, HCR30012 300. Collapsed height 296-546 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-02 to 2026-12-28 across HCR3002–HCR30012 (0 of 6 in stock); latest HCR3002",
+    "lead_time_days": 81,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR3002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1486,7 +1710,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR4002",
     "source": "Enerpac en-US product specifications for HCR4002–HCR40012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 4008 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Models (stroke mm): HCR4002 50, HCR4004 100, HCR4006 150, HCR4008 200, HCR40010 250, HCR40012 300. Collapsed height 321-571 mm by stroke."
+    "remarks": "Max cylinder push capacity 4008 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Models (stroke mm): HCR4002 50, HCR4004 100, HCR4006 150, HCR4008 200, HCR40010 250, HCR40012 300. Collapsed height 321-571 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-20 to 2027-01-21 across HCR4002–HCR40012 (0 of 6 in stock); latest HCR4004",
+    "lead_time_days": 105,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR4004",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1514,7 +1742,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR5002",
     "source": "Enerpac en-US product specifications for HCR5002–HCR50012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Models (stroke mm): HCR5002 50, HCR5004 100, HCR5006 150, HCR5008 200, HCR50010 250, HCR50012 300. Collapsed height 344-594 mm by stroke."
+    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Models (stroke mm): HCR5002 50, HCR5004 100, HCR5006 150, HCR5008 200, HCR50010 250, HCR50012 300. Collapsed height 344-594 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-24 across HCR5002–HCR50012 (1 of 6 in stock); latest HCR5008",
+    "lead_time_days": 47,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR5008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1542,7 +1774,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR6002",
     "source": "Enerpac en-US product specifications for HCR6002–HCR60012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5987 kN (673 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Models (stroke mm): HCR6002 50, HCR6004 100, HCR6006 150, HCR6008 200, HCR60010 250, HCR60012 300. Collapsed height 352-602 mm by stroke."
+    "remarks": "Max cylinder push capacity 5987 kN (673 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Models (stroke mm): HCR6002 50, HCR6004 100, HCR6006 150, HCR6008 200, HCR60010 250, HCR60012 300. Collapsed height 352-602 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-02 across HCR6002–HCR60012 (0 of 6 in stock)",
+    "lead_time_days": 25,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR6002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1569,7 +1805,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR8002",
     "source": "Enerpac en-US product specifications for HCR8002–HCR80012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 8149 kN (916 short ton). Max operating pressure 700 bar. Effective area advance 1164.2 cm2. Models (stroke mm): HCR8002 50, HCR8004 100, HCR8008 200, HCR80010 250, HCR80012 300. Collapsed height 404-654 mm by stroke."
+    "remarks": "Max cylinder push capacity 8149 kN (916 short ton). Max operating pressure 700 bar. Effective area advance 1164.2 cm2. Models (stroke mm): HCR8002 50, HCR8004 100, HCR8008 200, HCR80010 250, HCR80012 300. Collapsed height 404-654 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2027-01-07 across HCR8002–HCR80012 (0 of 5 in stock)",
+    "lead_time_days": 91,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR8002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1597,7 +1837,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR10002",
     "source": "Enerpac en-US product specifications for HCR10002–HCR100012; series brochure HCR-Series_High-Tonnage_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 10644 kN (1196 short ton). Max operating pressure 700 bar. Effective area advance 1520.5 cm2. Models (stroke mm): HCR10002 50, HCR10004 100, HCR10006 150, HCR10008 200, HCR100010 250, HCR100012 300. Collapsed height 442-692 mm by stroke."
+    "remarks": "Max cylinder push capacity 10644 kN (1196 short ton). Max operating pressure 700 bar. Effective area advance 1520.5 cm2. Models (stroke mm): HCR10002 50, HCR10004 100, HCR10006 150, HCR10008 200, HCR100010 250, HCR100012 300. Collapsed height 442-692 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2027-02-12 to 2027-03-18 across HCR10002–HCR100012 (0 of 6 in stock); latest HCR10006",
+    "lead_time_days": 161,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-cylinder/HCR10006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1624,7 +1868,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL502",
     "source": "Enerpac en-US product specifications for HCL502–HCL5012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 550 kN (62 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Models (stroke mm): HCL502 50, HCL504 100, HCL506 150, HCL508 200, HCL5010 250, HCL5012 300. Collapsed height 164-414 mm by stroke."
+    "remarks": "Max cylinder push capacity 550 kN (62 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Models (stroke mm): HCL502 50, HCL504 100, HCL506 150, HCL508 200, HCL5010 250, HCL5012 300. Collapsed height 164-414 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-08 to 2026-10-09 across HCL502–HCL5012 (5 of 6 in stock); latest HCL502",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1651,7 +1899,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL1002",
     "source": "Enerpac en-US product specifications for HCL1002–HCL10012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1002 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): HCL1002 50, HCL1004 100, HCL1006 150, HCL1008 200, HCL10010 250, HCL10012 300. Collapsed height 187-437 mm by stroke."
+    "remarks": "Max cylinder push capacity 1002 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): HCL1002 50, HCL1004 100, HCL1006 150, HCL1008 200, HCL10010 250, HCL10012 300. Collapsed height 187-437 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-01 across HCL1002–HCL10012 (4 of 6 in stock); latest HCL1008",
+    "lead_time_days": 54,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL1008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1678,7 +1930,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL1502",
     "source": "Enerpac en-US product specifications for HCL1502–HCL15012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1497 kN (168 short ton). Max operating pressure 700 bar. Effective area advance 213.8 cm2. Models (stroke mm): HCL1502 50, HCL1504 100, HCL1506 150, HCL1508 200, HCL15010 250, HCL15012 300. Collapsed height 209-459 mm by stroke."
+    "remarks": "Max cylinder push capacity 1497 kN (168 short ton). Max operating pressure 700 bar. Effective area advance 213.8 cm2. Models (stroke mm): HCL1502 50, HCL1504 100, HCL1506 150, HCL1508 200, HCL15010 250, HCL15012 300. Collapsed height 209-459 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCL1502–HCL15012 (1 of 6 in stock); latest HCL1508",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL1508",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1705,7 +1961,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL2002",
     "source": "Enerpac en-US product specifications for HCL2002–HCL20012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1985 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 283.5 cm2. Models (stroke mm): HCL2002 50, HCL2004 100, HCL2006 150, HCL2008 200, HCL20010 250, HCL20012 300. Collapsed height 238-488 mm by stroke."
+    "remarks": "Max cylinder push capacity 1985 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 283.5 cm2. Models (stroke mm): HCL2002 50, HCL2004 100, HCL2006 150, HCL2008 200, HCL20010 250, HCL20012 300. Collapsed height 238-488 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-09 across HCL2002–HCL20012 (1 of 6 in stock); latest HCL2008",
+    "lead_time_days": 124,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL2008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1732,7 +1992,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL2502",
     "source": "Enerpac en-US product specifications for HCL2502–HCL25012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2541 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Models (stroke mm): HCL2502 50, HCL2504 100, HCL2506 150, HCL2508 200, HCL25010 250, HCL25012 300. Collapsed height 249-499 mm by stroke."
+    "remarks": "Max cylinder push capacity 2541 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Models (stroke mm): HCL2502 50, HCL2504 100, HCL2506 150, HCL2508 200, HCL25010 250, HCL25012 300. Collapsed height 249-499 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-22 to 2026-12-29 across HCL2502–HCL25012 (0 of 6 in stock); latest HCL2502",
+    "lead_time_days": 82,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL2502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1759,7 +2023,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL3002",
     "source": "Enerpac en-US product specifications for HCL3002–HCL30012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 3036 kN (341 short ton). Max operating pressure 700 bar. Effective area advance 433.7 cm2. Models (stroke mm): HCL3002 50, HCL3004 100, HCL3006 150, HCL3008 200, HCL30010 250, HCL30012 300. Collapsed height 278-528 mm by stroke."
+    "remarks": "Max cylinder push capacity 3036 kN (341 short ton). Max operating pressure 700 bar. Effective area advance 433.7 cm2. Models (stroke mm): HCL3002 50, HCL3004 100, HCL3006 150, HCL3008 200, HCL30010 250, HCL30012 300. Collapsed height 278-528 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-02 across HCL3002–HCL30012 (0 of 6 in stock)",
+    "lead_time_days": 25,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL3002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1786,7 +2054,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL4002",
     "source": "Enerpac en-US product specifications for HCL4002–HCL40012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 4008 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Models (stroke mm): HCL4002 50, HCL4004 100, HCL4006 150, HCL4008 200, HCL40010 250, HCL40012 300. Collapsed height 317-567 mm by stroke."
+    "remarks": "Max cylinder push capacity 4008 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Models (stroke mm): HCL4002 50, HCL4004 100, HCL4006 150, HCL4008 200, HCL40010 250, HCL40012 300. Collapsed height 317-567 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-12 to 2026-11-03 across HCL4002–HCL40012 (0 of 6 in stock); latest HCL4004",
+    "lead_time_days": 26,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL4004",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1813,7 +2085,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL5002",
     "source": "Enerpac en-US product specifications for HCL5002–HCL50012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Models (stroke mm): HCL5002 50, HCL5004 100, HCL5006 150, HCL5008 200, HCL50010 250, HCL50012 300. Collapsed height 357-607 mm by stroke."
+    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Models (stroke mm): HCL5002 50, HCL5004 100, HCL5006 150, HCL5008 200, HCL50010 250, HCL50012 300. Collapsed height 357-607 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-23 to 2026-11-25 across HCL5002–HCL50012 (0 of 6 in stock); latest HCL5004",
+    "lead_time_days": 48,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL5004",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1840,7 +2116,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL6002",
     "source": "Enerpac en-US product specifications for HCL6002–HCL60012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5987 kN (673 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Models (stroke mm): HCL6002 50, HCL6004 100, HCL6006 150, HCL6008 200, HCL60010 250, HCL60012 300. Collapsed height 380-630 mm by stroke."
+    "remarks": "Max cylinder push capacity 5987 kN (673 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Models (stroke mm): HCL6002 50, HCL6004 100, HCL6006 150, HCL6008 200, HCL60010 250, HCL60012 300. Collapsed height 380-630 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-12 to 2026-11-23 across HCL6002–HCL60012 (0 of 6 in stock); latest HCL60012",
+    "lead_time_days": 46,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL60012",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1867,7 +2147,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL8002",
     "source": "Enerpac en-US product specifications for HCL8002–HCL80012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 8149 kN (916 short ton). Max operating pressure 700 bar. Effective area advance 1164.2 cm2. Models (stroke mm): HCL8002 50, HCL8004 100, HCL8006 150, HCL8008 200, HCL80010 250, HCL80012 300. Collapsed height 430-680 mm by stroke."
+    "remarks": "Max cylinder push capacity 8149 kN (916 short ton). Max operating pressure 700 bar. Effective area advance 1164.2 cm2. Models (stroke mm): HCL8002 50, HCL8004 100, HCL8006 150, HCL8008 200, HCL80010 250, HCL80012 300. Collapsed height 430-680 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-23 to 2026-12-02 across HCL8002–HCL80012 (0 of 6 in stock); latest HCL8002",
+    "lead_time_days": 55,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL8002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1894,7 +2178,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL10002",
     "source": "Enerpac en-US product specifications for HCL10002–HCL100012; series brochure HCL-Series_High-Tonnage_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 10644 kN (1196 short ton). Max operating pressure 700 bar. Effective area advance 1520.5 cm2. Models (stroke mm): HCL10002 50, HCL10004 100, HCL10006 150, HCL10008 200, HCL100010 250, HCL100012 300. Collapsed height 484-734 mm by stroke."
+    "remarks": "Max cylinder push capacity 10644 kN (1196 short ton). Max operating pressure 700 bar. Effective area advance 1520.5 cm2. Models (stroke mm): HCL10002 50, HCL10004 100, HCL10006 150, HCL10008 200, HCL100010 250, HCL100012 300. Collapsed height 484-734 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2027-02-05 to 2027-02-12 across HCL10002–HCL100012 (0 of 6 in stock); latest HCL10008",
+    "lead_time_days": 127,
+    "lead_time_url": "https://www.enerpac.com/en-us/hcl-series-cylinders/high-tonnage-lock-nut-cylinder/HCL10008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1919,7 +2207,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL506",
     "source": "Enerpac en-US product specifications for HCRL506–HCRL5012; series brochure HCRL-Series_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 479 kN (54 short ton). Max operating pressure 700 bar. Effective area advance 68.4 cm2. Models (stroke mm): HCRL506 150, HCRL508 200, HCRL5010 250, HCRL5012 300. Collapsed height 310-477 mm by stroke."
+    "remarks": "Max cylinder push capacity 479 kN (54 short ton). Max operating pressure 700 bar. Effective area advance 68.4 cm2. Models (stroke mm): HCRL506 150, HCRL508 200, HCRL5010 250, HCRL5012 300. Collapsed height 310-477 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-12-29 to 2027-01-29 across HCRL506–HCRL5012 (0 of 4 in stock); latest HCRL508",
+    "lead_time_days": 113,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL508",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1944,7 +2236,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL1006",
     "source": "Enerpac en-US product specifications for HCRL1006–HCRL10012; series brochure HCRL-Series_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 990 kN (111 short ton). Max operating pressure 700 bar. Effective area advance 141.4 cm2. Models (stroke mm): HCRL1006 150, HCRL1008 200, HCRL10010 250, HCRL10012 300. Collapsed height 346-521 mm by stroke."
+    "remarks": "Max cylinder push capacity 990 kN (111 short ton). Max operating pressure 700 bar. Effective area advance 141.4 cm2. Models (stroke mm): HCRL1006 150, HCRL1008 200, HCRL10010 250, HCRL10012 300. Collapsed height 346-521 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-01-12 across HCRL1006–HCRL10012 (1 of 4 in stock); latest HCRL10010",
+    "lead_time_days": 96,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL10010",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1969,7 +2265,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL1506",
     "source": "Enerpac en-US product specifications for HCRL1506–HCRL15012; series brochure HCRL-Series_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1501 kN (169 short ton). Max operating pressure 700 bar. Effective area advance 214.4 cm2. Models (stroke mm): HCRL1506 150, HCRL1508 200, HCRL15010 250, HCRL15012 300. Collapsed height 359-534 mm by stroke."
+    "remarks": "Max cylinder push capacity 1501 kN (169 short ton). Max operating pressure 700 bar. Effective area advance 214.4 cm2. Models (stroke mm): HCRL1506 150, HCRL1508 200, HCRL15010 250, HCRL15012 300. Collapsed height 359-534 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-02-12 across HCRL1506–HCRL15012 (1 of 4 in stock); latest HCRL1506",
+    "lead_time_days": 127,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL1506",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -1994,7 +2294,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL2006",
     "source": "Enerpac en-US product specifications for HCRL2006–HCRL20012; series brochure HCRL-Series_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2001 kN (225 short ton). Max operating pressure 700 bar. Effective area advance 285.9 cm2. Models (stroke mm): HCRL2006 150, HCRL2008 200, HCRL20010 250, HCRL20012 300. Collapsed height 399-569 mm by stroke."
+    "remarks": "Max cylinder push capacity 2001 kN (225 short ton). Max operating pressure 700 bar. Effective area advance 285.9 cm2. Models (stroke mm): HCRL2006 150, HCRL2008 200, HCRL20010 250, HCRL20012 300. Collapsed height 399-569 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-10 to 2027-01-29 across HCRL2006–HCRL20012 (0 of 4 in stock); latest HCRL2006",
+    "lead_time_days": 113,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL2006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2018,7 +2322,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL2508",
     "source": "Enerpac en-US product specifications for HCRL2508–HCRL25012; series brochure HCRL-Series_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2463 kN (277 short ton). Max operating pressure 700 bar. Effective area advance 351.9 cm2. Models (stroke mm): HCRL2508 200, HCRL25010 250, HCRL25012 300. Collapsed height 491-591 mm by stroke."
+    "remarks": "Max cylinder push capacity 2463 kN (277 short ton). Max operating pressure 700 bar. Effective area advance 351.9 cm2. Models (stroke mm): HCRL2508 200, HCRL25010 250, HCRL25012 300. Collapsed height 491-591 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-12-29 across HCRL2508–HCRL25012 (0 of 3 in stock)",
+    "lead_time_days": 82,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL2508",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2043,7 +2351,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL3006",
     "source": "Enerpac en-US product specifications for HCRL3006–HCRL30012; series brochure HCRL-Series_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2969 kN (334 short ton). Max operating pressure 700 bar. Effective area advance 424.1 cm2. Models (stroke mm): HCRL3006 150, HCRL3008 200, HCRL30010 250, HCRL30012 300. Collapsed height 421-596 mm by stroke."
+    "remarks": "Max cylinder push capacity 2969 kN (334 short ton). Max operating pressure 700 bar. Effective area advance 424.1 cm2. Models (stroke mm): HCRL3006 150, HCRL3008 200, HCRL30010 250, HCRL30012 300. Collapsed height 421-596 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-12-29 across HCRL3006–HCRL30012 (0 of 4 in stock)",
+    "lead_time_days": 82,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/high-tonnage-lock-nut-cylinder/HCRL3006",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2063,7 +2375,11 @@
     "mass_kg": 15.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL602",
     "source": "Enerpac en-US product specifications for LPL602; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 606 kN (68 short ton). Max operating pressure 700 bar. Effective area advance 86.6 cm2. Oil capacity 433 cm3. Collapsed height 125 mm."
+    "remarks": "Max cylinder push capacity 606 kN (68 short ton). Max operating pressure 700 bar. Effective area advance 86.6 cm2. Oil capacity 433 cm3. Collapsed height 125 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL602",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2083,7 +2399,11 @@
     "mass_kg": 26.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL1002",
     "source": "Enerpac en-US product specifications for LPL1002; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1027 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Oil capacity 715.7 cm3. Collapsed height 137 mm."
+    "remarks": "Max cylinder push capacity 1027 kN (113 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Oil capacity 715.7 cm3. Collapsed height 137 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2103,7 +2423,11 @@
     "mass_kg": 44.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL1602",
     "source": "Enerpac en-US product specifications for LPL1602; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1619 kN (179 short ton). Max operating pressure 700 bar. Effective area advance 231.3 cm2. Oil capacity 1021.4 cm3. Collapsed height 148 mm."
+    "remarks": "Max cylinder push capacity 1619 kN (179 short ton). Max operating pressure 700 bar. Effective area advance 231.3 cm2. Oil capacity 1021.4 cm3. Collapsed height 148 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL1602",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2123,7 +2447,11 @@
     "mass_kg": 57.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL2002",
     "source": "Enerpac en-US product specifications for LPL2002; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1999 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 285.6 cm2. Oil capacity 1275.9 cm3. Collapsed height 155 mm."
+    "remarks": "Max cylinder push capacity 1999 kN (223 short ton). Max operating pressure 700 bar. Effective area advance 285.6 cm2. Oil capacity 1275.9 cm3. Collapsed height 155 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL2002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2143,7 +2471,11 @@
     "mass_kg": 74.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL2502",
     "source": "Enerpac en-US product specifications for LPL2502; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2567 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 366.8 cm2. Oil capacity 1633.7 cm3. Collapsed height 159 mm."
+    "remarks": "Max cylinder push capacity 2567 kN (286 short ton). Max operating pressure 700 bar. Effective area advance 366.8 cm2. Oil capacity 1633.7 cm3. Collapsed height 159 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL2502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2163,7 +2495,11 @@
     "mass_kg": 134.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL4002",
     "source": "Enerpac en-US product specifications for LPL4002; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 3916 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 559.5 cm2. Oil capacity 2576.5 cm3. Collapsed height 178 mm."
+    "remarks": "Max cylinder push capacity 3916 kN (450 short ton). Max operating pressure 700 bar. Effective area advance 559.5 cm2. Oil capacity 2576.5 cm3. Collapsed height 178 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL4002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2183,7 +2519,11 @@
     "mass_kg": 189.0,
     "datasheet_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL5002",
     "source": "Enerpac en-US product specifications for LPL5002; series brochure LPL-Series_Low-Height_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Oil capacity 3287.8 cm3. Collapsed height 192 mm."
+    "remarks": "Max cylinder push capacity 5114 kN (575 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Oil capacity 3287.8 cm3. Collapsed height 192 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-12-31",
+    "lead_time_days": 84,
+    "lead_time_url": "https://www.enerpac.com/en-us/lpl-series-low-height-cylinders/low-height-lock-nut-cylinder/LPL5002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2209,7 +2549,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL202",
     "source": "Enerpac en-US product specifications for RACL202–RACL2010; series brochure RACL-Series_Lightweight_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 218 kN (24.2 short ton). Max operating pressure 700 bar. Effective area advance 31.2 cm2. Models (stroke mm): RACL202 50, RACL204 100, RACL206 150, RACL208 200, RACL2010 250. Collapsed height 224-424 mm by stroke."
+    "remarks": "Max cylinder push capacity 218 kN (24.2 short ton). Max operating pressure 700 bar. Effective area advance 31.2 cm2. Models (stroke mm): RACL202 50, RACL204 100, RACL206 150, RACL208 200, RACL2010 250. Collapsed height 224-424 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-04-16 across RACL202–RACL2010 (2 of 5 in stock); latest RACL206",
+    "lead_time_days": 190,
+    "lead_time_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL206",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2235,7 +2579,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL302",
     "source": "Enerpac en-US product specifications for RACL302–RACL3010; series brochure RACL-Series_Lightweight_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 309 kN (34.2 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Models (stroke mm): RACL302 50, RACL304 100, RACL306 150, RACL308 200, RACL3010 250. Collapsed height 231-431 mm by stroke."
+    "remarks": "Max cylinder push capacity 309 kN (34.2 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Models (stroke mm): RACL302 50, RACL304 100, RACL306 150, RACL308 200, RACL3010 250. Collapsed height 231-431 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-12-15 to 2027-04-16 across RACL302–RACL3010 (0 of 5 in stock); latest RACL306",
+    "lead_time_days": 190,
+    "lead_time_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL306",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2261,7 +2609,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL502",
     "source": "Enerpac en-US product specifications for RACL502–RACL5010; series brochure RACL-Series_Lightweight_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 496 kN (54.9 short ton). Max operating pressure 700 bar. Effective area advance 70.9 cm2. Models (stroke mm): RACL502 50, RACL504 100, RACL506 150, RACL508 200, RACL5010 250. Collapsed height 236-436 mm by stroke."
+    "remarks": "Max cylinder push capacity 496 kN (54.9 short ton). Max operating pressure 700 bar. Effective area advance 70.9 cm2. Models (stroke mm): RACL502 50, RACL504 100, RACL506 150, RACL508 200, RACL5010 250. Collapsed height 236-436 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-13 to 2027-04-16 across RACL502–RACL5010 (0 of 5 in stock); latest RACL504",
+    "lead_time_days": 190,
+    "lead_time_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2287,7 +2639,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL1002",
     "source": "Enerpac en-US product specifications for RACL1002–RACL10010; series brochure RACL-Series_Lightweight_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1002 kN (110.9 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): RACL1002 50, RACL1004 100, RACL1006 150, RACL1008 200, RACL10010 250. Collapsed height 296-496 mm by stroke."
+    "remarks": "Max cylinder push capacity 1002 kN (110.9 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): RACL1002 50, RACL1004 100, RACL1006 150, RACL1008 200, RACL10010 250. Collapsed height 296-496 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-04-30 across RACL1002–RACL10010 (3 of 5 in stock); latest RACL1008",
+    "lead_time_days": 204,
+    "lead_time_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL1008",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2313,7 +2669,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL1502",
     "source": "Enerpac en-US product specifications for RACL1502–RACL15010; series brochure RACL-Series_Lightweight_Lock_Nut_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1589 kN (175.9 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2. Models (stroke mm): RACL1502 50, RACL1504 100, RACL1506 150, RACL1508 200, RACL15010 250. Collapsed height 323-523 mm by stroke."
+    "remarks": "Max cylinder push capacity 1589 kN (175.9 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2. Models (stroke mm): RACL1502 50, RACL1504 100, RACL1506 150, RACL1508 200, RACL15010 250. Collapsed height 323-523 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-27 to 2027-05-14 across RACL1502–RACL15010 (0 of 5 in stock); latest RACL1504",
+    "lead_time_days": 218,
+    "lead_time_url": "https://www.enerpac.com/en-us/racl-series-aluminum-cylinders/aluminum-lock-nut-cylinder/RACL1504",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2334,7 +2694,11 @@
     "mass_kg": 1.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM50",
     "source": "Enerpac en-US product specifications for RSM50; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 45 kN (4.9 short ton). Max operating pressure 700 bar. Effective area advance 6.5 cm2. Oil capacity 4 cm3. Collapsed height 32 mm."
+    "remarks": "Max cylinder push capacity 45 kN (4.9 short ton). Max operating pressure 700 bar. Effective area advance 6.5 cm2. Oil capacity 4 cm3. Collapsed height 32 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-27",
+    "lead_time_days": 19,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM50",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2355,7 +2719,11 @@
     "mass_kg": 1.4,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM100",
     "source": "Enerpac en-US product specifications for RSM100; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 101 kN (11.2 short ton). Max operating pressure 700 bar. Effective area advance 14.5 cm2. Oil capacity 18 cm3. Collapsed height 43 mm."
+    "remarks": "Max cylinder push capacity 101 kN (11.2 short ton). Max operating pressure 700 bar. Effective area advance 14.5 cm2. Oil capacity 18 cm3. Collapsed height 43 mm.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-08",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM100",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2376,7 +2744,11 @@
     "mass_kg": 3.1,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM200",
     "source": "Enerpac en-US product specifications for RSM200; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 201 kN (22.1 short ton). Max operating pressure 700 bar. Effective area advance 28.7 cm2. Oil capacity 32 cm3. Collapsed height 51 mm."
+    "remarks": "Max cylinder push capacity 201 kN (22.1 short ton). Max operating pressure 700 bar. Effective area advance 28.7 cm2. Oil capacity 32 cm3. Collapsed height 51 mm.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-13",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM200",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2397,7 +2769,11 @@
     "mass_kg": 4.5,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM300",
     "source": "Enerpac en-US product specifications for RSM300; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 295 kN (32.4 short ton). Max operating pressure 700 bar. Effective area advance 42.1 cm2. Oil capacity 55 cm3. Collapsed height 58 mm."
+    "remarks": "Max cylinder push capacity 295 kN (32.4 short ton). Max operating pressure 700 bar. Effective area advance 42.1 cm2. Oil capacity 55 cm3. Collapsed height 58 mm.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-13",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM300",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2418,7 +2794,11 @@
     "mass_kg": 6.8,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM500",
     "source": "Enerpac en-US product specifications for RSM500; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 435 kN (48.1 short ton). Max operating pressure 700 bar. Effective area advance 62.1 cm2. Oil capacity 99 cm3. Collapsed height 66 mm."
+    "remarks": "Max cylinder push capacity 435 kN (48.1 short ton). Max operating pressure 700 bar. Effective area advance 62.1 cm2. Oil capacity 99 cm3. Collapsed height 66 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-27",
+    "lead_time_days": 19,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM500",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2439,7 +2819,11 @@
     "mass_kg": 11.3,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM750",
     "source": "Enerpac en-US product specifications for RSM750; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 718 kN (79.5 short ton). Max operating pressure 700 bar. Effective area advance 102.6 cm2. Oil capacity 164 cm3. Collapsed height 79 mm."
+    "remarks": "Max cylinder push capacity 718 kN (79.5 short ton). Max operating pressure 700 bar. Effective area advance 102.6 cm2. Oil capacity 164 cm3. Collapsed height 79 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM750",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2460,7 +2844,11 @@
     "mass_kg": 14.5,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM1000",
     "source": "Enerpac en-US product specifications for RSM1000; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 887 kN (98.1 short ton). Max operating pressure 700 bar. Effective area advance 126.7 cm2. Oil capacity 203 cm3. Collapsed height 85 mm."
+    "remarks": "Max cylinder push capacity 887 kN (98.1 short ton). Max operating pressure 700 bar. Effective area advance 126.7 cm2. Oil capacity 203 cm3. Collapsed height 85 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM1000",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2481,7 +2869,11 @@
     "mass_kg": 26.3,
     "datasheet_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM1500",
     "source": "Enerpac en-US product specifications for RSM1500; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1386 kN (153.4 short ton). Max operating pressure 700 bar. Effective area advance 198.1 cm2. Oil capacity 317 cm3. Collapsed height 100 mm."
+    "remarks": "Max cylinder push capacity 1386 kN (153.4 short ton). Max operating pressure 700 bar. Effective area advance 198.1 cm2. Oil capacity 317 cm3. Collapsed height 100 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rsm-series-low-height-cylinders/low-height-cylinder/RSM1500",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2502,7 +2894,11 @@
     "mass_kg": 2.7,
     "datasheet_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS101",
     "source": "Enerpac en-US product specifications for RCS101; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 101 kN (11.2 short ton). Max operating pressure 700 bar. Effective area advance 14.5 cm2. Oil capacity 55 cm3. Collapsed height 88 mm."
+    "remarks": "Max cylinder push capacity 101 kN (11.2 short ton). Max operating pressure 700 bar. Effective area advance 14.5 cm2. Oil capacity 55 cm3. Collapsed height 88 mm.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-13",
+    "lead_time_days": 5,
+    "lead_time_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS101",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2523,7 +2919,11 @@
     "mass_kg": 5.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS201",
     "source": "Enerpac en-US product specifications for RCS201; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 201 kN (22.1 short ton). Max operating pressure 700 bar. Effective area advance 28.7 cm2. Oil capacity 129 cm3. Collapsed height 98 mm."
+    "remarks": "Max cylinder push capacity 201 kN (22.1 short ton). Max operating pressure 700 bar. Effective area advance 28.7 cm2. Oil capacity 129 cm3. Collapsed height 98 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS201",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2544,7 +2944,11 @@
     "mass_kg": 6.8,
     "datasheet_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS302",
     "source": "Enerpac en-US product specifications for RCS302; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 295 kN (32.4 short ton). Max operating pressure 700 bar. Effective area advance 42.1 cm2. Oil capacity 261 cm3. Collapsed height 117 mm."
+    "remarks": "Max cylinder push capacity 295 kN (32.4 short ton). Max operating pressure 700 bar. Effective area advance 42.1 cm2. Oil capacity 261 cm3. Collapsed height 117 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS302",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2565,7 +2969,11 @@
     "mass_kg": 10.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS502",
     "source": "Enerpac en-US product specifications for RCS502; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 435 kN (48.1 short ton). Max operating pressure 700 bar. Effective area advance 62.1 cm2. Oil capacity 373 cm3. Collapsed height 122 mm."
+    "remarks": "Max cylinder push capacity 435 kN (48.1 short ton). Max operating pressure 700 bar. Effective area advance 62.1 cm2. Oil capacity 373 cm3. Collapsed height 122 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2586,7 +2994,11 @@
     "mass_kg": 20.7,
     "datasheet_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS1002",
     "source": "Enerpac en-US product specifications for RCS1002; series brochure RSM-RCS-Series_Low-Height_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 887 kN (98.1 short ton). Max operating pressure 700 bar. Effective area advance 126.7 cm2. Oil capacity 722 cm3. Collapsed height 141 mm."
+    "remarks": "Max cylinder push capacity 887 kN (98.1 short ton). Max operating pressure 700 bar. Effective area advance 126.7 cm2. Oil capacity 722 cm3. Collapsed height 141 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rcs-series-low-height-cylinders/low-height-cylinder/RCS1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2606,7 +3018,11 @@
     "mass_kg": 1.0,
     "datasheet_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP10",
     "source": "Enerpac en-US product specifications for CULP10; series brochure CULP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 97 kN (10.9 short ton). Max operating pressure 700 bar. Effective area advance 13.9 cm2. Oil capacity 8.3 cm3. Collapsed height 27.5 mm."
+    "remarks": "Max cylinder push capacity 97 kN (10.9 short ton). Max operating pressure 700 bar. Effective area advance 13.9 cm2. Oil capacity 8.3 cm3. Collapsed height 27.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-22",
+    "lead_time_days": 14,
+    "lead_time_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP10",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2626,7 +3042,11 @@
     "mass_kg": 1.7,
     "datasheet_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP20",
     "source": "Enerpac en-US product specifications for CULP20; series brochure CULP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 198 kN (22.2 short ton). Max operating pressure 700 bar. Effective area advance 28.3 cm2. Oil capacity 17 cm3. Collapsed height 32 mm."
+    "remarks": "Max cylinder push capacity 198 kN (22.2 short ton). Max operating pressure 700 bar. Effective area advance 28.3 cm2. Oil capacity 17 cm3. Collapsed height 32 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP20",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2646,7 +3066,11 @@
     "mass_kg": 2.5,
     "datasheet_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP30",
     "source": "Enerpac en-US product specifications for CULP30; series brochure CULP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 310 kN (34.8 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Oil capacity 26.5 cm3. Collapsed height 35 mm."
+    "remarks": "Max cylinder push capacity 310 kN (34.8 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Oil capacity 26.5 cm3. Collapsed height 35 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP30",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2666,7 +3090,11 @@
     "mass_kg": 5.4,
     "datasheet_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP50",
     "source": "Enerpac en-US product specifications for CULP50; series brochure CULP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 550 kN (61.8 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Oil capacity 47.1 cm3. Collapsed height 44.5 mm."
+    "remarks": "Max cylinder push capacity 550 kN (61.8 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Oil capacity 47.1 cm3. Collapsed height 44.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP50",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2686,7 +3114,11 @@
     "mass_kg": 11.5,
     "datasheet_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP100",
     "source": "Enerpac en-US product specifications for CULP100; series brochure CULP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1077 kN (121.1 short ton). Max operating pressure 700 bar. Effective area advance 153.9 cm2. Oil capacity 92.3 cm3. Collapsed height 65 mm."
+    "remarks": "Max cylinder push capacity 1077 kN (121.1 short ton). Max operating pressure 700 bar. Effective area advance 153.9 cm2. Oil capacity 92.3 cm3. Collapsed height 65 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-11-02",
+    "lead_time_days": 25,
+    "lead_time_url": "https://www.enerpac.com/en-us/culp-series-low-height-cylinders/low-height-cylinder/CULP100",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2706,7 +3138,11 @@
     "mass_kg": 1.2,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP10",
     "source": "Enerpac en-US product specifications for CUSP10; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 97 kN (10.9 short ton). Max operating pressure 700 bar. Effective area advance 13.9 cm2. Oil capacity 9.3 cm3. Collapsed height 35.5 mm."
+    "remarks": "Max cylinder push capacity 97 kN (10.9 short ton). Max operating pressure 700 bar. Effective area advance 13.9 cm2. Oil capacity 9.3 cm3. Collapsed height 35.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP10",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2726,7 +3162,11 @@
     "mass_kg": 1.9,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP20",
     "source": "Enerpac en-US product specifications for CUSP20; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 198 kN (22.2 short ton). Max operating pressure 700 bar. Effective area advance 28.3 cm2. Oil capacity 19.8 cm3. Collapsed height 40.5 mm."
+    "remarks": "Max cylinder push capacity 198 kN (22.2 short ton). Max operating pressure 700 bar. Effective area advance 28.3 cm2. Oil capacity 19.8 cm3. Collapsed height 40.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP20",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2746,7 +3186,11 @@
     "mass_kg": 2.7,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP30",
     "source": "Enerpac en-US product specifications for CUSP30; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 310 kN (34.8 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Oil capacity 32.1 cm3. Collapsed height 42.5 mm."
+    "remarks": "Max cylinder push capacity 310 kN (34.8 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Oil capacity 32.1 cm3. Collapsed height 42.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP30",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2766,7 +3210,11 @@
     "mass_kg": 5.6,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP50",
     "source": "Enerpac en-US product specifications for CUSP50; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 550 kN (61.8 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Oil capacity 104 cm3. Collapsed height 57 mm."
+    "remarks": "Max cylinder push capacity 550 kN (61.8 short ton). Max operating pressure 700 bar. Effective area advance 78.5 cm2. Oil capacity 104 cm3. Collapsed height 57 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP50",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2786,7 +3234,11 @@
     "mass_kg": 8.0,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP75",
     "source": "Enerpac en-US product specifications for CUSP75; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 792 kN (89.0 short ton). Max operating pressure 700 bar. Effective area advance 113.1 cm2. Oil capacity 158 cm3. Collapsed height 60.5 mm."
+    "remarks": "Max cylinder push capacity 792 kN (89.0 short ton). Max operating pressure 700 bar. Effective area advance 113.1 cm2. Oil capacity 158 cm3. Collapsed height 60.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP75",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2806,7 +3258,11 @@
     "mass_kg": 10.8,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP100",
     "source": "Enerpac en-US product specifications for CUSP100; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1078 kN (121.1 short ton). Max operating pressure 700 bar. Effective area advance 153.9 cm2. Oil capacity 226 cm3. Collapsed height 63.5 mm."
+    "remarks": "Max cylinder push capacity 1078 kN (121.1 short ton). Max operating pressure 700 bar. Effective area advance 153.9 cm2. Oil capacity 226 cm3. Collapsed height 63.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP100",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2826,7 +3282,11 @@
     "mass_kg": 15.3,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP150",
     "source": "Enerpac en-US product specifications for CUSP150; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1589 kN (178.6 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2. Oil capacity 324 cm3. Collapsed height 65 mm."
+    "remarks": "Max cylinder push capacity 1589 kN (178.6 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2. Oil capacity 324 cm3. Collapsed height 65 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-11-04",
+    "lead_time_days": 27,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP150",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2846,7 +3306,11 @@
     "mass_kg": 21.5,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP200",
     "source": "Enerpac en-US product specifications for CUSP200; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2090 kN (235.0 short ton). Max operating pressure 700 bar. Effective area advance 298.6 cm2. Oil capacity 446 cm3. Collapsed height 69 mm."
+    "remarks": "Max cylinder push capacity 2090 kN (235.0 short ton). Max operating pressure 700 bar. Effective area advance 298.6 cm2. Oil capacity 446 cm3. Collapsed height 69 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP200",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2866,7 +3330,11 @@
     "mass_kg": 27.3,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP250",
     "source": "Enerpac en-US product specifications for CUSP250; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 2542 kN (285.6 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Oil capacity 569 cm3. Collapsed height 72.5 mm."
+    "remarks": "Max cylinder push capacity 2542 kN (285.6 short ton). Max operating pressure 700 bar. Effective area advance 363.1 cm2. Oil capacity 569 cm3. Collapsed height 72.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP250",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2886,7 +3354,11 @@
     "mass_kg": 34.4,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP300",
     "source": "Enerpac en-US product specifications for CUSP300; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 3167 kN (355.9 short ton). Max operating pressure 700 bar. Effective area advance 452.4 cm2. Oil capacity 637 cm3. Collapsed height 72.5 mm."
+    "remarks": "Max cylinder push capacity 3167 kN (355.9 short ton). Max operating pressure 700 bar. Effective area advance 452.4 cm2. Oil capacity 637 cm3. Collapsed height 72.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-02-18",
+    "lead_time_days": 133,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP300",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2906,7 +3378,11 @@
     "mass_kg": 46.2,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP400",
     "source": "Enerpac en-US product specifications for CUSP400; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 4008 kN (450.5 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Oil capacity 837 cm3. Collapsed height 77.5 mm."
+    "remarks": "Max cylinder push capacity 4008 kN (450.5 short ton). Max operating pressure 700 bar. Effective area advance 572.6 cm2. Oil capacity 837 cm3. Collapsed height 77.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-02-04",
+    "lead_time_days": 119,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP400",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2926,7 +3402,11 @@
     "mass_kg": 62.7,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP500",
     "source": "Enerpac en-US product specifications for CUSP500; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5115 kN (574.8 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Oil capacity 1111 cm3. Collapsed height 82.5 mm."
+    "remarks": "Max cylinder push capacity 5115 kN (574.8 short ton). Max operating pressure 700 bar. Effective area advance 730.6 cm2. Oil capacity 1111 cm3. Collapsed height 82.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-02-18",
+    "lead_time_days": 133,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP500",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2946,7 +3426,11 @@
     "mass_kg": 78.4,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP600",
     "source": "Enerpac en-US product specifications for CUSP600; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 5987 kN (672.9 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Oil capacity 1334 cm3. Collapsed height 87.5 mm."
+    "remarks": "Max cylinder push capacity 5987 kN (672.9 short ton). Max operating pressure 700 bar. Effective area advance 855.3 cm2. Oil capacity 1334 cm3. Collapsed height 87.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-02-18",
+    "lead_time_days": 133,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP600",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2966,7 +3450,11 @@
     "mass_kg": 105.2,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP750",
     "source": "Enerpac en-US product specifications for CUSP750; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 7527 kN (846.0 short ton). Max operating pressure 700 bar. Effective area advance 1075.2 cm2. Oil capacity 1757 cm3. Collapsed height 93.5 mm."
+    "remarks": "Max cylinder push capacity 7527 kN (846.0 short ton). Max operating pressure 700 bar. Effective area advance 1075.2 cm2. Oil capacity 1757 cm3. Collapsed height 93.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-02-18",
+    "lead_time_days": 133,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP750",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -2986,7 +3474,11 @@
     "mass_kg": 157.0,
     "datasheet_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP1000",
     "source": "Enerpac en-US product specifications for CUSP1000; series brochure CUSP-Series_Ultra-Flat_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 10165 kN (1142.6 short ton). Max operating pressure 700 bar. Effective area advance 1452.2 cm2. Oil capacity 2531 cm3. Collapsed height 103 mm."
+    "remarks": "Max cylinder push capacity 10165 kN (1142.6 short ton). Max operating pressure 700 bar. Effective area advance 1452.2 cm2. Oil capacity 2531 cm3. Collapsed height 103 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/cusp-series-low-height-cylinders/low-height-cylinder/CUSP1000",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3011,7 +3503,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC102",
     "source": "Enerpac en-US product specifications for RAC102–RAC106; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 88 kN (9.9 short ton). Max operating pressure 700 bar. Effective area advance 12.6 cm2. Models (stroke mm): RAC102 50, RAC104 100, RAC106 150. Collapsed height 154-254 mm by stroke."
+    "remarks": "Max cylinder push capacity 88 kN (9.9 short ton). Max operating pressure 700 bar. Effective area advance 12.6 cm2. Models (stroke mm): RAC102 50, RAC104 100, RAC106 150. Collapsed height 154-254 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RAC102–RAC106 (3 of 3 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC102",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3036,7 +3532,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC152",
     "source": "Enerpac en-US product specifications for RAC152–RAC156; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 137 kN (15.4 short ton). Max operating pressure 700 bar. Effective area advance 19.6 cm2. Models (stroke mm): RAC152 50, RAC154 100, RAC156 150. Collapsed height 161-261 mm by stroke."
+    "remarks": "Max cylinder push capacity 137 kN (15.4 short ton). Max operating pressure 700 bar. Effective area advance 19.6 cm2. Models (stroke mm): RAC152 50, RAC154 100, RAC156 150. Collapsed height 161-261 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RAC152–RAC156 (3 of 3 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC152",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3063,7 +3563,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC202",
     "source": "Enerpac en-US product specifications for RAC202–RAC2010; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 218 kN (24.2 short ton). Max operating pressure 700 bar. Models (stroke mm): RAC202 50, RAC204 100, RAC206 150, RAC208 200, RAC2010 250. Collapsed height 174-374 mm by stroke."
+    "remarks": "Max cylinder push capacity 218 kN (24.2 short ton). Max operating pressure 700 bar. Models (stroke mm): RAC202 50, RAC204 100, RAC206 150, RAC208 200, RAC2010 250. Collapsed height 174-374 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-15 across RAC202–RAC2010 (4 of 5 in stock); latest RAC2010",
+    "lead_time_days": 68,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC2010",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3090,7 +3594,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC302",
     "source": "Enerpac en-US product specifications for RAC302–RAC3010; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 309 kN (34.2 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Models (stroke mm): RAC302 50, RAC304 100, RAC306 150, RAC308 200, RAC3010 250. Collapsed height 181-381 mm by stroke."
+    "remarks": "Max cylinder push capacity 309 kN (34.2 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2. Models (stroke mm): RAC302 50, RAC304 100, RAC306 150, RAC308 200, RAC3010 250. Collapsed height 181-381 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-15 across RAC302–RAC3010 (4 of 5 in stock); latest RAC302",
+    "lead_time_days": 68,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC302",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3117,7 +3625,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC502",
     "source": "Enerpac en-US product specifications for RAC502–RAC5010; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 496 kN (54.9 short ton). Max operating pressure 700 bar. Effective area advance 70.9 cm2. Models (stroke mm): RAC502 50, RAC504 100, RAC506 150, RAC508 200, RAC5010 250. Collapsed height 186-386 mm by stroke."
+    "remarks": "Max cylinder push capacity 496 kN (54.9 short ton). Max operating pressure 700 bar. Effective area advance 70.9 cm2. Models (stroke mm): RAC502 50, RAC504 100, RAC506 150, RAC508 200, RAC5010 250. Collapsed height 186-386 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 across RAC502–RAC5010 (5 of 5 in stock)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3144,7 +3656,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC1002",
     "source": "Enerpac en-US product specifications for RAC1002–RAC10010; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1002 kN (110.9 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): RAC1002 50, RAC1004 100, RAC1006 150, RAC1008 200, RAC10010 250. Collapsed height 221-421 mm by stroke."
+    "remarks": "Max cylinder push capacity 1002 kN (110.9 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2. Models (stroke mm): RAC1002 50, RAC1004 100, RAC1006 150, RAC1008 200, RAC10010 250. Collapsed height 221-421 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-12-08 across RAC1002–RAC10010 (3 of 5 in stock); latest RAC1004",
+    "lead_time_days": 61,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC1004",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3171,7 +3687,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC1502",
     "source": "Enerpac en-US product specifications for RAC1502–RAC15010; series brochure RAC-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1589 kN (175.9 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2. Models (stroke mm): RAC1502 50, RAC1504 100, RAC1506 150, RAC1508 200, RAC15010 250. Collapsed height 243-443 mm by stroke."
+    "remarks": "Max cylinder push capacity 1589 kN (175.9 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2. Models (stroke mm): RAC1502 50, RAC1504 100, RAC1506 150, RAC1508 200, RAC15010 250. Collapsed height 243-443 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-05-14 across RAC1502–RAC15010 (2 of 5 in stock); latest RAC1502",
+    "lead_time_days": 218,
+    "lead_time_url": "https://www.enerpac.com/en-us/rac-series-aluminum-cylinders/aluminum-cylinder/RAC1502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3198,7 +3718,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR202",
     "source": "Enerpac en-US product specifications for RAR202–RAR2010; series brochure RAR-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 218 kN (24.2 short ton). Max operating pressure 700 bar. Effective area advance 31.2 cm2, retract 18.6 cm2. Models (stroke mm): RAR202 50, RAR204 100, RAR206 150, RAR208 200, RAR2010 250. Collapsed height 189-389 mm by stroke."
+    "remarks": "Max cylinder push capacity 218 kN (24.2 short ton). Max operating pressure 700 bar. Effective area advance 31.2 cm2, retract 18.6 cm2. Models (stroke mm): RAR202 50, RAR204 100, RAR206 150, RAR208 200, RAR2010 250. Collapsed height 189-389 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2027-03-05 to 2027-04-30 across RAR202–RAR2010 (0 of 5 in stock); latest RAR208",
+    "lead_time_days": 204,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR208",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3225,7 +3749,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR302",
     "source": "Enerpac en-US product specifications for RAR302–RAR3010; series brochure RAR-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 309 kN (34.2 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2, retract 24.5 cm2. Models (stroke mm): RAR302 50, RAR304 100, RAR306 150, RAR308 200, RAR3010 250. Collapsed height 201-401 mm by stroke."
+    "remarks": "Max cylinder push capacity 309 kN (34.2 short ton). Max operating pressure 700 bar. Effective area advance 44.2 cm2, retract 24.5 cm2. Models (stroke mm): RAR302 50, RAR304 100, RAR306 150, RAR308 200, RAR3010 250. Collapsed height 201-401 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-04-16 across RAR302–RAR3010 (1 of 5 in stock); latest RAR304",
+    "lead_time_days": 190,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR304",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3252,7 +3780,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR502",
     "source": "Enerpac en-US product specifications for RAR502–RAR5010; series brochure RAR-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 496 kN (54.9 short ton). Max operating pressure 700 bar. Effective area advance 70.9 cm2, retract 26.7 cm2. Models (stroke mm): RAR502 50, RAR504 100, RAR506 150, RAR508 200, RAR5010 250. Collapsed height 201-401 mm by stroke."
+    "remarks": "Max cylinder push capacity 496 kN (54.9 short ton). Max operating pressure 700 bar. Effective area advance 70.9 cm2, retract 26.7 cm2. Models (stroke mm): RAR502 50, RAR504 100, RAR506 150, RAR508 200, RAR5010 250. Collapsed height 201-401 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-04-30 across RAR502–RAR5010 (1 of 5 in stock); latest RAR502",
+    "lead_time_days": 204,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3279,7 +3811,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR1002",
     "source": "Enerpac en-US product specifications for RAR1002–RAR10010; series brochure RAR-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1002 kN (110.9 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2, retract 79.5 cm2. Models (stroke mm): RAR1002 50, RAR1004 100, RAR1006 150, RAR1008 200, RAR10010 250. Collapsed height 251-451 mm by stroke."
+    "remarks": "Max cylinder push capacity 1002 kN (110.9 short ton). Max operating pressure 700 bar. Effective area advance 143.1 cm2, retract 79.5 cm2. Models (stroke mm): RAR1002 50, RAR1004 100, RAR1006 150, RAR1008 200, RAR10010 250. Collapsed height 251-451 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-04-30 across RAR1002–RAR10010 (2 of 5 in stock); latest RAR1002",
+    "lead_time_days": 204,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR1002",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3306,7 +3842,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR1502",
     "source": "Enerpac en-US product specifications for RAR1502–RAR15010; series brochure RAR-Series_Lightweight_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 1589 kN (175.9 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2, retract 132.0 cm2. Models (stroke mm): RAR1502 50, RAR1504 100, RAR1506 150, RAR1508 200, RAR15010 250. Collapsed height 248-448 mm by stroke."
+    "remarks": "Max cylinder push capacity 1589 kN (175.9 short ton). Max operating pressure 700 bar. Effective area advance 227.0 cm2, retract 132.0 cm2. Models (stroke mm): RAR1502 50, RAR1504 100, RAR1506 150, RAR1508 200, RAR15010 250. Collapsed height 248-448 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2027-05-14 across RAR1502–RAR15010 (1 of 5 in stock); latest RAR1502",
+    "lead_time_days": 218,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/aluminum-cylinder/RAR1502",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3327,7 +3867,11 @@
     "mass_kg": 1.8,
     "datasheet_url": "https://www.enerpac.com/en-us/brc-series-pull-cylinders/pull-cylinder/BRC25",
     "source": "Enerpac en-US product specifications for BRC25; series brochure BRC-BRP-Series_Pull_Cylinders_EN-US",
-    "remarks": "Max cylinder pull capacity 24 kN (2.7 short ton). Max operating pressure 700 bar. Effective area retract 3.5 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 264 mm."
+    "remarks": "Max cylinder pull capacity 24 kN (2.7 short ton). Max operating pressure 700 bar. Effective area retract 3.5 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 264 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-19",
+    "lead_time_days": 11,
+    "lead_time_url": "https://www.enerpac.com/en-us/brc-series-pull-cylinders/pull-cylinder/BRC25",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3348,7 +3892,11 @@
     "mass_kg": 4.5,
     "datasheet_url": "https://www.enerpac.com/en-us/brc-series-pull-cylinders/pull-cylinder/BRC46",
     "source": "Enerpac en-US product specifications for BRC46; series brochure BRC-BRP-Series_Pull_Cylinders_EN-US",
-    "remarks": "Max cylinder pull capacity 51 kN (5.6 short ton). Max operating pressure 700 bar. Effective area retract 7.3 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 301 mm."
+    "remarks": "Max cylinder pull capacity 51 kN (5.6 short ton). Max operating pressure 700 bar. Effective area retract 7.3 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 301 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-19",
+    "lead_time_days": 11,
+    "lead_time_url": "https://www.enerpac.com/en-us/brc-series-pull-cylinders/pull-cylinder/BRC46",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3369,7 +3917,11 @@
     "mass_kg": 9.5,
     "datasheet_url": "https://www.enerpac.com/en-us/brc-series-pull-cylinders/pull-cylinder/BRC106",
     "source": "Enerpac en-US product specifications for BRC106; series brochure BRC-BRP-Series_Pull_Cylinders_EN-US",
-    "remarks": "Max cylinder pull capacity 105 kN (11.6 short ton). Max operating pressure 700 bar. Effective area retract 15.0 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 289 mm."
+    "remarks": "Max cylinder pull capacity 105 kN (11.6 short ton). Max operating pressure 700 bar. Effective area retract 15.0 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 289 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-20",
+    "lead_time_days": 12,
+    "lead_time_url": "https://www.enerpac.com/en-us/brc-series-pull-cylinders/pull-cylinder/BRC106",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3388,7 +3940,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/brp-series-pull-cylinders/pull-cylinder/BRP106C",
     "source": "Enerpac en-US product specifications for BRP106C–BRP106L; series brochure BRC-BRP-Series_Pull_Cylinders_EN-US",
-    "remarks": "Max cylinder pull capacity 105 kN (11.6 short ton). Max operating pressure 700 bar. Effective area retract 15.8 cm2. Pull cylinder: rated force is on retraction (pulling). Models (stroke mm): BRP106C 150, BRP106L 150. Collapsed height 573-601 mm by stroke."
+    "remarks": "Max cylinder pull capacity 105 kN (11.6 short ton). Max operating pressure 700 bar. Effective area retract 15.8 cm2. Pull cylinder: rated force is on retraction (pulling). Models (stroke mm): BRP106C 150, BRP106L 150. Collapsed height 573-601 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-11-02 across BRP106C–BRP106L (0 of 2 in stock)",
+    "lead_time_days": 25,
+    "lead_time_url": "https://www.enerpac.com/en-us/brp-series-pull-cylinders/pull-cylinder/BRP106C",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3408,7 +3964,11 @@
     "mass_kg": 48.1,
     "datasheet_url": "https://www.enerpac.com/en-us/brp-series-pull-cylinders/pull-cylinder/BRP306",
     "source": "Enerpac en-US product specifications for BRP306; series brochure BRC-BRP-Series_Pull_Cylinders_EN-US",
-    "remarks": "Max cylinder pull capacity 326 kN (35.95 short ton). Max operating pressure 700 bar. Effective area retract 46.4 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 1110 mm."
+    "remarks": "Max cylinder pull capacity 326 kN (35.95 short ton). Max operating pressure 700 bar. Effective area retract 46.4 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 1110 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/brp-series-pull-cylinders/pull-cylinder/BRP306",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3428,7 +3988,11 @@
     "mass_kg": 58.3,
     "datasheet_url": "https://www.enerpac.com/en-us/brp-series-pull-cylinders/pull-cylinder/BRP606",
     "source": "Enerpac en-US product specifications for BRP606; series brochure BRC-BRP-Series_Pull_Cylinders_EN-US",
-    "remarks": "Max cylinder pull capacity 505 kN (55.8 short ton). Max operating pressure 700 bar. Effective area retract 72.1 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 718 mm."
+    "remarks": "Max cylinder pull capacity 505 kN (55.8 short ton). Max operating pressure 700 bar. Effective area retract 72.1 cm2. Pull cylinder: rated force is on retraction (pulling). Collapsed height 718 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-21",
+    "lead_time_days": 13,
+    "lead_time_url": "https://www.enerpac.com/en-us/brp-series-pull-cylinders/pull-cylinder/BRP606",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3447,7 +4011,11 @@
     "mass_kg": 3.0,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT110",
     "source": "Enerpac en-US product specifications for RLT110; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 111 kN (12.5 short ton). Max operating pressure 700 bar. Stage capacities: S1 232 kN/11 mm, S2 111 kN/7 mm; capacity drops in later stages. Oil capacity 48 cm3. Collapsed height 54.5 mm."
+    "remarks": "Max cylinder push capacity 111 kN (12.5 short ton). Max operating pressure 700 bar. Stage capacities: S1 232 kN/11 mm, S2 111 kN/7 mm; capacity drops in later stages. Oil capacity 48 cm3. Collapsed height 54.5 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-22",
+    "lead_time_days": 14,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT110",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3466,7 +4034,11 @@
     "mass_kg": 13.1,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT111",
     "source": "Enerpac en-US product specifications for RLT111; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 111 kN (12.5 short ton). Max operating pressure 700 bar. Stage capacities: S1 727 kN/16 mm, S2 309 kN/13 mm, S3 111 kN/11 mm; capacity drops in later stages. Oil capacity 241 cm3. Collapsed height 89 mm."
+    "remarks": "Max cylinder push capacity 111 kN (12.5 short ton). Max operating pressure 700 bar. Stage capacities: S1 727 kN/16 mm, S2 309 kN/13 mm, S3 111 kN/11 mm; capacity drops in later stages. Oil capacity 241 cm3. Collapsed height 89 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT111",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3485,7 +4057,11 @@
     "mass_kg": 7.6,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT230",
     "source": "Enerpac en-US product specifications for RLT230; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 232 kN (26.1 short ton). Max operating pressure 700 bar. Stage capacities: S1 496 kN/16 mm, S2 232 kN/11 mm; capacity drops in later stages. Oil capacity 150 cm3. Collapsed height 75 mm."
+    "remarks": "Max cylinder push capacity 232 kN (26.1 short ton). Max operating pressure 700 bar. Stage capacities: S1 496 kN/16 mm, S2 232 kN/11 mm; capacity drops in later stages. Oil capacity 150 cm3. Collapsed height 75 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-10-16",
+    "lead_time_days": 8,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT230",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3504,7 +4080,11 @@
     "mass_kg": 17.3,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT231",
     "source": "Enerpac en-US product specifications for RLT231; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 232 kN (26.1 short ton). Max operating pressure 700 bar. Stage capacities: S1 929 kN/16 mm, S2 496 kN/10 mm, S3 232 kN/6 mm; capacity drops in later stages. Oil capacity 303 cm3. Collapsed height 96 mm."
+    "remarks": "Max cylinder push capacity 232 kN (26.1 short ton). Max operating pressure 700 bar. Stage capacities: S1 929 kN/16 mm, S2 496 kN/10 mm, S3 232 kN/6 mm; capacity drops in later stages. Oil capacity 303 cm3. Collapsed height 96 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT231",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3523,7 +4103,11 @@
     "mass_kg": 13.0,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT311",
     "source": "Enerpac en-US product specifications for RLT311; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 309 kN (34.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 727 kN/16 mm, S2 309 kN/13 mm; capacity drops in later stages. Oil capacity 224 cm3. Collapsed height 89 mm."
+    "remarks": "Max cylinder push capacity 309 kN (34.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 727 kN/16 mm, S2 309 kN/13 mm; capacity drops in later stages. Oil capacity 224 cm3. Collapsed height 89 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-12-11",
+    "lead_time_days": 64,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT311",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3542,7 +4126,11 @@
     "mass_kg": 1.8,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT40",
     "source": "Enerpac en-US product specifications for RLT40; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 43 kN (4.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 111 kN/11 mm, S2 43 kN/6 mm; capacity drops in later stages. Oil capacity 21 cm3. Collapsed height 45 mm."
+    "remarks": "Max cylinder push capacity 43 kN (4.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 111 kN/11 mm, S2 43 kN/6 mm; capacity drops in later stages. Oil capacity 21 cm3. Collapsed height 45 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT40",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3561,7 +4149,11 @@
     "mass_kg": 3.1,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT41",
     "source": "Enerpac en-US product specifications for RLT41; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 43 kN (4.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 232 kN/11 mm, S2 111 kN/7 mm, S3 43 kN/5 mm; capacity drops in later stages. Oil capacity 51 cm3. Collapsed height 54 mm."
+    "remarks": "Max cylinder push capacity 43 kN (4.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 232 kN/11 mm, S2 111 kN/7 mm, S3 43 kN/5 mm; capacity drops in later stages. Oil capacity 51 cm3. Collapsed height 54 mm.",
+    "lead_time": "Enerpac US web store (qty 1): built to order, est. ship 2026-11-03",
+    "lead_time_days": 26,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT41",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3580,7 +4172,11 @@
     "mass_kg": 17.3,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT501",
     "source": "Enerpac en-US product specifications for RLT501; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 496 kN (55.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 929 kN/16 mm, S2 496 kN/10 mm; capacity drops in later stages. Oil capacity 283 cm3. Collapsed height 96 mm."
+    "remarks": "Max cylinder push capacity 496 kN (55.8 short ton). Max operating pressure 700 bar. Stage capacities: S1 929 kN/16 mm, S2 496 kN/10 mm; capacity drops in later stages. Oil capacity 283 cm3. Collapsed height 96 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT501",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3599,7 +4195,11 @@
     "mass_kg": 30.4,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT741",
     "source": "Enerpac en-US product specifications for RLT741; series brochure RLT-Series_Low-Height_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 727 kN (81.7 short ton). Max operating pressure 700 bar. Stage capacities: S1 1.407 kN/16 mm, S2 727 kN/10 mm; capacity drops in later stages. Oil capacity 426 cm3. Collapsed height 114 mm."
+    "remarks": "Max cylinder push capacity 727 kN (81.7 short ton). Max operating pressure 700 bar. Stage capacities: S1 1.407 kN/16 mm, S2 727 kN/10 mm; capacity drops in later stages. Oil capacity 426 cm3. Collapsed height 114 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2027-01-15",
+    "lead_time_days": 99,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/low-height-telescopic-cylinder/RLT741",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3618,7 +4218,11 @@
     "mass_kg": 15.1,
     "datasheet_url": "https://www.enerpac.com/en-us/single-acting-cylinders/telescopic-cylinder/RT1510",
     "source": "Enerpac en-US product specifications for RT1510; series brochure RT-Series_Multi_Stage_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 137 kN (15 short ton). Max operating pressure 700 bar. Stage capacities: S1 352 kN/135 mm, S2 137 kN/135 mm; capacity drops in later stages. Oil capacity 944 cm3. Collapsed height 283 mm."
+    "remarks": "Max cylinder push capacity 137 kN (15 short ton). Max operating pressure 700 bar. Stage capacities: S1 352 kN/135 mm, S2 137 kN/135 mm; capacity drops in later stages. Oil capacity 944 cm3. Collapsed height 283 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/single-acting-cylinders/telescopic-cylinder/RT1510",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3637,7 +4241,11 @@
     "mass_kg": 40.3,
     "datasheet_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT1817",
     "source": "Enerpac en-US product specifications for RT1817; series brochure RT-Series_Multi_Stage_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 166 kN (19 short ton). Max operating pressure 700 bar. Stage capacities: S1 929 kN/145 mm, S2 397 kN/145 mm, S3 166 kN/145 mm; capacity drops in later stages. Oil capacity 3092 cm3. Collapsed height 345 mm."
+    "remarks": "Max cylinder push capacity 166 kN (19 short ton). Max operating pressure 700 bar. Stage capacities: S1 929 kN/145 mm, S2 397 kN/145 mm, S3 166 kN/145 mm; capacity drops in later stages. Oil capacity 3092 cm3. Collapsed height 345 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT1817",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3656,7 +4264,11 @@
     "mass_kg": 21.8,
     "datasheet_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT2111",
     "source": "Enerpac en-US product specifications for RT2111; series brochure RT-Series_Multi_Stage_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 198 kN (22 short ton). Max operating pressure 700 bar. Stage capacities: S1 496 kN/150 mm, S2 198 kN/150 mm; capacity drops in later stages. Oil capacity 1487 cm3. Collapsed height 317 mm."
+    "remarks": "Max cylinder push capacity 198 kN (22 short ton). Max operating pressure 700 bar. Stage capacities: S1 496 kN/150 mm, S2 198 kN/150 mm; capacity drops in later stages. Oil capacity 1487 cm3. Collapsed height 317 mm.",
+    "lead_time": "Enerpac US web store (qty 1): in stock, est. ship by 2026-10-09",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT2111",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3675,7 +4287,11 @@
     "mass_kg": 67.3,
     "datasheet_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT2119",
     "source": "Enerpac en-US product specifications for RT2119; series brochure RT-Series_Multi_Stage_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 198 kN (22 short ton). Max operating pressure 700 bar. Stage capacities: S1 1237 kN/170 mm, S2 496 kN/170 mm, S3 198 kN/160 mm; capacity drops in later stages. Oil capacity 4661 cm3. Collapsed height 395 mm."
+    "remarks": "Max cylinder push capacity 198 kN (22 short ton). Max operating pressure 700 bar. Stage capacities: S1 1237 kN/170 mm, S2 496 kN/170 mm, S3 198 kN/160 mm; capacity drops in later stages. Oil capacity 4661 cm3. Collapsed height 395 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT2119",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3694,7 +4310,11 @@
     "mass_kg": 39.9,
     "datasheet_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT3311",
     "source": "Enerpac en-US product specifications for RT3311; series brochure RT-Series_Multi_Stage_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 309 kN (35 short ton). Max operating pressure 700 bar. Stage capacities: S1 792 kN/150 mm, S2 309 kN/150 mm; capacity drops in later stages. Oil capacity 2359 cm3. Collapsed height 352 mm."
+    "remarks": "Max cylinder push capacity 309 kN (35 short ton). Max operating pressure 700 bar. Stage capacities: S1 792 kN/150 mm, S2 309 kN/150 mm; capacity drops in later stages. Oil capacity 2359 cm3. Collapsed height 352 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT3311",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3713,7 +4333,11 @@
     "mass_kg": 124.0,
     "datasheet_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT3323",
     "source": "Enerpac en-US product specifications for RT3323; series brochure RT-Series_Multi_Stage_Telescopic_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 309 kN (35 short ton). Max operating pressure 700 bar. Stage capacities: S1 1985 kN/200 mm, S2 792 kN/200 mm, S3 309 kN/200 mm; capacity drops in later stages. Oil capacity 8816 cm3. Collapsed height 476 mm."
+    "remarks": "Max cylinder push capacity 309 kN (35 short ton). Max operating pressure 700 bar. Stage capacities: S1 1985 kN/200 mm, S2 792 kN/200 mm, S3 309 kN/200 mm; capacity drops in later stages. Oil capacity 8816 cm3. Collapsed height 476 mm.",
+    "lead_time": "Enerpac US web store (qty 1): backorder, est. ship 2026-11-10",
+    "lead_time_days": 33,
+    "lead_time_url": "https://www.enerpac.com/en-us/long-stroke-cylinders/telescopic-cylinder/RT3323",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3738,7 +4362,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD41",
     "source": "Enerpac en-US product specifications for RD41–RD46; series brochure RD-AD-Series_Precision_Production_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 4 short ton (no kN figure listed); 17.4 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 5.1 cm2, retract 2.2 cm2. Models (stroke mm): RD41 28, RD43 79, RD46 155. Collapsed height 186-313 mm by stroke."
+    "remarks": "Max cylinder push capacity 4 short ton (no kN figure listed); 17.4 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 5.1 cm2, retract 2.2 cm2. Models (stroke mm): RD41 28, RD43 79, RD46 155. Collapsed height 186-313 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-02 across RD41–RD46 (1 of 3 in stock); latest RD41",
+    "lead_time_days": 25,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD41",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3764,7 +4392,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD91",
     "source": "Enerpac en-US product specifications for RD91–RD910; series brochure RD-AD-Series_Precision_Production_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 9 short ton (no kN figure listed); 40.0 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 11.4 cm2, retract 6.3 cm2. Models (stroke mm): RD91 28, RD93 79, RD96 155, RD910 257. Collapsed height 223-452 mm by stroke."
+    "remarks": "Max cylinder push capacity 9 short ton (no kN figure listed); 40.0 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 11.4 cm2, retract 6.3 cm2. Models (stroke mm): RD91 28, RD93 79, RD96 155, RD910 257. Collapsed height 223-452 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-25 across RD91–RD910 (1 of 4 in stock); latest RD910",
+    "lead_time_days": 48,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD910",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3788,7 +4420,11 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD166",
     "source": "Enerpac en-US product specifications for RD166–RD1610; series brochure RD-AD-Series_Precision_Production_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 16 short ton (no kN figure listed); 69.0 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 20.3 cm2, retract 10.6 cm2. Models (stroke mm): RD166 159, RD1610 260. Collapsed height 389-491 mm by stroke."
+    "remarks": "Max cylinder push capacity 16 short ton (no kN figure listed); 69.0 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 20.3 cm2, retract 10.6 cm2. Models (stroke mm): RD166 159, RD1610 260. Collapsed height 389-491 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-10-22 across RD166–RD1610 (1 of 2 in stock); latest RD166",
+    "lead_time_days": 14,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD166",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -3812,6 +4448,10 @@
     "max_pressure_bar": 700.0,
     "datasheet_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD256",
     "source": "Enerpac en-US product specifications for RD256–RD2510; series brochure RD-AD-Series_Precision_Production_Cylinders_EN-US",
-    "remarks": "Max cylinder push capacity 25 short ton (no kN figure listed); 109.0 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 31.7 cm2, retract 13.7 cm2. Models (stroke mm): RD256 159, RD2510 260. Collapsed height 424-526 mm by stroke."
+    "remarks": "Max cylinder push capacity 25 short ton (no kN figure listed); 109.0 kN at 350 bar. Max operating pressure 700 bar. Effective area advance 31.7 cm2, retract 13.7 cm2. Models (stroke mm): RD256 159, RD2510 260. Collapsed height 424-526 mm by stroke.",
+    "lead_time": "Enerpac US web store (qty 1): est. ship 2026-10-09 to 2026-11-02 across RD256–RD2510 (1 of 2 in stock); latest RD2510",
+    "lead_time_days": 25,
+    "lead_time_url": "https://www.enerpac.com/en-us/double-acting-cylinders/general-purpose-cylinder/RD2510",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

@@ -29,7 +29,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 140,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 8 of 10 configs In Stock 2026-10-08, Back Order: L16-100-35-6-R, L16-50-35-12-S; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l16-63",
@@ -61,7 +64,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 140,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 8 of 10 configs In Stock 2026-10-08, Back Order: L16-100-63-12-P, L16-50-63-12-S; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l16-150",
@@ -93,7 +99,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 140,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 9 of 10 configs In Stock 2026-10-08, Back Order: L16-100-150-12-P; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l12-50",
@@ -125,7 +134,11 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 25 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l12-100",
@@ -157,7 +170,11 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 25 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l12-210",
@@ -189,7 +206,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 23 of 25 configs In Stock 2026-10-08, Back Order: L12-10-210-12-P, L12-30-210-6-R; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l8-50",
@@ -222,7 +242,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: L8-P and L8-S listed In Stock 2026-10-08 (per-option stock not shown); in-stock items ship within 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/l8",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l8-100",
@@ -255,7 +278,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: L8-P and L8-S listed In Stock 2026-10-08 (per-option stock not shown); in-stock items ship within 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/l8",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-l8-210",
@@ -288,7 +314,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: L8-P and L8-S listed In Stock 2026-10-08 (per-option stock not shown); in-stock items ship within 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/l8",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p8-50",
@@ -321,7 +350,11 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 10 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p8-165",
@@ -354,7 +387,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 9 of 10 configs In Stock 2026-10-08 (P8-25-165-12-P page not public); in-stock items ship within 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p8-252",
@@ -387,7 +423,11 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 100,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 10 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p8-st-49",
@@ -422,7 +462,11 @@
     "stroke_mm": 100,
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "per-phase"
+    "current_condition": "per-phase",
+    "lead_time": "Actuonix store: all 4 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p8-st-165",
@@ -457,7 +501,10 @@
     "stroke_mm": 100,
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "per-phase"
+    "current_condition": "per-phase",
+    "lead_time": "Actuonix store: 4 of 5 configs In Stock 2026-10-08, Back Order: P8-25-165-3-ST; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p16-22",
@@ -489,7 +536,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 200,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 7 of 8 configs In Stock 2026-10-08, Back Order: P16-50-22-12-P; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p16-64",
@@ -521,7 +571,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 200,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 7 of 8 configs In Stock 2026-10-08, Back Order: P16-50-64-12-S; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-p16-256",
@@ -552,7 +605,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 200,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 6 of 8 configs In Stock 2026-10-08, Back Order: P16-100-256-12-S, P16-150-256-12-P; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-t16-22",
@@ -582,7 +638,11 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 300,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 6 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-t16-64",
@@ -612,7 +672,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 300,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 5 of 6 configs In Stock 2026-10-08, Back Order: T16-300-64-12-P; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-t16-256",
@@ -641,7 +704,10 @@
     "retrieved_on": "2026-10-07",
     "stroke_mm": 300,
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 3 of 6 configs In Stock 2026-10-08, Back Order: T16-100-256-12-P, T16-200-256-12-S, T16-300-256-12-P; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-pq12-30",
@@ -667,7 +733,10 @@
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: 4 of 5 configs In Stock 2026-10-08, Back Order: PQ12-30-12-S; in-stock ship in 1-2 days",
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-pq12-63",
@@ -693,7 +762,11 @@
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 5 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-pq12-100",
@@ -719,7 +792,11 @@
     "manufacturer": "Actuonix Motion Devices",
     "retrieved_on": "2026-10-07",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Actuonix store: all 5 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "actuonix-s20-38",
@@ -752,6 +829,10 @@
     "stroke_mm": 100,
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "per-phase"
+    "current_condition": "per-phase",
+    "lead_time": "Actuonix store: all 4 matching configs In Stock 2026-10-08; in-stock items ship within 1-2 days (shipping policy)",
+    "lead_time_days": 2,
+    "lead_time_url": "https://www.actuonix.com/shipping-and-returns.html",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

@@ -27,7 +27,10 @@
     ],
     "datasheet_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
     "source": "Prince Manufacturing product catalog (PrinceCatalog.pdf), The Royal Line 2500 PSI Welded-DA table",
-    "remarks": "Bore 2 1/2 in, rod 1 3/8 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-5408..PMC-5442, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 42 in. Column load (lb) is FULL PSI up to 24 in stroke; longer: 30 in 8,975 lb; 32 in 8,000 lb; 36 in 6,475 lb; 42 in 4,870 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted)."
+    "remarks": "Bore 2 1/2 in, rod 1 3/8 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-5408..PMC-5442, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 42 in. Column load (lb) is FULL PSI up to 24 in stroke; longer: 30 in 8,975 lb; 32 in 8,000 lb; 36 in 6,475 lb; 42 in 4,870 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted).",
+    "lead_time": "Prince catalog p.C4 (CATC 4-11-23-01): 9 of 10 models marked 'frequently stocked items' (not PMC-5414); ship time not stated",
+    "lead_time_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -59,7 +62,10 @@
     ],
     "datasheet_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
     "source": "Prince Manufacturing product catalog (PrinceCatalog.pdf), The Royal Line 2500 PSI Welded-DA table",
-    "remarks": "Bore 3 in, rod 1 1/2 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-8308..PMC-8348, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 40, 42, 48 in. Column load (lb) is FULL PSI up to 24 in stroke; longer: 30 in 13,000 lb; 32 in 11,540 lb; 36 in 9,320 lb; 40 in 7,660 lb; 42 in 7,020 lb; 48 in 5,460 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted)."
+    "remarks": "Bore 3 in, rod 1 1/2 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-8308..PMC-8348, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 40, 42, 48 in. Column load (lb) is FULL PSI up to 24 in stroke; longer: 30 in 13,000 lb; 32 in 11,540 lb; 36 in 9,320 lb; 40 in 7,660 lb; 42 in 7,020 lb; 48 in 5,460 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted).",
+    "lead_time": "Prince catalog p.C4 (CATC 4-11-23-01): 9 of 12 models marked 'frequently stocked items' (not PMC-8314, -8332, -8340); ship time not stated",
+    "lead_time_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -91,7 +97,10 @@
     ],
     "datasheet_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
     "source": "Prince Manufacturing product catalog (PrinceCatalog.pdf), The Royal Line 2500 PSI Welded-DA table",
-    "remarks": "Bore 3 1/2 in, rod 1 1/2 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-5508..PMC-5548, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 40, 42, 48 in. Column load (lb) is FULL PSI up to 20 in stroke; longer: 24 in 20,210 lb; 30 in 13,540 lb; 32 in 12,040 lb; 36 in 9,700 lb; 40 in 7,975 lb; 42 in 7,300 lb; 48 in 5,680 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted)."
+    "remarks": "Bore 3 1/2 in, rod 1 1/2 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-5508..PMC-5548, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 40, 42, 48 in. Column load (lb) is FULL PSI up to 20 in stroke; longer: 24 in 20,210 lb; 30 in 13,540 lb; 32 in 12,040 lb; 36 in 9,700 lb; 40 in 7,975 lb; 42 in 7,300 lb; 48 in 5,680 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted).",
+    "lead_time": "Prince catalog p.C4 (CATC 4-11-23-01): 7 of 12 models marked 'frequently stocked items' (not PMC-5514, -5532, -5540, -5542, -5548); ship time not stated",
+    "lead_time_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",
@@ -124,6 +133,9 @@
     ],
     "datasheet_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
     "source": "Prince Manufacturing product catalog (PrinceCatalog.pdf), The Royal Line 2500 PSI Welded-DA table",
-    "remarks": "Bore 4 in, rod 2 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-5608..PMC-5660, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 40, 42, 48, 60 in. Column load (lb) is FULL PSI up to 32 in stroke; longer: 36 in 28,710 lb; 40 in 23,700 lb; 42 in 21,680 lb; 48 in 16,930 lb; 60 in 11,160 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted)."
+    "remarks": "Bore 4 in, rod 2 in. Table PSI 2500 (Royal Line 2500 PSI). Models PMC-5608..PMC-5660, strokes 8, 12, 14, 16, 20, 24, 30, 32, 36, 40, 42, 48, 60 in. Column load (lb) is FULL PSI up to 32 in stroke; longer: 36 in 28,710 lb; 40 in 23,700 lb; 42 in 21,680 lb; 48 in 16,930 lb; 60 in 11,160 lb. Welded double-acting, crosstube ends. Weight column unit not labeled (omitted).",
+    "lead_time": "Prince catalog p.C4 (CATC 4-11-23-01): 12 of 13 models marked 'frequently stocked items' (not PMC-5614); ship time not stated",
+    "lead_time_url": "https://www.princehyd.com/portals/0/literature/PrinceCatalog.pdf",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

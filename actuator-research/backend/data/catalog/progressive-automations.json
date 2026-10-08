@@ -27,7 +27,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.7 in/s (17.78 mm/s); max speed is no-load. Full-load current <= 0.2 A at 12 V. Mass at 4 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. No-load current <= 80 mA.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 3 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc3",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc3-18lb",
@@ -57,7 +61,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.26 in/s (6.604 mm/s); max speed is no-load. Full-load current <= 0.2 A at 12 V. Mass at 4 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. No-load current <= 80 mA.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 3 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc3",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc3-27lb",
@@ -87,7 +95,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.17 in/s (4.318 mm/s); max speed is no-load. Full-load current <= 0.2 A at 12 V. Mass at 4 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. No-load current <= 80 mA.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 3 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc3",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc2-9lb",
@@ -119,7 +131,10 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.02 in/s (25.91 mm/s); max speed is no-load. Full-load current <= 0.65 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. PWM speed control compatible.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: 3 of 4 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc2",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc2-18lb",
@@ -151,7 +166,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.43 in/s (10.92 mm/s); max speed is no-load. Full-load current <= 0.5 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. PWM speed control compatible.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 4 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc2",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc2-56lb",
@@ -183,7 +202,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.12 in/s (3.048 mm/s); max speed is no-load. Full-load current <= 0.5 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. PWM speed control compatible.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 4 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc2",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-8lb",
@@ -217,7 +240,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.18 in/s (29.97 mm/s); max speed is no-load. Full-load current <= 0.7 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-11lb",
@@ -251,7 +278,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.75 in/s (19.05 mm/s); max speed is no-load. Full-load current <= 0.55 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-17lb",
@@ -285,7 +316,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.51 in/s (12.95 mm/s); max speed is no-load. Full-load current <= 0.5 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-39lb",
@@ -319,7 +354,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.24 in/s (6.096 mm/s); max speed is no-load. Full-load current <= 0.6 A at 12 V. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-pot-8lb",
@@ -352,7 +391,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.12 in/s (28.45 mm/s); max speed is no-load. Full-load current <= 0.8 A at 12 V. Static force published as >= 4.5 lbf. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1-pot",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-pot-17lb",
@@ -385,7 +428,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.45 in/s (11.43 mm/s); max speed is no-load. Full-load current <= 0.55 A at 12 V. Static force published as >= 13.5 lbf. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1-pot",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-mc1-pot-39lb",
@@ -418,7 +465,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.24 in/s (6.096 mm/s); max speed is no-load. Full-load current <= 0.7 A at 12 V. Static force published as >= 31.0 lbf. Mass at 8 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-mc1-pot",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-07-5lb",
@@ -453,7 +504,10 @@
     "remarks": "Full-load speed 0.55 in/s (13.97 mm/s); max speed is no-load. Full-load current 0.2 A at 12 V. Mass at 12 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Duty cycle published as 10% to 20%. Duty cycle published as a range, 10% to 20%.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 5 of 6 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-07",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-16lb",
@@ -488,7 +542,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 2.66 in/s (67.56 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 2.95 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 7 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-28lb",
@@ -525,7 +583,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.38 in/s (35.05 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 12 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 1.5 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 9 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-56lb",
@@ -564,7 +626,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.02 in/s (25.91 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 1.14 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 11 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-112lb",
@@ -597,7 +663,10 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.67 in/s (17.02 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 12 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.71 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: 4 of 5 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-169lb",
@@ -637,7 +706,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.3 in/s (7.62 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 30 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.31 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 12 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-225lb",
@@ -670,7 +743,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 12 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.2 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 5 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-hall-16lb",
@@ -707,7 +784,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 2.66 in/s (67.56 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 2.95 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 9 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-ip65-mini-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-hall-56lb",
@@ -744,7 +825,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.02 in/s (25.91 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 1.14 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 9 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-ip65-mini-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-hall-169lb",
@@ -780,7 +865,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.3 in/s (7.62 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.31 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: all 8 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-ip65-mini-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-hall-225lb",
@@ -851,7 +940,10 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 1.02 in/s (25.91 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 1.14 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: 6 of 8 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01-pot",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-01-pot-169lb",
@@ -887,7 +979,10 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.3 in/s (7.62 mm/s); max speed is no-load. Full-load current <= 4 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. 24 VDC version: same force/no-load speed, full-load 0.31 in/s, <= 2 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: 7 of 8 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-01-pot",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-14-35lb",
@@ -930,7 +1025,10 @@
     "remarks": "Full-load speed 1.38 in/s (35.05 mm/s); max speed is no-load. Full-load current 5.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Page stroke range 1-40 in.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 11 of 13 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-14",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-14-50lb",
@@ -970,7 +1068,11 @@
     "remarks": "Full-load speed 0.83 in/s (21.08 mm/s); max speed is no-load. Full-load current 5.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 2.5 A full load. Page stroke range 1-40 in.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 10 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-14",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-14-150lb",
@@ -1009,7 +1111,11 @@
     "remarks": "Full-load speed 0.28 in/s (7.112 mm/s); max speed is no-load. Full-load current 5.0 A at 12 V. Mass at 30 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 2.5 A full load. Page stroke range 1-40 in.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 9 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-14",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-14p-35lb",
@@ -1043,7 +1149,11 @@
     "remarks": "Full-load speed 1.38 in/s (35.05 mm/s); max speed is no-load. Full-load current 5.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 4 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/linear-actuator-with-potentiometer",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-14p-50lb",
@@ -1078,7 +1188,11 @@
     "remarks": "Full-load speed 0.83 in/s (21.08 mm/s); max speed is no-load. Full-load current 5.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 5 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/linear-actuator-with-potentiometer",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-14p-150lb",
@@ -1110,7 +1224,11 @@
     "remarks": "Full-load speed 0.28 in/s (7.112 mm/s); max speed is no-load. Full-load current 5.0 A at 12 V. Mass at 10 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 2 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/linear-actuator-with-potentiometer",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-09-330lb",
@@ -1150,7 +1268,11 @@
     "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 4.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 3.0 A full load.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 10 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/mini-medium-force-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-09-hall-330lb",
@@ -1187,7 +1309,10 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current <= 4.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, <= 3 A full load.",
     "peak_basis": "max-load",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "Progressive Automations: 8 of 9 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-pa-09",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-10-450lb-12v",
@@ -1228,7 +1353,11 @@
     "remarks": "Full-load speed 0.16 in/s (4.064 mm/s); max speed is no-load. Full-load current 6.0 A at 12 V. Mass at 36 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Salt-spray-rated option also listed.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 11 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-10",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-10-450lb-24v",
@@ -1266,7 +1395,11 @@
     "remarks": "Full-load speed 0.33 in/s (8.382 mm/s); max speed is no-load. Full-load current 4.0 A at 24 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 8 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-10",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-10-hall-450lb-12v",
@@ -1304,7 +1437,11 @@
     "remarks": "Full-load speed 0.16 in/s (4.064 mm/s); max speed is no-load. Full-load current 6.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 8 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-10-hall",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-10-hall-450lb-24v",
@@ -1342,7 +1479,11 @@
     "remarks": "Full-load speed 0.33 in/s (8.382 mm/s); max speed is no-load. Full-load current 4.0 A at 24 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 8 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-10-hall",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-03-200lb",
@@ -1378,7 +1519,11 @@
     "remarks": "Full-load speed 0.86 in/s (21.84 mm/s); max speed is no-load. Full-load current 9.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-03",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-03-600lb",
@@ -1415,7 +1560,11 @@
     "remarks": "Full-load speed 0.19 in/s (4.826 mm/s); max speed is no-load. Full-load current 7.6 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 7 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-03",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-04-100lb",
@@ -1459,7 +1608,10 @@
     "remarks": "Full-load speed 2.16 in/s (54.86 mm/s); max speed is no-load. Full-load current 12.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 6.0 A full load.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 12 of 14 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/linear-actuator-ip66",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-04-400lb",
@@ -1505,7 +1657,11 @@
     "remarks": "Full-load speed 0.78 in/s (19.81 mm/s); max speed is no-load. Full-load current 12.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 16 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/linear-actuator-ip66",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-04-hall-400lb",
@@ -1546,7 +1702,10 @@
     "remarks": "Full-load speed 0.35 in/s (8.89 mm/s); max speed is no-load. Full-load current 8.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 4 A full load.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 9 of 11 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/hall-effect-sensor-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-04-hall-900lb",
@@ -1582,7 +1741,10 @@
     "remarks": "Full-load speed 0.16 in/s (4.064 mm/s); max speed is no-load. Full-load current 7.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: 0.27 in/s no load, 0.16 in/s full load, 4 A full load.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 5 of 6 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/hall-effect-sensor-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd1-450lb",
@@ -1645,7 +1807,10 @@
     "remarks": "Full-load speed 0.55 in/s (13.97 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 10.0 A full load. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: no matching variants in stock 2026-10-08 (back-order; time not stated)",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd1-1574lb",
@@ -1710,7 +1875,11 @@
     "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 10.0 A at 24 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 3 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-high-load-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd2-450lb",
@@ -1750,7 +1919,11 @@
     "remarks": "Full-load speed 1.5 in/s (38.1 mm/s); max speed is no-load. Full-load current 18.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 9.0 A full load. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 10 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd2",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd2-899lb",
@@ -1790,7 +1963,10 @@
     "remarks": "Full-load speed 0.71 in/s (18.03 mm/s); max speed is no-load. Full-load current 17.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 8.5 A full load. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 8 of 10 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd2",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd2-2023lb",
@@ -1830,7 +2006,10 @@
     "remarks": "Full-load speed 0.24 in/s (6.096 mm/s); max speed is no-load. Full-load current 14.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 7.0 A full load. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 9 of 10 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd2",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd2-hall-2023lb",
@@ -1868,7 +2047,10 @@
     "remarks": "Full-load speed 0.24 in/s (6.096 mm/s); max speed is no-load. Full-load current 14.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 7.0 A full load. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 7 of 8 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd2-hs",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-17-850lb",
@@ -1913,7 +2095,11 @@
     "remarks": "Full-load speed 0.55 in/s (13.97 mm/s); max speed is no-load. Full-load current 20.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 15 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/heavy-duty-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-17-2000lb",
@@ -1957,7 +2143,11 @@
     "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 20.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 10.0 A full load. Mechanical slip clutch.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 14 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/heavy-duty-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-17-pot-2000lb",
@@ -1995,7 +2185,10 @@
     "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 20.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 10.0 A full load.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 7 of 8 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-heavy-duty-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd3b-3822lb",
@@ -2032,7 +2225,11 @@
     "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current 17.3 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 11.0 A full load. Electrical shutoff at 25 A (12 V) / 15 A (24 V).",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 7 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd3",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-hd3a-hall-2698lb",
@@ -2069,7 +2266,11 @@
     "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current 20.8 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 24 VDC: same speeds, 11.0 A full load. ACME screw per variant label. Electrical shutoff at 25 A (12 V) / 15 A (24 V).",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 7 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-hd3a",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-13-3000lb",
@@ -2110,7 +2311,11 @@
     "remarks": "Full-load speed 0.16 in/s (4.064 mm/s); max speed is no-load. Full-load current 20.0 A at 12 V. Mass at 40 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 11 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/high-force-industrial-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-13-720lb",
@@ -2147,7 +2352,10 @@
     "remarks": "Full-load speed 0.91 in/s (23.11 mm/s); max speed is no-load. Full-load current 20.0 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 6 of 7 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/high-force-industrial-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-st4-45lb",
@@ -2185,7 +2393,11 @@
     "remarks": "Full-load speed 0.31 in/s (7.874 mm/s); max speed is no-load. Full-load current 1.3 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 8 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-st4",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-st5-22lb",
@@ -2219,7 +2431,11 @@
     "remarks": "Full-load speed 0.2 in/s (5.08 mm/s); max speed is no-load. Full-load current 0.16 A at 12 V. Mass at 3.9 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 4 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-st5",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-st1-56lb",
@@ -2260,7 +2476,10 @@
     "remarks": "Full-load speed 4.72 in/s (119.9 mm/s); max speed is no-load. Full-load current 9.5 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: 10 of 11 matching variants in stock 2026-10-08 (ships within 24 hours); others back-order, time not stated",
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-st1",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-06-22lb",
@@ -2295,7 +2514,11 @@
     "remarks": "Full-load speed 1.18 in/s (29.97 mm/s); max speed is no-load. Full-load current 2.5 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 5 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/waterproof-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-06-180lb",
@@ -2333,7 +2556,11 @@
     "remarks": "Full-load speed 0.27 in/s (6.858 mm/s); max speed is no-load. Full-load current 3.7 A at 12 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 8 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/waterproof-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-12-t-1p34lb",
@@ -2364,7 +2591,11 @@
     "remarks": "Full-load speed 0.94 in/s (23.88 mm/s); max speed is no-load. Full-load current 0.46 A at 7.4 V. Mass at 1.06 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 12 VDC: same force/no-load speed, full-load 0.99 in/s, 0.33 A full load. Cored DC motor.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: the only matching variant is in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/micro-servo-actuator-ttl",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-12-t-2p69lb",
@@ -2395,7 +2626,11 @@
     "remarks": "Full-load speed 0.35 in/s (8.89 mm/s); max speed is no-load. Full-load current 0.46 A at 7.4 V. Mass at 1.06 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Also 12 VDC: same force/no-load speed, full-load 0.41 in/s, 0.33 A full load. Cored DC motor.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: the only matching variant is in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/micro-servo-actuator-ttl",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-12-r-4p5lb",
@@ -2426,7 +2661,11 @@
     "remarks": "Full-load speed 2.67 in/s (67.82 mm/s); max speed is no-load. Full-load current 2.3 A at 12 V. Mass at 1.06 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Coreless DC motor.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: the only matching variant is in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/micro-servo-actuator-rs485",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-12-r-22p48lb",
@@ -2457,7 +2696,11 @@
     "remarks": "Full-load speed 0.25 in/s (6.35 mm/s); max speed is no-load. Full-load current 2.3 A at 12 V. Mass at 1.06 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Coreless DC motor.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: the only matching variant is in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/micro-servo-actuator-rs485",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-12-r-3p82lb",
@@ -2488,7 +2731,11 @@
     "remarks": "Full-load speed 2.67 in/s (67.82 mm/s); max speed is no-load. Full-load current 2.3 A at 12 V. Mass at 2.2 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Coreless DC motor.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: the only matching variant is in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/micro-servo-actuator-rs485",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-12-r-17p5lb",
@@ -2519,7 +2766,11 @@
     "remarks": "Full-load speed 0.26 in/s (6.604 mm/s); max speed is no-load. Full-load current 2.3 A at 12 V. Mass at 2.2 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Coreless DC motor.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: the only matching variant is in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/micro-servo-actuator-rs485",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-18-150lb",
@@ -2558,7 +2809,11 @@
     "remarks": "Full-load speed 0.98 in/s (24.89 mm/s); max speed is no-load. Full-load current 8.0 A at 12 V. Mass at 60 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 9 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/track-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-18-hall-337lb",
@@ -2591,7 +2846,11 @@
     "remarks": "Full-load speed 0.51 in/s (12.95 mm/s); max speed is no-load. Full-load current 8.0 A at 12 V. Mass at 60 in stroke. Price is lowest store listing for this rating; strokes are store-listed options. Spec table 337 lbf; store variant label 340 lbs.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 3 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/feedback-track-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-ts1-270lb",
@@ -2623,7 +2882,11 @@
     "remarks": "Full-load speed 0.39 in/s (9.906 mm/s); max speed is no-load. Full-load current 4.5 A at 24 V. Mass at 24 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 2 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/telescopic-linear-actuator",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "progressive-automations-pa-qr1-675lb",
@@ -2659,6 +2922,10 @@
     "remarks": "Full-load speed 0.22 in/s (5.588 mm/s); max speed is no-load. Full-load current 6.0 A at 12 V. Mass at 14 in stroke. Price is lowest store listing for this rating; strokes are store-listed options.",
     "peak_basis": "max-load",
     "speed_condition": "no-load",
-    "current_condition": "full-load"
+    "current_condition": "full-load",
+    "lead_time": "Progressive Automations: all 6 matching variants in stock 2026-10-08, product page says ships within 24 hours",
+    "lead_time_days": 1,
+    "lead_time_url": "https://www.progressiveautomations.com/products/pa-qr1",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

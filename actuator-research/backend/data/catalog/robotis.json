@@ -19,7 +19,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.215 N·m at 5 V, 1.47 A stall current; max_speed is no-load at 5 V. Gear ratio 77.5:1. Input 3.7-6.0 V. Other: 0.18 N·m/1.11 A/278 rpm @ 3.7 V; 0.228 N·m/1.74 A/456 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL330-M077-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xl330-m077-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xl330-m288",
@@ -41,7 +45,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.52 N·m at 5 V, 1.47 A stall current; max_speed is no-load at 5 V. Gear ratio 288.4:1. Input 3.7-6.0 V. Other: 0.42 N·m/1.11 A/76 rpm @ 3.7 V; 0.6 N·m/1.74 A/123 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL330-M288-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xl330-m288-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xl430-w250",
@@ -63,7 +71,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 1.4 N·m at 11.1 V, 1.3 A stall current; max_speed is no-load at 11.1 V. Gear ratio 258.5:1. Input 6.5-12.0 V. Other: 1 N·m/1 A/47 rpm @ 9 V; 1.5 N·m/1.4 A/61 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL430-W250-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xl430-w250-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-2xl430-w250",
@@ -85,7 +97,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Dual-axis unit (2 outputs, mass is whole unit). Stall 1.4 N·m at 11.1 V, 1.3 A stall current; max_speed is no-load at 11.1 V. Gear ratio 257.4:1. Input 6.5-12.0 V. Other: 1 N·m/1 A/47 rpm @ 9 V; 1.5 N·m/1.4 A/61 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for 2XL430-W250-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-2xl430-w250-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xl320",
@@ -107,7 +123,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.39 N·m at 7.4 V, 1.1 A stall current; max_speed is no-load at 7.4 V. Gear ratio 238:1. Input 6-8.4 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XL-320.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/robotis-miniintl",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc330-t288",
@@ -129,7 +149,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.92 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 288.35:1. Input 6.5-12.0 V. Other: 0.76 N·m/0.61 A/52 rpm @ 9 V; 1 N·m/0.88 A/71 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-T288-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc330-t288-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc330-t181",
@@ -151,7 +175,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.76 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 180.62:1. Input 6.5-12.0 V. Other: 0.65 N·m/0.61 A/83 rpm @ 9 V; 0.8 N·m/0.88 A/113 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-T181-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc330-t181-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc330-m181",
@@ -173,7 +201,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.6 N·m at 5 V, 1.8 A stall current; max_speed is no-load at 5 V. Gear ratio 180.62:1. Input 3.7-6.0 V. Other: 0.52 N·m/1.34 A/95 rpm @ 3.7 V; 0.66 N·m/2.15 A/155 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-M181-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc330-m181-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc330-m288",
@@ -195,7 +227,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 0.93 N·m at 5 V, 1.8 A stall current; max_speed is no-load at 5 V. Gear ratio 288.35:1. Input 3.7-6.0 V. Other: 0.69 N·m/1.34 A/59 rpm @ 3.7 V; 1.1 N·m/2.15 A/97 rpm @ 6 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC330-M288-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc330-m288-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc430-w150",
@@ -217,7 +253,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 1.6 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 159.59:1. Input 6.5-14.8 V. Other: 1.2 N·m/1.1 A/80 rpm @ 9 V; 1.4 N·m/1.3 A/99 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-W150-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc430-w150-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc430-w240",
@@ -239,7 +279,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 1.9 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 245.22:1. Input 6.5-14.8 V. Other: 1.4 N·m/1.1 A/52 rpm @ 9 V; 1.7 N·m/1.3 A/65 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-W240-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc430-w240-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc430-t150bb",
@@ -261,7 +305,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 1.6 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 159.59:1. Input 6.5-14.8 V. Other: 1.2 N·m/1.1 A/80 rpm @ 9 V; 1.4 N·m/1.3 A/99 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-T150BB-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc430-t150bb-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xc430-t240bb",
@@ -283,7 +331,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 1.9 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 245.22:1. Input 6.5-14.8 V. Other: 1.4 N·m/1.1 A/52 rpm @ 9 V; 1.7 N·m/1.3 A/65 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XC430-T240BB-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xc430-t240bb-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-2xc430-w250",
@@ -305,7 +357,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Dual-axis unit (2 outputs, mass is whole unit). Stall 1.8 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 257.4:1. Input 6.5-14.8 V. Other: 1.3 N·m/1.1 A/48 rpm @ 9 V; 1.6 N·m/1.3 A/59 rpm @ 11.1 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for 2XC430-W250-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-2xc430-w250-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xm430-w210",
@@ -327,7 +383,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 3 N·m at 12 V, 2.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.7 N·m/2.1 A/70 rpm @ 11.1 V; 3.7 N·m/2.7 A/95 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM430-W210-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xm430-w210-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xm430-w350",
@@ -349,7 +409,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 4.1 N·m at 12 V, 2.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.8 N·m/2.1 A/43 rpm @ 11.1 V; 4.8 N·m/2.7 A/57 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM430-W350-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xm430-w350-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xm335-t323",
@@ -371,7 +435,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 1.03 N·m at 11.1 V, 0.8 A stall current; max_speed is no-load at 11.1 V. Gear ratio 323.04:1. Input 6.5-12.0 V. Other: 0.85 N·m/0.61 A/43 rpm @ 9 V; 1.12 N·m/0.88 A/57 rpm @ 12 V. TTL multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM335-T323-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/xm335-t323-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xm540-w150",
@@ -393,7 +461,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 7.3 N·m at 12 V, 4.4 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.9 N·m/4.2 A/50 rpm @ 11.1 V; 8.9 N·m/5.5 A/66 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM540-W150-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xm540-w150-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xm540-w270",
@@ -415,7 +487,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 10.6 N·m at 12 V, 4.4 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 10 N·m/4.2 A/28 rpm @ 11.1 V; 12.9 N·m/5.5 A/37 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XM540-W270-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xm540-w270-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh430-w210",
@@ -437,7 +513,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 2.5 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.2 N·m/1.2 A/46 rpm @ 11.1 V; 3.1 N·m/1.5 A/62 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-W210-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh430-w210-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh430-w350",
@@ -459,7 +539,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 3.4 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.1 N·m/1.2 A/27 rpm @ 11.1 V; 4.2 N·m/1.5 A/37 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-W350-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh430-w350-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh430-v210",
@@ -481,7 +565,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 2.6 N·m at 24 V, 0.7 A stall current; max_speed is no-load at 24 V. Gear ratio 212.6:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-V210-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh430-v210-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh430-v350",
@@ -503,7 +591,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 3.3 N·m at 24 V, 0.7 A stall current; max_speed is no-load at 24 V. Gear ratio 353.5:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH430-V350-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh430-v350-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh540-w150",
@@ -525,7 +617,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 7.1 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.6 N·m/4.5 A/66 rpm @ 11.1 V; 8.5 N·m/5.9 A/86 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-W150-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh540-w150-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh540-w270",
@@ -547,7 +643,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 9.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 9.2 N·m/4.5 A/36 rpm @ 11.1 V; 11.7 N·m/5.9 A/46 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-W270-T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh540-w270-t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh540-v150",
@@ -569,7 +669,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 6.4 N·m at 24 V, 2.4 A stall current; max_speed is no-load at 24 V. Gear ratio 152.3:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-V150-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh540-v150-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xh540-v270",
@@ -591,7 +695,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 9.2 N·m at 24 V, 2.4 A stall current; max_speed is no-load at 24 V. Gear ratio 272.5:1. Input 24 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XH540-V270-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xh540-v270-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xd430-t210",
@@ -613,7 +721,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 2.5 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 212.6:1. Input 10.0-14.8 V. Other: 2.2 N·m/1.2 A/46 rpm @ 11.1 V; 3.1 N·m/1.5 A/62 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD430-T210-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xd430-t210-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xd430-t350",
@@ -635,7 +747,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 3.4 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 353.5:1. Input 10.0-14.8 V. Other: 3.1 N·m/1.2 A/27 rpm @ 11.1 V; 4.2 N·m/1.5 A/37 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD430-T350-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xd430-t350-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xd540-t150",
@@ -657,7 +773,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 7.1 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 152.3:1. Input 10.0-14.8 V. Other: 6.6 N·m/4.5 A/66 rpm @ 11.1 V; 8.5 N·m/5.9 A/86 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD540-T150-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xd540-t150-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xd540-t270",
@@ -679,7 +799,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 9.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 272.5:1. Input 10.0-14.8 V. Other: 9.2 N·m/4.5 A/36 rpm @ 11.1 V; 11.7 N·m/5.9 A/46 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XD540-T270-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xd540-t270-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xw430-t200",
@@ -702,7 +826,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 2.3 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 200.1:1. Input 10.0-14.8 V. Other: 2.1 N·m/1.2 A/49 rpm @ 11.1 V; 2.7 N·m/1.5 A/66 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW430-T200-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xw430-t200-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xw430-t333",
@@ -725,7 +853,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 3.1 N·m at 12 V, 1.3 A stall current; max_speed is no-load at 12 V. Gear ratio 332.8:1. Input 10.0-14.8 V. Other: 2.9 N·m/1.2 A/29 rpm @ 11.1 V; 3.6 N·m/1.5 A/39 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW430-T333-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xw430-t333-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xw540-t140",
@@ -748,7 +880,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 6.9 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 145.6:1. Input 10.0-14.8 V. Other: 6.4 N·m/4.5 A/67 rpm @ 11.1 V; 8.3 N·m/5.9 A/88 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW540-T140-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xw540-t140-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-xw540-t260",
@@ -771,7 +907,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 9.5 N·m at 12 V, 4.9 A stall current; max_speed is no-load at 12 V. Gear ratio 260.6:1. Input 10.0-14.8 V. Other: 8.8 N·m/4.5 A/37 rpm @ 11.1 V; 11.2 N·m/5.9 A/48 rpm @ 14.8 V. RS-485 multidrop, DYNAMIXEL Protocol. Price: robotis.us list for XW540-T260-R.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-xw540-t260-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-mx-106-2",
@@ -793,7 +933,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 8.4 N·m at 12 V, 5.2 A stall current; max_speed is no-load at 12 V. Gear ratio 225:1. Input 10.0-14.8 V. Other: 8 N·m/4.8 A/41 rpm @ 11.1 V; 10 N·m/6.3 A/55 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-106T.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-mx-106t",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-mx-64-2",
@@ -815,7 +959,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 6 N·m at 12 V, 4.1 A stall current; max_speed is no-load at 12 V. Gear ratio 200:1. Input 10.0-14.8 V. Other: 5.5 N·m/3.9 A/58 rpm @ 11.1 V; 7.3 N·m/5.2 A/78 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-64AT.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-mx-64at",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-mx-28-2",
@@ -837,7 +985,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "Stall 2.5 N·m at 12 V, 1.4 A stall current; max_speed is no-load at 12 V. Gear ratio 193:1. Input 10.0-14.8 V. Other: 2.3 N·m/1.3 A/50 rpm @ 11.1 V; 3.1 N·m/1.7 A/67 rpm @ 14.8 V. TTL (-T) or RS-485 (-R) multidrop, DYNAMIXEL Protocol. Price: robotis.us list for MX-28AT.",
     "peak_basis": "stall",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-mx-28at",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-mx-12w",
@@ -881,7 +1033,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 44.7 N·m at 29.0 [rev/min], 9.3 A . max_speed is no-load. Motor: BLDC (Maxon), output 200 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
     "continuous_basis": "continuous",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-ph54-200-s500-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-ph54-100-s500-r",
@@ -904,7 +1060,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 25.3 N·m at 29.2 [rev/min], 5.5 A . max_speed is no-load. Motor: BLDC (Maxon), output 100 [W]. Gear ratio 501.923:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
     "continuous_basis": "continuous",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-ph54-100-s500-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-ph42-020-s300-r",
@@ -927,7 +1087,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 5.1 N·m at 29.2 [rev/min], 1.5 A . max_speed is no-load. Motor: Coreless (Maxon), output 20 [W]. Gear ratio 303.75:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
     "continuous_basis": "continuous",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-ph42-020-s300-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-pm54-060-s250-r",
@@ -950,7 +1114,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 10.1 N·m at 28.3 [rev/min], 3 A . max_speed is no-load. Motor: BLDC (Maxon), output 60 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
     "continuous_basis": "continuous",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-pm54-060-s250-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-pm54-040-s250-r",
@@ -973,7 +1141,11 @@
     "retrieved_on": "2026-10-07",
     "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 3.9 N·m at 24.2 [rev/min], 1.9 A . max_speed is no-load. Motor: BLDC (Maxon), output 40 [W]. Gear ratio 251.417:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
     "continuous_basis": "continuous",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-pm54-040-s250-r",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "robotis-pm42-010-s260-r",
@@ -996,6 +1168,10 @@
     "retrieved_on": "2026-10-07",
     "remarks": "No stall/peak torque published (only an N-T graph image); Peak torque unlisted. Continuous torque 1.7 N·m at 26.0 [rev/min], 0.6 A . max_speed is no-load. Motor: Coreless (Maxon), output 10 [W]. Gear ratio 257.019:1. RS-485, DYNAMIXEL Protocol 2.0. Price: robotis.us list.",
     "continuous_basis": "continuous",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "ROBOTIS.US: listed in stock; ships within 2 business days (store shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://robotis.us/products/dynamixel-pm42-010-s260-r",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

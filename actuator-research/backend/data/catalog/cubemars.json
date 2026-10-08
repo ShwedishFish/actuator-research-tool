@@ -24,7 +24,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 0.0001002
+    "rotor_inertia_kgm2": 0.0001002,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak10-9-v2-0-kv60-24v",
@@ -50,7 +53,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak10-9-v2-0-kv60-48v",
@@ -76,7 +82,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak80-9-v3-0-kv100",
@@ -103,7 +112,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 0.00011183238
+    "rotor_inertia_kgm2": 0.00011183238,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak80-8-kv60",
@@ -129,7 +141,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak40-10-v3-0-kv170",
@@ -156,7 +171,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 9.735e-06
+    "rotor_inertia_kgm2": 9.735e-06,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak80-6-kv100",
@@ -182,7 +200,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak45-36-v3-0-kv80",
@@ -209,7 +230,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 1.819e-05
+    "rotor_inertia_kgm2": 1.819e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak45-10-v3-0-kv75",
@@ -236,7 +260,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 1.5733e-05
+    "rotor_inertia_kgm2": 1.5733e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak80-64-kv80-24v",
@@ -262,7 +289,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak80-64-kv80-48v",
@@ -288,7 +318,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak70-10-kv100-24v",
@@ -314,7 +347,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak70-10-kv100-48v",
@@ -340,7 +376,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-akh70-48-v1-0-kv41",
@@ -367,7 +406,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 0.000117
+    "rotor_inertia_kgm2": 0.000117,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak70-9-v3-0-kv60",
@@ -394,7 +436,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 8.66307e-05
+    "rotor_inertia_kgm2": 8.66307e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak60-39-v3-0-kv80",
@@ -421,7 +466,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 3.05e-05
+    "rotor_inertia_kgm2": 3.05e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak60-6-v3-0-kv80-24v",
@@ -448,7 +496,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 2.435e-05
+    "rotor_inertia_kgm2": 2.435e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak60-6-v3-0-kv80-48v",
@@ -475,7 +526,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 2.435e-05
+    "rotor_inertia_kgm2": 2.435e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak60-6-v1-1-kv140",
@@ -501,7 +555,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak45-36-kv80",
@@ -528,7 +585,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 1.819e-05
+    "rotor_inertia_kgm2": 1.819e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak45-10-kv75",
@@ -555,7 +615,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 1.5733e-05
+    "rotor_inertia_kgm2": 1.5733e-05,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ak40-10-kv170",
@@ -582,7 +645,10 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 9.735e-06
+    "rotor_inertia_kgm2": 9.735e-06,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ake90-8-kv35",
@@ -607,7 +673,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ake80-8-kv30",
@@ -632,7 +701,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-ake60-8-kv80",
@@ -657,7 +729,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-aka10-9-kv60",
@@ -683,7 +758,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-aka60-6-kv80-24v",
@@ -709,7 +787,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-aka60-6-kv80-48v",
@@ -735,7 +816,10 @@
     "peak_basis": "peak",
     "continuous_basis": "rated",
     "current_condition": "rated",
-    "speed_condition": "no-load"
+    "speed_condition": "no-load",
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "cubemars-akh70-16-v1-0-kv41",
@@ -762,6 +846,9 @@
     "continuous_basis": "rated",
     "current_condition": "rated",
     "speed_condition": "no-load",
-    "rotor_inertia_kgm2": 0.000117
+    "rotor_inertia_kgm2": 0.000117,
+    "lead_time": "CubeMars: orderable online (stock level not shown); order processing typically 1-5 business days (shipping policy)",
+    "lead_time_url": "https://www.cubemars.com/shipping-policy.html",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

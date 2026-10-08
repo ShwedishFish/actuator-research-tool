@@ -24,7 +24,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010510603.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM801x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 230 VAC: rated 0.15 kW at 8000 rpm, rated torque 0.18 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 0.74 kg with brake). Max mains 250 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 230 VAC: rated 0.15 kW at 8000 rpm, rated torque 0.18 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 0.74 kg with brake). Max mains 250 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8011-wbyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8012-c",
@@ -51,7 +54,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010510603.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM801x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 230 VAC: rated 0.28 kW at 8000 rpm, rated torque 0.33 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 0.86 kg with brake). Max mains 250 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 230 VAC: rated 0.28 kW at 8000 rpm, rated torque 0.33 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 0.86 kg with brake). Max mains 250 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8012-wcyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8013-d",
@@ -78,7 +84,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010510603.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM801x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 230 VAC: rated 0.38 kW at 8000 rpm, rated torque 0.45 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 0.98 kg with brake). Max mains 250 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 230 VAC: rated 0.38 kW at 8000 rpm, rated torque 0.45 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 0.98 kg with brake). Max mains 250 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8013-wdyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8021-b",
@@ -105,7 +114,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010576139.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM802x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.42 kW at 8000 rpm, rated torque 0.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.16 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.42 kW at 8000 rpm, rated torque 0.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.16 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8021-wbyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8021-d",
@@ -132,7 +144,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010576139.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM802x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.47 kW at 9000 rpm, rated torque 0.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.16 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.47 kW at 9000 rpm, rated torque 0.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.16 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8021-wdyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8022-d",
@@ -159,7 +174,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010576139.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM802x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.59 kW at 8000 rpm, rated torque 0.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.66 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.59 kW at 8000 rpm, rated torque 0.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.66 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8022-wdyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8022-e",
@@ -186,7 +204,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010576139.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM802x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.61 kW at 9000 rpm, rated torque 0.65 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.66 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.61 kW at 9000 rpm, rated torque 0.65 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.66 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8022-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8023-e",
@@ -213,7 +234,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010576139.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM802x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.84 kW at 8000 rpm, rated torque 1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.96 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.84 kW at 8000 rpm, rated torque 1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.96 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8023-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8023-f",
@@ -240,7 +264,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010576139.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM802x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.85 kW at 9000 rpm, rated torque 0.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.96 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.85 kW at 9000 rpm, rated torque 0.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 1.96 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8023-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8031-c",
@@ -266,7 +293,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.42 kW at 3000 rpm, rated torque 1.34 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.42 kW at 3000 rpm, rated torque 1.34 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8031-wcyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8031-d",
@@ -292,7 +322,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.84 kW at 6000 rpm, rated torque 1.33 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.84 kW at 6000 rpm, rated torque 1.33 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8031-wdyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8031-f",
@@ -318,7 +351,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.23 kW at 9000 rpm, rated torque 1.3 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.23 kW at 9000 rpm, rated torque 1.3 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8031-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8032-d",
@@ -344,7 +380,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.72 kW at 3000 rpm, rated torque 2.3 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.72 kW at 3000 rpm, rated torque 2.3 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8032-wdyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8032-e",
@@ -370,7 +409,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.38 kW at 6000 rpm, rated torque 2.2 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.38 kW at 6000 rpm, rated torque 2.2 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8032-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8032-h",
@@ -396,7 +438,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.74 kW at 9000 rpm, rated torque 1.85 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.74 kW at 9000 rpm, rated torque 1.85 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8032-whyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8033-e",
@@ -422,7 +467,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.94 kW at 3000 rpm, rated torque 2.98 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.94 kW at 3000 rpm, rated torque 2.98 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8033-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8033-f",
@@ -448,7 +496,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.7 kW at 6000 rpm, rated torque 2.7 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.7 kW at 6000 rpm, rated torque 2.7 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8033-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8033-j",
@@ -474,7 +525,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010632843.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM803x & AM853x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.17 kW at 9000 rpm, rated torque 2.3 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.17 kW at 9000 rpm, rated torque 2.3 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8033-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8041-d",
@@ -501,7 +555,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.72 kW at 3000 rpm, rated torque 2.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 3.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 0.72 kW at 3000 rpm, rated torque 2.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 3.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8041-wdyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8041-e",
@@ -528,7 +585,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.45 kW at 6000 rpm, rated torque 2.31 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 3.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.45 kW at 6000 rpm, rated torque 2.31 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 3.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8041-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8041-h",
@@ -555,7 +615,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.76 kW at 8000 rpm, rated torque 2.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 3.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.76 kW at 8000 rpm, rated torque 2.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 3.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8041-whyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8042-e",
@@ -582,7 +645,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.02 kW at 2500 rpm, rated torque 3.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.02 kW at 2500 rpm, rated torque 3.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8042-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8042-f",
@@ -609,7 +675,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.94 kW at 5000 rpm, rated torque 3.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.94 kW at 5000 rpm, rated torque 3.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8042-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8042-j",
@@ -636,7 +705,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.6 kW at 8000 rpm, rated torque 3.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.6 kW at 8000 rpm, rated torque 3.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8042-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8043-e",
@@ -663,7 +735,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.39 kW at 2500 rpm, rated torque 5.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 5.8 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.39 kW at 2500 rpm, rated torque 5.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 5.8 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8043-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8043-h",
@@ -690,7 +765,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.57 kW at 5000 rpm, rated torque 4.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 5.8 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.57 kW at 5000 rpm, rated torque 4.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 5.8 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8043-whyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8043-k",
@@ -717,7 +795,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.43 kW at 8000 rpm, rated torque 4.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 5.8 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.43 kW at 8000 rpm, rated torque 4.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 5.8 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8043-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8044-f",
@@ -744,7 +825,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.7 kW at 2500 rpm, rated torque 6.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.8 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.7 kW at 2500 rpm, rated torque 6.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.8 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8044-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8044-j",
@@ -771,7 +855,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010674955.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM804x & AM854x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.14 kW at 5000 rpm, rated torque 6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.8 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.14 kW at 5000 rpm, rated torque 6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.8 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8044-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8051-e",
@@ -798,7 +885,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.2 kW at 2500 rpm, rated torque 4.6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.9 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.2 kW at 2500 rpm, rated torque 4.6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.9 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8051-weyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8051-g",
@@ -825,7 +915,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.3 kW at 5000 rpm, rated torque 4.4 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.9 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.3 kW at 5000 rpm, rated torque 4.4 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.9 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8051-wgyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8051-k",
@@ -852,7 +945,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.27 kW at 8000 rpm, rated torque 3.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.9 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.27 kW at 8000 rpm, rated torque 3.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 4.9 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8051-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8052-f",
@@ -879,7 +975,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.57 kW at 2000 rpm, rated torque 7.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.57 kW at 2000 rpm, rated torque 7.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8052-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8052-j",
@@ -906,7 +1005,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.89 kW at 4000 rpm, rated torque 6.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.89 kW at 4000 rpm, rated torque 6.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8052-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8052-l",
@@ -933,7 +1035,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.13 kW at 7300 rpm, rated torque 5.4 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.13 kW at 7300 rpm, rated torque 5.4 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8052-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8053-g",
@@ -960,7 +1065,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.09 kW at 2000 rpm, rated torque 10 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 8.4 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.09 kW at 2000 rpm, rated torque 10 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 8.4 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8053-wgyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8053-k",
@@ -987,7 +1095,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.5 kW at 4000 rpm, rated torque 8.35 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 8.4 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.5 kW at 4000 rpm, rated torque 8.35 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 8.4 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8053-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8053-n",
@@ -1014,7 +1125,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.98 kW at 7000 rpm, rated torque 2.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 8.4 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.98 kW at 7000 rpm, rated torque 2.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 8.4 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8053-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8054-j",
@@ -1041,7 +1155,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.16 kW at 2000 rpm, rated torque 10.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 10.1 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.16 kW at 2000 rpm, rated torque 10.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 10.1 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8054-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8054-m",
@@ -1068,7 +1185,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010717067.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.06 kW at 4000 rpm, rated torque 7.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 10.1 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.06 kW at 4000 rpm, rated torque 7.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 10.1 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8054-wmyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8051-f-fan",
@@ -1095,7 +1215,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.52 kW at 2500 rpm, rated torque 5.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.52 kW at 2500 rpm, rated torque 5.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8051-wfyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8051-j-fan",
@@ -1122,7 +1245,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.74 kW at 4750 rpm, rated torque 5.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.74 kW at 4750 rpm, rated torque 5.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8051-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8051-l-fan",
@@ -1149,7 +1275,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.02 kW at 8000 rpm, rated torque 3.6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.02 kW at 8000 rpm, rated torque 3.6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 6 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8051-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8052-g-fan",
@@ -1176,7 +1305,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.03 kW at 2000 rpm, rated torque 9.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 7.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.03 kW at 2000 rpm, rated torque 9.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 7.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8052-wgyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8052-k-fan",
@@ -1203,7 +1335,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.77 kW at 4000 rpm, rated torque 9.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 7.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.77 kW at 4000 rpm, rated torque 9.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 7.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8052-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8052-n-fan",
@@ -1230,7 +1365,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.08 kW at 6000 rpm, rated torque 5.4 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 7.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.08 kW at 6000 rpm, rated torque 5.4 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 7.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8052-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8053-j-fan",
@@ -1257,7 +1395,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.12 kW at 2000 rpm, rated torque 14.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 9.5 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.12 kW at 2000 rpm, rated torque 14.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 9.5 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8053-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8053-l-fan",
@@ -1284,7 +1425,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.41 kW at 4000 rpm, rated torque 12.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 9.5 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.41 kW at 4000 rpm, rated torque 12.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 9.5 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8053-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8053-p-fan",
@@ -1311,7 +1455,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.72 kW at 5000 rpm, rated torque 7.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 9.5 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.72 kW at 5000 rpm, rated torque 7.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 9.5 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8053-wpyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8054-k-fan",
@@ -1338,7 +1485,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.25 kW at 2000 rpm, rated torque 15.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.2 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.25 kW at 2000 rpm, rated torque 15.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.2 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8054-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8054-n-fan",
@@ -1365,7 +1515,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010803723.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM805x & AM855x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.59 kW at 4000 rpm, rated torque 10.95 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.2 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.59 kW at 4000 rpm, rated torque 10.95 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.2 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8054-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8061-g",
@@ -1392,7 +1545,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.9 kW at 1500 rpm, rated torque 12.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 1.9 kW at 1500 rpm, rated torque 12.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8061-wgyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8061-j",
@@ -1419,7 +1575,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.46 kW at 3000 rpm, rated torque 11 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.46 kW at 3000 rpm, rated torque 11 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8061-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8061-m",
@@ -1446,7 +1605,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.71 kW at 5000 rpm, rated torque 9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.71 kW at 5000 rpm, rated torque 9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 11.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8061-wmyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8062-j",
@@ -1473,7 +1635,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.91 kW at 1500 rpm, rated torque 18.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 15.4 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.91 kW at 1500 rpm, rated torque 18.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 15.4 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8062-wjyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8062-l",
@@ -1500,7 +1665,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.78 kW at 3000 rpm, rated torque 15.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 15.4 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.78 kW at 3000 rpm, rated torque 15.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 15.4 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8062-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8062-p",
@@ -1527,7 +1695,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.4 kW at 5000 rpm, rated torque 6.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 15.4 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.4 kW at 5000 rpm, rated torque 6.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 15.4 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8062-wpyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8063-k",
@@ -1554,7 +1725,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.5 kW at 1500 rpm, rated torque 22.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 20.1 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.5 kW at 1500 rpm, rated torque 22.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 20.1 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8063-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8063-n",
@@ -1581,7 +1755,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.15 kW at 3000 rpm, rated torque 13.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 20.1 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.15 kW at 3000 rpm, rated torque 13.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 20.1 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8063-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8063-r",
@@ -1608,7 +1785,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.56 kW at 4000 rpm, rated torque 6.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 20.1 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.56 kW at 4000 rpm, rated torque 6.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 20.1 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8063-wryz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8064-l",
@@ -1689,7 +1869,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010835339.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.19 kW at 4000 rpm, rated torque 10 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 26.6 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.19 kW at 4000 rpm, rated torque 10 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 26.6 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8064-wty0.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8061-h-fan",
@@ -1715,7 +1898,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.36 kW at 1400 rpm, rated torque 16.1 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 2.36 kW at 1400 rpm, rated torque 16.1 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8061-whyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8061-l-fan",
@@ -1741,7 +1927,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.6 kW at 3000 rpm, rated torque 14.7 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.6 kW at 3000 rpm, rated torque 14.7 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8061-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8061-n-fan",
@@ -1767,7 +1956,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.6 kW at 5000 rpm, rated torque 10.7 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.6 kW at 5000 rpm, rated torque 10.7 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8061-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8062-k-fan",
@@ -1793,7 +1985,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.87 kW at 1400 rpm, rated torque 26.4 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.87 kW at 1400 rpm, rated torque 26.4 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8062-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8062-n-fan",
@@ -1819,7 +2014,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7 kW at 3000 rpm, rated torque 22.2 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7 kW at 3000 rpm, rated torque 22.2 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8062-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8062-r-fan",
@@ -1845,7 +2043,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7 kW at 5000 rpm, rated torque 13.4 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7 kW at 5000 rpm, rated torque 13.4 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8062-wryz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8063-l-fan",
@@ -1871,7 +2072,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.97 kW at 1400 rpm, rated torque 33.9 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.97 kW at 1400 rpm, rated torque 33.9 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8063-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8063-q-fan",
@@ -1897,7 +2101,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8 kW at 3000 rpm, rated torque 25.5 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8 kW at 3000 rpm, rated torque 25.5 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8063-wqyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8063-t-fan",
@@ -1923,7 +2130,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010881803.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM806x & AM856x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 6.3 kW at 4000 rpm, rated torque 15.1 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 6.3 kW at 4000 rpm, rated torque 15.1 N·m. Rotor inertia field is the no-brake value. Holding brake option. Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8063-wtyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8064-n-fan",
@@ -2028,7 +2238,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.16 kW at 1500 rpm, rated torque 26.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 29.3 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.16 kW at 1500 rpm, rated torque 26.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 29.3 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8071-wkyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8071-n",
@@ -2055,7 +2268,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 6.13 kW at 3000 rpm, rated torque 19.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 29.3 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 6.13 kW at 3000 rpm, rated torque 19.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 29.3 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8071-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8071-r",
@@ -2082,7 +2298,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.54 kW at 4000 rpm, rated torque 18 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 29.3 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.54 kW at 4000 rpm, rated torque 18 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 29.3 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8071-wryz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8072-l",
@@ -2109,7 +2328,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.12 kW at 1000 rpm, rated torque 48.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 38.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.12 kW at 1000 rpm, rated torque 48.9 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 38.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8072-wlyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8072-p",
@@ -2136,7 +2358,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8 kW at 2000 rpm, rated torque 38.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 38.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8 kW at 2000 rpm, rated torque 38.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 38.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8072-wpyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8072-t",
@@ -2163,7 +2388,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.08 kW at 3000 rpm, rated torque 13 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 38.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 4.08 kW at 3000 rpm, rated torque 13 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 38.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8072-wtyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8073-n",
@@ -2190,7 +2418,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 6.13 kW at 1000 rpm, rated torque 58.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 50.3 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 6.13 kW at 1000 rpm, rated torque 58.5 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 50.3 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8073-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8073-q",
@@ -2217,7 +2448,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8.13 kW at 2000 rpm, rated torque 38.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 50.3 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8.13 kW at 2000 rpm, rated torque 38.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 50.3 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8073-wqyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8073-t",
@@ -2244,7 +2478,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.39 kW at 3000 rpm, rated torque 10.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 50.3 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 3.39 kW at 3000 rpm, rated torque 10.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 50.3 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8073-wtyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8074-n",
@@ -2271,7 +2508,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.02 kW at 1000 rpm, rated torque 67 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 62.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.02 kW at 1000 rpm, rated torque 67 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 62.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8074-wny0.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8074-r",
@@ -2298,7 +2538,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.12 kW at 2000 rpm, rated torque 34 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 62.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.12 kW at 2000 rpm, rated torque 34 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 62.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8074-wry0.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8074-t",
@@ -2325,7 +2568,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8010961291.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5 kW at 2500 rpm, rated torque 19.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 62.7 kg with brake). Max mains 480 VAC."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5 kW at 2500 rpm, rated torque 19.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 62.7 kg with brake). Max mains 480 VAC.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8074-wty0.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8071-m-fan",
@@ -2352,7 +2598,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.7 kW at 1500 rpm, rated torque 36.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 32.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.7 kW at 1500 rpm, rated torque 36.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 32.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8071-wmyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8071-p-fan",
@@ -2379,7 +2628,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8.9 kW at 2900 rpm, rated torque 29.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 32.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8.9 kW at 2900 rpm, rated torque 29.2 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 32.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8071-wpyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8071-t-fan",
@@ -2406,7 +2658,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.6 kW at 4000 rpm, rated torque 18.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 32.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.6 kW at 4000 rpm, rated torque 18.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 32.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8071-wtyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8072-n-fan",
@@ -2433,7 +2688,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.6 kW at 1000 rpm, rated torque 72.6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 42.1 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 7.6 kW at 1000 rpm, rated torque 72.6 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 42.1 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8072-wnyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8072-r-fan",
@@ -2460,7 +2718,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 12.6 kW at 2000 rpm, rated torque 60.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 42.1 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 12.6 kW at 2000 rpm, rated torque 60.1 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 42.1 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8072-wryz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8072-u-fan",
@@ -2487,7 +2748,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 10.6 kW at 3000 rpm, rated torque 33.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 42.1 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 10.6 kW at 3000 rpm, rated torque 33.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 42.1 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8072-wuyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8073-p-fan",
@@ -2514,7 +2778,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8.8 kW at 1000 rpm, rated torque 83.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 53.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 8.8 kW at 1000 rpm, rated torque 83.7 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 53.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8073-wpyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8073-r-fan",
@@ -2541,7 +2808,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 13.3 kW at 2000 rpm, rated torque 63.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 53.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 13.3 kW at 2000 rpm, rated torque 63.3 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 53.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8073-wryz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8073-u-fan",
@@ -2568,7 +2838,10 @@
     "datasheet_url": "https://infosys.beckhoff.com/content/1033/am8000_am8500_ba/8011056523.html",
     "source": "Beckhoff AM8000/AM8500 operating instructions (Infosys), Technical data: AM807x with fan cover",
     "retrieved_on": "2026-10-07",
-    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.6 kW at 3000 rpm, rated torque 17.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 53.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional."
+    "remarks": "Continuous torque = standstill torque M0; rated current = standstill current I0rms. At 400 VAC: rated 5.6 kW at 3000 rpm, rated torque 17.8 N·m. Rotor inertia field is the no-brake value. Holding brake option (mass 53.7 kg with brake). Max mains 480 VAC. Fan-cover (forced-cooled) version; IP20 std, IP65 optional.",
+    "lead_time": "Beckhoff product page: product status 'regular delivery' (lead time not stated)",
+    "lead_time_url": "https://www.beckhoff.com/en-us/products/motion/rotary-servomotors/am8000-servomotors/am8073-wuyz.html",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "beckhoff-am8074-r-fan",

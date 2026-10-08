@@ -17,7 +17,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/B-12KG/savox-servo-b-12kg-analog-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item B-12KG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 10 kg·cm, 0.26 s/60° @ 4.8 V. Blocking (stall) current 1600 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Analog. List price € 20,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 10 kg·cm, 0.26 s/60° @ 4.8 V. Blocking (stall) current 1600 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Analog. List price € 20,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/B-12KG/savox-servo-b-12kg-analog-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sa-1258tg",
@@ -37,7 +41,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SA-1258TGplus/savox-servo-sa-1258tg-digital-coreless-motor-titanium-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SA-1258TG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 9.6 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 72,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 9.6 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 72,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 8 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SA-1258TGplus/savox-servo-sa-1258tg-digital-coreless-motor-titanium-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sa-1256tg",
@@ -57,7 +65,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SA-1256TGplus/savox-servo-sa-1256tg-digital-coreless-motor-titanium-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SA-1256TG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 16 kg·cm, 0.18 s/60° @ 4.8 V. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 77,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 16 kg·cm, 0.18 s/60° @ 4.8 V. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 77,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SA-1256TGplus/savox-servo-sa-1256tg-digital-coreless-motor-titanium-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sa-1283sg",
@@ -77,7 +89,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SA-1283SGplus/savox-servo-sa-1283sg-digital-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SA-1283SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 25 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 6000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 102,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 25 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 6000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 102,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SA-1283SGplus/savox-servo-sa-1283sg-digital-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sa-1231sg",
@@ -97,7 +113,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SA-1231SG/savox-servo-sa-1231sg-digital-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SA-1231SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 28 kg·cm, 0.18 s/60° @ 4.8 V. Blocking (stall) current 5300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 89,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 28 kg·cm, 0.18 s/60° @ 4.8 V. Blocking (stall) current 5300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 89,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SA-1231SG/savox-servo-sa-1231sg-digital-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sa-1230sg",
@@ -117,7 +137,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SA-1230SGplus/savox-servo-sa-1230sg-digital-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SA-1230SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 30 kg·cm, 0.2 s/60° @ 4.8 V. Blocking (stall) current 5300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 89,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 30 kg·cm, 0.2 s/60° @ 4.8 V. Blocking (stall) current 5300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 89,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): Only 1 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SA-1230SGplus/savox-servo-sa-1230sg-digital-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2252mg",
@@ -137,7 +161,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2252MG/savox-servo-sb-2252mg-digital-brushless-motor-metal-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2252MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.8 kg·cm, 0.06 s/60° @ 6 V. Blocking (stall) current 9000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 107,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.8 kg·cm, 0.06 s/60° @ 6 V. Blocking (stall) current 9000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 107,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2252MG/savox-servo-sb-2252mg-digital-brushless-motor-metal-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2263mg",
@@ -157,7 +185,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2263MG/savox-servo-sb-2263mg-digital-brushless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2263MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 8 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 3700 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 80,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 8 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 3700 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 80,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2263MG/savox-servo-sb-2263mg-digital-brushless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2272mg",
@@ -176,7 +207,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2272MGplus/savox-servo-sb-2272mg-digital-high-voltage-brushless-motor-metal-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2272MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 5 kg·cm, 0.045 s/60° @ 6 V; 7 kg·cm, 0.032 s/60° @ 7.4 V. Weight: spec table 66 g vs description 69 g. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 5 kg·cm, 0.045 s/60° @ 6 V; 7 kg·cm, 0.032 s/60° @ 7.4 V. Weight: spec table 66 g vs description 69 g. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2272MGplus/savox-servo-sb-2272mg-digital-high-voltage-brushless-motor-metal-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2275mg",
@@ -196,7 +231,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2275MG/savox-servo-sb-2275mg-digital-high-voltage-brushless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2275MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Torque @ 6 V: spec table 8.6 vs description 5 kg·cm. Speed @ 6 V: spec table 0.065 vs description 0.06 s/60°. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Torque @ 6 V: spec table 8.6 vs description 5 kg·cm. Speed @ 6 V: spec table 0.065 vs description 0.06 s/60°. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2275MG/savox-servo-sb-2275mg-digital-high-voltage-brushless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2283mg",
@@ -216,7 +255,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2283MG/savox-servo-sb-2283mg-digital-high-voltage-brushless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2283MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 8.3 kg·cm, 0.065 s/60° @ 6 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 139,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 8.3 kg·cm, 0.065 s/60° @ 6 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 139,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2283MG/savox-servo-sb-2283mg-digital-high-voltage-brushless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2251sg",
@@ -236,7 +279,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2251SG/savox-servo-sb-2251sg-digital-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2251SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 12 kg·cm, 0.11 s/60° @ 4.8 V. Blocking (stall) current 9000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 109,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 12 kg·cm, 0.11 s/60° @ 4.8 V. Blocking (stall) current 9000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 109,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 8 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2251SG/savox-servo-sb-2251sg-digital-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2265mgb",
@@ -255,7 +302,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2265MGB/savox-servo-sb-2265mg-black-edition-digital-high-voltage-brushless-motor-metal-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2265MGB",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 10 kg·cm, 0.1 s/60° @ 6 V; 13 kg·cm, 0.08 s/60° @ 7.4 V. Weight: spec table 25,6 g vs description 50 g. Blocking (stall) current 7000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 10 kg·cm, 0.1 s/60° @ 6 V; 13 kg·cm, 0.08 s/60° @ 7.4 V. Weight: spec table 25,6 g vs description 50 g. Blocking (stall) current 7000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2265MGB/savox-servo-sb-2265mg-black-edition-digital-high-voltage-brushless-motor-metal-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2264mg",
@@ -275,7 +325,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2264MG/savox-servo-sb-2264mg-digital-high-voltage-brushless-motor-metal-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2264MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 12 kg·cm, 0.11 s/60° @ 6 V; 15 kg·cm, 0.09 s/60° @ 7.4 V. Blocking (stall) current 5000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 111,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 12 kg·cm, 0.11 s/60° @ 6 V; 15 kg·cm, 0.09 s/60° @ 7.4 V. Blocking (stall) current 5000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 111,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2264MG/savox-servo-sb-2264mg-digital-high-voltage-brushless-motor-metal-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2271sg",
@@ -294,7 +348,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2271SGplus/savox-servo-sb-2271sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2271SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 15 kg·cm, 0.085 s/60° @ 6 V; 20 kg·cm, 0.065 s/60° @ 7.4 V. Weight: spec table 80 g vs description 69 g. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 15 kg·cm, 0.085 s/60° @ 6 V; 20 kg·cm, 0.065 s/60° @ 7.4 V. Weight: spec table 80 g vs description 69 g. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2271SGplus/savox-servo-sb-2271sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2274sg",
@@ -314,7 +371,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2274SGplus/savox-servo-sb-2274sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2274SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 20 kg·cm, 0.105 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 104,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 20 kg·cm, 0.105 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 104,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 3 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2274SGplus/savox-servo-sb-2274sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2262sg",
@@ -332,7 +393,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2262SG/savox-servo-sb-2262sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2262SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 18 kg·cm, 0.1 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Speed @ 8.4 V: spec table 0.07 vs description 0.065 s/60°. Blocking (stall) current 6300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 18 kg·cm, 0.1 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Speed @ 8.4 V: spec table 0.07 vs description 0.065 s/60°. Blocking (stall) current 6300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 7 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2262SG/savox-servo-sb-2262sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2267sg",
@@ -352,7 +417,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2267SGplus/savox-servo-sb-2267sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2267SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 18 kg·cm, 0.1 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 6300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 100,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 18 kg·cm, 0.1 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 6300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 100,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): Only 1 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2267SGplus/savox-servo-sb-2267sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2273sg",
@@ -372,7 +441,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2273SGplus/savox-servo-sb-2273sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2273SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 23 kg·cm, 0.12 s/60° @ 6 V; 30 kg·cm, 0.105 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 104,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 23 kg·cm, 0.12 s/60° @ 6 V; 30 kg·cm, 0.105 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 104,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2273SGplus/savox-servo-sb-2273sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-3262sg",
@@ -392,7 +464,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-3262SG/savox-servo-sb-3262sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-3262SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 22 kg·cm, 0.1 s/60° @ 6 V; 28 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 6300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 130,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 22 kg·cm, 0.1 s/60° @ 6 V; 28 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 6300 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 130,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-3262SG/savox-servo-sb-3262sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2230sg",
@@ -411,7 +487,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2230SGplus/savox-servo-sb-2230sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2230SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 0.13 s/60° @ 7.4 V. Spec table on this page lists Item Nr SA-1283SG+; only values matching the description are recorded. Torque @ 7.4 V: spec table 45 vs description 42 kg·cm. Operating Voltage: 4.8V - 6.0V (table; may belong to SA-1283SG+). Motor: Coreless Motor (table; may belong to SA-1283SG+). Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm."
+    "remarks": "Other: 0.13 s/60° @ 7.4 V. Spec table on this page lists Item Nr SA-1283SG+; only values matching the description are recorded. Torque @ 7.4 V: spec table 45 vs description 42 kg·cm. Operating Voltage: 4.8V - 6.0V (table; may belong to SA-1283SG+). Motor: Coreless Motor (table; may belong to SA-1283SG+). Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 6 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2230SGplus/savox-servo-sb-2230sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2295sg",
@@ -431,7 +511,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2295SG/savox-servo-sb-2295sg-digital-high-voltage-brushless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2295SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 24 kg·cm, 0.07 s/60° @ 6 V; 32 kg·cm, 0.06 s/60° @ 7.4 V. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 143,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 24 kg·cm, 0.07 s/60° @ 6 V; 32 kg·cm, 0.06 s/60° @ 7.4 V. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 143,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2295SG/savox-servo-sb-2295sg-digital-high-voltage-brushless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2236mg",
@@ -451,7 +535,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2236MG/savox-servo-sb-2236mg-digital-high-voltage-brushless-motor-metal-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2236MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 32 kg·cm, 0.16 s/60° @ 6 V; 40 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 12000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 125,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 32 kg·cm, 0.16 s/60° @ 6 V; 40 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 12000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 125,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2236MG/savox-servo-sb-2236mg-digital-high-voltage-brushless-motor-metal-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2270sg",
@@ -471,7 +559,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2270SGplus/savox-servo-sb-2270sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2270SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 30 kg·cm, 0.15 s/60° @ 6 V; 40 kg·cm, 0.12 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 104,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 30 kg·cm, 0.15 s/60° @ 6 V; 40 kg·cm, 0.12 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 104,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2270SGplus/savox-servo-sb-2270sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-3292sg",
@@ -491,7 +583,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-3292SG/savox-servo-sb-3292sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-3292SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 32 kg·cm, 0.085 s/60° @ 6 V; 40 kg·cm, 0.07 s/60° @ 7.4 V. Blocking (stall) current 12000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 152,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 32 kg·cm, 0.085 s/60° @ 6 V; 40 kg·cm, 0.07 s/60° @ 7.4 V. Blocking (stall) current 12000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 152,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SB-3292SG/savox-servo-sb-3292sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2280sg",
@@ -511,7 +606,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2280SG/savox-servo-sb-2280sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2280SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 40 kg·cm, 0.17 s/60° @ 6 V; 50 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 127,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 40 kg·cm, 0.17 s/60° @ 6 V; 50 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 127,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 5 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2280SG/savox-servo-sb-2280sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-2290sg",
@@ -531,7 +630,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-2290SG/savox-servo-sb-2290sg-digital-high-voltage-brushless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-2290SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 45 kg·cm, 0.16 s/60° @ 6 V; 55 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 143,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 45 kg·cm, 0.16 s/60° @ 6 V; 55 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 143,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-2290SG/savox-servo-sb-2290sg-digital-high-voltage-brushless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sb-3290sg",
@@ -551,7 +654,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SB-3290SG/savox-servo-sb-3290sg-digital-high-voltage-brushless-motor-steel-gears",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SB-3290SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 52 kg·cm, 0.16 s/60° @ 6 V; 65 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 12000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 152,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 52 kg·cm, 0.16 s/60° @ 6 V; 65 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 12000 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 152,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SB-3290SG/savox-servo-sb-3290sg-digital-high-voltage-brushless-motor-steel-gears",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-0253mg",
@@ -571,7 +678,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-0253MGplus/savox-servo-sc-0253mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-0253MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4 kg·cm, 0.17 s/60° @ 4.8 V. Blocking (stall) current 1000 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4 kg·cm, 0.17 s/60° @ 4.8 V. Blocking (stall) current 1000 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-0253MGplus/savox-servo-sc-0253mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-0352",
@@ -591,7 +702,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-0352plus/savox-servo-sc-0352-digital-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-0352+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4.2 kg·cm, 0.14 s/60° @ 4.8 V. Blocking (stall) current 1500 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 21,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4.2 kg·cm, 0.14 s/60° @ 4.8 V. Blocking (stall) current 1500 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 21,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-0352plus/savox-servo-sc-0352-digital-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-1252mg",
@@ -611,7 +726,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-1252MGplus/savox-servo-sc-1252mg-digital-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-1252MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4.5 kg·cm, 0.08 s/60° @ 4.8 V. Blocking (stall) current 3000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 61,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4.5 kg·cm, 0.08 s/60° @ 4.8 V. Blocking (stall) current 3000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 61,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): Only 1 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-1252MGplus/savox-servo-sc-1252mg-digital-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-0254mg",
@@ -631,7 +750,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-0254MGplus/savox-servo-sc-0254mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-0254MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 0.19 s/60° @ 4.8 V. Torque @ 4.8 V: spec table 6.2 vs description 6.9 kg·cm. Blocking (stall) current 1500 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 0.19 s/60° @ 4.8 V. Torque @ 4.8 V: spec table 6.2 vs description 6.9 kg·cm. Blocking (stall) current 1500 mA; Rated current 240 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-0254MGplus/savox-servo-sc-0254mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-1251mg",
@@ -651,7 +774,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-1251MGplus/savox-servo-sc-1251mg-digital-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-1251MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 7 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 3000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 59,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 7 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 3000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 59,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SC-1251MGplus/savox-servo-sc-1251mg-digital-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-0252mg",
@@ -671,7 +797,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-0252MGplus/savox-servo-sc-0252mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-0252MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 7.2 kg·cm, 0.23 s/60° @ 4.8 V. Blocking (stall) current 1700 mA; Rated current 320 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 31,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 7.2 kg·cm, 0.23 s/60° @ 4.8 V. Blocking (stall) current 1700 mA; Rated current 320 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 31,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-0252MGplus/savox-servo-sc-0252mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-1258tg",
@@ -691,7 +821,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-1258TGplus/savox-servo-sc-1258tg-digital-coreless-motor-titanium-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-1258TG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 9.6 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 69,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 9.6 kg·cm, 0.1 s/60° @ 4.8 V. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 69,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-1258TGplus/savox-servo-sc-1258tg-digital-coreless-motor-titanium-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-1256tg",
@@ -710,7 +844,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-1256TGplus/savox-servo-sc-1256tg-digital-coreless-motor-titanium-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-1256TG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 16 kg·cm, 0.18 s/60° @ 4.8 V. Weight: spec table 64 g vs description 52.4 g. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 74,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 16 kg·cm, 0.18 s/60° @ 4.8 V. Weight: spec table 64 g vs description 52.4 g. Blocking (stall) current 5000 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 74,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SC-1256TGplus/savox-servo-sc-1256tg-digital-coreless-motor-titanium-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-0251mg",
@@ -730,7 +868,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-0251MGplus/savox-servo-sc-0251mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-0251MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 20 kg·cm, 0.17 s/60° @ 6 V. Blocking (stall) current 5900 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 33,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 20 kg·cm, 0.17 s/60° @ 6 V. Blocking (stall) current 5900 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 33,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SC-0251MGplus/savox-servo-sc-0251mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-1267sg",
@@ -750,7 +891,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-1267SGplus/savox-servo-sc-1267sg-digital-high-voltage-coreless-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-1267SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 13 kg·cm, 0.11 s/60° @ 6 V; 20 kg·cm @ 7.4 V. Speed @ 7.4 V: spec table 0.1 vs description 0.095 s/60°. Blocking (stall) current 4300 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 13 kg·cm, 0.11 s/60° @ 6 V; 20 kg·cm @ 7.4 V. Speed @ 7.4 V: spec table 0.1 vs description 0.095 s/60°. Blocking (stall) current 4300 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SC-1267SGplus/savox-servo-sc-1267sg-digital-high-voltage-coreless-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sc-1268sg",
@@ -770,7 +914,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SC-1268SGplus/savox-servo-sc-1268sg-digital-high-voltage-coreless-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SC-1268SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 15 kg·cm, 0.13 s/60° @ 6 V; 25 kg·cm, 0.11 s/60° @ 7.4 V. Blocking (stall) current 4300 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 83,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 15 kg·cm, 0.13 s/60° @ 6 V; 25 kg·cm, 0.11 s/60° @ 7.4 V. Blocking (stall) current 4300 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 83,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SC-1268SGplus/savox-servo-sc-1268sg-digital-high-voltage-coreless-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sg-0351",
@@ -790,7 +937,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SG-0351plus/savox-servo-sg-0351-digital-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SG-0351+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.2 kg·cm, 0.22 s/60° @ 4.8 V. Blocking (stall) current 1000 mA; Rated current 120 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 16,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.2 kg·cm, 0.22 s/60° @ 4.8 V. Blocking (stall) current 1000 mA; Rated current 120 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 16,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SG-0351plus/savox-servo-sg-0351-digital-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sg-1213mg",
@@ -810,7 +961,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SG-1213MG/savox-servo-sg-1213mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SG-1213MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.5 kg·cm, 0.21 s/60° @ 6 V; 4.5 kg·cm, 0.17 s/60° @ 7.4 V. Blocking (stall) current 750 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital HV. List price € 51,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.5 kg·cm, 0.21 s/60° @ 6 V; 4.5 kg·cm, 0.17 s/60° @ 7.4 V. Blocking (stall) current 750 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital HV. List price € 51,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SG-1213MG/savox-servo-sg-1213mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sg-0212mg",
@@ -830,7 +984,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SG-0212MG/savox-servo-sg-0212mg-digital-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SG-0212MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4 kg·cm, 0.14 s/60° @ 6 V; 5 kg·cm, 0.1 s/60° @ 7.4 V. Blocking (stall) current 1800 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 3,97mm. Technology: Digital HV. List price € 59,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4 kg·cm, 0.14 s/60° @ 6 V; 5 kg·cm, 0.1 s/60° @ 7.4 V. Blocking (stall) current 1800 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 3,97mm. Technology: Digital HV. List price € 59,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SG-0212MG/savox-servo-sg-0212mg-digital-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sg-0211mg",
@@ -850,7 +1008,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SG-0211MG/savox-servo-sg-0211mg-digital-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SG-0211MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 6 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1800 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 59,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 6 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1800 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 59,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SG-0211MG/savox-servo-sg-0211mg-digital-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sg-1211mg",
@@ -869,7 +1031,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SG-1211MG/savox-servo-sg-1211mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SG-1211MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 11 kg·cm @ 7.4 V. Torque @ 6 V: spec table 9 vs description 8 kg·cm. Speed @ 6 V: spec table 0.17 vs description 0.18 s/60°. Speed @ 7.4 V: spec table 0.145 vs description 0.15 s/60°. Weight: spec table 30 g vs description 29 g. Blocking (stall) current 4200 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Spline Type: 21T Spline 4,8mm."
+    "remarks": "Other: 11 kg·cm @ 7.4 V. Torque @ 6 V: spec table 9 vs description 8 kg·cm. Speed @ 6 V: spec table 0.17 vs description 0.18 s/60°. Speed @ 7.4 V: spec table 0.145 vs description 0.15 s/60°. Weight: spec table 30 g vs description 29 g. Blocking (stall) current 4200 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Spline Type: 21T Spline 4,8mm.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SG-1211MG/savox-servo-sg-1211mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0264mg",
@@ -889,7 +1055,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0264MGplus/savox-servo-sh-0264mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0264MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 0.8 kg·cm, 0.08 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 24,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 0.8 kg·cm, 0.08 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 24,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0264MGplus/savox-servo-sh-0264mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0253",
@@ -909,7 +1079,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0253plus/savox-servo-sh-0253-digital-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0253+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 1.8 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 19,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 1.8 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 19,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0253plus/savox-servo-sh-0253-digital-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0257mg",
@@ -929,7 +1102,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0257MGplus/savox-servo-sh-0257mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0257MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 1.8 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 21,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 1.8 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 21,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0257MGplus/savox-servo-sh-0257mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0263mg",
@@ -949,7 +1126,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0263MGplus/savox-servo-sh-0263mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0263MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 1.8 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 24,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 1.8 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 24,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0263MGplus/savox-servo-sh-0263mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0350",
@@ -969,7 +1149,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0350plus/savox-servo-sh-0350-digital-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0350+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 2.2 kg·cm, 0.21 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 16,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 2.2 kg·cm, 0.21 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 16,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0350plus/savox-servo-sh-0350-digital-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0254",
@@ -989,7 +1172,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0254plus/savox-servo-sh-0254-digital-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0254+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.1 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 20,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.1 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 20,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0254plus/savox-servo-sh-0254-digital-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0255mg",
@@ -1009,7 +1196,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0255MGplus/savox-servo-sh-0255mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0255MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.1 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 22,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.1 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 22,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0255MGplus/savox-servo-sh-0255mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0256",
@@ -1029,7 +1220,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0256plus/savox-servo-sh-0256-digital-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0256+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.9 kg·cm, 0.21 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 20,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.9 kg·cm, 0.21 s/60° @ 4.8 V. Blocking (stall) current 1400 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital. List price € 20,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0256plus/savox-servo-sh-0256-digital-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-1350",
@@ -1049,7 +1244,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-1350plus/savox-servo-sh-1350-digital-coreless-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-1350+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.7 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1500 mA; Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Composite Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 51,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.7 kg·cm, 0.13 s/60° @ 4.8 V. Blocking (stall) current 1500 mA; Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Composite Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 51,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-1350plus/savox-servo-sh-1350-digital-coreless-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-1290mg",
@@ -1069,7 +1268,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-1290MGplus/savox-servo-sh-1290mg-digital-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-1290MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4 kg·cm, 0.06 s/60° @ 4.8 V. Blocking (stall) current 3000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 62,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4 kg·cm, 0.06 s/60° @ 4.8 V. Blocking (stall) current 3000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 62,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 4 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-1290MGplus/savox-servo-sh-1290mg-digital-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sh-0266mg",
@@ -1089,7 +1292,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SH-0266MG/savox-servo-sh-0266mg-digital-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SH-0266MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 6.5 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1500 mA; Rated current 200 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 6.5 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1500 mA; Rated current 200 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SH-0266MG/savox-servo-sh-0266mg-digital-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-0255mg",
@@ -1109,7 +1316,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-0255MGplus/savox-servo-sv-0255mg-digital-high-voltage-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-0255MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.5 kg·cm, 0.16 s/60° @ 6 V. Blocking (stall) current 6500 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital HV. List price € 22,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 3.5 kg·cm, 0.16 s/60° @ 6 V. Blocking (stall) current 6500 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital HV. List price € 22,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SV-0255MGplus/savox-servo-sv-0255mg-digital-high-voltage-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-0320",
@@ -1129,7 +1339,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-0320plus/savox-servo-sv-0320-digital-high-voltage-dc-motor",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-0320+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4.5 kg·cm, 0.16 s/60° @ 6 V. Blocking (stall) current 1600 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Composite Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 24,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4.5 kg·cm, 0.16 s/60° @ 6 V. Blocking (stall) current 1600 mA; Rated current 240 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Composite Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 24,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-0320plus/savox-servo-sv-0320-digital-high-voltage-dc-motor",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1257mg",
@@ -1149,7 +1363,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1257MGplus/savox-servo-sv-1257mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1257MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 2.5 kg·cm, 0.07 s/60° @ 6 V; 4 kg·cm, 0.055 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 66,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 2.5 kg·cm, 0.07 s/60° @ 6 V; 4 kg·cm, 0.055 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 66,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1257MGplus/savox-servo-sv-1257mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1232mg",
@@ -1169,7 +1386,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1232MG/savox-servo-sv-1232mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1232MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4 kg·cm, 0.06 s/60° @ 6 V; 5 kg·cm, 0.05 s/60° @ 7.4 V. Blocking (stall) current 2400 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital HV. List price € 71,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4 kg·cm, 0.06 s/60° @ 6 V; 5 kg·cm, 0.05 s/60° @ 7.4 V. Blocking (stall) current 2400 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 21T Spline 4,8mm. Technology: Digital HV. List price € 71,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1232MG/savox-servo-sv-1232mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-0220mg",
@@ -1189,7 +1410,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-0220MGplus/savox-servo-sv-0220mg-digital-high-voltage-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-0220MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 6.5 kg·cm, 0.16 s/60° @ 6 V. Blocking (stall) current 1800 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 33,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 6.5 kg·cm, 0.16 s/60° @ 6 V. Blocking (stall) current 1800 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 33,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 8 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-0220MGplus/savox-servo-sv-0220mg-digital-high-voltage-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-0258mg",
@@ -1209,7 +1434,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-0258MGplus/savox-servo-sv-0258mg-digital-high-voltage-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-0258MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 6.5 kg·cm, 0.13 s/60° @ 6 V. Blocking (stall) current 1800 mA; Rated current 180 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 29,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 6.5 kg·cm, 0.13 s/60° @ 6 V. Blocking (stall) current 1800 mA; Rated current 180 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Composite + Metal Gears. Case: Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 29,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-0258MGplus/savox-servo-sv-0258mg-digital-high-voltage-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1262mg",
@@ -1229,7 +1458,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1262MG/savox-servo-sv-1262mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1262MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4.6 kg·cm, 0.11 s/60° @ 6 V; 7 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 66,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4.6 kg·cm, 0.11 s/60° @ 6 V; 7 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 66,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 8 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1262MG/savox-servo-sv-1262mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1250mg",
@@ -1249,7 +1482,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1250MGplus/savox-servo-sv-1250mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1250MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 4.6 kg·cm, 0.11 s/60° @ 6 V; 8 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 66,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 4.6 kg·cm, 0.11 s/60° @ 6 V; 8 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 66,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1250MGplus/savox-servo-sv-1250mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1251mg",
@@ -1269,7 +1506,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1251MGplus/savox-servo-sv-1251mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1251MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 5 kg·cm, 0.11 s/60° @ 6 V; 8 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 75,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 5 kg·cm, 0.11 s/60° @ 6 V; 8 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 2200 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 75,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1251MGplus/savox-servo-sv-1251mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1260mg",
@@ -1289,7 +1530,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1260MG/savox-servo-sv-1260mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1260MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 8 kg·cm, 0.065 s/60° @ 6 V; 12 kg·cm, 0.055 s/60° @ 7.4 V. Blocking (stall) current 5600 mA; Rated current 200 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 8 kg·cm, 0.065 s/60° @ 6 V; 12 kg·cm, 0.055 s/60° @ 7.4 V. Blocking (stall) current 5600 mA; Rated current 200 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 6 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1260MG/savox-servo-sv-1260mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1254mg",
@@ -1309,7 +1554,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1254MGplus/savox-servo-sv-1254mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1254MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 12 kg·cm @ 6 V; 15 kg·cm, 0.085 s/60° @ 7.4 V. Speed @ 6 V: spec table 0.1 vs description 0.11 s/60°. Blocking (stall) current 7300 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 12 kg·cm @ 6 V; 15 kg·cm, 0.085 s/60° @ 7.4 V. Speed @ 6 V: spec table 0.1 vs description 0.11 s/60°. Blocking (stall) current 7300 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1254MGplus/savox-servo-sv-1254mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1259mg",
@@ -1329,7 +1578,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1259MG/savox-servo-sv-1259mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1259MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 15 kg·cm, 0.1 s/60° @ 6 V; 19 kg·cm, 0.085 s/60° @ 7.4 V. Blocking (stall) current 4800 mA; Rated current 220 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 73,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 15 kg·cm, 0.1 s/60° @ 6 V; 19 kg·cm, 0.085 s/60° @ 7.4 V. Blocking (stall) current 4800 mA; Rated current 220 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Composite + Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 73,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 8 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1259MG/savox-servo-sv-1259mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1261mg",
@@ -1349,7 +1602,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1261MG/savox-servo-sv-1261mg-digital-high-voltage-coreless-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1261MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 15 kg·cm, 0.12 s/60° @ 6 V; 20 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 5600 mA; Rated current 200 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 15 kg·cm, 0.12 s/60° @ 6 V; 20 kg·cm, 0.095 s/60° @ 7.4 V. Blocking (stall) current 5600 mA; Rated current 200 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1261MG/savox-servo-sv-1261mg-digital-high-voltage-coreless-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-0235mg",
@@ -1369,7 +1626,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-0235MGplus/savox-servo-sv-0235mg-digital-high-voltage-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-0235MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 28 kg·cm, 0.18 s/60° @ 6 V. Blocking (stall) current 9000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 72,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 28 kg·cm, 0.18 s/60° @ 6 V. Blocking (stall) current 9000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 72,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-0235MGplus/savox-servo-sv-0235mg-digital-high-voltage-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1271sg",
@@ -1389,7 +1650,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1271SGplus/savox-servo-sv-1271sg-digital-high-voltage-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1271SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 20 kg·cm, 0.11 s/60° @ 6 V; 0.08 s/60° @ 7.4 V. Torque @ 7.4 V: spec table 30 vs description 25 kg·cm. Blocking (stall) current 8000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV."
+    "remarks": "Other: 20 kg·cm, 0.11 s/60° @ 6 V; 0.08 s/60° @ 7.4 V. Torque @ 7.4 V: spec table 30 vs description 25 kg·cm. Blocking (stall) current 8000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1271SGplus/savox-servo-sv-1271sg-digital-high-voltage-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-0236mg",
@@ -1409,7 +1674,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-0236MGplus/savox-servo-sv-0236mg-digital-high-voltage-dc-motor-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-0236MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 30 kg·cm, 0.21 s/60° @ 6 V. Blocking (stall) current 5700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 72,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 30 kg·cm, 0.21 s/60° @ 6 V. Blocking (stall) current 5700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 72,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 5 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-0236MGplus/savox-servo-sv-0236mg-digital-high-voltage-dc-motor-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1272sg",
@@ -1429,7 +1698,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1272SGplus/savox-servo-sv-1272sg-digital-high-voltage-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1272SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 23 kg·cm, 0.13 s/60° @ 6 V; 35 kg·cm, 0.1 s/60° @ 7.4 V. Blocking (stall) current 8000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 89,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 23 kg·cm, 0.13 s/60° @ 6 V; 35 kg·cm, 0.1 s/60° @ 7.4 V. Blocking (stall) current 8000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 89,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): Only 1 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1272SGplus/savox-servo-sv-1272sg-digital-high-voltage-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1270tg",
@@ -1449,7 +1722,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1270TGplus/savox-servo-sv-1270tg-digital-high-voltage-coreless-motor-titanium-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1270TG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 30 kg·cm, 0.14 s/60° @ 6 V; 40 kg·cm, 0.11 s/60° @ 7.4 V. Blocking (stall) current 8000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 91,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 30 kg·cm, 0.14 s/60° @ 6 V; 40 kg·cm, 0.11 s/60° @ 7.4 V. Blocking (stall) current 8000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Titanium Gears. Case: Aluminium + Composite Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 91,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1270TGplus/savox-servo-sv-1270tg-digital-high-voltage-coreless-motor-titanium-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1280sg",
@@ -1469,7 +1746,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1280SG/savox-servo-sv-1280sg-digital-high-voltage-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1280SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 38 kg·cm, 0.17 s/60° @ 6 V; 45 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 7500 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 114,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 38 kg·cm, 0.17 s/60° @ 6 V; 45 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 7500 mA; Rated current 220 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 114,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): Only 1 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1280SG/savox-servo-sv-1280sg-digital-high-voltage-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sv-1281sg",
@@ -1489,7 +1770,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SV-1281SG/savox-servo-sv-1281sg-digital-high-voltage-coreless-motor-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SV-1281SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 40 kg·cm, 0.18 s/60° @ 6 V; 50 kg·cm, 0.16 s/60° @ 7.4 V. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 116,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 40 kg·cm, 0.18 s/60° @ 6 V; 50 kg·cm, 0.16 s/60° @ 7.4 V. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Water - Dust Resistant. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 116,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SV-1281SG/savox-servo-sv-1281sg-digital-high-voltage-coreless-motor-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-0250mg",
@@ -1507,7 +1792,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-0250MGplus/savox-servo-sw-0250mg-digital-dc-motor-waterproof-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-0250MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.5 kg·cm @ 4.8 V. Speed @ 4.8 V: spec table 0.17 vs description 0.14 s/60°. Speed @ 6 V: spec table 0.14 vs description 0.11 s/60°. Weight: spec table 28 g vs description 25.0 g. Blocking (stall) current 1250 mA; Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm."
+    "remarks": "Other: 3.5 kg·cm @ 4.8 V. Speed @ 4.8 V: spec table 0.17 vs description 0.14 s/60°. Speed @ 6 V: spec table 0.14 vs description 0.11 s/60°. Weight: spec table 28 g vs description 25.0 g. Blocking (stall) current 1250 mA; Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-0250MGplus/savox-servo-sw-0250mg-digital-dc-motor-waterproof-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-0267mg",
@@ -1528,7 +1817,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-0267MG/savox-servo-sw-0267mg-digital-dc-motor-waterproof-micro-size-servo-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-0267MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 5 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1600 mA; Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 5 kg·cm, 0.16 s/60° @ 4.8 V. Blocking (stall) current 1600 mA; Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 4.8V - 6.0V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital. List price € 29,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SW-0267MG/savox-servo-sw-0267mg-digital-dc-motor-waterproof-micro-size-servo-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-0230mg",
@@ -1548,7 +1840,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-0230MGplus/savox-servo-sw-0230mg-digital-high-voltage-dc-motor-waterproof-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-0230MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 6.5 kg·cm, 0.16 s/60° @ 6 V. Weight: spec table 62 g vs description 60.0 g. Blocking (stall) current 1800 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 39,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 6.5 kg·cm, 0.16 s/60° @ 6 V. Weight: spec table 62 g vs description 60.0 g. Blocking (stall) current 1800 mA; Rated current 120 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 39,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-0230MGplus/savox-servo-sw-0230mg-digital-high-voltage-dc-motor-waterproof-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1250mg",
@@ -1569,7 +1865,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1250MG/savox-servo-sw-1250mg-digital-high-voltage-coreless-motor-waterproof-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1250MG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 5 kg·cm, 0.12 s/60° @ 6 V; 8 kg·cm, 0.1 s/60° @ 7.4 V. Blocking (stall) current 2400 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 74,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 5 kg·cm, 0.12 s/60° @ 6 V; 8 kg·cm, 0.1 s/60° @ 7.4 V. Blocking (stall) current 2400 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Metal Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 74,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1250MG/savox-servo-sw-1250mg-digital-high-voltage-coreless-motor-waterproof-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-0231mg",
@@ -1589,7 +1888,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-0231MGplus/savox-servo-sw-0231mg-digital-dc-motor-waterproof-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-0231MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 0.17 s/60° @ 6 V. Torque @ 6 V: spec table 20 vs description 15 kg·cm. Weight: spec table 68 g vs description 66 g. Blocking (stall) current 5900 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 42,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 0.17 s/60° @ 6 V. Torque @ 6 V: spec table 20 vs description 15 kg·cm. Weight: spec table 68 g vs description 66 g. Blocking (stall) current 5900 mA; Rated current 150 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 42,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-0231MGplus/savox-servo-sw-0231mg-digital-dc-motor-waterproof-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1211sg",
@@ -1610,7 +1913,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1211SGplus/savox-servo-sw-1211sg-digital-coreless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1211SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 15 kg·cm, 0.1 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 89,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 15 kg·cm, 0.1 s/60° @ 6 V; 25 kg·cm, 0.08 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 89,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 7 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1211SGplus/savox-servo-sw-1211sg-digital-coreless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-0240mg",
@@ -1631,7 +1938,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-0240MGplus/savox-servo-sw-0240mg-digital-high-voltage-dc-motor-waterproof-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-0240MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 28 kg·cm, 0.18 s/60° @ 6 V. Blocking (stall) current 9000 mA; Rated current 200 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 28 kg·cm, 0.18 s/60° @ 6 V. Blocking (stall) current 9000 mA; Rated current 200 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-0240MGplus/savox-servo-sw-0240mg-digital-high-voltage-dc-motor-waterproof-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1210sg",
@@ -1652,7 +1963,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1210SGplus/savox-servo-sw-1210sg-digital-coreless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1210SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 20 kg·cm, 0.15 s/60° @ 6 V; 32 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 89,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 20 kg·cm, 0.15 s/60° @ 6 V; 32 kg·cm, 0.13 s/60° @ 7.4 V. Blocking (stall) current 8400 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 89,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1210SGplus/savox-servo-sw-1210sg-digital-coreless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-0241mg",
@@ -1673,7 +1988,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-0241MGplus/savox-servo-sw-0241mg-digital-high-voltage-dc-motor-waterproof-metal-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-0241MG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 30 kg·cm, 0.21 s/60° @ 6 V. Blocking (stall) current 5700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 30 kg·cm, 0.21 s/60° @ 6 V. Blocking (stall) current 5700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 7.4V. Motor: DC Core Motor. Gears: Metal Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 85,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 5 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-0241MGplus/savox-servo-sw-0241mg-digital-high-voltage-dc-motor-waterproof-metal-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1213sg",
@@ -1694,7 +2013,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1213SG/savox-servo-sw-1213sg-digital-high-voltage-coreless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1213SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 32 kg·cm, 0.19 s/60° @ 6 V; 38 kg·cm, 0.16 s/60° @ 7.4 V. Blocking (stall) current 6000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 83,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 32 kg·cm, 0.19 s/60° @ 6 V; 38 kg·cm, 0.16 s/60° @ 7.4 V. Blocking (stall) current 6000 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 83,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1213SG/savox-servo-sw-1213sg-digital-high-voltage-coreless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1212sgb",
@@ -1715,7 +2038,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1212SGBplus/savox-servo-sw-1212sgb-black-series-digital-coreless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1212SGB+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 36 kg·cm, 0.17 s/60° @ 6 V; 46 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 9700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 94,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 36 kg·cm, 0.17 s/60° @ 6 V; 46 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 9700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 94,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): >10 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1212SGBplus/savox-servo-sw-1212sgb-black-series-digital-coreless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1212sg",
@@ -1736,7 +2063,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1212SGplus/savox-servo-sw-1212sg-digital-coreless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1212SG+",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 36 kg·cm, 0.17 s/60° @ 6 V; 46 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 9700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 94,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 36 kg·cm, 0.17 s/60° @ 6 V; 46 kg·cm, 0.14 s/60° @ 7.4 V. Blocking (stall) current 9700 mA; Rated current 180 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium + Composite Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 94,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 8 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1212SGplus/savox-servo-sw-1212sg-digital-coreless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-2290sg",
@@ -1756,7 +2087,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-2290SG/savox-servo-sw-2290sg-digital-high-voltage-brushless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-2290SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 45 kg·cm, 0.16 s/60° @ 6 V; 55 kg·cm, 0.13 s/60° @ 7.4 V. Weight: spec table 88 g vs description 81 g. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 145,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 45 kg·cm, 0.16 s/60° @ 6 V; 55 kg·cm, 0.13 s/60° @ 7.4 V. Weight: spec table 88 g vs description 81 g. Blocking (stall) current 10500 mA; Rated current 250 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital HV. List price € 145,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SW-2290SG/savox-servo-sw-2290sg-digital-high-voltage-brushless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-1240sg",
@@ -1777,7 +2111,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-1240SG/savox-servo-sw-1240sg-digital-coreless-motor-waterproof-steel-gear",
     "source": "Savox product page 'Servo - Specs' table (savox-servo.com), item SW-1240SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 50 kg·cm, 0.2 s/60° @ 6 V; 65 kg·cm, 0.17 s/60° @ 7.4 V. Blocking (stall) current 7000 mA; Rated current 200 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 152,95 incl. VAT (savox-servo.com)."
+    "remarks": "Other: 50 kg·cm, 0.2 s/60° @ 6 V; 65 kg·cm, 0.17 s/60° @ 7.4 V. Blocking (stall) current 7000 mA; Rated current 200 mA; Quiescent current 6 mA (voltage not stated). Operating Voltage: 6.0V - 8.4V. Motor: Coreless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 15T Spline 7,8mm. Technology: Digital HV. List price € 152,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): not in stock, no restock date stated",
+    "lead_time_url": "https://savox-servo.com/en/product/SW-1240SG/savox-servo-sw-1240sg-digital-coreless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-2293sg",
@@ -1800,7 +2137,11 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-2293SG/savox-servo-sw-2293sg-digital-brushless-motor-waterproof-steel-gear",
     "source": "Savox product page technical specifications in description (savox-servo.com), item SW-2293SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Torque/speed from the product description technical specifications (spec table has none). Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 12.6V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital SHV. List price € 152,95 incl. VAT (savox-servo.com)."
+    "remarks": "Torque/speed from the product description technical specifications (spec table has none). Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 12.6V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital SHV. List price € 152,95 incl. VAT (savox-servo.com).",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 3 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-2293SG/savox-servo-sw-2293sg-digital-brushless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "savox-sw-2294sg",
@@ -1823,6 +2164,10 @@
     "datasheet_url": "https://savox-servo.com/en/product/SW-2294SG/savox-servo-sw-2294sg-digital-brushless-motor-waterproof-steel-gear",
     "source": "Savox product page technical specifications in description (savox-servo.com), item SW-2294SG",
     "retrieved_on": "2026-10-08",
-    "remarks": "Torque/speed from the product description technical specifications (spec table has none). Blocking current 5200 mA at the single rated operating voltage 16.8V. Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 16.8V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital SHV."
+    "remarks": "Torque/speed from the product description technical specifications (spec table has none). Blocking current 5200 mA at the single rated operating voltage 16.8V. Rated current 100 mA; Quiescent current 5 mA (voltage not stated). Operating Voltage: 16.8V. Motor: Lightweight Brushless Motor. Gears: Steel Gears. Case: Aluminium Case. Protection: Waterproof IP67. Positioning: VR Potentiometer - Direct Drive. Spline Type: 25T Spline 6,0mm. Technology: Digital SHV.",
+    "lead_time": "Savox-Servo.com (official Savox distributor): 4 in stock; weekday B2C orders before 13:00 CET normally dispatched same day (shipping policy)",
+    "lead_time_days": 1,
+    "lead_time_url": "https://savox-servo.com/en/product/SW-2294SG/savox-servo-sw-2294sg-digital-brushless-motor-waterproof-steel-gear",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]

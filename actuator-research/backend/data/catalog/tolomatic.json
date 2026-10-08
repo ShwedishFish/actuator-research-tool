@@ -175,7 +175,11 @@
     "remarks": "Package with Teknic ClearPath-MC integrated drive/motor, 24-75 VDC operating range. 10 mm lead package (2192-0291/0293) rated 325 N cont., 550 mm/s.",
     "peak_basis": "peak",
     "continuous_basis": "continuous",
-    "speed_condition": "max"
+    "speed_condition": "max",
+    "lead_time": "Tolomatic Quick Ship: ERD15 package (2192-0290/0292) available to ship within one week (Quick Ship flyer 2190-4021_01)",
+    "lead_time_days": 7,
+    "lead_time_url": "https://www.tolomatic.com/wp-content/uploads/2024/01/2190-4021_01_Quick_Ship_Flyer.pdf",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "kind": "linear",

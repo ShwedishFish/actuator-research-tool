@@ -21,7 +21,10 @@
     "datasheet_url": "https://hitecrcd.com/d131mw/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8 ~ 7.4 V. Gears: 5 Metal Gears. Motor: Brushless. Amplifier: 32bit Programable Digital. Title says coreless; spec table motor type says brushless."
+    "remarks": "Operating voltage 4.8 ~ 7.4 V. Gears: 5 Metal Gears. Motor: Brushless. Amplifier: 32bit Programable Digital. Title says coreless; spec table motor type says brushless.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d131mw/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d145sw",
@@ -41,7 +44,10 @@
     "datasheet_url": "https://hitecrcd.com/d145sw-32-bit-wide-voltage-steel-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 0.14 s/60° @ 7.4 V. 7.4 V torque: product page 6 kgf·cm vs spec chart 7 kgf·cm. Stall current 2500 mA (voltage not stated). Gears: MP 1st Gear & 4 Metal Gears. Motor: 3 Pole Cored Carbon Brush. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 0.14 s/60° @ 7.4 V. 7.4 V torque: product page 6 kgf·cm vs spec chart 7 kgf·cm. Stall current 2500 mA (voltage not stated). Gears: MP 1st Gear & 4 Metal Gears. Motor: 3 Pole Cored Carbon Brush. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d145sw-32-bit-wide-voltage-steel-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d71mh",
@@ -65,7 +71,10 @@
     "datasheet_url": "https://hitecrcd.com/d71mh-digital-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 3.7 kgf·cm, 0.16 s/60° @ 6 V. Stall current 1.3 A @ 6 V. Gears: 1 Resin & 4 Metal Gears. Motor: Cored Metal Brush. Amplifier: 32bit Programmable Digital."
+    "remarks": "Other: 3.7 kgf·cm, 0.16 s/60° @ 6 V. Stall current 1.3 A @ 6 V. Gears: 1 Resin & 4 Metal Gears. Motor: Cored Metal Brush. Amplifier: 32bit Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d71mh-digital-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d85mg",
@@ -86,7 +95,10 @@
     "datasheet_url": "https://hitecrcd.com/d85mg-micro-32-bit-metal-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3.6 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 2150 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: 32bit Programmable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3.6 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 2150 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: 32bit Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d85mg-micro-32-bit-metal-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d141sh",
@@ -110,7 +122,10 @@
     "datasheet_url": "https://hitecrcd.com/d141sh/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V. Gears: MP 1st Gear & 4 Steel Gears. Motor: Coreless."
+    "remarks": "Operating voltage 3.5V ~ 8.4V. Gears: MP 1st Gear & 4 Steel Gears. Motor: Coreless.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d141sh/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d89mw",
@@ -130,7 +145,10 @@
     "datasheet_url": "https://hitecrcd.com/d89mw-32-bit-wide-voltage-metal-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 5.3 kgf·cm, 0.17 s/60° @ 4.8 V. Spec chart: 8.5 kgf·cm @ 6 V, 0.11 s/60° @ 6 V. Stall current 2900 mA (voltage not stated). Gears: 5 Metal Gears. Motor: Coreless Metal Brush. Amplifier: 32bit Programmable Digital."
+    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 5.3 kgf·cm, 0.17 s/60° @ 4.8 V. Spec chart: 8.5 kgf·cm @ 6 V, 0.11 s/60° @ 6 V. Stall current 2900 mA (voltage not stated). Gears: 5 Metal Gears. Motor: Coreless Metal Brush. Amplifier: 32bit Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d89mw-32-bit-wide-voltage-metal-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d625mw",
@@ -151,7 +169,10 @@
     "datasheet_url": "https://hitecrcd.com/d625mw-32-bit-high-speed-metal-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 6.3 kgf·cm, 0.2 s/60° @ 4.8 V; 8.8 kgf·cm, 0.15 s/60° @ 6 V."
+    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 6.3 kgf·cm, 0.2 s/60° @ 4.8 V; 8.8 kgf·cm, 0.15 s/60° @ 6 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d625mw-32-bit-high-speed-metal-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d646wp",
@@ -175,7 +196,10 @@
     "datasheet_url": "https://hitecrcd.com/d646wp-32bit-digital-high-torque-waterproof-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5 ~ 8.4V. Gears: Metal. Motor: Cored Carbon Brush. Amplifier: G1 Programmable Digital."
+    "remarks": "Operating voltage 3.5 ~ 8.4V. Gears: Metal. Motor: Cored Carbon Brush. Amplifier: G1 Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d646wp-32bit-digital-high-torque-waterproof-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d645mw",
@@ -196,7 +220,10 @@
     "datasheet_url": "https://hitecrcd.com/d645mw-32-bit-high-torque-metal-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 8.3 kgf·cm, 0.28 s/60° @ 4.8 V; 11.3 kgf·cm, 0.2 s/60° @ 6 V."
+    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 8.3 kgf·cm, 0.28 s/60° @ 4.8 V; 11.3 kgf·cm, 0.2 s/60° @ 6 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d645mw-32-bit-high-torque-metal-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d954sw",
@@ -217,7 +244,10 @@
     "datasheet_url": "https://hitecrcd.com/d954sw-wide-voltage-steel-gear-25t-digital-coreless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 5200 mA (voltage not stated). Gears: MK 1st Gear & 3 Steel Alloy Gears. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 5200 mA (voltage not stated). Gears: MK 1st Gear & 3 Steel Alloy Gears. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d954sw-wide-voltage-steel-gear-25t-digital-coreless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d955tw",
@@ -238,7 +268,10 @@
     "datasheet_url": "https://hitecrcd.com/d955tw-32-bit-high-torque-titanium-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V; 24 kgf·cm, 0.15 s/60° @ 6 V."
+    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V; 24 kgf·cm, 0.15 s/60° @ 6 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d955tw-32-bit-high-torque-titanium-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d956wp",
@@ -260,7 +293,10 @@
     "datasheet_url": "https://hitecrcd.com/d956wp-32-bit-high-torque-waterproof-steel-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 5200 mA (voltage not stated). Gears: MK 1st Gear & 3 Steel Alloy Gears. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 5200 mA (voltage not stated). Gears: MK 1st Gear & 3 Steel Alloy Gears. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d956wp-32-bit-high-torque-waterproof-steel-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d840wp",
@@ -284,7 +320,10 @@
     "datasheet_url": "https://hitecrcd.com/d840wp-waterproof-steel-gear-15t-digital-1-5-scale-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 19 kgf·cm, 0.17 s/60° @ 4.8 V; '24.0gf·cm (333.3 oz·in)', 0.14 s/60° @ 6 V. Stall current 5 A @ 4.8 V. Stall current @ 6 V published as '6,00mA'. Gears: 1 Metal+Plastic & 4 Steel Gears. Motor: Cored Carbon Brush. Amplifier: Analog Controller."
+    "remarks": "Other: 19 kgf·cm, 0.17 s/60° @ 4.8 V; '24.0gf·cm (333.3 oz·in)', 0.14 s/60° @ 6 V. Stall current 5 A @ 4.8 V. Stall current @ 6 V published as '6,00mA'. Gears: 1 Metal+Plastic & 4 Steel Gears. Motor: Cored Carbon Brush. Amplifier: Analog Controller.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d840wp-waterproof-steel-gear-15t-digital-1-5-scale-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d950tw",
@@ -304,7 +343,10 @@
     "datasheet_url": "https://hitecrcd.com/d950tw-wide-voltage-titanium-gear-25t-digital-coreless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 21 kgf·cm, 0.23 s/60° @ 4.8 V; 29 kgf·cm, 0.17 s/60° @ 6 V. Stall current 6200 mA (voltage not stated). Gears: Titanium. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 21 kgf·cm, 0.23 s/60° @ 4.8 V; 29 kgf·cm, 0.17 s/60° @ 6 V. Stall current 6200 mA (voltage not stated). Gears: Titanium. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d950tw-wide-voltage-titanium-gear-25t-digital-coreless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d951tw",
@@ -324,7 +366,10 @@
     "datasheet_url": "https://hitecrcd.com/d951tw-titanium-gear-metal-case-25t-digital-coreless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 21 kgf·cm, 0.23 s/60° @ 4.8 V; 29 kgf·cm, 0.17 s/60° @ 6 V. Stall current 6200 mA (voltage not stated). Gears: Titanium. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 21 kgf·cm, 0.23 s/60° @ 4.8 V; 29 kgf·cm, 0.17 s/60° @ 6 V. Stall current 6200 mA (voltage not stated). Gears: Titanium. Motor: Coreless Metal Brush. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d951tw-titanium-gear-metal-case-25t-digital-coreless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-d845wp",
@@ -348,7 +393,10 @@
     "datasheet_url": "https://hitecrcd.com/d845wp-digital-mega-scale-monster-torque-waterproof-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 32.5 kgf·cm, 0.26 s/60° @ 4.8 V; '40.5gf·cm (562.44 oz·in)', 0.21 s/60° @ 6 V. Stall current 6 A @ 4.8 V. Stall current @ 6 V published as '7,00mA'. Gears: 1 Metal+Plastic & 4 Steel Gears. Motor: Cored Carbon Brush. Amplifier: Analog Controller."
+    "remarks": "Other: 32.5 kgf·cm, 0.26 s/60° @ 4.8 V; '40.5gf·cm (562.44 oz·in)', 0.21 s/60° @ 6 V. Stall current 6 A @ 4.8 V. Stall current @ 6 V published as '7,00mA'. Gears: 1 Metal+Plastic & 4 Steel Gears. Motor: Cored Carbon Brush. Amplifier: Analog Controller.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/d845wp-digital-mega-scale-monster-torque-waterproof-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-db777wp",
@@ -370,7 +418,10 @@
     "datasheet_url": "https://hitecrcd.com/db777wp-32-bit-low-profile-waterproof-metal-case-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 8 kgf·cm @ 6 V. Speed @ 6 V: product page 0.08 vs spec chart 0.06 s/60°; speed not recorded. Stall current 3.5 A @ 6 V. Gears: Metal. Motor: Brushless. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 8 kgf·cm @ 6 V. Speed @ 6 V: product page 0.08 vs spec chart 0.06 s/60°; speed not recorded. Stall current 3.5 A @ 6 V. Gears: Metal. Motor: Brushless. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/db777wp-32-bit-low-profile-waterproof-metal-case-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-db778wp",
@@ -391,7 +442,10 @@
     "datasheet_url": "https://hitecrcd.com/db778wp-low-profile-waterproof-steel-gear-25t-brushless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.7V ~ 8.4V. Spec chart: 18 kgf·cm @ 7.4 V, 0.1 s/60° @ 6 V. Stall current 5.5 A @ 7.4 V. Gears: 5 Steel Gears. Motor: Brushless. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 3.7V ~ 8.4V. Spec chart: 18 kgf·cm @ 7.4 V, 0.1 s/60° @ 6 V. Stall current 5.5 A @ 7.4 V. Gears: 5 Steel Gears. Motor: Brushless. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/db778wp-low-profile-waterproof-steel-gear-25t-brushless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-db951wp",
@@ -415,7 +469,10 @@
     "datasheet_url": "https://hitecrcd.com/db951wp-waterproof-high-speed-aluminum-25t-digital-brushless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.0V ~ 8.4V. Gears: 5 Steel Gears. Motor: Brushless. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.0V ~ 8.4V. Gears: 5 Steel Gears. Motor: Brushless. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/db951wp-waterproof-high-speed-aluminum-25t-digital-brushless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-db950sw",
@@ -437,7 +494,10 @@
     "datasheet_url": "https://hitecrcd.com/db950sw-wide-voltage-steel-gear-25t-digital-brushless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 35 kgf·cm, 0.23 s/60° @ 4.8 V; 40 kgf·cm, 0.17 s/60° @ 6 V. Stall current 4200 mA (voltage not stated). Gears: Steel. Motor: Brushless. Amplifier: 32bit Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 35 kgf·cm, 0.23 s/60° @ 4.8 V; 40 kgf·cm, 0.17 s/60° @ 6 V. Stall current 4200 mA (voltage not stated). Gears: Steel. Motor: Brushless. Amplifier: 32bit Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/db950sw-wide-voltage-steel-gear-25t-digital-brushless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-db961wp",
@@ -461,7 +521,10 @@
     "datasheet_url": "https://hitecrcd.com/db961wp-20mm-ultra-premium-brushless-hardened-steel-gear-waterproof-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.0V ~ 8.4V. Gears: 5 Steel Gears. Motor: Brushless. Amplifier: 32bit Programable Digital. Also sold as Limited Edition SKU 36960S (same published specs)."
+    "remarks": "Operating voltage 4.0V ~ 8.4V. Gears: 5 Steel Gears. Motor: Brushless. Amplifier: 32bit Programable Digital. Also sold as Limited Edition SKU 36960S (same published specs).",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/db961wp-20mm-ultra-premium-brushless-hardened-steel-gear-waterproof-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-7235mh",
@@ -596,7 +659,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-40-economical-nano-servo-for-indoor-models/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 0.6 kgf·cm, 0.12 s/60° @ 4.8 V. Stall current 460 mA (voltage not stated). Gears: Resin. Motor: Cored Metal Brush. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 0.6 kgf·cm, 0.12 s/60° @ 4.8 V. Stall current 460 mA (voltage not stated). Gears: Resin. Motor: Cored Metal Brush. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-40-economical-nano-servo-for-indoor-models/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-45hb",
@@ -617,7 +683,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-45hb-8g-hd-resin-gear-analog-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1 kgf·cm, 0.14 s/60° @ 4.8 V. Stall current 440 mA (voltage not stated). Gears: Heavy Duty Resin. Motor: Cored Metal Brush. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1 kgf·cm, 0.14 s/60° @ 4.8 V. Stall current 440 mA (voltage not stated). Gears: Heavy Duty Resin. Motor: Cored Metal Brush. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-45hb-8g-hd-resin-gear-analog-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-53",
@@ -635,7 +704,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-53-super-economy-feather-nylon-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 1.5 kgf·cm vs spec chart 1.9 kgf·cm. Speed @ 6 V: product page 0.13 vs spec chart 0.11 s/60°; speed not recorded. Stall current 550 mA (voltage not stated). Gears: Nylon. Motor: Cored Metal Brush. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 1.5 kgf·cm vs spec chart 1.9 kgf·cm. Speed @ 6 V: product page 0.13 vs spec chart 0.11 s/60°; speed not recorded. Stall current 550 mA (voltage not stated). Gears: Nylon. Motor: Cored Metal Brush. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-53-super-economy-feather-nylon-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-55",
@@ -656,7 +728,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-55-economy-feather-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1.2 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 450 mA (voltage not stated). Gears: Nylon. Motor: Coreless Metal Brush. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1.2 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 450 mA (voltage not stated). Gears: Nylon. Motor: Coreless Metal Brush. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-55-economy-feather-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-65hb",
@@ -674,7 +749,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-65hb-mighty-karbonite-feather-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 1.9 kgf·cm vs spec chart 2.2 kgf·cm. Speed @ 6 V: product page 0.13 vs spec chart 0.11 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Neodymium. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 1.9 kgf·cm vs spec chart 2.2 kgf·cm. Speed @ 6 V: product page 0.13 vs spec chart 0.11 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Neodymium. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-65hb-mighty-karbonite-feather-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-65mg",
@@ -695,7 +773,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-65mg-metal-gear-analog-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1.8 kgf·cm, 0.14 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Neodymium. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1.8 kgf·cm, 0.14 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Neodymium. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-65mg-metal-gear-analog-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-70mg",
@@ -716,7 +797,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-70mg-ultra-torque-metal-gear-feather-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.4 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 1250 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Neodymium. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.4 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 1250 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Neodymium. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-70mg-ultra-torque-metal-gear-feather-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-81",
@@ -737,7 +821,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-81-standard-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.6 kgf·cm, 0.11 s/60° @ 4.8 V. Stall current 1500 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.6 kgf·cm, 0.11 s/60° @ 4.8 V. Stall current 1500 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-81-standard-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-422",
@@ -757,7 +844,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-422-deluxe-standard-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 0.16 s/60° @ 6 V. 6 V torque: product page 4.1 kgf·cm vs spec chart 3.9 kgf·cm. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 0.16 s/60° @ 6 V. 6 V torque: product page 4.1 kgf·cm vs spec chart 3.9 kgf·cm. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-422-deluxe-standard-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-425bb",
@@ -777,7 +867,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-425bb-deluxe-ball-bearing-standard-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 0.16 s/60° @ 6 V. 6 V torque: product page 4.1 kgf·cm vs spec chart 3.9 kgf·cm. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 0.16 s/60° @ 6 V. 6 V torque: product page 4.1 kgf·cm vs spec chart 3.9 kgf·cm. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-425bb-deluxe-ball-bearing-standard-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-82mg",
@@ -798,7 +891,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-82mg-standard-metal-gear-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.8 kgf·cm, 0.12 s/60° @ 4.8 V. Stall current 1800 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.8 kgf·cm, 0.12 s/60° @ 4.8 V. Stall current 1800 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-82mg-standard-metal-gear-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-125mg",
@@ -819,7 +915,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-125mg-slim-metal-gear-wing-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.17 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-125mg-slim-metal-gear-wing-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-85bb",
@@ -840,7 +939,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-85bb-premium-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.16 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.16 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-85bb-premium-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-85mg",
@@ -861,7 +963,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-85mg-premium-metal-gear-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.16 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.16 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-85mg-premium-metal-gear-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-311",
@@ -882,7 +987,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-311-standard-economy-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-311-standard-economy-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-318",
@@ -904,7 +1012,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-318-standard-voltage-resin-gear-25t-analog-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: Cored Metal Brush. Amplifier: Analog."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: Cored Metal Brush. Amplifier: Analog.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-318-standard-voltage-resin-gear-25t-analog-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-322hd",
@@ -925,7 +1036,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-322hd-standard-heavy-duty-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.19 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-322hd-standard-heavy-duty-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-225bb",
@@ -943,7 +1057,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-225bb-mighty-mini-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 4.8 kgf·cm vs spec chart 4.4 kgf·cm. Speed @ 6 V: product page 0.11 vs spec chart 0.13 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 4.8 kgf·cm vs spec chart 4.4 kgf·cm. Speed @ 6 V: product page 0.11 vs spec chart 0.13 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-225bb-mighty-mini-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-225mg",
@@ -961,7 +1078,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-225mg-metal-gear-mighty-mini-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 4.8 kgf·cm vs spec chart 4.4 kgf·cm. Speed @ 6 V: product page 0.11 vs spec chart 0.13 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 4.8 kgf·cm vs spec chart 4.4 kgf·cm. Speed @ 6 V: product page 0.11 vs spec chart 0.13 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-225mg-metal-gear-mighty-mini-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-430bh",
@@ -982,7 +1102,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-430bh-deluxe-high-voltage-ball-bearing-standard-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 4.1 kgf·cm, 0.16 s/60° @ 6 V. Stall current 850 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 4.1 kgf·cm, 0.16 s/60° @ 6 V. Stall current 850 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-430bh-deluxe-high-voltage-ball-bearing-standard-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-77bb",
@@ -1003,7 +1126,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-77bb-low-profile-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 4.4 kgf·cm, 0.18 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 4.4 kgf·cm, 0.18 s/60° @ 4.8 V. Stall current 800 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-77bb-low-profile-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-485hb",
@@ -1024,7 +1150,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-485hb-deluxe-hd-ball-bearing-standard-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 4.8 kgf·cm, 0.22 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 4.8 kgf·cm, 0.22 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-485hb-deluxe-hd-ball-bearing-standard-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-488hb",
@@ -1048,7 +1177,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-488hb-25t-analog-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: torque published as 4.8 kgf·cm and 106.93 oz·in (disagree), 0.22 s/60° @ 4.8 V. Stall current 1 A @ 4.8 V. Gears: 4 Heavy Duty Gears. Motor: Cored Carbon Brush. Amplifier: Analog Contorller."
+    "remarks": "Other: torque published as 4.8 kgf·cm and 106.93 oz·in (disagree), 0.22 s/60° @ 4.8 V. Stall current 1 A @ 4.8 V. Gears: 4 Heavy Duty Gears. Motor: Cored Carbon Brush. Amplifier: Analog Contorller.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-488hb-25t-analog-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-625mg",
@@ -1069,7 +1201,10 @@
     "datasheet_url": "https://hitecrcd.com/HS-625MG-High-Speed-Metal-Gear-24T-Analog-Sport-Servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 5.5 kgf·cm, 0.18 s/60° @ 4.8 V."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 5.5 kgf·cm, 0.18 s/60° @ 4.8 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/HS-625MG-High-Speed-Metal-Gear-24T-Analog-Sport-Servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-628mg",
@@ -1090,7 +1225,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-628mg-high-speed-metal-gear-25t-analog-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 5.5 kgf·cm, 0.18 s/60° @ 4.8 V."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 5.5 kgf·cm, 0.18 s/60° @ 4.8 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-628mg-high-speed-metal-gear-25t-analog-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-645mg",
@@ -1110,7 +1248,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-645mg-high-torque-metal-gear-premium-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 0.2 s/60° @ 6 V. 6 V torque: product page 9.6 kgf·cm vs spec chart 11.3 kgf·cm."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 0.2 s/60° @ 6 V. 6 V torque: product page 9.6 kgf·cm vs spec chart 11.3 kgf·cm.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-645mg-high-torque-metal-gear-premium-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-648mg",
@@ -1130,7 +1271,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-648mg-high-torque-metal-gear-25t-analog-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 0.2 s/60° @ 6 V. 6 V torque: product page 9.6 kgf·cm vs spec chart 11.3 kgf·cm."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 0.2 s/60° @ 6 V. 6 V torque: product page 9.6 kgf·cm vs spec chart 11.3 kgf·cm.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-648mg-high-torque-metal-gear-25t-analog-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-75bb",
@@ -1151,7 +1295,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-75bb-retract-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 6.6 kgf·cm, 0.45 s/60° @ 4.8 V. Stall current 1000 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 6.6 kgf·cm, 0.45 s/60° @ 4.8 V. Stall current 1000 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-75bb-retract-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-646wp",
@@ -1173,7 +1320,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-646wp/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 9.6 kgf·cm, 0.2 s/60° @ 6 V. Stall current 2200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 WP Analog."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 9.6 kgf·cm, 0.2 s/60° @ 6 V. Stall current 2200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 WP Analog.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-646wp/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-765hb",
@@ -1194,7 +1344,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-765hb-karbonite-sail-control-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 11 kgf·cm, 0.28 s/60° @ 4.8 V. Stall current 1800 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog MosFet."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 11 kgf·cm, 0.28 s/60° @ 4.8 V. Stall current 1800 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog MosFet.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-765hb-karbonite-sail-control-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-785hb",
@@ -1213,7 +1366,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-785hb-karbonite-3-5-turn-winch-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 11 kgf·cm @ 4.8 V. Speed 1.68 ~ 1.38 labeled 'Second @ 60°' on product page but spec chart gives 1.38 s/360° @ 6 V; speed not recorded. Stall current 1800 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog MosFet."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 11 kgf·cm @ 4.8 V. Speed 1.68 ~ 1.38 labeled 'Second @ 60°' on product page but spec chart gives 1.38 s/360° @ 6 V; speed not recorded. Stall current 1800 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog MosFet.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-785hb-karbonite-3-5-turn-winch-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-788hb",
@@ -1237,7 +1393,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-788hb-3.5-turn-winch-25T-analog-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 11 kgf·cm, 1.68 s/360° @ 4.8 V. Stall current 1.5 A @ 4.8 V. Speed published as 1.38 s/360° (winch). Gears: 4 Heavy Duty Gears. Motor: Cored Metal Brush. Amplifier: Analog Contorller."
+    "remarks": "Other: 11 kgf·cm, 1.68 s/360° @ 4.8 V. Stall current 1.5 A @ 4.8 V. Speed published as 1.38 s/360° (winch). Gears: 4 Heavy Duty Gears. Motor: Cored Metal Brush. Amplifier: Analog Contorller.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-788hb-3.5-turn-winch-25T-analog-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-805mg",
@@ -1257,7 +1416,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-805mg-mega-giant-scale-metal-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 19.8 kgf·cm, 0.22 s/60° @ 4.8 V. Stall current 6000 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Carbon Brush Ferrite. Amplifier: HT7003 Analog MosFet."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 19.8 kgf·cm, 0.22 s/60° @ 4.8 V. Stall current 6000 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Carbon Brush Ferrite. Amplifier: HT7003 Analog MosFet.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-805mg-mega-giant-scale-metal-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5055mg",
@@ -1278,7 +1440,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5055mg-economy-metal-gear-feather-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1.3 kgf·cm, 0.2 s/60° @ 4.8 V. Stall current 700 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 1.3 kgf·cm, 0.2 s/60° @ 4.8 V. Stall current 700 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5055mg-economy-metal-gear-feather-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5065mg",
@@ -1299,7 +1464,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5065mg-high-torque-metal-gear-feather-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 1.8 kgf·cm, 0.14 s/60° @ 4.8 V."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 1.8 kgf·cm, 0.14 s/60° @ 4.8 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5065mg-high-torque-metal-gear-feather-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5125mg",
@@ -1317,7 +1485,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5125mg-slim-metal-gear-wing-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 3.5 kgf·cm vs spec chart 3.3 kgf·cm. Speed @ 6 V: product page 0.13 vs spec chart 0.14 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. 6 V torque: product page 3.5 kgf·cm vs spec chart 3.3 kgf·cm. Speed @ 6 V: product page 0.13 vs spec chart 0.14 s/60°; speed not recorded. Stall current 1200 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5125mg-slim-metal-gear-wing-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5086wp",
@@ -1339,7 +1510,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5086wp-metal-gear-micro-digital-waterproof-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.18 s/60° @ 4.8 V. Stall current 1800 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 3 kgf·cm, 0.18 s/60° @ 4.8 V. Stall current 1800 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5086wp-metal-gear-micro-digital-waterproof-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5070mh",
@@ -1360,7 +1534,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5070mh-ultra-torque-metal-gear-feather-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 3.1 kgf·cm, 0.15 s/60° @ 6 V."
+    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 3.1 kgf·cm, 0.15 s/60° @ 6 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5070mh-ultra-torque-metal-gear-feather-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-7115th",
@@ -1381,7 +1558,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-7115th-high-voltage-titanium-gear-slim-wing-ultra-premium-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 3.2 kgf·cm, 0.12 s/60° @ 6 V. Stall current 1500 mA (voltage not stated). Gears: Titanium. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G2 Programable Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 3.2 kgf·cm, 0.12 s/60° @ 6 V. Stall current 1500 mA (voltage not stated). Gears: Titanium. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G2 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-7115th-high-voltage-titanium-gear-slim-wing-ultra-premium-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5085mg",
@@ -1402,7 +1582,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5085mg-premium-metal-gear-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 3.6 kgf·cm, 0.17 s/60° @ 4.8 V."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 3.6 kgf·cm, 0.17 s/60° @ 4.8 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5085mg-premium-metal-gear-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5087mh",
@@ -1422,7 +1605,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5087mh-hv-premium-digital-metal-gear-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 3.6 kgf·cm, 0.17 s/60° @ 4.8 V. Spec chart: 4.3 kgf·cm @ 7.4 V, 0.13 s/60° @ 7.4 V."
+    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 3.6 kgf·cm, 0.17 s/60° @ 4.8 V. Spec chart: 4.3 kgf·cm @ 7.4 V, 0.13 s/60° @ 7.4 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5087mh-hv-premium-digital-metal-gear-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5245mg",
@@ -1443,7 +1629,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5245mg/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 4.4 kgf·cm, 0.15 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programmable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 4.4 kgf·cm, 0.15 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5245mg/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5485hb",
@@ -1463,7 +1652,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5485hb-servo-retail-package/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 5.2 kgf·cm, 0.2 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 5.2 kgf·cm, 0.2 s/60° @ 4.8 V. Stall current 1200 mA (voltage not stated). Gears: Karbonite. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5485hb-servo-retail-package/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5496mh",
@@ -1483,7 +1675,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5496mh-high-voltage-metal-gear-24t-digital-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.15 s/60° @ 7.4 V. 7.4 V torque: product page 7.5 kgf·cm vs spec chart 7.2 kgf·cm. Stall current 1400 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.15 s/60° @ 7.4 V. 7.4 V torque: product page 7.5 kgf·cm vs spec chart 7.2 kgf·cm. Stall current 1400 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5496mh-high-voltage-metal-gear-24t-digital-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-7245mh",
@@ -1504,7 +1699,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-7245mh-high-voltage-high-torque-metal-gear-coreless-mini-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 5.2 kgf·cm, 0.13 s/60° @ 6 V. Stall current 1600 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G2.5 Programable Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 5.2 kgf·cm, 0.13 s/60° @ 6 V. Stall current 1600 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G2.5 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-7245mh-high-voltage-high-torque-metal-gear-coreless-mini-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5495bh",
@@ -1524,7 +1722,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5495bh-servo-retail-package/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 6.4 kgf·cm, 0.17 s/60° @ 6 V. Stall current 1400 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital. Title says Karbonite gear; spec table gear material says Metal."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 6.4 kgf·cm, 0.17 s/60° @ 6 V. Stall current 1400 mA (voltage not stated). Gears: Metal. Motor: 3 Pole Metal Brush Ferrite. Amplifier: G1 Programable Digital. Title says Karbonite gear; spec table gear material says Metal.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5495bh-servo-retail-package/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5625mg",
@@ -1544,7 +1745,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5625mg-high-speed-metal-gear-digital-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 7.9 kgf·cm, 0.17 s/60° @ 4.8 V."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 7.9 kgf·cm, 0.17 s/60° @ 4.8 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5625mg-high-speed-metal-gear-digital-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5645mg",
@@ -1564,7 +1768,11 @@
     "datasheet_url": "https://hitecrcd.com/hs-5645mg-high-torque-metal-gear-digital-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 10.3 kgf·cm, 0.23 s/60° @ 4.8 V."
+    "remarks": "Operating voltage 3.5V ~ 6.8V (2S LiFe). Other: 10.3 kgf·cm, 0.23 s/60° @ 4.8 V.",
+    "lead_time": "Hitec RCD USA store: in stock; orders processed within 1-2 business days (Orders & Shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://hitecrcd.com/hs-5645mg-high-torque-metal-gear-digital-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-7985mg",
@@ -1584,7 +1792,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-7985mg-high-torque-metal-gear-coreless-premium-digital-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 10.4 kgf·cm, 0.16 s/60° @ 4.8 V. Stall current 3000 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G2 Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 10.4 kgf·cm, 0.16 s/60° @ 4.8 V. Stall current 3000 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G2 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-7985mg-high-torque-metal-gear-coreless-premium-digital-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5565mh",
@@ -1604,7 +1815,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5565mh-economical-high-voltage-high-speed-coreless-metal-gear-digital-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 11 kgf·cm, 0.11 s/60° @ 6 V. Stall current 2700 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 11 kgf·cm, 0.11 s/60° @ 6 V. Stall current 2700 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5565mh-economical-high-voltage-high-speed-coreless-metal-gear-digital-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-5585mh",
@@ -1625,7 +1839,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-5585mh-economical-high-voltage-high-torque-coreless-metal-gear-digital-sport-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 14 kgf·cm, 0.17 s/60° @ 6 V. Stall current 2700 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G1 Programable Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 14 kgf·cm, 0.17 s/60° @ 6 V. Stall current 2700 mA (voltage not stated). Gears: Metal. Motor: Coreless Metal Brush. Amplifier: G1 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-5585mh-economical-high-voltage-high-torque-coreless-metal-gear-digital-sport-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-7954sh",
@@ -1645,7 +1862,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-7954sh-high-torque-steel-gear-24t-digital-coreless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4v. Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V; 24 kgf·cm, 0.15 s/60° @ 6 V. Stall current 4200 mA (voltage not stated). Gears: Steel. Motor: Coreless Metal Brush. Amplifier: G2 Programable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4v. Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V; 24 kgf·cm, 0.15 s/60° @ 6 V. Stall current 4200 mA (voltage not stated). Gears: Steel. Motor: Coreless Metal Brush. Amplifier: G2 Programable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-7954sh-high-torque-steel-gear-24t-digital-coreless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hs-7955tg",
@@ -1665,7 +1885,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-7955tg-high-torque-titanium-gear-coreless-ultra-premium-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V; 24 kgf·cm, 0.15 s/60° @ 6 V."
+    "remarks": "Operating voltage 3.5V ~ 8.4V (2S LiPo). Other: 18 kgf·cm, 0.19 s/60° @ 4.8 V; 24 kgf·cm, 0.15 s/60° @ 6 V.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-7955tg-high-torque-titanium-gear-coreless-ultra-premium-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsb-9465sh",
@@ -1689,7 +1912,11 @@
     "datasheet_url": "https://hitecrcd.com/hsb-9465sh-high-speed-brushless-steel-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 13.5 kgf·cm, 0.09 s/60° @ 6 V. Stall current 1.1 A @ 6 V. Gears: 1 Metal+Plastic & 3 Steel Gears. Motor: Brushless (BLDC). Amplifier: 16bit Programmable Digital."
+    "remarks": "Other: 13.5 kgf·cm, 0.09 s/60° @ 6 V. Stall current 1.1 A @ 6 V. Gears: 1 Metal+Plastic & 3 Steel Gears. Motor: Brushless (BLDC). Amplifier: 16bit Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: in stock; orders processed within 1-2 business days (Orders & Shipping policy)",
+    "lead_time_days": 3,
+    "lead_time_url": "https://hitecrcd.com/hsb-9465sh-high-speed-brushless-steel-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsb-9360th",
@@ -1713,7 +1940,10 @@
     "datasheet_url": "https://hitecrcd.com/hsb-9360th-high-speed-brushless-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Other: 17 kgf·cm, 0.08 s/60° @ 6 V. Stall current 2.7 A @ 6 V. Gears: 1 Metal+Plastic & 3 Titanium Alloy Gears. Motor: Brushless (BLDC). Amplifier: 16bit Programmable Digital."
+    "remarks": "Other: 17 kgf·cm, 0.08 s/60° @ 6 V. Stall current 2.7 A @ 6 V. Gears: 1 Metal+Plastic & 3 Titanium Alloy Gears. Motor: Brushless (BLDC). Amplifier: 16bit Programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsb-9360th-high-speed-brushless-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsb-9370th",
@@ -1749,7 +1979,10 @@
     "datasheet_url": "https://hitecrcd.com/hsb-9485sh-high-torque-brushless-steel-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.18 s/60° @ 6 V; 0.15 s/60° @ 7.4 V. Max torque 26.0 kgf·cm (361 oz·in) published without test voltage. Stall current 1100 mA (voltage not stated). Gears: Steel. Motor: Brushless. Amplifier: EBL Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.18 s/60° @ 6 V; 0.15 s/60° @ 7.4 V. Max torque 26.0 kgf·cm (361 oz·in) published without test voltage. Stall current 1100 mA (voltage not stated). Gears: Steel. Motor: Brushless. Amplifier: EBL Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsb-9485sh-high-torque-brushless-steel-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsb-9380th",
@@ -1770,7 +2003,10 @@
     "datasheet_url": "https://hitecrcd.com/hsb-9370th-multi-purpose-brushless-titanium-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.17 s/60° @ 6 V. Torque voltage from Hitec spec chart (34 kgf·cm @ 7.4 V); product page lists 34 kgf·cm without voltage. Stall current 2100 mA (voltage not stated). Gears: Titanium. Motor: Brushless. Amplifier: EBL Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.17 s/60° @ 6 V. Torque voltage from Hitec spec chart (34 kgf·cm @ 7.4 V); product page lists 34 kgf·cm without voltage. Stall current 2100 mA (voltage not stated). Gears: Titanium. Motor: Brushless. Amplifier: EBL Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsb-9370th-multi-purpose-brushless-titanium-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsb-9381th",
@@ -1791,7 +2027,10 @@
     "datasheet_url": "https://hitecrcd.com/hsb-9381th-full-metal-case-ultra-torque-brushless-titanium-gear-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.17 s/60° @ 6 V. Torque voltage from Hitec spec chart (34 kgf·cm @ 7.4 V); product page lists 34 kgf·cm without voltage. Stall current 2700 mA (voltage not stated). Gears: Titanium. Motor: Brushless. Amplifier: EBL Digital."
+    "remarks": "Operating voltage 6.0V ~ 7.4V. Other: 0.17 s/60° @ 6 V. Torque voltage from Hitec spec chart (34 kgf·cm @ 7.4 V); product page lists 34 kgf·cm without voltage. Stall current 2700 mA (voltage not stated). Gears: Titanium. Motor: Brushless. Amplifier: EBL Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsb-9381th-full-metal-case-ultra-torque-brushless-titanium-gear-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsi-1100wp",
@@ -1812,7 +2051,10 @@
     "datasheet_url": "https://hitecrcd.com/hs-1100wp-ultra-heavy-duty-giant-waterproof-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 11.1V ~ 14.8V. Other: 84 kgf·cm, 0.26 s/60° @ 11.1 V. Stall current 6500 mA (voltage not stated). Gears: Steel. Motor: 5 Poles Cored Metal Brushless. Amplifier: DIgital Amplifier with Mosfet Drive."
+    "remarks": "Operating voltage 11.1V ~ 14.8V. Other: 84 kgf·cm, 0.26 s/60° @ 11.1 V. Stall current 6500 mA (voltage not stated). Gears: Steel. Motor: 5 Poles Cored Metal Brushless. Amplifier: DIgital Amplifier with Mosfet Drive.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hs-1100wp-ultra-heavy-duty-giant-waterproof-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsr-1425cr",
@@ -1831,7 +2073,10 @@
     "datasheet_url": "https://hitecrcd.com/hsr-1425cr-continuous-rotation-robot-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.8 kgf·cm @ 4.8 V. Speed @ 6 V: product page 52 vs spec chart 43.4 rpm; speed not recorded. Stall current 640 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT."
+    "remarks": "Operating voltage 4.8V ~ 6.0V. Other: 2.8 kgf·cm @ 4.8 V. Speed @ 6 V: product page 52 vs spec chart 43.4 rpm; speed not recorded. Stall current 640 mA (voltage not stated). Gears: Nylon. Motor: 3 Pole Metal Brush Ferrite. Amplifier: HT7003 Analog SMT.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsr-1425cr-continuous-rotation-robot-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsr-2645cr",
@@ -1852,7 +2097,10 @@
     "datasheet_url": "https://hitecrcd.com/hsr-2645cr-continuous-rotation-digital-robot-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 8 kgf·cm, 48 rpm @ 4.8 V; 10 kgf·cm, 58 rpm @ 6 V. Gears: Metal."
+    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 8 kgf·cm, 48 rpm @ 4.8 V; 10 kgf·cm, 58 rpm @ 6 V. Gears: Metal.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsr-2645cr-continuous-rotation-digital-robot-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-hsr-2648cr",
@@ -1875,7 +2123,10 @@
     "datasheet_url": "https://hitecrcd.com/hsr-2648cr-servo-rtl-package/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 8 kgf·cm, 46 rpm @ 4.8 V; 10 kgf·cm, 58 rpm @ 6 V. Stall current 1.7 A @ 4.8 V. Stall current 2 A @ 6 V. Gears: 1 Metal-Plastic & 3 Metal Gears. Motor: Cored Carbon Brush. Amplifier: 8bit programmable Digital."
+    "remarks": "Operating voltage 4.8V ~ 6.0V ~ 7.4V. Other: 8 kgf·cm, 46 rpm @ 4.8 V; 10 kgf·cm, 58 rpm @ 6 V. Stall current 1.7 A @ 4.8 V. Stall current 2 A @ 6 V. Gears: 1 Metal-Plastic & 3 Metal Gears. Motor: Cored Carbon Brush. Amplifier: 8bit programmable Digital.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/hsr-2648cr-servo-rtl-package/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-md141sh",
@@ -1899,7 +2150,10 @@
     "datasheet_url": "https://hitecrcd.com/md141sh-10mm-coreless-wide-voltage-steel-gear-servo-7-4v/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5V ~ 8.4V. Gears: MP 1st Gear & 4 Steel Gears. Motor: Coreless."
+    "remarks": "Operating voltage 3.5V ~ 8.4V. Gears: MP 1st Gear & 4 Steel Gears. Motor: Coreless.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/md141sh-10mm-coreless-wide-voltage-steel-gear-servo-7-4v/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-md485hw",
@@ -1921,7 +2175,10 @@
     "datasheet_url": "https://hitecrcd.com/md485hw-magnetic-encoder-hd-resin-gear-25t-digital-drag-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price; cross-checked vs Hitec Servo Specification Chart",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 4.8 kgf·cm, 0.2 s/60° @ 4.8 V. Gears: Plastic Resin Gears. Motor: Cored Carbon Brush. Control: PWM / TTL."
+    "remarks": "Operating voltage 4.8V ~ 7.4V. Other: 4.8 kgf·cm, 0.2 s/60° @ 4.8 V. Gears: Plastic Resin Gears. Motor: Cored Carbon Brush. Control: PWM / TTL.",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/md485hw-magnetic-encoder-hd-resin-gear-25t-digital-drag-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-md89mw",
@@ -1946,7 +2203,10 @@
     "datasheet_url": "https://hitecrcd.com/md89mw-magnetic-encoder-metal-gear-25t-digital-micro-servo/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5 ~ 8.4V. Other: 5.3 kgf·cm, 0.17 s/60° @ 4.8 V; 6.4 kgf·cm, 0.13 s/60° @ 6 V. Stall current 1.8 A @ 4.8 V. Stall current 2.2 A @ 6 V. Gears: 5 Metal Gears. Amplifier: 32bit Programmable Digital. Control: PWM/TTL (Half Duplex)."
+    "remarks": "Operating voltage 3.5 ~ 8.4V. Other: 5.3 kgf·cm, 0.17 s/60° @ 4.8 V; 6.4 kgf·cm, 0.13 s/60° @ 6 V. Stall current 1.8 A @ 4.8 V. Stall current 2.2 A @ 6 V. Gears: 5 Metal Gears. Amplifier: 32bit Programmable Digital. Control: PWM/TTL (Half Duplex).",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/md89mw-magnetic-encoder-metal-gear-25t-digital-micro-servo/",
+    "lead_time_retrieved_on": "2026-10-08"
   },
   {
     "id": "hitec-md845wp",
@@ -1971,6 +2231,9 @@
     "datasheet_url": "https://hitecrcd.com/md845wp-32mm-waterproof-cored-wide-voltage-high-speed-servo-7-4v/",
     "source": "Hitec product page specifications (hitecrcd.com); price = hitecrcd.com store price",
     "retrieved_on": "2026-10-08",
-    "remarks": "Operating voltage 3.5 ~ 8.4V. Other: 32.5 kgf·cm, 0.26 s/60° @ 4.8 V; 40.5 kgf·cm, 0.21 s/60° @ 6 V. Stall current 6 A @ 4.8 V. Stall current 7 A @ 6 V. Gears: 1 Metal-Plastic & 4 Steel Gears. Amplifier: 32bit Programmable Digital. Control: PWM/TTL (Half Duplex)."
+    "remarks": "Operating voltage 3.5 ~ 8.4V. Other: 32.5 kgf·cm, 0.26 s/60° @ 4.8 V; 40.5 kgf·cm, 0.21 s/60° @ 6 V. Stall current 6 A @ 4.8 V. Stall current 7 A @ 6 V. Gears: 1 Metal-Plastic & 4 Steel Gears. Amplifier: 32bit Programmable Digital. Control: PWM/TTL (Half Duplex).",
+    "lead_time": "Hitec RCD USA store: listed as available to order (stock level not shown); store processes orders in 1-2 business days",
+    "lead_time_url": "https://hitecrcd.com/md845wp-32mm-waterproof-cored-wide-voltage-high-speed-servo-7-4v/",
+    "lead_time_retrieved_on": "2026-10-08"
   }
 ]
