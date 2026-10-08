@@ -46,11 +46,33 @@ def test_linear_actuator_requires_force(client):
     assert client.post("/api/actuators", json=continuous_only).status_code == 201
 
 
-def test_unlisted_rating_fails_selection(client):
+def test_unlisted_rating_is_unverified_not_feasible(client):
     client.post("/api/actuators", json={**NEW, "id": "cont-only", "peak_force_n": None, "continuous_force_n": 5000})
     result = client.post("/api/select", json={"kind": "linear", "peak_force_n": 100}).json()
-    entry = next(c for c in result["rejected"] if c["actuator"]["id"] == "cont-only")
-    assert entry["issues"] == ["Peak force: unlisted"]
+    assert all(c["actuator"]["id"] != "cont-only" for c in result["feasible"])
+    entry = next(c for c in result["unverified"] if c["actuator"]["id"] == "cont-only")
+    assert entry["unlisted"] == ["Peak force"]
+    assert entry["issues"] == []
+
+
+def test_projects_crud(client):
+    created = client.post("/api/projects", json={"name": "Lift axis", "data": {"shortlist": ["a"]}}).json()
+    assert client.get("/api/projects").json()[0]["id"] == created["id"]
+    updated = client.put(f"/api/projects/{created['id']}", json={"name": "Lift axis v2", "data": {}}).json()
+    assert updated["name"] == "Lift axis v2"
+    assert updated["created_at"] == created["created_at"]
+    assert client.delete(f"/api/projects/{created['id']}").status_code == 204
+    assert client.get(f"/api/projects/{created['id']}").status_code == 404
+
+
+def test_transmission_selection_requires_options(client):
+    assert client.post("/api/select/transmission", json={"kind": "linear", "peak_force_n": 100}).status_code == 422
+    r = client.post(
+        "/api/select/transmission", json={"kind": "linear", "peak_force_n": 1000, "screw_leads_mm": [5, 10]}
+    ).json()
+    best = r["feasible"][0]
+    assert best["actuator"]["kind"] == "rotary"
+    assert best["transmission"]["option"] in (5, 10)
 
 
 def test_notes_roundtrip(client):

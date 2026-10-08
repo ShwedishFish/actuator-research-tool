@@ -1,8 +1,8 @@
 from __future__ import annotations
 
-from typing import Literal
+from typing import Annotated, Literal
 
-from pydantic import BaseModel, ConfigDict, Field, model_validator
+from pydantic import BaseModel, ConfigDict, Field, PositiveFloat, model_validator
 
 Kind = Literal["linear", "rotary"]
 Actuation = Literal["electric", "pneumatic", "hydraulic"]
@@ -138,3 +138,38 @@ class SelectionIn(BaseModel):
     speed_rpm: float | None = Field(default=None, ge=0)
     duty_cycle_pct: float | None = Field(default=None, ge=0, le=100)
     actuation: Actuation | None = None
+
+    supply_pressure_bar: float | None = Field(default=None, gt=0)
+    load_inertia_kgm2: float | None = Field(default=None, gt=0)
+    max_inertia_ratio: float | None = Field(default=None, gt=0)
+    max_mass_kg: float | None = Field(default=None, gt=0)
+    max_price_usd: float | None = Field(default=None, gt=0)
+    supply_voltage_v: float | None = Field(default=None, gt=0)
+    feedback_contains: str = Field(default="", max_length=60)
+    min_ip_rating: str = Field(default="", max_length=6, pattern=r"^$|^IP[0-6X][0-9X]K?$")
+
+
+class TransmissionSelectionIn(SelectionIn):
+    """Pair rotary motors with a user-specified lead screw (linear) or gear reduction (rotary).
+
+    ``kind`` is the output motion; requirements are at the output. Candidate leads / ratios and
+    efficiencies are the user's inputs, not catalog data.
+    """
+
+    screw_leads_mm: list[PositiveFloat] = Field(default_factory=list, max_length=20)
+    screw_efficiency: float = Field(default=0.9, gt=0, le=1)
+    gear_ratios: list[Annotated[float, Field(ge=1)]] = Field(default_factory=list, max_length=20)
+    gear_efficiency: float = Field(default=0.95, gt=0, le=1)
+
+
+class ProjectIn(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+
+    name: str = Field(min_length=1, max_length=200)
+    data: dict = Field(default_factory=dict)
+
+
+class Project(ProjectIn):
+    id: str
+    created_at: str
+    updated_at: str

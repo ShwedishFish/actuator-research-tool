@@ -96,5 +96,27 @@ dd { margin: 0; }
 .note-meta { color: var(--muted); font-size: 12px; }
 
 .unlisted { color: var(--muted); font-style: italic; }
+.warn { color: #a16207; }
+.tag {
+  display: inline-block;
+  padding: 0 5px;
+  margin-left: 3px;
+  border-radius: 4px;
+  background: #eef2ff;
+  color: #3730a3;
+  font-size: 11px;
+}
+.badge { font-size: 11px; opacity: 0.85; }
+.spacer { flex: 1; }
+th[data-sort] { cursor: pointer; user-select: none; }
+th[data-sort]::after { content: attr(data-dir); margin-left: 3px; }
+th.sorted { color: var(--accent); }
+table.compare th { white-space: nowrap; vertical-align: top; }
+table.compare tr.differs th { color: var(--accent); }
+#project-notes { width: 100%; min-height: 90px; margin-top: 8px; }
+#project-name-input { min-width: 260px; }
+header #project-name { margin-left: auto; }
+#detail { position: sticky; bottom: 0; max-height: 55vh; overflow: auto; box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.08); }
+.toolbar h3 { margin: 0; }
 .ok { color: var(--ok); }
 .bad, .error { color: var(--bad); }

@@ -13,27 +13,44 @@
       <button class="tab active" data-tab="catalog">Catalog</button>
       <button class="tab" data-tab="sizing">Sizing</button>
       <button class="tab" data-tab="select">Selection</button>
+      <button class="tab" data-tab="compare">Compare <span id="compare-count" class="badge"></span></button>
+      <button class="tab" data-tab="projects">Project <span id="shortlist-count" class="badge"></span></button>
     </nav>
+    <span id="project-name" class="note-meta"></span>
   </header>
 
   <main>
     <section id="catalog" class="panel active">
       <div class="toolbar">
-        <input id="catalog-q" type="search" placeholder="Search name, drive, manufacturer…">
+        <input id="catalog-q" type="search" placeholder="Search name, series, part number, manufacturer…">
         <select id="catalog-kind">
           <option value="">All kinds</option>
           <option value="linear">Linear</option>
           <option value="rotary">Rotary</option>
         </select>
+        <select id="catalog-actuation">
+          <option value="">All actuation</option>
+          <option value="electric">Electric</option>
+          <option value="pneumatic">Pneumatic</option>
+          <option value="hydraulic">Hydraulic</option>
+        </select>
         <select id="catalog-manufacturer">
           <option value="">All manufacturers</option>
         </select>
-        <button id="add-actuator-toggle" class="write-only">Add actuator</button>
+        <button id="add-actuator-toggle">Add actuator</button>
       </div>
-      <p id="catalog-count" class="note-meta"></p>
+      <div class="toolbar">
+        <span id="catalog-count" class="note-meta"></span>
+        <span class="spacer"></span>
+        <button class="act-compare">Compare checked</button>
+        <button class="act-shortlist">Add checked to shortlist</button>
+        <button class="act-clear">Clear checks</button>
+        <button id="catalog-csv">Export CSV</button>
+      </div>
 
-      <form id="add-actuator" class="card hidden write-only">
+      <form id="add-actuator" class="card hidden">
         <h3>Add actuator</h3>
+        <p class="note-meta">Enter only values the datasheet publishes; leave the rest blank.</p>
         <div class="grid">
           <label>ID <input name="id" required pattern="[a-z0-9][a-z0-9\-]*" placeholder="my-actuator-1"></label>
           <label>Name <input name="name" required></label>
@@ -41,17 +58,30 @@
           <label>Actuation <select name="actuation"><option>electric</option><option>pneumatic</option><option>hydraulic</option></select></label>
           <label>Drive <input name="drive" placeholder="ball screw, belt, direct…"></label>
           <label>Manufacturer <input name="manufacturer"></label>
+          <label>Series <input name="series"></label>
           <label>Part number <input name="part_number"></label>
           <label>Peak force (N) <input name="peak_force_n" type="number" step="any"></label>
           <label>Continuous force (N) <input name="continuous_force_n" type="number" step="any"></label>
+          <label>Holding force (N) <input name="holding_force_n" type="number" step="any"></label>
           <label>Max speed (mm/s) <input name="max_speed_mm_s" type="number" step="any"></label>
           <label>Stroke (mm) <input name="stroke_mm" type="number" step="any"></label>
           <label>Peak torque (N·m) <input name="peak_torque_nm" type="number" step="any"></label>
           <label>Continuous torque (N·m) <input name="continuous_torque_nm" type="number" step="any"></label>
           <label>Max speed (rpm) <input name="max_speed_rpm" type="number" step="any"></label>
+          <label>Rotor inertia (kg·m²) <input name="rotor_inertia_kgm2" type="number" step="any"></label>
+          <label>Peak basis
+            <select name="peak_basis"><option value="">unlisted</option><option>peak</option><option>stall</option><option>holding</option><option>max-load</option><option>max-push</option></select>
+          </label>
+          <label>Speed condition
+            <select name="speed_condition"><option value="">unlisted</option><option>no-load</option><option>full-load</option><option>rated</option><option>max</option><option>unstated</option></select>
+          </label>
+          <label>Bore (mm) <input name="bore_mm" type="number" step="any"></label>
+          <label>Rod (mm) <input name="rod_mm" type="number" step="any"></label>
+          <label>Max pressure (bar) <input name="max_pressure_bar" type="number" step="any"></label>
           <label>Duty cycle (%) <input name="duty_cycle_pct" type="number" step="any"></label>
           <label>Mass (kg) <input name="mass_kg" type="number" step="any"></label>
           <label>Supply voltage (V) <input name="supply_voltage_v" type="number" step="any"></label>
+          <label>IP rating <input name="ip_rating" placeholder="IP65"></label>
           <label>Price (USD) <input name="price_usd" type="number" step="any"></label>
           <label>Datasheet URL <input name="datasheet_url" type="url"></label>
           <label>Source <input name="source" placeholder="Datasheet rev, page…"></label>
@@ -60,28 +90,18 @@
         <p class="error" id="add-actuator-error"></p>
       </form>
 
-      <table id="catalog-table">
+      <table id="catalog-table" class="data">
         <thead>
           <tr>
-            <th>Name</th><th>Kind</th><th>Actuation</th><th>Drive</th>
-            <th>Peak</th><th>Continuous</th><th>Speed</th><th>Stroke</th><th>Duty</th><th></th>
+            <th></th>
+            <th data-sort="name">Name</th><th data-sort="manufacturer">Manufacturer</th><th data-sort="kind">Kind</th>
+            <th data-sort="actuation">Actuation</th><th data-sort="peak">Peak</th><th data-sort="continuous">Continuous</th>
+            <th data-sort="speed">Speed</th><th data-sort="stroke_mm">Stroke</th><th data-sort="mass_kg">Mass</th>
+            <th data-sort="price_usd">Price</th>
           </tr>
         </thead>
         <tbody></tbody>
       </table>
-
-      <div id="detail" class="card hidden">
-        <h3 id="detail-title"></h3>
-        <dl id="detail-specs"></dl>
-        <h4>Research notes</h4>
-        <ul id="notes-list"></ul>
-        <form id="note-form" class="write-only">
-          <textarea name="text" required placeholder="Findings, quotes, test results…"></textarea>
-          <input name="source_url" type="url" placeholder="Source URL (optional)">
-          <button type="submit">Add note</button>
-        </form>
-        <button id="delete-actuator" class="danger hidden write-only">Delete actuator</button>
-      </div>
     </section>
 
     <section id="sizing" class="panel">
@@ -128,24 +148,112 @@
 
     <section id="select" class="panel">
       <form id="select-form" class="card">
+        <div class="toolbar">
+          <label><input type="radio" name="select-mode" value="complete" checked> Complete actuators</label>
+          <label><input type="radio" name="select-mode" value="transmission"> Motor + screw or gearbox</label>
+        </div>
+        <h4>Requirements</h4>
         <div class="grid">
-          <label>Kind <select name="kind"><option>linear</option><option>rotary</option></select></label>
-          <label>Actuation
+          <label>Output motion <select name="kind"><option>linear</option><option>rotary</option></select></label>
+          <label class="complete-only">Actuation
             <select name="actuation"><option value="">Any</option><option>electric</option><option>pneumatic</option><option>hydraulic</option></select>
           </label>
           <label class="linear-only">Peak force (N) <input name="peak_force_n" type="number" step="any"></label>
           <label class="linear-only">Continuous force (N) <input name="continuous_force_n" type="number" step="any"></label>
           <label class="linear-only">Speed (mm/s) <input name="speed_mm_s" type="number" step="any"></label>
-          <label class="linear-only">Stroke (mm) <input name="stroke_mm" type="number" step="any"></label>
+          <label class="linear-only complete-only">Stroke (mm) <input name="stroke_mm" type="number" step="any"></label>
           <label class="rotary-only hidden">Peak torque (N·m) <input name="peak_torque_nm" type="number" step="any"></label>
           <label class="rotary-only hidden">Continuous torque (N·m) <input name="continuous_torque_nm" type="number" step="any"></label>
           <label class="rotary-only hidden">Speed (rpm) <input name="speed_rpm" type="number" step="any"></label>
           <label>Duty cycle (%) <input name="duty_cycle_pct" type="number" step="any"></label>
+          <label class="linear-only complete-only">Supply pressure for cylinders (bar) <input name="supply_pressure_bar" type="number" step="any"></label>
+          <label class="inertia-field">Load inertia at motor (kg·m²) <input name="load_inertia_kgm2" type="number" step="any"></label>
+          <label class="inertia-field">Max inertia ratio (load : rotor) <input name="max_inertia_ratio" type="number" step="any"></label>
+        </div>
+        <div class="transmission-only hidden">
+          <h4>Transmission options (your inputs)</h4>
+          <div class="grid">
+            <label class="linear-only">Screw leads to try (mm, comma-separated) <input name="screw_leads_mm" value="2, 5, 10, 20"></label>
+            <label class="linear-only">Screw efficiency <input name="screw_efficiency" type="number" step="any" value="0.9"></label>
+            <label class="rotary-only hidden">Gear ratios to try (comma-separated) <input name="gear_ratios" value="3, 5, 10, 20, 50, 100"></label>
+            <label class="rotary-only hidden">Gear efficiency <input name="gear_efficiency" type="number" step="any" value="0.95"></label>
+          </div>
+        </div>
+        <h4>Filters</h4>
+        <div class="grid">
+          <label>Max mass (kg) <input name="max_mass_kg" type="number" step="any"></label>
+          <label>Max price (USD) <input name="max_price_usd" type="number" step="any"></label>
+          <label>Supply voltage (V) <input name="supply_voltage_v" type="number" step="any"></label>
+          <label>Feedback contains <input name="feedback_contains" placeholder="encoder, hall, potentiometer…"></label>
+          <label>Minimum IP rating <input name="min_ip_rating" placeholder="IP65" pattern="IP[0-6X][0-9X]K?"></label>
         </div>
         <button type="submit">Find actuators</button>
       </form>
+      <div class="toolbar">
+        <span class="spacer"></span>
+        <button class="act-compare">Compare checked</button>
+        <button class="act-shortlist">Add checked to shortlist</button>
+        <button class="act-clear">Clear checks</button>
+        <button id="select-csv">Export CSV</button>
+      </div>
       <div id="select-result"></div>
     </section>
+
+    <section id="compare" class="panel">
+      <div class="toolbar">
+        <span class="note-meta">Compare up to 6 actuators. Check rows in Catalog or Selection, then click Compare checked.</span>
+        <span class="spacer"></span>
+        <button id="compare-clear">Clear</button>
+        <button id="compare-csv">Export CSV</button>
+      </div>
+      <div id="compare-table"></div>
+    </section>
+
+    <section id="projects" class="panel">
+      <div class="card">
+        <h3>Current project</h3>
+        <div class="toolbar">
+          <input id="project-name-input" placeholder="Project name">
+          <button id="project-save" type="button">Save</button>
+          <button id="project-save-new" type="button">Save as new</button>
+          <button id="project-new" type="button">New project</button>
+        </div>
+        <p class="note-meta">Saving stores the sizing inputs, selection inputs, shortlist and notes below.</p>
+        <textarea id="project-notes" placeholder="Project notes: requirements, decisions, open questions…"></textarea>
+      </div>
+      <div class="card">
+        <div class="toolbar">
+          <h3>Shortlist</h3>
+          <span class="spacer"></span>
+          <button id="shortlist-compare" type="button">Compare shortlist</button>
+          <button id="shortlist-csv" type="button">Export CSV</button>
+        </div>
+        <table class="data"><tbody id="shortlist-body"></tbody></table>
+      </div>
+      <div class="card">
+        <h3>Saved projects</h3>
+        <table class="data"><tbody id="projects-body"></tbody></table>
+      </div>
+    </section>
+
+    <div id="detail" class="card hidden">
+      <div class="toolbar">
+        <h3 id="detail-title"></h3>
+        <span class="spacer"></span>
+        <button id="detail-shortlist" type="button">Add to shortlist</button>
+        <button id="detail-compare" type="button">Add to compare</button>
+        <button id="detail-close" type="button">Close</button>
+      </div>
+      <dl id="detail-specs"></dl>
+      <h4>Research notes</h4>
+      <ul id="notes-list"></ul>
+      <form id="note-form">
+        <textarea name="text" required placeholder="Findings, quotes, test results…"></textarea>
+        <input name="source_url" type="url" placeholder="Source URL (optional)">
+        <button type="submit">Add note</button>
+      </form>
+      <button id="delete-actuator" class="danger hidden">Delete actuator</button>
+    </div>
   </main>
 
   <script src="app.js"></script>

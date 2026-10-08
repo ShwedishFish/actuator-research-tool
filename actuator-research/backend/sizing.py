@@ -158,5 +158,6 @@ def size_rotary(inp: RotarySizingIn) -> dict:
             "continuous_torque_nm": rms * sf,
             "speed_rpm": motor_speed_rpm,
             "duty_cycle_pct": 100 * inp.move_time_s / cycle,
+            **({"load_inertia_kgm2": reflected_inertia} if reflected_inertia > 0 else {}),
         },
     }

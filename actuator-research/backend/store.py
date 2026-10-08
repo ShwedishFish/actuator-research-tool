@@ -15,7 +15,7 @@ from datetime import UTC, datetime
 from functools import lru_cache
 from pathlib import Path
 
-from backend.schemas import Actuator, Note, NoteIn
+from backend.schemas import Actuator, Note, NoteIn, Project, ProjectIn
 
 _lock = threading.Lock()
 
@@ -109,6 +109,51 @@ def add_note(actuator_id: str, note: NoteIn) -> Note:
         rows.append(saved.model_dump())
         _write(_notes_path(), rows)
     return saved
+
+
+def _projects_path() -> Path:
+    return data_dir() / "projects.json"
+
+
+def _now() -> str:
+    return datetime.now(UTC).isoformat(timespec="seconds")
+
+
+def list_projects() -> list[Project]:
+    return [Project(**r) for r in _read(_projects_path())]
+
+
+def get_project(project_id: str) -> Project | None:
+    return next((p for p in list_projects() if p.id == project_id), None)
+
+
+def save_project(project: ProjectIn, project_id: str | None = None) -> Project | None:
+    with _lock:
+        rows = _read(_projects_path())
+        if project_id is None:
+            now = _now()
+            saved = Project(id=uuid.uuid4().hex[:12], created_at=now, updated_at=now, **project.model_dump())
+            rows.append(saved.model_dump())
+        else:
+            idx = next((i for i, r in enumerate(rows) if r["id"] == project_id), None)
+            if idx is None:
+                return None
+            saved = Project(
+                id=project_id, created_at=rows[idx]["created_at"], updated_at=_now(), **project.model_dump()
+            )
+            rows[idx] = saved.model_dump()
+        _write(_projects_path(), rows)
+        return saved
+
+
+def delete_project(project_id: str) -> bool:
+    with _lock:
+        rows = _read(_projects_path())
+        kept = [r for r in rows if r["id"] != project_id]
+        if len(kept) == len(rows):
+            return False
+        _write(_projects_path(), kept)
+        return True
 
 
 def delete_note(note_id: str) -> bool:
