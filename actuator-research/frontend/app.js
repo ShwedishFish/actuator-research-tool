@@ -473,8 +473,18 @@ function syncUrl() {
   for (const el of $$(".cat-num")) if (el.value !== "" && !el.closest(".hidden")) p.set(el.dataset.key, el.value);
   if (sortKey) p.set("sort", `${sortKey}:${sortDir > 0 ? "asc" : "desc"}`);
   if (selectedId && !$("#detail").classList.contains("hidden")) p.set("id", selectedId);
+  if (selectMode() !== "complete") p.set("s.mode", selectMode());
+  for (const el of changedSelectFields()) p.set(`s.${el.name}`, el.value);
   const qs = p.toString();
   history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+}
+
+function changedSelectFields() {
+  return [...$("#select-form").elements].filter((el) => {
+    if (!el.name || el.type === "radio" || el.closest(".hidden")) return false;
+    if (el instanceof HTMLSelectElement) return el.selectedIndex !== Math.max(0, [...el.options].findIndex((o) => o.defaultSelected));
+    return el.value !== el.defaultValue;
+  });
 }
 
 function readUrl() {
@@ -485,6 +495,13 @@ function readUrl() {
     else if (v) $(sel).value = v;
   }
   for (const el of $$(".cat-num")) if (p.has(el.dataset.key)) el.value = p.get(el.dataset.key);
+  const form = $("#select-form");
+  const mode = $(`input[name="select-mode"][value="${CSS.escape(p.get("s.mode") ?? "complete")}"]`);
+  if (mode) mode.checked = true;
+  for (const [key, value] of p) {
+    const el = key.startsWith("s.") && form.elements[key.slice(2)];
+    if (el instanceof HTMLInputElement || el instanceof HTMLSelectElement) el.value = value;
+  }
   const [key, dir] = (p.get("sort") ?? "").split(":");
   if (key && $(`#catalog-table th[data-sort="${CSS.escape(key)}"]`)) {
     sortKey = key;
@@ -493,17 +510,18 @@ function readUrl() {
   return { tab: p.get("tab"), id: p.get("id") };
 }
 
-$("#copy-link").addEventListener("click", async () => {
-  syncUrl();
-  const btn = $("#copy-link");
-  try {
-    await navigator.clipboard.writeText(location.href);
-    btn.textContent = "Link copied";
-  } catch {
-    btn.textContent = "Copy failed; use the address bar";
-  }
-  setTimeout(() => (btn.textContent = "Copy link"), 1800);
-});
+for (const btn of $$(".copy-link")) {
+  btn.addEventListener("click", async () => {
+    syncUrl();
+    try {
+      await navigator.clipboard.writeText(location.href);
+      btn.textContent = "Link copied";
+    } catch {
+      btn.textContent = "Copy failed; use the address bar";
+    }
+    setTimeout(() => (btn.textContent = "Copy link"), 1800);
+  });
+}
 $("#add-actuator-toggle").addEventListener("click", () => $("#add-actuator").classList.toggle("hidden"));
 $("#catalog-csv").addEventListener("click", () => downloadCsv("catalog.csv", sortedRows(catalogRows)));
 
@@ -869,20 +887,35 @@ function renderCandidate(c) {
     <td>${notes}</td></tr>`;
 }
 
-function resultTable(rows, limit, withTransmission) {
+function resultTable(group, rows, limit, withTransmission) {
   const head = `<tr><th></th><th>Name</th><th>Manufacturer</th>${withTransmission ? "<th>Transmission</th>" : ""}
     <th>Min margin</th><th>Margins</th><th>Issues, unlisted specs, warnings</th></tr>`;
   const body = rows.slice(0, limit).map(renderCandidate).join("") || `<tr><td colspan="7">None</td></tr>`;
-  const more = rows.length > limit ? `<p class="note-meta">Showing ${limit} of ${rows.length}.</p>` : "";
-  return `<table class="data"><thead>${head}</thead><tbody>${body}</tbody></table>${more}`;
+  const more =
+    rows.length > limit
+      ? `<button type="button" class="more" data-more="${group}">Show ${Math.min(RESULT_PAGE[group], rows.length - limit)} more (${rows.length - limit} not shown)</button>`
+      : "";
+  return `<div class="table-scroll"><table class="data"><thead>${head}</thead><tbody>${body}</tbody></table></div>${more}`;
 }
 
 let selectionRan = false;
 let selectRequest = 0;
+const RESULT_PAGE = { feasible: 100, unverified: 50, rejected: 25 };
+const RESULT_GROUPS = [
+  ["feasible", "group-ok", "Feasible"],
+  ["unverified", "group-warn", "Unverified: nothing fails, but a needed spec is unlisted"],
+  ["rejected", "group-bad", "Rejected, closest first"],
+];
+let lastResult = null;
+let resultLimits = { ...RESULT_PAGE };
 
-function selectionSection(cls, title, rows, limit, transmission) {
-  return `<section class="result-group ${cls}"><h3>${title} <span class="count">${rows.length}</span></h3>
-    ${resultTable(rows, limit, transmission)}</section>`;
+function renderSelectionResult() {
+  const { r, transmission } = lastResult;
+  $("#select-result").innerHTML = RESULT_GROUPS.map(
+    ([group, cls, title]) => `<section class="result-group ${cls}"><h3>${title} <span class="count">${r[group].length}</span></h3>
+      ${resultTable(group, r[group], resultLimits[group], transmission)}</section>`,
+  ).join("");
+  markSelected();
 }
 
 async function runSelection() {
@@ -893,6 +926,7 @@ async function runSelection() {
     return;
   }
   selectionRan = true;
+  syncUrl();
   const transmission = selectMode() === "transmission";
   const body = formData(form, { visibleOnly: true });
   for (const key of ["screw_leads_mm", "gear_ratios"]) if (key in body) body[key] = parseList(body[key]);
@@ -906,11 +940,9 @@ async function runSelection() {
     $("#select-summary").innerHTML = `<span class="chip ok-chip">${r.feasible.length} feasible</span>
       <span class="chip warn-chip">${r.unverified.length} unverified</span>
       <span class="chip bad-chip">${r.rejected.length} rejected</span>`;
-    $("#select-result").innerHTML =
-      selectionSection("group-ok", "Feasible", r.feasible, 100, transmission) +
-      selectionSection("group-warn", "Unverified: nothing fails, but a needed spec is unlisted", r.unverified, 50, transmission) +
-      selectionSection("group-bad", "Rejected, closest first", r.rejected, 25, transmission);
-    markSelected();
+    lastResult = { r, transmission };
+    resultLimits = { ...RESULT_PAGE };
+    renderSelectionResult();
     $("#select-status").textContent = "Results update as you edit.";
   } catch (err) {
     if (request !== selectRequest) return;
@@ -942,7 +974,15 @@ $("#select-reset").addEventListener("click", () => {
   runSelection();
 });
 
-$("#select-result").addEventListener("click", rowClick);
+$("#select-result").addEventListener("click", (e) => {
+  const group = e.target.dataset.more;
+  if (group) {
+    resultLimits[group] += RESULT_PAGE[group];
+    renderSelectionResult();
+    return;
+  }
+  rowClick(e);
+});
 $("#select-csv").addEventListener("click", () =>
   downloadCsv("selection.csv", lastSelection, [
     ["status", (c) => c.status],
@@ -1056,6 +1096,7 @@ function applyProject(p) {
   persist();
   renderShortlist();
   renderCompare();
+  syncUrl();
 }
 
 async function loadProjects() {

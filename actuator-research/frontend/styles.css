@@ -304,7 +304,7 @@ main { padding: 20px 24px 40px; max-width: 1280px; }
 
 button.more {
   display: block;
-  margin: 10px auto 0;
+  margin: 10px auto 16px;
   padding: 7px 18px;
   border-radius: 999px;
   border-color: color-mix(in srgb, var(--tone-data) 45%, var(--border));
@@ -335,6 +335,8 @@ button.more {
   background: var(--card);
 }
 .table-wrap table { margin: 0; }
+.table-scroll { overflow-x: auto; }
+.table-scroll table { margin-bottom: 0; }
 
 table { width: 100%; border-collapse: collapse; background: var(--card); margin-bottom: 16px; }
 th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid color-mix(in srgb, var(--border) 70%, transparent); }

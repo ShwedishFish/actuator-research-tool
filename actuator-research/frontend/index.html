@@ -74,7 +74,7 @@
         </select>
         <button id="catalog-reset" type="button" class="ghost">Clear filters</button>
         <span class="spacer"></span>
-        <button id="copy-link" type="button" class="ghost" title="Copy a link to this view (tab, filters, sort, open part)">Copy link</button>
+        <button type="button" class="ghost copy-link" title="Copy a link to this view (tab, filters, sort, open part)">Copy link</button>
         <button id="add-actuator-toggle" class="write-only">Add actuator</button>
         <div class="range-filters" title="Parts whose spec is unlisted are hidden while a limit on that spec is set">
           <label data-kind="linear">Min peak force (N) <input class="cat-num" data-key="peak_force_n" data-op="min" type="number" step="any" min="0"></label>
@@ -247,6 +247,8 @@
         <div class="toolbar">
           <button id="select-reset" type="button" class="ghost">Clear requirements and filters</button>
           <span id="select-status" class="note-meta" aria-live="polite"></span>
+          <span class="spacer"></span>
+          <button type="button" class="ghost copy-link" title="Copy a link with these requirements and filters">Copy link</button>
         </div>
       </form>
       <div class="toolbar">
