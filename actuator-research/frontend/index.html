@@ -92,6 +92,13 @@
       <div class="toolbar">
         <span id="catalog-count" class="note-meta"></span>
         <span class="spacer"></span>
+        <details id="col-chooser" class="col-chooser">
+          <summary>Columns</summary>
+          <div class="col-menu">
+            <div id="col-options"></div>
+            <button id="col-reset" type="button" class="ghost">Reset to default</button>
+          </div>
+        </details>
         <button class="act-compare">Compare checked</button>
         <button class="act-shortlist">Add checked to shortlist</button>
         <button class="act-clear">Clear checks</button>
@@ -156,15 +163,7 @@
 
       <div class="table-wrap tone-data">
       <table id="catalog-table" class="data">
-        <thead>
-          <tr>
-            <th></th>
-            <th data-sort="name">Name</th><th data-sort="manufacturer">Manufacturer</th><th data-sort="kind">Kind</th>
-            <th data-sort="actuation">Actuation</th><th data-sort="peak">Peak</th><th data-sort="continuous">Continuous</th>
-            <th data-sort="speed">Speed</th><th data-sort="stroke_mm">Stroke</th><th data-sort="mass_kg">Mass</th>
-            <th data-sort="price_usd">Price</th><th data-sort="lead_time_days">Lead time</th>
-          </tr>
-        </thead>
+        <thead></thead>
         <tbody></tbody>
       </table>
       </div>

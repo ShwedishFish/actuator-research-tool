@@ -304,8 +304,80 @@ function sortedRows(rows) {
   });
 }
 
+const unitCell = (key, unit) => (a) => withUnit(a[key], unit);
+const textCell = (key) => (a) => esc(a[key]) || UNLISTED;
+const COLUMNS = [
+  { id: "name", label: "Name", wrap: true, fixed: true, cell: (a) => `${esc(a.name)}${a.user_added ? tag("user") : ""}` },
+  { id: "manufacturer", label: "Manufacturer", wrap: true, def: true, cell: textCell("manufacturer") },
+  { id: "series", label: "Series", cell: textCell("series") },
+  { id: "part_number", label: "Part number", cell: textCell("part_number") },
+  { id: "kind", label: "Kind", def: true, cell: (a) => pill(a.kind) },
+  { id: "actuation", label: "Actuation", def: true, cell: (a) => pill(a.actuation) },
+  { id: "drive", label: "Drive", wrap: true, cell: textCell("drive") },
+  { id: "peak", label: "Peak", def: true, cell: (a) => ratingCells(a)[0] },
+  { id: "continuous", label: "Continuous", def: true, cell: (a) => ratingCells(a)[1] },
+  { id: "holding_force_n", label: "Holding force", cell: unitCell("holding_force_n", "N") },
+  { id: "speed", label: "Speed", def: true, cell: (a) => ratingCells(a)[2] },
+  { id: "stroke_mm", label: "Stroke", def: true, cell: (a) => ratingCells(a)[3] },
+  { id: "rotor_inertia_kgm2", label: "Rotor inertia", cell: unitCell("rotor_inertia_kgm2", "kg·m²") },
+  { id: "bore_mm", label: "Bore", cell: unitCell("bore_mm", "mm") },
+  { id: "max_pressure_bar", label: "Max pressure", cell: unitCell("max_pressure_bar", "bar") },
+  { id: "duty_cycle_pct", label: "Duty cycle", cell: unitCell("duty_cycle_pct", "%") },
+  { id: "mass_kg", label: "Mass", def: true, cell: unitCell("mass_kg", "kg") },
+  { id: "supply_voltage_v", label: "Voltage", cell: unitCell("supply_voltage_v", "V") },
+  { id: "rated_current_a", label: "Current", cell: unitCell("rated_current_a", "A") },
+  { id: "feedback", label: "Feedback", wrap: true, cell: textCell("feedback") },
+  { id: "ip_rating", label: "IP rating", cell: textCell("ip_rating") },
+  { id: "price_usd", label: "Price", def: true, cell: (a) => (isMissing(a.price_usd) ? UNLISTED : `$${fmt(a.price_usd, 6)}`) },
+  { id: "lead_time_days", label: "Lead time", def: true, cell: leadTimeCell },
+  { id: "source", label: "Source", wrap: true, cell: textCell("source") },
+];
+const COLS_KEY = "actuator-research-columns";
+const DEFAULT_COLS = COLUMNS.filter((c) => c.fixed || c.def).map((c) => c.id);
+let visibleCols = loadColumns();
+
+function loadColumns() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(COLS_KEY));
+    if (Array.isArray(saved)) return new Set(["name", ...saved.filter((id) => COLUMNS.some((c) => c.id === id))]);
+  } catch {
+    // fall back to defaults
+  }
+  return new Set(DEFAULT_COLS);
+}
+
+function setColumns(ids) {
+  visibleCols = new Set(["name", ...ids]);
+  try {
+    localStorage.setItem(COLS_KEY, JSON.stringify([...visibleCols]));
+  } catch {
+    // preference just won't persist
+  }
+  renderColumnChooser();
+  renderCatalog();
+}
+
+function renderColumnChooser() {
+  $("#col-options").innerHTML = COLUMNS.filter((c) => !c.fixed)
+    .map((c) => `<label><input type="checkbox" value="${c.id}" ${visibleCols.has(c.id) ? "checked" : ""}> ${esc(c.label)}</label>`)
+    .join("");
+  const extra = visibleCols.size - DEFAULT_COLS.length;
+  $("#col-chooser > summary").textContent = `Columns (${visibleCols.size})`;
+  $("#col-reset").disabled = !extra && DEFAULT_COLS.every((id) => visibleCols.has(id));
+}
+
+$("#col-options").addEventListener("change", () =>
+  setColumns($$("#col-options input:checked").map((el) => el.value)),
+);
+$("#col-reset").addEventListener("click", () => setColumns(DEFAULT_COLS));
+document.addEventListener("click", (e) => {
+  const chooser = $("#col-chooser");
+  if (chooser.open && !chooser.contains(e.target)) chooser.open = false;
+});
+
 function renderCatalog() {
   const rows = sortedRows(catalogRows);
+  const cols = COLUMNS.filter((c) => visibleCols.has(c.id));
   const shown = Math.min(rows.length, catalogLimit);
   const unlistedNote = hiddenUnlisted ? ` ${hiddenUnlisted} more hidden because a filtered spec is unlisted.` : "";
   $("#catalog-count").textContent =
@@ -313,22 +385,20 @@ function renderCatalog() {
   const more = $("#catalog-more");
   more.classList.toggle("hidden", rows.length <= shown);
   more.textContent = `Show ${Math.min(CATALOG_PAGE, rows.length - shown)} more (${rows.length - shown} not shown)`;
+  $("#catalog-table thead").innerHTML = `<tr><th></th>${cols
+    .map((c) => {
+      const dir = c.id === sortKey ? (sortDir > 0 ? "▲" : "▼") : "";
+      return `<th data-sort="${c.id}" data-dir="${dir}" class="${dir ? "sorted" : ""}">${esc(c.label)}</th>`;
+    })
+    .join("")}</tr>`;
   $("#catalog-table tbody").innerHTML = rows
     .slice(0, shown)
     .map(
-      (a) => `<tr data-id="${esc(a.id)}">${checkCell(a.id)}
-        <td>${esc(a.name)}${a.user_added ? tag("user") : ""}</td><td>${esc(a.manufacturer) || UNLISTED}</td>
-        <td>${pill(a.kind)}</td><td>${pill(a.actuation)}</td>
-        ${ratingCells(a).map((c) => `<td>${c}</td>`).join("")}
-        <td>${withUnit(a.mass_kg, "kg")}</td><td>${isMissing(a.price_usd) ? UNLISTED : `$${fmt(a.price_usd, 6)}`}</td>
-        <td>${leadTimeCell(a)}</td>
-      </tr>`,
+      (a) => `<tr data-id="${esc(a.id)}">${checkCell(a.id)}${cols
+        .map((c) => `<td${c.wrap ? "" : ' class="nowrap"'}>${c.cell(a)}</td>`)
+        .join("")}</tr>`,
     )
     .join("");
-  $$("#catalog-table th[data-sort]").forEach((th) => {
-    th.classList.toggle("sorted", th.dataset.sort === sortKey);
-    th.dataset.dir = th.dataset.sort === sortKey ? (sortDir > 0 ? "▲" : "▼") : "";
-  });
   markSelected();
 }
 
@@ -390,17 +460,17 @@ function applyCatalogFilters() {
   renderChart();
 }
 
-$$("#catalog-table th[data-sort]").forEach((th) =>
-  th.addEventListener("click", () => {
-    if (sortKey !== th.dataset.sort) {
-      sortKey = th.dataset.sort;
-      sortDir = 1;
-    } else if (sortDir > 0) sortDir = -1;
-    else sortKey = "";
-    renderCatalog();
-    syncUrl();
-  }),
-);
+$("#catalog-table thead").addEventListener("click", (e) => {
+  const th = e.target.closest("th[data-sort]");
+  if (!th) return;
+  if (sortKey !== th.dataset.sort) {
+    sortKey = th.dataset.sort;
+    sortDir = 1;
+  } else if (sortDir > 0) sortDir = -1;
+  else sortKey = "";
+  renderCatalog();
+  syncUrl();
+});
 $("#catalog-more").addEventListener("click", () => {
   catalogLimit += CATALOG_PAGE;
   renderCatalog();
@@ -506,7 +576,7 @@ function readUrl() {
     if (el instanceof HTMLInputElement || el instanceof HTMLSelectElement) el.value = value;
   }
   const [key, dir] = (p.get("sort") ?? "").split(":");
-  if (key && $(`#catalog-table th[data-sort="${CSS.escape(key)}"]`)) {
+  if (key && COLUMNS.some((c) => c.id === key)) {
     sortKey = key;
     sortDir = dir === "desc" ? -1 : 1;
   }
@@ -1362,6 +1432,7 @@ $("#projects-body").addEventListener("click", async (e) => {
 
 applyTheme(document.documentElement.dataset.theme);
 const initial = readUrl();
+renderColumnChooser();
 syncCatalogFilters();
 restore();
 $("#project-name-input").value = state.projectName;
