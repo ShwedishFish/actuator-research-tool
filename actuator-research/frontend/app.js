@@ -189,6 +189,8 @@ $$(".tab").forEach((btn) =>
     $$(".tab").forEach((b) => b.classList.toggle("active", b === btn));
     $$(".panel").forEach((p) => p.classList.toggle("active", p.id === btn.dataset.tab));
     if (btn.dataset.tab === "select" && !selectionRan) runSelection();
+    if (btn.dataset.tab === "sizing" && !sizingRan) runSizing();
+    syncUrl();
   }),
 );
 
@@ -241,8 +243,11 @@ function downloadCsv(filename, rows, extra = []) {
 
 // ---------- catalog ----------
 
-const CATALOG_RENDER_LIMIT = 300;
+const CATALOG_PAGE = 300;
+let catalogLimit = CATALOG_PAGE;
+let catalogBase = [];
 let catalogRows = [];
+let hiddenUnlisted = 0;
 let catalogRequest = 0;
 let sortKey = "";
 let sortDir = 1;
@@ -301,12 +306,15 @@ function sortedRows(rows) {
 
 function renderCatalog() {
   const rows = sortedRows(catalogRows);
+  const shown = Math.min(rows.length, catalogLimit);
+  const unlistedNote = hiddenUnlisted ? ` ${hiddenUnlisted} more hidden because a filtered spec is unlisted.` : "";
   $("#catalog-count").textContent =
-    rows.length > CATALOG_RENDER_LIMIT
-      ? `${rows.length} matches; showing the first ${CATALOG_RENDER_LIMIT}. Narrow the search, filter, or sort to see others.`
-      : `${rows.length} matches`;
+    (rows.length > shown ? `${rows.length} matches; showing ${shown}.` : `${rows.length} matches.`) + unlistedNote;
+  const more = $("#catalog-more");
+  more.classList.toggle("hidden", rows.length <= shown);
+  more.textContent = `Show ${Math.min(CATALOG_PAGE, rows.length - shown)} more (${rows.length - shown} not shown)`;
   $("#catalog-table tbody").innerHTML = rows
-    .slice(0, CATALOG_RENDER_LIMIT)
+    .slice(0, shown)
     .map(
       (a) => `<tr data-id="${esc(a.id)}">${checkCell(a.id)}
         <td>${esc(a.name)}${a.user_added ? tag("user") : ""}</td><td>${esc(a.manufacturer) || UNLISTED}</td>
@@ -321,6 +329,7 @@ function renderCatalog() {
     th.classList.toggle("sorted", th.dataset.sort === sortKey);
     th.dataset.dir = th.dataset.sort === sortKey ? (sortDir > 0 ? "▲" : "▼") : "";
   });
+  markSelected();
 }
 
 function leadTimeCell(a) {
@@ -336,41 +345,65 @@ async function loadManufacturers() {
   suppliers = list;
   renderSuppliers();
   const select = $("#catalog-manufacturer");
-  const current = select.value;
+  const current = select.value || pendingManufacturer;
   select.innerHTML =
     `<option value="">All manufacturers</option>` +
     list.map((m) => `<option value="${esc(m.name)}">${esc(m.name)} (${m.count})</option>`).join("");
   select.value = current;
+  pendingManufacturer = "";
+  syncCatalogFilters();
 }
 
 async function loadCatalog() {
   const params = new URLSearchParams();
   if ($("#catalog-kind").value) params.set("kind", $("#catalog-kind").value);
-  if ($("#catalog-manufacturer").value) params.set("manufacturer", $("#catalog-manufacturer").value);
+  const manufacturer = $("#catalog-manufacturer").value || pendingManufacturer;
+  if (manufacturer) params.set("manufacturer", manufacturer);
   if ($("#catalog-q").value) params.set("q", $("#catalog-q").value);
   const lead = $("#catalog-leadtime").value;
   if (lead === "listed") params.set("lead_time", "listed");
   else if (lead) params.set("max_lead_time_days", lead);
   const request = ++catalogRequest;
-  let rows = await api(`/api/actuators?${params}`);
+  const rows = await api(`/api/actuators?${params}`);
   if (request !== catalogRequest) return;
-  const actuation = $("#catalog-actuation").value;
-  if (actuation) rows = rows.filter((a) => a.actuation === actuation);
   remember(rows);
+  catalogBase = rows;
+  applyCatalogFilters();
+}
+
+function activeRangeFilters() {
+  return $$(".cat-num").filter((el) => el.value !== "" && !el.closest(".hidden") && el.checkValidity());
+}
+
+function applyCatalogFilters() {
+  const actuation = $("#catalog-actuation").value;
+  const ranges = activeRangeFilters().map((el) => [el.dataset.key, el.dataset.op, Number(el.value)]);
+  let rows = actuation ? catalogBase.filter((a) => a.actuation === actuation) : catalogBase;
+  const unlisted = rows.filter((a) => ranges.some(([k]) => isMissing(a[k]))).length;
+  rows = rows.filter((a) =>
+    ranges.every(([k, op, v]) => !isMissing(a[k]) && (op === "min" ? a[k] >= v : a[k] <= v)),
+  );
+  hiddenUnlisted = unlisted;
   catalogRows = rows;
+  catalogLimit = CATALOG_PAGE;
   renderCatalog();
 }
 
 $$("#catalog-table th[data-sort]").forEach((th) =>
   th.addEventListener("click", () => {
-    if (sortKey === th.dataset.sort) sortDir = -sortDir;
-    else {
+    if (sortKey !== th.dataset.sort) {
       sortKey = th.dataset.sort;
       sortDir = 1;
-    }
+    } else if (sortDir > 0) sortDir = -1;
+    else sortKey = "";
     renderCatalog();
+    syncUrl();
   }),
 );
+$("#catalog-more").addEventListener("click", () => {
+  catalogLimit += CATALOG_PAGE;
+  renderCatalog();
+});
 
 function rowClick(e) {
   if (e.target.closest("input, button, a")) return;
@@ -382,25 +415,94 @@ $("#catalog-table tbody").addEventListener("click", rowClick);
 const CATALOG_FILTERS = ["#catalog-q", "#catalog-kind", "#catalog-actuation", "#catalog-manufacturer", "#catalog-leadtime"];
 
 function syncCatalogFilters() {
-  for (const sel of CATALOG_FILTERS) $(sel).classList.toggle("is-set", $(sel).value !== "");
-  $("#catalog-reset").disabled = CATALOG_FILTERS.every((sel) => $(sel).value === "");
+  const kind = $("#catalog-kind").value;
+  for (const label of $$(".range-filters label[data-kind]")) label.classList.toggle("hidden", label.dataset.kind !== kind);
+  $("#range-hint").classList.toggle("hidden", Boolean(kind));
+  const inputs = [...CATALOG_FILTERS.map((sel) => $(sel)), ...$$(".cat-num")];
+  for (const el of inputs) el.classList.toggle("is-set", el.value !== "");
+  $("#catalog-reset").disabled = inputs.every((el) => el.value === "");
 }
 
 const loadCatalogSoon = debounce(loadCatalog, 150);
+const applyCatalogFiltersSoon = debounce(applyCatalogFilters, 200);
 $("#catalog-q").addEventListener("input", () => {
   syncCatalogFilters();
   loadCatalogSoon();
+  syncUrl();
 });
-for (const sel of CATALOG_FILTERS.slice(1)) {
+for (const sel of ["#catalog-kind", "#catalog-manufacturer", "#catalog-leadtime"]) {
   $(sel).addEventListener("change", () => {
     syncCatalogFilters();
     loadCatalog();
+    syncUrl();
+  });
+}
+$("#catalog-actuation").addEventListener("change", () => {
+  syncCatalogFilters();
+  applyCatalogFilters();
+  syncUrl();
+});
+for (const el of $$(".cat-num")) {
+  el.addEventListener("input", () => {
+    syncCatalogFilters();
+    applyCatalogFiltersSoon();
+    syncUrl();
   });
 }
 $("#catalog-reset").addEventListener("click", () => {
   for (const sel of CATALOG_FILTERS) $(sel).value = "";
+  for (const el of $$(".cat-num")) el.value = "";
   syncCatalogFilters();
   loadCatalog();
+  syncUrl();
+});
+
+// ---------- shareable URL state ----------
+
+const URL_SELECTS = { q: "#catalog-q", kind: "#catalog-kind", actuation: "#catalog-actuation", mfr: "#catalog-manufacturer", lead: "#catalog-leadtime" };
+let pendingManufacturer = "";
+
+function syncUrl() {
+  const p = new URLSearchParams();
+  const tab = $(".tab.active")?.dataset.tab;
+  if (tab && tab !== "catalog") p.set("tab", tab);
+  for (const [key, sel] of Object.entries(URL_SELECTS)) {
+    const v = key === "mfr" ? $(sel).value || pendingManufacturer : $(sel).value;
+    if (v) p.set(key, v);
+  }
+  for (const el of $$(".cat-num")) if (el.value !== "" && !el.closest(".hidden")) p.set(el.dataset.key, el.value);
+  if (sortKey) p.set("sort", `${sortKey}:${sortDir > 0 ? "asc" : "desc"}`);
+  if (selectedId && !$("#detail").classList.contains("hidden")) p.set("id", selectedId);
+  const qs = p.toString();
+  history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
+}
+
+function readUrl() {
+  const p = new URLSearchParams(location.search);
+  for (const [key, sel] of Object.entries(URL_SELECTS)) {
+    const v = p.get(key) ?? "";
+    if (key === "mfr") pendingManufacturer = v;
+    else if (v) $(sel).value = v;
+  }
+  for (const el of $$(".cat-num")) if (p.has(el.dataset.key)) el.value = p.get(el.dataset.key);
+  const [key, dir] = (p.get("sort") ?? "").split(":");
+  if (key && $(`#catalog-table th[data-sort="${CSS.escape(key)}"]`)) {
+    sortKey = key;
+    sortDir = dir === "desc" ? -1 : 1;
+  }
+  return { tab: p.get("tab"), id: p.get("id") };
+}
+
+$("#copy-link").addEventListener("click", async () => {
+  syncUrl();
+  const btn = $("#copy-link");
+  try {
+    await navigator.clipboard.writeText(location.href);
+    btn.textContent = "Link copied";
+  } catch {
+    btn.textContent = "Copy failed; use the address bar";
+  }
+  setTimeout(() => (btn.textContent = "Copy link"), 1800);
 });
 $("#add-actuator-toggle").addEventListener("click", () => $("#add-actuator").classList.toggle("hidden"));
 $("#catalog-csv").addEventListener("click", () => downloadCsv("catalog.csv", sortedRows(catalogRows)));
@@ -532,8 +634,26 @@ async function showDetail(id) {
   $("#delete-actuator").classList.toggle("hidden", !a.user_added);
   $("#detail").classList.remove("hidden");
   $("#detail").scrollIntoView({ behavior: "smooth", block: "start" });
+  markSelected();
+  syncUrl();
   await loadNotes();
 }
+
+function markSelected() {
+  const open = !$("#detail").classList.contains("hidden");
+  for (const tr of $$("tr[data-id]")) tr.classList.toggle("selected", open && tr.dataset.id === selectedId);
+}
+
+function closeDetail() {
+  $("#detail").classList.add("hidden");
+  markSelected();
+  syncUrl();
+}
+
+document.addEventListener("keydown", (e) => {
+  const typing = e.target instanceof Element && e.target.closest("input, textarea, select");
+  if (e.key === "Escape" && !typing && !$("#detail").classList.contains("hidden")) closeDetail();
+});
 
 async function loadNotes() {
   const notes = await api(`/api/actuators/${encodeURIComponent(selectedId)}/notes`);
@@ -548,7 +668,7 @@ async function loadNotes() {
       .join("") || "<li class='note-meta'>No notes yet.</li>";
 }
 
-$("#detail-close").addEventListener("click", () => $("#detail").classList.add("hidden"));
+$("#detail-close").addEventListener("click", closeDetail);
 $("#detail-shortlist").addEventListener("click", () => addToShortlist([selectedId]));
 $("#detail-compare").addEventListener("click", () => addToCompare([selectedId]));
 
@@ -556,7 +676,7 @@ $("#delete-actuator").addEventListener("click", async () => {
   if (!confirm("Delete this actuator?")) return;
   await api(`/api/actuators/${encodeURIComponent(selectedId)}`, { method: "DELETE" });
   cache.delete(selectedId);
-  $("#detail").classList.add("hidden");
+  closeDetail();
   await Promise.all([loadCatalog(), loadManufacturers()]);
 });
 
@@ -591,7 +711,7 @@ function syncSizingKind() {
 $$('input[name="sizing-kind"]').forEach((r) =>
   r.addEventListener("change", () => {
     syncSizingKind();
-    $("#sizing-result").classList.add("hidden");
+    runSizing();
   }),
 );
 
@@ -660,16 +780,42 @@ function sendToSelection(mode) {
   form.requestSubmit();
 }
 
+let sizingRan = false;
+let sizingRequest = 0;
+
+async function runSizing() {
+  const kind = sizingKind();
+  const form = $(`#sizing-${kind}`);
+  const status = $(".sizing-status", form);
+  const invalid = $$("input", form).find((el) => !el.checkValidity());
+  if (invalid) {
+    status.textContent = `Fix "${invalid.closest("label")?.firstChild.textContent.trim() ?? invalid.name}" to update results.`;
+    return;
+  }
+  sizingRan = true;
+  const request = ++sizingRequest;
+  status.textContent = "Updating…";
+  try {
+    const r = await api(`/api/sizing/${kind}`, { method: "POST", body: formData(form) });
+    if (request !== sizingRequest) return;
+    renderSizing(r);
+    status.textContent = "Results update as you edit.";
+  } catch (err) {
+    if (request !== sizingRequest) return;
+    $("#sizing-result").innerHTML = `<p class="error">${esc(err.message)}</p>`;
+    $("#sizing-result").classList.remove("hidden");
+    status.textContent = "";
+  }
+}
+
+const runSizingSoon = debounce(runSizing, 300);
 for (const kind of ["linear", "rotary"]) {
-  $(`#sizing-${kind}`).addEventListener("submit", async (e) => {
+  const form = $(`#sizing-${kind}`);
+  form.addEventListener("submit", (e) => {
     e.preventDefault();
-    try {
-      renderSizing(await api(`/api/sizing/${kind}`, { method: "POST", body: formData(e.target) }));
-    } catch (err) {
-      $("#sizing-result").innerHTML = `<p class="error">${esc(err.message)}</p>`;
-      $("#sizing-result").classList.remove("hidden");
-    }
+    runSizing();
   });
+  form.addEventListener("input", runSizingSoon);
 }
 
 // ---------- selection ----------
@@ -764,6 +910,7 @@ async function runSelection() {
       selectionSection("group-ok", "Feasible", r.feasible, 100, transmission) +
       selectionSection("group-warn", "Unverified: nothing fails, but a needed spec is unlisted", r.unverified, 50, transmission) +
       selectionSection("group-bad", "Rejected, closest first", r.rejected, 25, transmission);
+    markSelected();
     $("#select-status").textContent = "Results update as you edit.";
   } catch (err) {
     if (request !== selectRequest) return;
@@ -896,6 +1043,8 @@ function applyProject(p) {
     fillForm($("#sizing-linear"), d.sizing.linear ?? {});
     fillForm($("#sizing-rotary"), d.sizing.rotary ?? {});
     syncSizingKind();
+    if ($("#sizing").classList.contains("active")) runSizing();
+    else sizingRan = false;
   }
   if (d.selection) {
     $(`input[name="select-mode"][value="${d.selection.mode}"]`).checked = true;
@@ -964,6 +1113,7 @@ $("#projects-body").addEventListener("click", async (e) => {
 // ---------- init ----------
 
 applyTheme(document.documentElement.dataset.theme);
+const initial = readUrl();
 syncCatalogFilters();
 restore();
 $("#project-name-input").value = state.projectName;
@@ -977,3 +1127,5 @@ loadManufacturers();
 loadCatalog();
 renderShortlist();
 renderCompare();
+if (initial.tab && $(`.tab[data-tab="${CSS.escape(initial.tab)}"]`)) showTab(initial.tab);
+if (initial.id) showDetail(initial.id).catch(() => syncUrl());
