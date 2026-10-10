@@ -387,6 +387,7 @@ function applyCatalogFilters() {
   catalogRows = rows;
   catalogLimit = CATALOG_PAGE;
   renderCatalog();
+  renderChart();
 }
 
 $$("#catalog-table th[data-sort]").forEach((th) =>
@@ -471,6 +472,8 @@ function syncUrl() {
     if (v) p.set(key, v);
   }
   for (const el of $$(".cat-num")) if (el.value !== "" && !el.closest(".hidden")) p.set(el.dataset.key, el.value);
+  if ($("#chart-panel").open) p.set("chart", $("#chart-pair").value || pairId(CHART_PAIRS[0]));
+  if ($("#chart-panel").open && !$("#chart-log").checked) p.set("scale", "linear");
   if (sortKey) p.set("sort", `${sortKey}:${sortDir > 0 ? "asc" : "desc"}`);
   if (selectedId && !$("#detail").classList.contains("hidden")) p.set("id", selectedId);
   if (selectMode() !== "complete") p.set("s.mode", selectMode());
@@ -507,6 +510,12 @@ function readUrl() {
     sortKey = key;
     sortDir = dir === "desc" ? -1 : 1;
   }
+  if (p.has("chart")) {
+    $("#chart-log").checked = p.get("scale") !== "linear";
+    fillChartPairs();
+    if ([...$("#chart-pair").options].some((o) => o.value === p.get("chart"))) $("#chart-pair").value = p.get("chart");
+    $("#chart-panel").open = true;
+  }
   return { tab: p.get("tab"), id: p.get("id") };
 }
 
@@ -537,6 +546,200 @@ $("#add-actuator").addEventListener("submit", async (e) => {
     $("#add-actuator-error").textContent = err.message;
   }
 });
+
+// ---------- chart ----------
+
+const AXES = {
+  peak_force_n: ["Peak force", "N", "peak_force_n"],
+  continuous_force_n: ["Continuous force", "N", "continuous_force_n"],
+  max_speed_mm_s: ["Max speed", "mm/s", "speed_mm_s"],
+  stroke_mm: ["Max stroke", "mm", "stroke_mm"],
+  peak_torque_nm: ["Peak torque", "N·m", "peak_torque_nm"],
+  continuous_torque_nm: ["Continuous torque", "N·m", "continuous_torque_nm"],
+  max_speed_rpm: ["Max speed", "rpm", "speed_rpm"],
+  mass_kg: ["Mass", "kg", null],
+  price_usd: ["Price", "USD", null],
+};
+const CHART_PAIRS = [
+  ["linear", "max_speed_mm_s", "peak_force_n"],
+  ["linear", "max_speed_mm_s", "continuous_force_n"],
+  ["linear", "stroke_mm", "peak_force_n"],
+  ["linear", "mass_kg", "peak_force_n"],
+  ["linear", "price_usd", "peak_force_n"],
+  ["rotary", "max_speed_rpm", "peak_torque_nm"],
+  ["rotary", "max_speed_rpm", "continuous_torque_nm"],
+  ["rotary", "mass_kg", "peak_torque_nm"],
+  ["rotary", "price_usd", "peak_torque_nm"],
+];
+const pairId = ([kind, x, y]) => `${kind}:${x}:${y}`;
+const axisLabel = (key) => `${AXES[key][0]} (${AXES[key][1]})`;
+const SVG_NS = "http://www.w3.org/2000/svg";
+
+function fillChartPairs() {
+  const select = $("#chart-pair");
+  const current = select.value;
+  const kind = $("#catalog-kind").value;
+  const group = (k) =>
+    `<optgroup label="${k === "linear" ? "Linear" : "Rotary"}">${CHART_PAIRS.filter((p) => p[0] === k)
+      .map((p) => `<option value="${pairId(p)}">${AXES[p[2]][0]} vs ${AXES[p[1]][0].toLowerCase()}</option>`)
+      .join("")}</optgroup>`;
+  select.innerHTML = (kind ? [kind] : ["linear", "rotary"]).map(group).join("");
+  if ([...select.options].some((o) => o.value === current)) select.value = current;
+}
+
+function chartRequirement(kind) {
+  const form = $("#select-form");
+  if (form.elements.kind.value === kind) {
+    const fromSelection = {};
+    for (const [, , reqKey] of Object.values(AXES)) {
+      const el = reqKey && form.elements[reqKey];
+      if (el && el.value !== "" && !el.closest(".hidden")) fromSelection[reqKey] = Number(el.value);
+    }
+    if (Object.keys(fromSelection).length) return { values: fromSelection, label: "Selection requirement" };
+  }
+  if (lastRequired?.kind === kind) return { values: lastRequired, label: "Sizing requirement (incl. safety factor)" };
+  return null;
+}
+
+function niceTicks(min, max) {
+  const step0 = (max - min || 1) / 6;
+  const mag = 10 ** Math.floor(Math.log10(step0));
+  const step = [1, 2, 5, 10].map((m) => m * mag).find((s) => s >= step0);
+  const ticks = [];
+  for (let v = Math.ceil(min / step) * step; v <= max * (1 + 1e-9); v += step) ticks.push(Number(v.toPrecision(12)));
+  return ticks;
+}
+
+function makeScale(values, log, extra) {
+  const all = [...values, ...extra];
+  if (log) {
+    const lo = Math.floor(Math.log10(Math.min(...all)));
+    let hi = Math.ceil(Math.log10(Math.max(...all)));
+    if (hi === lo) hi += 1;
+    const ticks = [];
+    for (let e = lo; e <= hi; e++) {
+      ticks.push(10 ** e);
+      if (hi - lo <= 2 && e < hi) ticks.push(2 * 10 ** e, 5 * 10 ** e);
+    }
+    return { f: (v) => (Math.log10(v) - lo) / (hi - lo), ticks };
+  }
+  const max = Math.max(...all) * 1.05 || 1;
+  return { f: (v) => v / max, ticks: niceTicks(0, max) };
+}
+
+const tickLabel = (v) => (v >= 1e6 ? `${fmt(v / 1e6)}M` : v >= 1e3 ? `${fmt(v / 1e3)}k` : fmt(v));
+
+function svgEl(tag, attrs = {}, text) {
+  const el = document.createElementNS(SVG_NS, tag);
+  for (const [k, v] of Object.entries(attrs)) el.setAttribute(k, v);
+  if (text !== undefined) el.textContent = text;
+  return el;
+}
+
+function renderChart() {
+  if (!$("#chart-panel").open) return;
+  fillChartPairs();
+  const pair = CHART_PAIRS.find((p) => pairId(p) === $("#chart-pair").value) ?? CHART_PAIRS[0];
+  const [kind, xKey, yKey] = pair;
+  const log = $("#chart-log").checked;
+  const rows = catalogRows.filter((a) => a.kind === kind);
+  const plottable = (v) => !isMissing(v) && (!log || v > 0);
+  const points = rows.filter((a) => plottable(a[xKey]) && plottable(a[yKey]));
+  const missing = rows.length - points.length;
+  $("#chart-count").textContent =
+    `${points.length} plotted` + (missing ? ` · ${missing} not plotted because ${AXES[xKey][0].toLowerCase()} or ${AXES[yKey][0].toLowerCase()} is unlisted${log ? " or zero" : ""}` : "");
+
+  const box = $("#chart");
+  box.innerHTML = "";
+  if (!points.length) {
+    box.innerHTML = `<p class="note-meta">No ${kind} parts in the current filter have both values published.</p>`;
+    $("#chart-legend").innerHTML = "";
+    return;
+  }
+
+  const req = chartRequirement(kind);
+  const rx = req && AXES[xKey][2] ? req.values[AXES[xKey][2]] : null;
+  const ry = req && AXES[yKey][2] ? req.values[AXES[yKey][2]] : null;
+  const reqX = plottable(rx) ? rx : null;
+  const reqY = plottable(ry) ? ry : null;
+
+  const W = Math.max(320, box.clientWidth);
+  const H = Math.round(Math.min(420, Math.max(260, W * 0.45)));
+  const m = { l: 62, r: 16, t: 14, b: 44 };
+  const pw = W - m.l - m.r;
+  const ph = H - m.t - m.b;
+  const sx = makeScale(points.map((a) => a[xKey]), log, reqX ? [reqX] : []);
+  const sy = makeScale(points.map((a) => a[yKey]), log, reqY ? [reqY] : []);
+  const X = (v) => m.l + sx.f(v) * pw;
+  const Y = (v) => m.t + ph - sy.f(v) * ph;
+
+  const svg = svgEl("svg", { viewBox: `0 0 ${W} ${H}`, width: W, height: H, role: "img", "aria-label": `${axisLabel(yKey)} vs ${axisLabel(xKey)}` });
+  const grid = svgEl("g", { class: "chart-grid" });
+  for (const t of sx.ticks) {
+    grid.append(svgEl("line", { x1: X(t), x2: X(t), y1: m.t, y2: m.t + ph }));
+    grid.append(svgEl("text", { x: X(t), y: m.t + ph + 16, "text-anchor": "middle" }, tickLabel(t)));
+  }
+  for (const t of sy.ticks) {
+    grid.append(svgEl("line", { x1: m.l, x2: m.l + pw, y1: Y(t), y2: Y(t) }));
+    grid.append(svgEl("text", { x: m.l - 6, y: Y(t) + 4, "text-anchor": "end" }, tickLabel(t)));
+  }
+  grid.append(svgEl("text", { class: "axis-title", x: m.l + pw / 2, y: H - 6, "text-anchor": "middle" }, axisLabel(xKey)));
+  grid.append(svgEl("text", { class: "axis-title", x: 14, y: m.t + ph / 2, "text-anchor": "middle", transform: `rotate(-90 14 ${m.t + ph / 2})` }, axisLabel(yKey)));
+  svg.append(grid);
+
+  if (reqX !== null || reqY !== null) {
+    const g = svgEl("g", { class: "chart-req" });
+    const x0 = reqX !== null ? X(reqX) : m.l;
+    const y0 = reqY !== null ? Y(reqY) : m.t + ph;
+    g.append(svgEl("rect", { class: "req-zone", x: x0, y: m.t, width: m.l + pw - x0, height: y0 - m.t }));
+    if (reqX !== null) g.append(svgEl("line", { x1: x0, x2: x0, y1: m.t, y2: m.t + ph }));
+    if (reqY !== null) g.append(svgEl("line", { x1: m.l, x2: m.l + pw, y1: y0, y2: y0 }));
+    if (reqX !== null && reqY !== null) g.append(svgEl("circle", { class: "req-point", cx: x0, cy: y0, r: 6 }));
+    svg.append(g);
+  }
+
+  const open = $("#detail").classList.contains("hidden") ? null : selectedId;
+  const dots = svgEl("g", { class: "chart-points" });
+  for (const a of [...points].sort((p, q) => (p.id === open) - (q.id === open))) {
+    const c = svgEl("circle", {
+      cx: X(a[xKey]).toFixed(1),
+      cy: Y(a[yKey]).toFixed(1),
+      r: a.id === open ? 7 : 3.5,
+      class: `pt pt-${a.actuation}${a.id === open ? " pt-selected" : ""}`,
+      "data-id": a.id,
+    });
+    c.append(svgEl("title", {}, `${a.name}\n${axisLabel(xKey)}: ${fmt(a[xKey])}\n${axisLabel(yKey)}: ${fmt(a[yKey])}`));
+    dots.append(c);
+  }
+  svg.append(dots);
+  box.append(svg);
+
+  const acts = [...new Set(points.map((a) => a.actuation))];
+  $("#chart-legend").innerHTML =
+    acts.map((act) => `<span><i class="swatch pt-${esc(act)}"></i>${esc(act)}</span>`).join("") +
+    (req && (reqX !== null || reqY !== null)
+      ? `<span><i class="swatch req"></i>${esc(req.label)}; shaded area meets it</span>`
+      : `<span class="note-meta">Run Sizing or enter Selection requirements to overlay the operating point.</span>`);
+}
+
+const renderChartSoon = debounce(renderChart, 150);
+$("#chart-panel").addEventListener("toggle", () => {
+  renderChart();
+  syncUrl();
+});
+$("#chart-pair").addEventListener("change", () => {
+  renderChart();
+  syncUrl();
+});
+$("#chart-log").addEventListener("change", () => {
+  renderChart();
+  syncUrl();
+});
+$("#chart").addEventListener("click", (e) => {
+  const id = e.target.dataset?.id;
+  if (id) showDetail(id);
+});
+window.addEventListener("resize", renderChartSoon);
 
 // ---------- suppliers ----------
 
@@ -653,6 +856,7 @@ async function showDetail(id) {
   $("#detail").classList.remove("hidden");
   $("#detail").scrollIntoView({ behavior: "smooth", block: "start" });
   markSelected();
+  renderChart();
   syncUrl();
   await loadNotes();
 }
@@ -665,6 +869,7 @@ function markSelected() {
 function closeDetail() {
   $("#detail").classList.add("hidden");
   markSelected();
+  renderChart();
   syncUrl();
 }
 
@@ -817,6 +1022,7 @@ async function runSizing() {
     const r = await api(`/api/sizing/${kind}`, { method: "POST", body: formData(form) });
     if (request !== sizingRequest) return;
     renderSizing(r);
+    renderChartSoon();
     status.textContent = "Results update as you edit.";
   } catch (err) {
     if (request !== sizingRequest) return;
@@ -927,6 +1133,7 @@ async function runSelection() {
   }
   selectionRan = true;
   syncUrl();
+  renderChartSoon();
   const transmission = selectMode() === "transmission";
   const body = formData(form, { visibleOnly: true });
   for (const key of ["screw_leads_mm", "gear_ratios"]) if (key in body) body[key] = parseList(body[key]);

@@ -312,6 +312,35 @@ button.more {
 }
 
 .sizing-status { margin: 0; }
+
+/* ---------- chart ---------- */
+
+.chart-panel > summary { cursor: pointer; list-style: none; display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.chart-panel > summary::-webkit-details-marker { display: none; }
+.chart-panel > summary::before { content: "▸"; color: var(--tone); font-size: 12px; }
+.chart-panel[open] > summary::before { content: "▾"; }
+.chart-panel[open] > summary { margin-bottom: 10px; }
+.summary-title { font-weight: 650; color: var(--tone); }
+.chart-controls label { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); font-size: 12px; }
+.chart-controls label.check input { accent-color: var(--tone); }
+#chart { width: 100%; overflow: hidden; }
+#chart svg { display: block; max-width: 100%; height: auto; }
+.chart-grid line { stroke: color-mix(in srgb, var(--border) 80%, transparent); stroke-width: 1; }
+.chart-grid text { fill: var(--muted); font-size: 11px; }
+.chart-grid .axis-title { fill: var(--text); font-size: 12px; font-weight: 600; }
+.chart-req line { stroke: var(--tone-filter); stroke-width: 1.5; stroke-dasharray: 5 4; }
+.chart-req .req-zone { fill: color-mix(in srgb, var(--ok) 9%, transparent); }
+.chart-req .req-point { fill: none; stroke: var(--tone-filter); stroke-width: 2.5; }
+.pt { fill-opacity: 0.7; stroke: var(--card); stroke-width: 0.6; cursor: pointer; }
+.pt:hover { fill-opacity: 1; stroke: var(--text); stroke-width: 1.2; }
+.pt-selected { fill-opacity: 1; stroke: var(--text); stroke-width: 2; }
+.pt-electric { fill: var(--act-electric); background: var(--act-electric); }
+.pt-pneumatic { fill: var(--act-pneumatic); background: var(--act-pneumatic); }
+.pt-hydraulic { fill: var(--act-hydraulic); background: var(--act-hydraulic); }
+.chart-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 6px; font-size: 12px; color: var(--muted); }
+.chart-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.swatch { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }
+.swatch.req { background: none; border: 2px solid var(--tone-filter); }
 .card h3, .card h4 { margin-top: 0; }
 .card h4 { color: var(--tone); font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 8px; }
 

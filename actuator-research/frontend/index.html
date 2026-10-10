@@ -98,6 +98,17 @@
         <button id="catalog-csv">Export CSV</button>
       </div>
 
+      <details id="chart-panel" class="card tone-data chart-panel">
+        <summary><span class="summary-title">Chart</span> <span class="note-meta">Plots every part that matches the filters above; click a point to open it.</span></summary>
+        <div class="toolbar chart-controls">
+          <label>Axes <select id="chart-pair"></select></label>
+          <label class="check"><input type="checkbox" id="chart-log" checked> Log scale</label>
+          <span id="chart-count" class="note-meta"></span>
+        </div>
+        <div id="chart"></div>
+        <div id="chart-legend" class="chart-legend"></div>
+      </details>
+
       <form id="add-actuator" class="card hidden write-only">
         <h3>Add actuator</h3>
         <p class="note-meta">Enter only values the datasheet publishes; leave the rest blank.</p>
